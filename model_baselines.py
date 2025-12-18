@@ -2,74 +2,45 @@ import csv
 import gc
 from vllm import LLM, SamplingParams
 import pandas as pd
+import torch
 
-# 1️⃣ Define models
 models = [
-    {"name": "facebook/nllb-200-distilled-1.3B", "type": "seq2seq"},
-    {"name": "CohereLabs/c4ai-command-r-08-2024", "type": "causal"},
-    {"name": "CohereLabs/c4ai-command-r7b-12-2024", "type": "causal"}
+    {"model": "/shared/storage-01/users/ishikaa2/sft_translation_models/llama_chinese/checkpoint-609", "shorthand": "llama_chinese_sft"},
+    {"model": "/shared/storage-01/users/ishikaa2/sft_translation_models/llama_hindi/checkpoint-375", "shorthand": "llama_hindi_sft"},
+    {"model": "/shared/storage-01/users/ishikaa2/sft_translation_models/qwen_chinese/checkpoint-609", "shorthand": "qwen_chinese_sft"},
+    {"model": "/shared/storage-01/users/ishikaa2/sft_translation_models/qwen_hindi/checkpoint-375", "shorthand": "qwen_hindi_sft"},
+    {"model": "CohereLabs/c4ai-command-r-08-2024", "shorthand": "command_r_32b"},
+    {"model": "CohereLabs/c4ai-command-r7b-12-2024", "shorthand": "command_r_7b"},
+    {"model": "meta-llama/Llama-3.2-1B", "shorthand": "llama_base"},
+    {"model": "Qwen/Qwen2.5-3B", "shorthand": "qwen_base"},
 ]
 
-# 2️⃣ Define idioms per language
-hindi_idioms = pd.read_csv('Dataset/hindi-english_idioms.csv')['src']
-chinese_idioms = pd.read_csv('Dataset/petci_chinese_english_improved.csv')['srv']
-idioms_per_language = {
-    "Hindi": hindi_idioms,
-    "Chinese": chinese_idioms
-}
+if __name__ == "__main__":
+    datasets = [
+        {"df": 'Dataset/hindi-english_idioms.csv', "language": "Hindi"},
+        {"df": 'Dataset/petci_chinese_english_improved.csv', "language": "Chinese"}
+    ]
 
-# NLLB language codes
-lang_map = {
-    "Hindi": "hin_Deva",
-    "Chinese": "cmn_Hans"
-}
+    sampling_params = SamplingParams(
+        temperature=0.3,
+        max_tokens=512
+    )
 
-# 3️⃣ Generation parameters
-sampling_params = SamplingParams(
-    temperature=0.3,
-    max_output_tokens=96
-)
+    for model in models:
+        llm = LLM(model['model'], tensor_parallel_size=torch.cuda.device_count(), gpu_memory_utilization=0.7, trust_remote_code=True)
 
-# 4️⃣ Translation function
-def translate_vllm(llm, prompt, lang_code=None):
-    if lang_code:
-        output = llm.generate([prompt], sampling_params=sampling_params,
-                              forced_bos_token_id=llm.tokenizer.lang_code_to_id[lang_code])
-    else:
-        output = llm.generate([prompt], sampling_params=sampling_params)
-    return output[0].outputs[0].text.strip()
+        for dataset in datasets:
+            lang = dataset['language']
+            prompt = lambda idiom: f"Given the following idiom in {lang}, translate it semantically into English.\nIdiom: {idiom}\n### Semantic Translation:"
 
-# 5️⃣ Main loop
-for model_info in models:
-    model_name = model_info["name"]
-    model_type = model_info["type"]
-    
-    print(f"Loading model {model_name}...")
-    llm = LLM(model=model_name)  # load model
-    
-    for language, idioms in idioms_per_language.items():
-        results = []
-        for idiom in idioms:
-            prompt = f"Given the following idiom in {language}, translate it semantically into English: {idiom}"
-            
-            # Only NLLB needs the language code of the source
-            lang_code = lang_map[language] if "nllb" in model_name.lower() else None
-            translation = translate_vllm(llm, prompt, lang_code)
-            
-            results.append({"idiom": idiom, "translation": translation})
+            df = pd.read_csv(dataset['df'])
+
+            inputs = df['src'].apply(lambda x: prompt(x))
+            outputs = llm.generate(inputs, sampling_params=sampling_params)
+            outputs = [o.outputs[0].text.strip().split("\n")[0] for o in outputs]
         
-        # Save CSV
-        safe_model_name = model_name.replace("/", "_")
-        csv_file = f"{safe_model_name}_{language}_to_English.csv"
-        with open(csv_file, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["idiom", "translation"])
-            writer.writeheader()
-            writer.writerows(results)
-        print(f"Saved {csv_file}")
-    
-    # Unload model to free memory
-    del llm
-    gc.collect()
-    print(f"Unloaded model {model_name}\n")
-
-print("All done!")
+            df['predicted'] = outputs
+            df.to_csv(f"{model['shorthand']}-{lang}-outputs.csv", sep="|")
+        
+        del llm
+            
