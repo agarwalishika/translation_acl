@@ -18,6 +18,28 @@ if __name__ == "__main__":
         temperature=0.3,
         max_tokens=512
     )
+    
+    def parse_best_line(text: str) -> str:
+        """
+        Extracts the best prediction from the Stage-2 output.
+        Falls back gracefully if the model doesn't follow the format.
+        """
+        t = text.strip()
+
+        # Preferred: line starting with "Best:"
+        m = re.search(r"(?im)^\s*Best\s*:\s*(.+?)\s*$", t)
+        if m:
+            return m.group(1).strip().strip('"').strip("'")
+
+        # Accept exact NO_MATCH anywhere prominent
+        m = re.search(r"(?im)\bNO_MATCH\b", t)
+        if m:
+            return "NO_MATCH"
+
+        # Fallback: take the first non-empty line, stripped
+        first_line = next((ln.strip() for ln in t.splitlines() if ln.strip()), "")
+        return first_line.strip().strip('"').strip("'") if first_line else "NO_MATCH"
+                                                                                                                                                                                                                                                                                                                            
 
     for model in models:
         llm = LLM(model['model'], tensor_parallel_size=torch.cuda.device_count(), gpu_memory_utilization=0.7, trust_remote_code=True)
@@ -64,27 +86,6 @@ if __name__ == "__main__":
             ]
 
             # TODO: parse the final output and store the final model predictions in a list of strings
-            def parse_best_line(text: str) -> str:
-                """
-                Extracts the best prediction from the Stage-2 output.
-                Falls back gracefully if the model doesn't follow the format.
-                """
-                t = text.strip()
-        
-                # Preferred: line starting with "Best:"
-                m = re.search(r"(?im)^\s*Best\s*:\s*(.+?)\s*$", t)
-                if m:
-                    return m.group(1).strip().strip('"').strip("'")
-        
-                # Accept exact NO_MATCH anywhere prominent
-                m = re.search(r"(?im)\bNO_MATCH\b", t)
-                if m:
-                    return "NO_MATCH"
-        
-                # Fallback: take the first non-empty line, stripped
-                first_line = next((ln.strip() for ln in t.splitlines() if ln.strip()), "")
-                return first_line.strip().strip('"').strip("'") if first_line else "NO_MATCH"
-            
             predicted_outputs = [parse_best_line(t) for t in best_matches]
 
             # save the predicted output to a csv
