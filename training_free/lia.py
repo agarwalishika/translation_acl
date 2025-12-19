@@ -1,6 +1,7 @@
 from vllm import LLM, SamplingParams
 import pandas as pd
 import torch
+import re
 
 if __name__ == "__main__":
     models = [
