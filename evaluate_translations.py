@@ -83,7 +83,7 @@ def calculate_embed_distance(source, predicted, ground_truth):
 
 def calculate_laj(source, predicted, ground_truth):
     # Absolute Grading: Outputs score of 1 to 5
-    model = VLLM(model="prometheus-eval/prometheus-7b-v2.0", max_num_seqs=16)
+    model = VLLM(model="prometheus-eval/prometheus-7b-v2.0", max_num_seqs=16, gpu_memory_utilization=0.4)
     judge = PrometheusEval(model=model, absolute_grade_template=ABSOLUTE_PROMPT)
 
     rubric_data = {
@@ -111,11 +111,11 @@ def calculate_laj(source, predicted, ground_truth):
 
 def compute_results(input_file, output_file):
     source, predicted, ground_truth = process(input_file)
+    laj = calculate_laj(source, predicted, ground_truth)
     da = calculate_da(source, predicted, ground_truth)
     qe = calculate_qe(source, predicted, ground_truth)
     rouge = calculate_rouge(source, predicted, ground_truth)
     embed_distance = calculate_embed_distance(source, predicted, ground_truth)
-    laj = calculate_laj(source, predicted, ground_truth)
 
     df = pd.DataFrame({
         "source": source,

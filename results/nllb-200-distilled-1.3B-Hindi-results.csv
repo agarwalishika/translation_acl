@@ -1,0 +1,1001 @@
+|source|predicted|ground_truth|da|qe|rouge|embed_distance|laj
+0|आंखें चुराना|stealing eyes|to avoid being seen|0.4078485667705536|0.7473315000534058|0.07142857142857142|0.6959814429283142|2
+1|आंखों का तारा|star of the eye|beloved person|0.4895454943180084|0.8029290437698364|0.0|0.672427773475647|2
+2|चेहरा उतरना|facial dislocation|to be sad or disappointed|0.3864821791648865|0.5498577952384949|0.05|0.5803656578063965|2
+3|दाँतों तले उंगली दबाना|Finger pressing under the teeth|to be very surprised|0.4029819667339325|0.7700459957122803|0.0|0.4478619694709778|2
+4|साँस लेना|breathing|to feel relieved after hard work|0.37871506810188293|0.8268649578094482|0.0|0.5958496928215027|2
+5|बात पक्की होना|to be certain|to agree on something or finalize a deal|0.46086445450782776|0.800654411315918|0.0|0.6953309178352356|5
+6|बाल-बाल बचना|Avoidance of children|to narrowly escape from trouble|0.544147253036499|0.5691745281219482|0.0|0.6986886858940125|2
+7|अक्ल का दुश्मन|The Enemy of Reason|a fool who avoids wisdom|0.5724679827690125|0.8609757423400879|0.0|0.5519157648086548|5
+8|जान पर खेलना|Playing with life|to act fearlessly or take great risks|0.48161593079566956|0.8258171677589417|0.0|0.5598887801170349|4
+9|पेट में चूहे कूदना|jumping rats in the stomach|to be extremely hungry|0.364709734916687|0.5715073943138123|0.0|0.5735035538673401|1
+10|आसमान पर चढ़ना|ascending to heaven|to be proud or overconfident|0.3998476564884186|0.8466467261314392|0.0|0.5966993570327759|2
+11|आकाश पाताल का अंतर|The difference between heaven and hell|to be vastly different|0.5910812020301819|0.8504101037979126|0.2|0.6564724445343018|4
+12|हवा से बातें करना|Talking to the wind|to move very fast|0.48903653025627136|0.8382161855697632|0.0|0.5509573221206665|2
+13|पत्थर की लकीर|line of stone|to be firm on one’s word or decision|0.4208027720451355|0.8059555888175964|0.0|0.5609984397888184|2
+14|पहाड़ टूट पड़ना|and the mountains will split apart|to face a huge problem or calamity|0.5411188006401062|0.8141197562217712|0.0|0.6476908326148987|2
+15|ईद का चाँद होना|The moon of Eid|to appear after a long time (a rare person)|0.43112263083457947|0.7425583600997925|0.0|0.532005786895752|1
+16|चकमा देना|cheat|to deceive or trick someone|0.4215283989906311|0.8276842832565308|0.0|0.6894059777259827|1
+17|उल्टी गंगा बहना|upstream flowing|something unusual or against norms happening|0.4291287362575531|0.6586691737174988|0.0|0.5504946708679199|1
+18|छक्के छुड़ाना|redemption of sixes|to defeat completely|0.44589564204216003|0.674771785736084|0.0|0.656014621257782|2
+19|फूँक-फूँक कर कदम रखना|Step by step|to act very cautiously|0.41822871565818787|0.6079510450363159|0.0|0.5543840527534485|4
+20|दम में दम आना|shortness of breath|to regain courage or relief after fear|0.4571114480495453|0.6985698938369751|0.0|0.5662252306938171|2
+21|दाँत से दाँत बजाना|tooth by tooth|to shiver from cold|0.3661211133003235|0.538372278213501|0.0|0.5885147452354431|1
+22|मुँह में पानी आना|Watering in the mouth|to be tempted by delicious food|0.4565480649471283|0.8314441442489624|0.0|0.6047981977462769|2
+23|नाक काटना|cutting the nose|to disgrace or embarrass someone|0.35582828521728516|0.7968629598617554|0.0|0.5805208086967468|2
+24|कमर टूटना|fracture of the back|to feel exhausted or discouraged|0.3897024691104889|0.7935967445373535|0.0|0.5649744868278503|3
+25|कमर कसना|tightness of the waist|to prepare oneself for a challenge|0.45914193987846375|0.7948257327079773|0.0|0.43803730607032776|3
+26|कलेजा पत्थर का होना|Having a liver stone|to be mentally or emotionally very strong|0.40657588839530945|0.8352168798446655|0.0|0.4406779408454895|1
+27|दाँत खट्टे करना|grinding of teeth|to defeat someone badly|0.4032919108867645|0.7131935358047485|0.0|0.5822161436080933|2
+28|ईंट से ईंट बजाना|playing brick by brick|to completely destroy or demolish someone|0.34896764159202576|0.691556990146637|0.0|0.5940260887145996|2
+29|नाक में दम करना|breathing in the nose|to annoy someone constantly|0.4646567106246948|0.7507256269454956|0.0|0.45225340127944946|2
+30|नाक पर मक्खी न बैठने देना|Not letting a fly sit on your nose|to be strict or disciplined|0.4185773432254791|0.8093008995056152|0.0|0.517944872379303|2
+31|नाक कट जाना|cutting off the nose|to lose one's honor or respect|0.43174150586128235|0.7440418601036072|0.0|0.5948438048362732|2
+32|नाक में तेल डालकर सोना|Putting oil in the nose|to sleep carefreely without worries|0.3638991415500641|0.7062171697616577|0.0|0.534606397151947|2
+33|नाक का सवाल होना|Having a problem with the nose|to be a matter of pride or ego|0.5529578328132629|0.7818653583526611|0.03125|0.53987056016922|2
+34|नाक भौं सिकोड़ना|narrowing of the nose and eyebrows|to show disapproval|0.38401028513908386|0.8017274141311646|0.0|0.5363008975982666|1
+35|नाक नीची करना|lowering the nose|to humiliate publicly|0.5580360293388367|0.8166115283966064|0.0|0.5790870189666748|3
+36|कान खड़े होना|ears standing up|to become alert or suspicious|0.47913387417793274|0.6177418231964111|0.0|0.4862526059150696|2
+37|कान पर जूँ न रेंगना|Not crawling lice on the ears|to remain unaffected or unmoved|0.358477383852005|0.6712837815284729|0.0|0.48679038882255554|2
+38|कान में तेल डालना|Putting oil in the ear|to ignore someone's words|0.44527795910835266|0.8376470804214478|0.0|0.5319792628288269|1
+39|कान में फूंक मारना|Blowing in the ear|to influence or manipulate someone secretly|0.3556177020072937|0.739098072052002|0.0|0.49787789583206177|1
+40|कान पकड़ना|holding the ear|to vow never to repeat a mistake|0.40239217877388|0.7589681148529053|0.0|0.5288410186767578|2
+41|कान भरना|filling ears|to manipulate someone against another|0.2867198884487152|0.7043053507804871|0.0|0.5297843217849731|1
+42|कान काटना|cutting off ears|to outsmart completely|0.43014365434646606|0.8346441388130188|0.0|0.6140751838684082|2
+43|आसमान सिर पर उठाना|Raising the sky on its head|to create a big commotion or panic|0.38640639185905457|0.6800788640975952|0.0|0.648201048374176|2
+44|आसमान से बातें करना|Talking to the sky|to reach great heights or success|0.4637396037578583|0.8217172622680664|0.0|0.574660062789917|2
+45|आसमान से गिरे खजूर में अटके|Trapped in falling palm trees|to fall from one trouble into another|0.5406448245048523|0.7726829648017883|0.058823529411764705|0.6110024452209473|5
+46|आग बबूला होना|the burning of a fire|to become extremely angry|0.4616931676864624|0.6702562570571899|0.0|0.6024500131607056|2
+47|आग में घी डालना|Throwing ghee into the fire|to worsen an already bad situation|0.4747690260410309|0.8354595899581909|0.0|0.44978874921798706|1
+48|आग में कूदना|jumping into the fire|to take a dangerous risk|0.5329444408416748|0.8442516922950745|0.04545454545454545|0.6410058736801147|5
+49|आग लगना|fire|to become furious or jealous|0.3829595148563385|0.6881864666938782|0.0|0.6287920475006104|3
+50|आग ठंडी होना|fire cooling|to calm down after anger|0.5333354473114014|0.7750061750411987|0.0|0.616703450679779|1
+51|आग उगलना|fire breaking out|to speak harshly or aggressively|0.47143569588661194|0.598497748374939|0.0|0.5013653635978699|2
+52|आग से खेलना|Playing with fire|to invite danger knowingly|0.5742178559303284|0.8508872985839844|0.0|0.5653257369995117|3
+53|आग लगाना|set on fire|to instigate or provoke trouble|0.4403381645679474|0.7519325017929077|0.0|0.6405954957008362|2
+54|आग दिखाना|show fire|to show anger or power|0.5526971817016602|0.8313523530960083|0.14285714285714288|0.5638017654418945|1
+55|आग लग जाना|fire|to feel jealous or restless|0.3754692077636719|0.6592758893966675|0.0|0.5667449235916138|2
+56|आग बन जाना|becoming a fire|to become furious|0.664088785648346|0.8221592903137207|0.07142857142857144|0.6892743706703186|2
+57|आग पर तेल डालना|Adding fuel to the fire|to intensify an argument or situation|0.5381960272789001|0.8530871868133545|0.0|0.6093120574951172|5
+58|धूल चाटना|licking dust|to face defeat or humiliation|0.43694737553596497|0.8172786235809326|0.0|0.5816482901573181|2
+59|धूल फाँकना|scattering of dust|to struggle in poverty or hardship|0.3725684583187103|0.804895281791687|0.0|0.4736299514770508|2
+60|धूल झाड़ना|sweeping away dust|to scold or reprimand strongly|0.4195499122142792|0.8120439052581787|0.0|0.5615091323852539|2
+61|धूल में मिलाना|mixing in dust|to destroy completely|0.4254654347896576|0.8015235662460327|0.0|0.5329976677894592|2
+62|धूल उड़ाना|blowing dust|to make a scene unnecessarily|0.39579179883003235|0.796114444732666|0.0|0.5350260138511658|1
+63|धूल झोंकना|dusting|to deceive or mislead someone|0.3846357762813568|0.7593082189559937|0.0|0.4853803217411041|1
+64|हवा निकल जाना|exhalation|to lose courage suddenly|0.4069044888019562|0.7700680494308472|0.0|0.6183249354362488|1
+65|हवा खा जाना|breathing|to run away secretly|0.456511527299881|0.6994825601577759|0.0|0.6323127746582031|3
+66|हवा में उड़ाना|flying in the air|to waste money carelessly|0.35571321845054626|0.7919528484344482|0.0|0.5058313608169556|1
+67|हवा बन जाना|become air|to disappear quickly|0.5617939829826355|0.8551899194717407|0.0|0.729987621307373|2
+68|हवा में बात करना|Speaking in the Air|to speak without proof or sense|0.4386087954044342|0.8148793578147888|0.04|0.6803891658782959|3
+69|हवा लगना|breathing|to be influenced by others|0.3570249378681183|0.6151043772697449|0.0|0.5914018154144287|1
+70|हवा देना|airing|to encourage or instigate something|0.4534786343574524|0.7427442073822021|0.0|0.571212112903595|1
+71|हवा बदलना|change of air|to change situation or environment|0.6229519248008728|0.8000439405441284|0.17777777777777776|0.7763491868972778|4
+72|हवा चखना|taste of air|to get a taste of something new (usually trouble)|0.49605610966682434|0.7696186304092407|0.22580645161290322|0.7017948627471924|3
+73|हवा बंद होना|closure of air|to lose confidence completely|0.4754987061023712|0.8068423867225647|0.0|0.5625829696655273|1
+74|आँख में धूल झोंकना|Dust in the eye|to deceive or fool someone|0.4070901572704315|0.6825713515281677|0.0|0.48041874170303345|3
+75|आँखें फटी की फटी रह जाना|Flattening of the eyes|to be shocked or amazed|0.391827791929245|0.7518566846847534|0.0|0.5683772563934326|2
+76|आँखों में धूल झोंकना|Dust in the eyes|to cheat someone cleverly|0.42656007409095764|0.6862521767616272|0.0|0.4720451533794403|2
+77|आँखों में बस जाना|settling in the eyes|to win someone’s heart|0.5117189288139343|0.699351966381073|0.0|0.6658617258071899|2
+78|आँखों से ओझल होना|Blurred vision|to disappear from sight|0.49583229422569275|0.7356969118118286|0.0|0.643099308013916|2
+79|आँख दिखाना|eye showing|to threaten or scold harshly|0.3488735556602478|0.6985945701599121|0.0|0.49226146936416626|2
+80|आँख तरेरना|winking|to glare angrily|0.5409128069877625|0.7738668918609619|0.0|0.5910986065864563|2
+81|आँखें फाड़ना|tearing out the eyes|to stare in surprise|0.496392160654068|0.7305302619934082|0.0|0.6086464524269104|3
+82|आँखें मूँदना|blinking of the eyes|to ignore intentionally|0.424710750579834|0.7870317697525024|0.0|0.4854239821434021|2
+83|आँखों में आँसू आना|Tears in the eyes|to become emotional or sad|0.5447072982788086|0.8173534870147705|0.0|0.6393047571182251|3
+84|दिल लगाना|heartbeat|to fall in love|0.3786541521549225|0.4869578778743744|0.0|0.5584980249404907|2
+85|दिल तोड़ना|heartbreak|to break someone's heart|0.6937472224235535|0.7186263799667358|0.13333333333333333|0.8372331857681274|5
+86|दिल जीतना|winning hearts|to win someone's affection|0.5897812843322754|0.8318410515785217|0.0|0.6930976510047913|5
+87|दिल पर लेना|take to heart|to take something personally|0.688956081867218|0.7688643336296082|0.10526315789473684|0.7584406733512878|4
+88|दिल लगाकर काम करना|Working hard|to work wholeheartedly|0.7204707264900208|0.7873600125312805|0.0|0.7903691530227661|5
+89|दिल में बात रखना|Speak from the heart|to hide one’s feelings|0.5708334445953369|0.8139272928237915|0.0|0.7138918042182922|2
+90|दिल पर पत्थर रखना|Putting a stone on the heart|to act bravely despite pain|0.47649335861206055|0.7695296406745911|0.0|0.636393666267395|3
+91|दिल जलना|heartburn|to feel jealous or envious|0.2828538715839386|0.8146749138832092|0.0|0.5124720335006714|2
+92|दिल बहलाना|seduction of the heart|to distract from sadness|0.48293936252593994|0.7565480470657349|0.0|0.5865561962127686|4
+93|दिल धड़कना|heartbeat|to feel nervous or excited|0.3627764582633972|0.7594391703605652|0.0|0.5908756256103516|1
+94|दिल खोलकर देना|openhearted giving|to be generous|0.6901690363883972|0.7926992177963257|0.0|0.7973888516426086|4
+95|दिल में चोर होना|Being a Thief at Heart|to have guilt or bad intentions|0.5045133233070374|0.8475974798202515|0.0|0.5846863985061646|5
+96|दिल में बसना|settling in the heart|to be deeply loved or remembered|0.51343834400177|0.8284872770309448|0.0|0.6583052277565002|3
+97|दिल का हाल बताना|Tell your heart condition|to express inner feelings|0.5071302056312561|0.8075151443481445|0.0|0.6193994879722595|1
+98|दिल टूट जाना|heartbreak|to feel heartbroken|0.7469424605369568|0.8103506565093994|0.2608695652173913|0.8469648361206055|1
+99|दिल खुश हो जाना|Happiness of heart|to become happy|0.5927941203117371|0.7845794558525085|0.0|0.7659649848937988|5
+100|दिल में बात आना|Speaking from the Heart|to get an idea or feeling|0.48727330565452576|0.7264800667762756|0.0|0.580727756023407|5
+101|दिल से उतर जाना|coming from the heart|to lose affection or trust|0.4666987359523773|0.7753763198852539|0.0|0.6336061358451843|5
+102|दिल से लगाना|from the heart|to love or treat affectionately|0.4102226495742798|0.653692364692688|0.0|0.6205295324325562|4
+103|दिल लगा रहना|heartfelt attachment|to stay interested or focused|0.4888542592525482|0.7521711587905884|0.0|0.628197968006134|2
+104|दिमाग चलना|walking the mind|to think cleverly|0.5355094075202942|0.6404474973678589|0.0|0.7142226099967957|3
+105|दिमाग खराब होना|mentally ill|to lose temper or sanity|0.5250768661499023|0.7844176292419434|0.0|0.7204965353012085|3
+106|दिमाग लगाना|brainstorming|to use intelligence or creativity|0.487676203250885|0.7584066390991211|0.0|0.7446092963218689|2
+107|दिमाग ठिकाने लगाना|Locating the Mind|to discipline or bring to senses|0.5149595141410828|0.6755625009536743|0.08333333333333333|0.5265889763832092|1
+108|दिमाग का दही होना|being a brain decoy|to get mentally exhausted|0.44457942247390747|0.5203114151954651|0.0|0.6150719523429871|2
+109|दिमाग घुमाना|wandering of the mind|to confuse or manipulate someone|0.4680047929286957|0.7206406593322754|0.0|0.6161002516746521|4
+110|दिमाग का ताला खोलना|Unlocking the Mind|to start thinking or understanding|0.5624345541000366|0.8430352210998535|0.07999999999999999|0.70200115442276|4
+111|दिमाग खाना|eating brains|to irritate by constant nagging|0.3787636458873749|0.7991666793823242|0.0|0.5010198354721069|1
+112|दिमाग लग जाना|bewildered|to focus attention on something|0.39140307903289795|0.47700315713882446|0.0|0.5597443580627441|1
+113|दिमाग में बात आना|Speaking to the Mind|to get a sudden idea|0.4945649206638336|0.6829855442047119|0.0|0.6460359692573547|4
+114|पानी-पानी होना|being watery|to feel embarrassed or ashamed|0.38877925276756287|0.7279174327850342|0.0|0.6107323169708252|1
+115|पानी फिर जाना|return to water|to have plans fail suddenly|0.4875565767288208|0.7577211856842041|0.0|0.5382314920425415|2
+116|पानी मांगना|asking for water|to beg for mercy|0.6709104776382446|0.8493157029151917|0.2758620689655172|0.5479112267494202|3
+117|पानी उतारना|unloading water|to humiliate someone publicly|0.43123912811279297|0.8202027678489685|0.0|0.5391857028007507|1
+118|पानी सिर से गुजरना|Water passing through the head|to reach the limit of patience|0.4492461681365967|0.8309774398803711|0.13114754098360656|0.5355727076530457|2
+119|पानी में आग लगाना|lighting a fire in water|to attempt the impossible|0.46851015090942383|0.8524156808853149|0.0|0.5976480841636658|3
+120|पानी पर लिखा|Written on water|to be temporary or futile|0.4560493528842926|0.8340458869934082|0.0|0.5359675884246826|1
+121|पानी बराबर होना|water equalization|to be equal in strength or skill|0.4753688871860504|0.8039764761924744|0.12244897959183675|0.6516463756561279|2
+122|पानी पीना|drinking water|to feel comfortable after fear|0.5001322627067566|0.8457796573638916|0.0|0.47230297327041626|1
+123|पानी मांगना पड़ना|Asking for water|to be defeated badly|0.4138990342617035|0.7796878814697266|0.0|0.5196530818939209|2
+124|पानी लाना|bring water|to bring respect or reputation|0.5473154187202454|0.8298389315605164|0.15789473684210528|0.5526659488677979|3
+125|हाथ बँटाना|handshake|to help or assist someone|0.36685484647750854|0.8003755211830139|0.0|0.5172239542007446|1
+126|हाथ धोकर पीछे पड़ना|Hand washing and falling back|to chase or target relentlessly|0.387654185295105|0.7319936752319336|0.0|0.567184567451477|1
+127|हाथ खड़े कर देना|Raising the hand|to give up completely|0.40984416007995605|0.8223650455474854|0.0|0.5831509232521057|2
+128|हाथ पाँव फूल जाना|thinning of the hands and feet|to panic or get nervous|0.3815220296382904|0.8124739527702332|0.0|0.5426936149597168|1
+129|हाथ मलना|hand washing|to regret something deeply|0.3215751647949219|0.8246146440505981|0.0|0.47813883423805237|2
+130|हाथ साफ़ होना|hand washing|to be skilled or experienced|0.4317114055156708|0.8129662275314331|0.0|0.5311094522476196|3
+131|हाथ पर हाथ धरे रहना|Holding hands|to do nothing|0.42031022906303406|0.669987678527832|0.0|0.501374363899231|2
+132|हाथ की सफाई दिखाना|showing hand hygiene|to show cleverness or skill|0.5178672075271606|0.8276145458221436|0.0|0.5457808375358582|1
+133|हाथ में लेना|take in hand|to take responsibility for something|0.4840445816516876|0.760813295841217|0.08695652173913045|0.6351271271705627|3
+134|हाथ से निकल जाना|getting out of hand|to miss an opportunity|0.5269367098808289|0.8033974170684814|0.0|0.6745755076408386|2
+135|हाथ लगना|touching|to get caught or succeed|0.40156543254852295|0.7533643841743469|0.0|0.6589793562889099|2
+136|हाथ धोना|hand washing|to lose something completely|0.27683717012405396|0.833991289138794|0.0|0.5629288554191589|2
+137|हाथ मिलाना|shake hands|to collaborate or agree|0.40308186411857605|0.8283035159111023|0.0|0.6089096069335938|1
+138|हाथ बाँधना|hand binding|to restrict or tie someone’s ability|0.4472489058971405|0.7627600431442261|0.0|0.59991055727005|1
+139|हाथ ऊँचा होना|elevation of the hand|to be more powerful or dominant|0.3612571358680725|0.8015478849411011|0.0|0.5696443319320679|2
+140|हाथ जलना|burning of the hand|to learn by mistake|0.464659184217453|0.8041446208953857|0.0|0.5810728073120117|3
+141|हाथ थामना|holding hands|to support someone|0.4256034791469574|0.8071339130401611|0.0|0.6379181146621704|2
+142|हाथ पसारना|extend the hand|to beg or plead|0.5041313767433167|0.7923690676689148|0.0|0.5316608548164368|3
+143|हाथ काटना|cutting off the hand|to separate or break relation|0.46896812319755554|0.8109337687492371|0.0|0.6112940311431885|1
+144|हाथ मोड़ना|folding hands|to refuse or reject something|0.3027185797691345|0.7500907778739929|0.0|0.5454219579696655|2
+145|पैर पसारना|stretching legs|to spend or expand beyond means|0.4317096471786499|0.7583466172218323|0.0|0.5612202286720276|1
+146|पैर जमाना|footing|to settle firmly|0.48577597737312317|0.6177666187286377|0.0|0.603695273399353|2
+147|पैर पकड़ना|grasping feet|to beg for forgiveness|0.37786099314689636|0.722863495349884|0.0|0.4940440058708191|1
+148|पैर तले ज़मीन खिसकना|Sliding the ground underfoot|to be shocked or lose ground|0.4882804751396179|0.7276307940483093|0.17857142857142858|0.668207049369812|1
+149|पैर पर कुल्हाड़ी मारना|striking the foot with an ax|to harm oneself by one’s own actions|0.40167808532714844|0.7802792191505432|0.0|0.5405166149139404|1
+150|पैर पीछे खींचना|pulling the leg back|to withdraw from commitment|0.5359963178634644|0.811151385307312|0.0|0.4868685305118561|1
+151|पैर फैलाना|spread legs|to extend scope gradually|0.5632903575897217|0.7924959659576416|0.0|0.5180772542953491|1
+152|पैर रोकना|stopping foot|to restrain or hesitate|0.508560299873352|0.7619321942329407|0.0|0.679206371307373|1
+153|पैर रखना|footing|to begin something new|0.36643004417419434|0.6314290761947632|0.0|0.5795828104019165|2
+154|पैर उठाना|lifting feet|to show disrespect or overconfidence|0.4236055314540863|0.8076338171958923|0.0|0.5067694187164307|3
+155|मुँह बनाना|make a face|to show annoyance or sadness|0.4321492612361908|0.7658933401107788|0.0|0.6503543853759766|2
+156|मुँह खोलना|opening the mouth|to start speaking up|0.6956722140312195|0.8199281692504883|0.058823529411764705|0.6543896794319153|1
+157|मुँह लटकाना|hanging up|to look disappointed|0.38389113545417786|0.5471841096878052|0.0|0.5657837390899658|1
+158|मुँह की खाना|mouth food|to suffer humiliation|0.4318145215511322|0.71589195728302|0.0|0.52968829870224|1
+159|मुँह मोड़ना|turning away|to turn away or refuse help|0.7707127928733826|0.813845157623291|0.10810810810810811|0.8288558721542358|5
+160|मुँह दिखाना|show face|to appear shamelessly after wrongdoing|0.509662389755249|0.8315416574478149|0.0|0.5350492000579834|1
+161|मुँह में राम बगल में छुरी|Ram next to knife in mouth|to be deceitful in nature|0.4168984293937683|0.600371778011322|0.07692307692307691|0.43142399191856384|1
+162|मुँह माँगी मुराद मिलना|What a blessing it is to be able to do that!|to get exactly what one wanted|0.5085549354553223|0.5978878736495972|0.04938271604938271|0.5231726169586182|4
+163|मुँह बंद रखना|keeping your mouth shut|to stay silent|0.6851896047592163|0.8343470096588135|0.0|0.7859985828399658|5
+164|मुँह खुलवाना|opening the mouth|to make someone speak|0.6030567288398743|0.8200613856315613|0.0|0.6623486876487732|2
+165|मुँह चुराना|stealing|to avoid facing someone|0.38344046473503113|0.5518912672996521|0.0|0.4901604950428009|2
+166|मुँह तोड़ जवाब देना|Responding in a Blatant Way|to give a fitting reply|0.652370810508728|0.7297694683074951|0.07999999999999999|0.6443151831626892|2
+167|मुँह में घी शक्कर|Ghee sugar in the mouth|used to bless or hope for good news|0.4232865273952484|0.7437113523483276|0.0|0.4920459985733032|1
+168|मुँह लगना|mouthing|to act too familiar with elders|0.3790912330150604|0.48948997259140015|0.0|0.6003175377845764|2
+169|मुँह में जुबान न होना|No tongue in the mouth|to be timid or unable to speak up|0.3829178512096405|0.8009021282196045|0.0|0.6391704082489014|2
+170|मुँह से बात निकलना|word of mouth|to accidentally reveal something|0.45220130681991577|0.7283012866973877|0.0|0.6006752848625183|4
+171|हिम्मत हारना|discouragement|to lose courage|0.5100265145301819|0.8276138305664062|0.2608695652173913|0.8100440502166748|4
+172|हिम्मत रखना|be courageous|to stay strong and confident|0.7827516198158264|0.8334700465202332|0.0|0.7705339193344116|5
+173|हिम्मत बाँधना|courageous|to encourage oneself|0.5790848731994629|0.6439228057861328|0.25|0.6759769916534424|2
+174|हिम्मत जुटाना|mustering up courage|to gather courage|0.85787433385849|0.8467369079589844|0.303030303030303|0.9353547096252441|4
+175|हिम्मत टूटना|discouragement|to become hopeless|0.49976471066474915|0.8194018602371216|0.0|0.7987657189369202|4
+176|हिम्मत दिखाना|showing courage|to show bravery|0.861157238483429|0.8439725637435913|0.0|0.9242743849754333|4
+177|हिम्मत बढ़ाना|building up courage|to motivate or encourage someone|0.4528387486934662|0.8301918506622314|0.12244897959183672|0.667468249797821|4
+178|जुबान चलाना|tongue move|to talk disrespectfully|0.43920519948005676|0.6954764127731323|0.0|0.5919215083122253|2
+179|जुबान फिसलना|slippery tongue|to say something by mistake|0.39401885867118835|0.7853407263755798|0.0|0.6440749764442444|5
+180|जुबान देना|tongue|to make a promise|0.3919757902622223|0.581304669380188|0.0|0.5067672729492188|1
+181|जुबान रखना|keeping the tongue|to keep one’s word|0.5501315593719482|0.7679051160812378|0.0|0.6473168134689331|3
+182|जुबान काटना|cutting out the tongue|to regret saying something|0.37908735871315|0.8012768626213074|0.043478260869565216|0.6039518117904663|5
+183|जुबान पकड़ना|grasping the tongue|to hold someone to their words|0.47811487317085266|0.7571963667869568|0.08333333333333333|0.6103708744049072|1
+184|जुबान पर काबू रखना|Control of the tongue|to control speech|0.7787639498710632|0.8307531476020813|0.28571428571428575|0.7702912092208862|2
+185|जुबान लगना|tongue|to get into an argument|0.37670522928237915|0.5376562476158142|0.0|0.5889981389045715|2
+186|जुबान बंद रखना|keeping the tongue closed|to stay silent intentionally|0.635280430316925|0.831572413444519|0.0|0.6811359524726868|2
+187|दाँत पीसना|grinding of teeth|to show silent anger|0.4776947498321533|0.8267822265625|0.0|0.534747302532196|2
+188|दाँत दिखाना|showing teeth|to laugh unnecessarily|0.4390524923801422|0.8517186641693115|0.0|0.562207818031311|1
+189|दाँत गिनाना|counting teeth|to mock or insult someone|0.32307618856430054|0.8321715593338013|0.0|0.5642307996749878|2
+190|दाँत काटी रोटी|toothed bread|to have a close friendship|0.41508790850639343|0.742021918296814|0.0|0.5357625484466553|1
+191|दाँत टूट जाना|tooth breakage|to be defeated or embarrassed|0.43938666582107544|0.8478502035140991|0.0|0.5899255275726318|2
+192|पसीना बहाना|sweating|to work hard|0.5614909529685974|0.7038417458534241|0.0|0.6328257322311401|2
+193|पसीना छुड़ाना|sweating|to frighten or exhaust|0.5004690885543823|0.6190983653068542|0.0|0.6282208561897278|1
+194|पसीना निकलना|sweating|to feel nervous or hot|0.5129832625389099|0.8162651062011719|0.0|0.6971907019615173|2
+195|पसीना-पसीना होना|sweating|to be drenched in sweat (from work or fear)|0.6167420148849487|0.6898133754730225|0.04|0.7821122407913208|2
+196|खून पसीना एक करना|Blood Sweat One|to work tirelessly|0.4101785719394684|0.5377939939498901|0.0|0.5026832222938538|3
+197|खून खौलना|coughing up blood|to feel extreme anger|0.42776915431022644|0.7654513716697693|0.0|0.5209826231002808|1
+198|खून जलाना|burning of blood|to waste emotional energy|0.44142982363700867|0.8163752555847168|0.0|0.5760722756385803|1
+199|खून चूसना|sucking blood|to exploit someone harshly|0.3942840099334717|0.8328060507774353|0.0|0.6309230923652649|1
+200|खून में उबाल आना|Boiling in blood|to be fired up with passion|0.5128439664840698|0.7931138873100281|0.0|0.6190186142921448|1
+201|खून पसीने की कमाई|The earnings of blood sweat|hard-earned money|0.6013489365577698|0.8200262784957886|0.09523809523809523|0.7023269534111023|2
+202|खून सफेद होना|blood white|to become heartless or selfish|0.48825201392173767|0.7531099915504456|0.0|0.5340087413787842|1
+203|खून चढ़ना|high blood pressure|to feel energetic or brave|0.4143172800540924|0.7620996236801147|0.0|0.5363433361053467|2
+204|खून उतरना|bleeding out|to lose courage suddenly|0.42495298385620117|0.767765998840332|0.0|0.6611548066139221|2
+205|पसीने छूटना|sweating|to panic under pressure|0.5177866220474243|0.7749459147453308|0.0|0.6175569891929626|2
+206|खून जम जाना|clotting|to be terrified|0.3817276358604431|0.8155088424682617|0.0|0.5978190302848816|2
+207|खून देना|giving blood|to sacrifice selflessly|0.5238541960716248|0.8279303908348083|0.0|0.6681140661239624|1
+208|खून का रिश्ता|blood relationship|blood relation|0.9584859013557434|0.8341079354286194|0.846153846153846|0.9318834543228149|4
+209|खून बहाना|to bleed|to fight fiercely|0.573157548904419|0.7650771737098694|0.0|0.6671487092971802|3
+210|खून खराबा होना|blood clots|to result in violence or bloodshed|0.5132268667221069|0.7962442636489868|0.04651162790697674|0.6048123240470886|1
+211|दिल थाम लेना|restraining the heart|to feel suspense or fear|0.5018280744552612|0.7812459468841553|0.0|0.6630533933639526|4
+212|दिल लगा लेना|attachment|to fall in love deeply|0.3928486406803131|0.6345980763435364|0.0|0.5774266719818115|3
+213|दिल में आग लगना|Fire in the heart|to feel jealousy or anger|0.40180665254592896|0.7380117177963257|0.0|0.5647775530815125|3
+214|दिल दहल जाना|heart palpitations|to be terrified|0.48072656989097595|0.8182306289672852|0.0|0.5783569812774658|4
+215|दिल धकधक करना|heartbeat|to feel nervous or anxious|0.35264644026756287|0.592205286026001|0.0|0.583510160446167|1
+216|दिल में उतरना|Going to the heart|to become likable or close to heart|0.5624714493751526|0.7750377058982849|0.18518518518518517|0.6523789763450623|2
+217|दिल में ठंडक पड़ना|coldness in the heart|to feel relief or satisfaction|0.47194528579711914|0.8103670477867126|0.0|0.6313880085945129|3
+218|दिल को छू जाना|touching the heart|to touch emotionally|0.7225505709648132|0.8283041715621948|0.058823529411764705|0.8154090642929077|3
+219|दिल जीत लेना|winning hearts|to win affection|0.6663578152656555|0.8181015253067017|0.0|0.7511480450630188|4
+220|दिल में कसक रह जाना|Righteousness in the Heart|to feel unfulfilled desire or regret|0.44034358859062195|0.5637819766998291|0.0|0.5471060872077942|4
+221|दिल का चैन खोना|Loss of peace of mind|to lose peace due to love or worry|0.7496524453163147|0.8368319272994995|0.1724137931034483|0.8327832818031311|3
+222|दिल बहल जाना|being led astray|to feel consoled|0.47268953919410706|0.6163867115974426|0.0|0.6501069664955139|2
+223|दिल कड़ा करना|hardening of the heart|to act firmly despite emotions|0.5034317970275879|0.7886667251586914|0.0|0.5869570970535278|4
+224|दिल बैठ जाना|heartbeat|to lose hope or courage|0.3815983533859253|0.444695383310318|0.0|0.5662719011306763|1
+225|दिल बदलना|change of heart|to change one’s opinion or feelings|0.5599545836448669|0.8196669816970825|0.2|0.8159829378128052|4
+226|साँप निकल गया, लकीर पीटते रह गए|The snake came out, and they kept beating the rope.|to act after the damage is already done|0.41153982281684875|0.7586008310317993|0.061855670103092786|0.44433802366256714|2
+227|साँप सूँघ जाना|snake sniffing|to become completely silent out of fear|0.38045620918273926|0.775830090045929|0.0|0.582483172416687|2
+228|साँप और नेवले की लड़ाई|The Battle of the Snake and the Snakes|a fight between sworn enemies|0.44664672017097473|0.7496461868286133|0.0|0.6839459538459778|3
+229|साँप के मुँह में छछूंदर|The Snakes' Mouth is a Snakes' Mouth.|to be stuck in an impossible situation|0.283418208360672|0.5203016996383667|0.0|0.40734827518463135|1
+230|साँप को दूध पिलाना|Milking the Serpent|to favor someone who will harm you later|0.3540365397930145|0.8493930101394653|0.0|0.5475061535835266|2
+231|साँप की केंचुली बदलना|Changing the Snake's Claw|to change completely in nature or appearance|0.3596820533275604|0.8262774348258972|0.028169014084507043|0.593348503112793|2
+232|साँप भी मर जाए और लाठी भी न टूटे|Even the snake will die and the stick will not break.|to solve a problem smartly without harm to anyone|0.46942970156669617|0.7985745668411255|0.0|0.4501304030418396|2
+233|साँप का बच्चा|the snake child|a dangerous or deceitful person|0.5004103183746338|0.8440771102905273|0.0|0.5249078869819641|2
+234|साँप के बिल में हाथ डालना|Putting one's hand in a snake's bill|to invite trouble knowingly|0.35055211186408997|0.7869895696640015|0.0|0.5897842645645142|3
+235|साँप निकलते ही लकीर पीटना|Striking the line as the snake comes out|to regret after losing the opportunity|0.4162900745868683|0.7623494267463684|0.14634146341463414|0.47247010469436646|2
+236|शेर की सवारी करना|riding a lion|to take a dangerous or risky decision|0.39908942580223083|0.8535645008087158|0.04|0.5411309003829956|2
+237|शेर बनना|Becoming a lion|to act bravely or arrogantly|0.39333537220954895|0.8599327206611633|0.0|0.5472790598869324|1
+238|शेर का दिल रखना|to have the heart of a lion|to be very courageous|0.5153416991233826|0.8454257845878601|0.0|0.7020219564437866|3
+239|शेर के मुँह में हाथ डालना|Putting one's hand in the lion's mouth|to challenge danger directly|0.4077197015285492|0.8323261737823486|0.0|0.5231446027755737|5
+240|शेर की तरह गरजना|Roaring like a lion|to speak fearlessly or loudly|0.4741838276386261|0.8235374689102173|0.0|0.6562619209289551|5
+241|शेर का शिकार करना|hunting a lion|to achieve a big or risky goal|0.4255204498767853|0.8515074253082275|0.045454545454545456|0.5864282250404358|3
+242|लोमड़ी की तरह चालाक|Clever as a fox|to be extremely cunning|0.5681551694869995|0.7998518347740173|0.0|0.7139812707901001|5
+243|कुत्ते की तरह भौंकना|Barking like a dog|to shout without reason|0.5762048959732056|0.7505779266357422|0.0|0.6792222857475281|1
+244|कुत्ते की मौत मरना|Dying of the dog|to die miserably or without dignity|0.4175582230091095|0.683761715888977|0.0|0.6627187728881836|2
+245|कुत्ते की पूँछ टेढ़ी की टेढ़ी|The dog's tail is curved.|bad habits never change|0.4743884205818176|0.7710276246070862|0.0|0.37223461270332336|2
+246|कुत्ते के भौंकने से हाथी नहीं रुकता|A dog's barking does not stop an elephant|great people ignore petty criticism|0.5112637281417847|0.8149593472480774|0.0|0.42552345991134644|3
+247|कुत्ते की दुम टेढ़ी की टेढ़ी|The curve of the dog's curve.|incorrigible by nature|0.3691614270210266|0.4852750301361084|0.0|0.4797442853450775|1
+248|कुत्ते की तरह पीछे पड़ना|Leaving behind like a dog|to chase someone relentlessly|0.4757504165172577|0.775850772857666|0.0|0.6167469024658203|2
+249|बंदर क्या जाने अदरक का स्वाद|Monkey knows what ginger tastes like|the unworthy cannot appreciate value|0.458064466714859|0.737740159034729|0.0|0.40697601437568665|5
+250|बंदर के हाथ में उस्तरा|A razor in the hand of a monkey|a dangerous thing in foolish hands|0.4887842833995819|0.7774633169174194|0.11594202898550723|0.504175066947937|3
+251|बंदर नाच देखना|Watching a monkey dance|to enjoy entertainment or drama|0.49154844880104065|0.851940393447876|0.0|0.5125867128372192|2
+252|बंदर घुड़की देना|monkey twitching|to make empty threats|0.37084218859672546|0.6221321225166321|0.0|0.48036015033721924|2
+253|बंदर के हाथ नारियल|Monkey hand coconut|valuable thing with an undeserving person|0.3647991716861725|0.7362154722213745|0.0|0.3876379132270813|2
+254|बिल्ली के गले में घंटी बाँधना|tying a bell around a cat 's neck|to take initiative in a dangerous task|0.40325504541397095|0.8345642685890198|0.026666666666666665|0.48168009519577026|1
+255|बिल्ली की तरह मुँह बनाना|Making a face like a cat|to act innocent after wrongdoing|0.42885535955429077|0.8247655630111694|0.0|0.4803544282913208|2
+256|बिल्ली की तरह चुप रहना|Quiet as a cat|to remain silent out of guilt or fear|0.5025652647018433|0.8291707038879395|0.0|0.5272014737129211|3
+257|बिल्ली के भाग्य से छींका टूटा|Sneezing broken by the cat 's fate|to get something valuable by pure luck|0.38416826725006104|0.5591855645179749|0.08|0.5233320593833923|2
+258|चूहे बिल्ली का खेल|game of cat and mouse|a game of chase and evasion|0.6715843081474304|0.8477822542190552|0.40816326530612246|0.8008735179901123|4
+259|चूहे दौड़ना|mouse running|to feel hungry|0.4330364167690277|0.7456897497177124|0.0|0.4627053737640381|3
+260|गधे के सिर से सींग गायब|Horns missing from donkey's head|something missing without a trace|0.4346376359462738|0.7400839328765869|0.21212121212121215|0.658618152141571|2
+261|गधे पर बैठकर शेर की बात करना|Sitting on a donkey and talking to a lion.|to act proud without reason|0.3639073669910431|0.8469583988189697|0.0273972602739726|0.4515991508960724|2
+262|गधे को घोड़ा बनाना|making a donkey into a horse|to exaggerate someone’s abilities|0.4513922333717346|0.8457005023956299|0.0|0.4763614535331726|2
+263|गधे को फूलों की माला पहनाना|Putting flowers on a donkey|to honor an undeserving person|0.4237842857837677|0.7930637001991272|0.03508771929824562|0.5351418256759644|2
+264|गधे के कान में बांसुरी|A flute in a donkey 's ear|to waste effort on someone ignorant|0.360938161611557|0.8322950005531311|0.0|0.3862370252609253|1
+265|गाय का दूध पीना|drinking cow 's milk|to live peacefully and simply|0.3994804620742798|0.8523964881896973|0.0|0.4839974045753479|3
+266|गाय बनना|being a cow|to act innocent or submissive|0.41680100560188293|0.8343573808670044|0.0|0.6057250499725342|1
+267|गाय के आगे बीन बजाना|Playing the bean in front of the cow|to explain something to someone who won’t understand|0.36722126603126526|0.6658980846405029|0.042105263157894736|0.5073686838150024|1
+268|ऊँट के मुँह में जीरा|Giraffe in the Camel's Mouth|too little for a large need|0.3879593312740326|0.7325416803359985|0.0|0.5686277747154236|5
+269|ऊँट पहाड़ के नीचे|Under the Camel Mountain|to meet one’s superior or defeat|0.4488556683063507|0.7608145475387573|0.0|0.5714249014854431|3
+270|ऊँट के मुँह में खजूर|Palm in the Camel's Mouth|tiny reward for great effort|0.38393789529800415|0.7415671944618225|0.0|0.568446934223175|5
+271|ऊँट की चाल चलना|The Camel's Walk|to act steadily but slowly|0.4024384021759033|0.7749706506729126|0.0|0.5929104685783386|1
+272|ऊँट रेत में सिर छिपाना|The camel hides its head in the sand.|to ignore reality or hide from truth|0.5016838908195496|0.8116918802261353|0.05128205128205128|0.41200733184814453|2
+273|घोड़े बेचकर सोना|Gold by selling horses|to sleep peacefully without worry|0.35986989736557007|0.7953952550888062|0.0|0.44824591279029846|2
+274|घोड़े पर सवार होना|riding a horse|to be in a hurry or overexcited|0.4137882888317108|0.8331189751625061|0.08888888888888888|0.611129641532898|2
+275|घोड़े का नाल पहनना|wearing a horse saddle|to try something superstitious for luck|0.41320982575416565|0.7806879878044128|0.03278688524590165|0.4438730478286743|1
+276|घोड़े की लगाम कसना|tightening the bridle of the horse|to tighten control|0.5274897813796997|0.7931721806526184|0.11764705882352938|0.748046875|2
+277|घोड़े दौड़ाना|horse racing|to act hastily without thinking|0.4217279255390167|0.8489385843276978|0.0|0.4466986656188965|2
+278|मछली पानी से बाहर|Fish out of water|to feel uncomfortable in a strange place|0.3689187467098236|0.8196185231208801|0.0|0.6006706953048706|5
+279|मछली हाथ से निकलना|fish out of hand|to miss an opportunity|0.46024224162101746|0.6111998558044434|0.0|0.6505775451660156|2
+280|मछली पकड़ना|fishing|to manipulate a situation for gain|0.4559604227542877|0.827130913734436|0.0|0.5968954563140869|1
+281|मछली मरना|fish dying|to face downfall silently|0.4764765799045563|0.8263164758682251|0.0|0.6539936065673828|1
+282|मगरमच्छ के आँसू|Crocodile tears|false show of sympathy|0.5081946849822998|0.8545950651168823|0.0|0.6128105521202087|5
+283|मगरमच्छ बनना|becoming a crocodile|to act powerful or arrogant falsely|0.3816165328025818|0.8558712601661682|0.0|0.5476070642471313|1
+284|मगरमच्छ का शिकार करना|hunting crocodiles|to take on a huge challenge|0.4518098533153534|0.8417189121246338|0.0|0.5841308832168579|2
+285|सांड बनना|becoming a buffalo|to act angrily or uncontrollably|0.3509680926799774|0.8459830284118652|0.0|0.49470269680023193|2
+286|सांड को लाल कपड़ा दिखाना|Showing the calf a red cloth|to provoke someone deliberately|0.38978371024131775|0.8159388303756714|0.0|0.49811479449272156|1
+287|सांड की तरह दौड़ना|Running like a buffalo|to rush without thinking|0.4804077744483948|0.8425652384757996|0.0|0.6886786222457886|1
+288|सांड की तरह जिद्दी|Stubborn as a calf|to be very stubborn|0.5588961839675903|0.8101048469543457|0.22857142857142856|0.7059462070465088|4
+289|सांड की तरह ताकतवर|Strong as a buffalo|to be physically strong|0.5850453972816467|0.846523106098175|0.09999999999999999|0.7112938761711121|5
+290|तेल देखो तेल की धार|Look at the oil stream|to wait and watch patiently|0.4725913107395172|0.6935154795646667|0.0|0.4980734884738922|3
+291|तेल लगाना|oil|to flatter or please for benefit|0.38741669058799744|0.6596614122390747|0.0|0.561546802520752|1
+292|तेल निकलना|oil leakage|to get exhausted completely|0.5061957836151123|0.8490618467330933|0.0|0.5783499479293823|1
+293|तेल पानी एक होना|Oil water being one|to be completely incompatible|0.38236284255981445|0.7886937260627747|0.0|0.5573803186416626|2
+294|तेल जलाना|burning oil|to work hard late into the night|0.3885129392147064|0.8413615822792053|0.0|0.5048882961273193|1
+295|धन पानी की तरह बहाना|Wealth is like water.|to waste money lavishly|0.4942075312137604|0.688851535320282|0.0|0.5836422443389893|3
+296|धन दौलत इकट्ठी करना|Wealth is the accumulation of wealth.|to accumulate wealth|0.8143153190612793|0.7587350606918335|0.3928571428571429|0.71335768699646|2
+297|धन का घमंड होना|Pride of wealth|to be arrogant about wealth|0.7292841076850891|0.8361467123031616|0.2|0.8405587673187256|3
+298|धन के पीछे भागना|Running after money|to be greedy for money|0.6713579893112183|0.8344956636428833|0.20512820512820512|0.6506841778755188|3
+299|धन का नशा चढ़ना|Addicted to Money|to be blinded by riches|0.6807125806808472|0.8031622171401978|0.0|0.7054977416992188|5
+300|धन कमाना|earning money|to earn wealth|0.833598792552948|0.8429797291755676|0.0|0.8398824334144592|3
+301|धन की बरसात होना|Rain of money|to receive great fortune|0.5244506597518921|0.8161644339561462|0.0|0.6788387298583984|3
+302|धन को पानी समझना|Understanding Money as Water|to spend carelessly|0.5062029957771301|0.8816747069358826|0.0|0.5333776473999023|2
+303|धन का दुरुपयोग करना|misuse of money|to misuse wealth|0.9010418057441711|0.8696455955505371|0.29629629629629634|0.8831943273544312|4
+304|धन देना|giving money|to offer charity or contribution|0.6988024711608887|0.8372793793678284|0.0|0.8020336627960205|1
+305|नजर लगना|look|to be jinxed or affected by envy|0.29965469241142273|0.6423057317733765|0.0|0.5780367851257324|2
+306|नजर उतारना|look away|to remove the evil eye|0.6112350821495056|0.7473300695419312|0.0|0.7492120862007141|4
+307|नजर बचाना|protecting the eye|to avoid eye contact|0.6985000967979431|0.8273632526397705|0.05714285714285714|0.6896849274635315|1
+308|नजर डालना|look at|to glance or check|0.5831157565116882|0.6904213428497314|0.0|0.8204078078269958|1
+309|नजर चुराना|stealing eyes|to avoid someone intentionally|0.36921343207359314|0.6980385780334473|0.0|0.5698169469833374|3
+310|नजर रखना|keep watch|to keep watch on something|0.8181034922599792|0.8096880316734314|0.42424242424242425|0.8437209725379944|3
+311|नजर मिलाना|eye contact|to look straight and confidently|0.5431711077690125|0.8387846350669861|0.05|0.699142575263977|5
+312|नजर में आना|be in sight|to get attention or recognition|0.4193981885910034|0.8279008269309998|0.0|0.6895864605903625|2
+313|नजर से गिरना|falling out of sight|to lose respect in someone’s eyes|0.4909067749977112|0.8193708658218384|0.0|0.6620098948478699|1
+314|नजरों में बसना|settling in the eyes|to be deeply admired or loved|0.3889401853084564|0.7728496789932251|0.0|0.5907629728317261|2
+315|मुँह की बात छीनना|tearing out the mouth|to say what someone was about to say|0.38105201721191406|0.5776567459106445|0.06779661016949151|0.6227518320083618|1
+316|रूठा मन मनाना|to celebrate a state of mind|to reconcile after disagreement|0.4560895264148712|0.6026068925857544|0.0|0.5699676275253296|2
+317|मन बनना|becoming mind|to decide willingly|0.45993900299072266|0.642332911491394|0.0|0.6585320830345154|1
+318|मन भरना|filling the mind|to lose interest or get satisfied|0.4681815505027771|0.7796471118927002|0.0|0.6773857474327087|2
+319|मन लगाना|mindfulness|to stay focused|0.5959902405738831|0.6446772217750549|0.0|0.7307488918304443|2
+320|मन मारना|bewildered|to suppress one’s desires|0.42654091119766235|0.4596485495567322|0.0|0.5400086641311646|1
+321|मन में बैठना|sitting in the mind|to be convinced deeply|0.4647992253303528|0.7787449955940247|0.0|0.6626660227775574|1
+322|मन में बात रखना|Keeping the Word in Mind|to keep things inside|0.520882785320282|0.7494512796401978|0.0|0.6435270309448242|4
+323|मन बहलाना|seducing|to divert oneself pleasantly|0.43966856598854065|0.7577989101409912|0.0|0.6467245221138|1
+324|मन से उतरना|get out of mind|to lose affection for someone|0.42280444502830505|0.6593133211135864|0.0|0.6523579359054565|4
+325|मनमानी करना|arbitrary|to act selfishly or on one’s own terms|0.44558992981910706|0.7672891616821289|0.0|0.6115414500236511|3
+326|दो नावों पर सवार होना|Riding on two boats|to try doing two opposite things at once|0.44855958223342896|0.8254485130310059|0.13114754098360654|0.5729286074638367|3
+327|दूध का जला छाछ भी फूंककर पीता है|The burning milk is also blown.|once bitten, twice shy|0.4178707003593445|0.5091222524642944|0.0|0.473585844039917|2
+328|दूध का दूध, पानी का पानी करना|Milk to milk, water to water|to reveal the truth or clarify everything|0.4172402322292328|0.580345630645752|0.0|0.5186383128166199|5
+329|दूध में मक्खी की तरह|Like a fly in milk|an unwanted person in a good place|0.401099294424057|0.8336381912231445|0.1111111111111111|0.5414799451828003|3
+330|दूध का कर्ज चुकाना|Paying off a milk debt|to repay parents' love and care|0.649462878704071|0.8352954983711243|0.0|0.6305841207504272|3
+331|दूध में नीम का पत्ता|lime leaf in milk|something that ruins a good thing|0.404095321893692|0.8333151936531067|0.0|0.4765724837779999|2
+332|दूध का दूध अलग करना|separating milk from milk|to identify right and wrong clearly|0.4089362919330597|0.7352670431137085|0.0|0.6101133823394775|2
+333|दूध की धार बनना|becoming a milk stream|to prosper or flourish|0.4989357888698578|0.7852282524108887|0.0|0.6209150552749634|3
+334|दूध पीता बच्चा नहीं हूँ|I'm not a milk-sucking baby.|I’m not naive anymore|0.5419735312461853|0.8444017767906189|0.27450980392156865|0.5240656137466431|2
+335|दूध की नदियाँ बहाना|flowing rivers of milk|to dream of prosperity|0.4420330822467804|0.7561602592468262|0.09523809523809523|0.6584460139274597|3
+336|घर की मुर्गी दाल बराबर|The chicken in the house is equal to the pulses.|to undervalue what one has|0.4128442704677582|0.6526647806167603|0.0|0.41148748993873596|1
+337|घर फूँक तमाशा देखना|Watching a home-show|to risk everything for curiosity|0.42678549885749817|0.6445454359054565|0.0784313725490196|0.49804988503456116|1
+338|घर का भेदी लंका ढाए|The house pierced.|an insider can cause great harm|0.43979474902153015|0.41021499037742615|0.041666666666666664|0.5248148441314697|2
+339|घर की बात बाहर निकलना|getting out of the house|to leak private matters|0.4747737944126129|0.6426525115966797|0.0|0.573555588722229|3
+340|घर बसाना|settling down|to settle down or start a family|0.7291374206542969|0.7713569402694702|0.13636363636363635|0.8198625445365906|4
+341|घर उजड़ना|desolation of the house|to lose everything|0.5360872149467468|0.7776284217834473|0.0|0.7237873077392578|3
+342|घर में घुसकर मारना|Breaking and entering|to attack boldly|0.48505279421806335|0.45465293526649475|0.0|0.6016179323196411|2
+343|घर का रास्ता भूल जाना|Forgetting the Way Home|to wander aimlessly or forget priorities|0.5126742720603943|0.8588364720344543|0.06349206349206349|0.5719176530838013|4
+344|घर आँगन में झगड़ा|Fighting in the backyard|domestic disputes|0.6084848046302795|0.8048688173294067|0.0|0.6118778586387634|5
+345|घर की लक्ष्मी|Lakshmi of the house|a woman considered the prosperity of a home|0.624153196811676|0.7992520928382874|0.15384615384615385|0.6520634889602661|3
+346|आम के आम गुठलियों के दाम|The price of common mango bulbs|double benefit from one effort|0.448699027299881|0.763228714466095|0.0|0.5464605093002319|2
+347|आम रास्ता पकड़ना|Taking the Common Route|to take the easy or common way|0.7553768157958984|0.8213074207305908|0.3333333333333333|0.8320778608322144|4
+348|आम आदमी|common man|a common man|0.9567402601242065|0.857822597026825|0.8235294117647058|0.8904597759246826|5
+349|आमदनी अठन्नी खर्चा रुपैया|Income and expenses Rs.|expenses exceeding income|0.6449583172798157|0.7041430473327637|0.3555555555555555|0.6570618152618408|2
+350|आम खाने वाले बनो, पेड़ मत गिनो|Be a common eater, not a tree eater.|enjoy benefits without overanalyzing|0.4617537558078766|0.5756068229675293|0.0|0.5641385316848755|2
+351|आमदनी बढ़ाना|Increase income|to increase income|0.9154101014137268|0.8474551439285278|0.8571428571428571|0.8869868516921997|4
+352|अंधे के हाथ बटेर लगना|Blindness of the hands|to get lucky unexpectedly|0.43610259890556335|0.6006778478622437|0.0|0.5637989640235901|1
+353|अंधा कानून|blind law|law that doesn’t see right and wrong|0.5169920921325684|0.8322107791900635|0.0|0.7492287755012512|3
+354|अंधेरे में तीर चलाना|Shooting an arrow in the dark|to try without knowledge|0.4813360869884491|0.8414106369018555|0.0|0.5876520276069641|4
+355|अंधे को अंधेरे में बहुत दूर की सूझी|The blind man sees far into the darkness.|to overestimate one’s own understanding|0.4797506034374237|0.7831791639328003|0.0|0.3776359260082245|2
+356|अंधे के हाथ में आइना|A mirror in the hands of a blind person|a useless thing in wrong hands|0.6180230975151062|0.8314166069030762|0.13513513513513514|0.535252034664154|1
+357|अंधों में काना राजा|The King of Cana in the Blind|to shine among the incompetent|0.5001304745674133|0.6972705125808716|0.09836065573770492|0.629071831703186|3
+358|काला अक्षर भैंस बराबर|Black letters equal buffalo|to be illiterate or uneducated|0.4010077118873596|0.8263839483261108|0.0|0.4763200581073761|1
+359|काला धन|black money|black or illegal money|0.925288736820221|0.8759286403656006|0.4137931034482759|0.899562418460846|5
+360|काला मन|black mind|evil thoughts or intentions|0.5318211913108826|0.8382288217544556|0.0|0.7213936448097229|2
+361|काले मन का इंसान|The Man with the Dark Mind|a person with bad heart|0.5941420197486877|0.8739751577377319|0.19999999999999998|0.5330358743667603|4
+362|काली करतूत|blacklisted|bad or shameful deeds|0.4681224524974823|0.5193510055541992|0.0|0.6393976211547852|5
+363|काली रात में दिया जलाना|Lighting a lamp in the dark of night|to hope amidst despair|0.40662017464637756|0.8480814695358276|0.0|0.5989667177200317|2
+364|काली कमाई|black money|illegal earnings|0.7211095094680786|0.8543969988822937|0.0|0.740756094455719|3
+365|काली मिर्च लगाना|planting black pepper|to exaggerate a story|0.38604459166526794|0.8324897885322571|0.0|0.39836442470550537|2
+366|काली नीयत|black purpose|to have bad intentions|0.44576141238212585|0.7985110878944397|0.0|0.5393131971359253|1
+367|काला सच|black truth|an unpleasant hidden truth|0.6740280389785767|0.8615862131118774|0.18181818181818182|0.7893036603927612|2
+368|बीज बोना|sowing seeds|to initiate an idea or event|0.4634213149547577|0.8066675662994385|0.0|0.6962278485298157|3
+369|बीज बोकर फल काटना|Sowing the Seed and Reaping the Fruit|to reap what one sows|0.7354004383087158|0.8241934180259705|0.06666666666666667|0.8844156861305237|5
+370|बीज से पेड़ बनना|From seed to tree|to see progress from small beginnings|0.5907196402549744|0.7996024489402771|0.14814814814814814|0.6759188175201416|4
+371|बीज बोकर काँटे काटना|Reaping thorns by sowing seeds|to face consequences of one’s actions|0.4205029010772705|0.7856377959251404|0.0|0.5753892660140991|3
+372|बीज बदलना|changing seeds|to change the foundation or cause|0.4711427390575409|0.7877644300460815|0.04444444444444444|0.6628750562667847|1
+373|बीज नष्ट करना|destroying seeds|to end something at its root|0.4969417154788971|0.8280410170555115|0.04761904761904762|0.6447610855102539|2
+374|बीज जमना|seed solidification|to start taking effect|0.46360132098197937|0.8380684852600098|0.0|0.5720574259757996|2
+375|बीज बोने वाला|the sower|one who starts a trend or cause|0.41928496956825256|0.832423210144043|0.0|0.6194481253623962|3
+376|बीज रोपना|planting seeds|to initiate growth or influence|0.5207628607749939|0.8398509621620178|0.0|0.6776331067085266|3
+377|बीज काटना|harvesting seeds|to destroy the base of something|0.4272378087043762|0.8038376569747925|0.0|0.576594352722168|2
+378|थाली का बैंगन|plate of eggplant|someone who changes sides easily|0.3354082703590393|0.7043412923812866|0.0|0.49305570125579834|2
+379|थाली में नमक खाना|eating salt on a plate|to benefit from someone’s kindness|0.4014543294906616|0.8340911269187927|0.0|0.5010435581207275|1
+380|थाली में छींद लगाना|squeezing in a plate|to betray the one who helped|0.39896801114082336|0.6297431588172913|0.0|0.5327885150909424|1
+381|थाली बजाना|playing the platter|to protest or express excitement|0.4131169617176056|0.5535522699356079|0.0|0.5718470215797424|1
+382|थाली का खाना|plate food|a share of resources or wealth|0.4777926504611969|0.8082993626594543|0.0|0.576270341873169|2
+383|थाली में रखना|put on a plate|to serve something easily|0.589225709438324|0.7699360847473145|0.0|0.7121546268463135|3
+384|थाली पलटना|flip the plate|to go against one’s own|0.4610045254230499|0.7735034227371216|0.0|0.572334885597229|2
+385|थाली की रोटी बनना|Becoming the bread of the dish|to be part of a group or system|0.4554421901702881|0.7034065127372742|0.061538461538461535|0.5610189437866211|2
+386|थाली चाटना|licking plate|to exploit something completely|0.4276133179664612|0.7973271608352661|0.05|0.5862457752227783|1
+387|थाली में परोसना|serving on a plate|to give ready-made success|0.5889256000518799|0.8215928673744202|0.0|0.5200006365776062|2
+388|चिराग तले अंधेरा|dark under the lamp|to overlook what’s right before you|0.5138832330703735|0.7782407999038696|0.0|0.6037881374359131|1
+389|चिराग जलना|lighting a candle|to bring light or hope|0.49625447392463684|0.8322932124137878|0.10810810810810811|0.7396975159645081|2
+390|चिराग बुझना|extinguishing a lamp|to lose hope or family support|0.4453052580356598|0.8357971906661987|0.0|0.5471750497817993|2
+391|चिराग दिखाना|flashing lights|to guide or help someone|0.37992891669273376|0.7067052721977234|0.0|0.5533504486083984|3
+392|चिराग लेकर ढूँढना|Finding with a Lamp|to search very carefully|0.5037751793861389|0.7630670666694641|0.0|0.6572931408882141|2
+393|चिराग तले छिपना|hiding under a lamp|to hide in the most obvious place|0.747754693031311|0.8397086262702942|0.0|0.6807719469070435|1
+394|चिराग की तरह जलना|burning like a candle|to sacrifice oneself for others|0.4241836667060852|0.8223007917404175|0.0|0.6130234003067017|4
+395|चिराग घर का बुझना|Lighthouse extinguishing|to lose a loved one|0.398356169462204|0.7421863079071045|0.0|0.5555716753005981|1
+396|चिराग को हवा लगना|blowing a light bulb|to face danger or crisis|0.4273920953273773|0.7715002298355103|0.0|0.5514403581619263|2
+397|चिराग हाथ में होना|holding a torch|to have control or guidance|0.48665866255760193|0.8250274658203125|0.0|0.5165715217590332|1
+398|भेड़ चाल चलना|sheep walk|to follow others blindly|0.4113554060459137|0.7516248226165771|0.0|0.5541785955429077|2
+399|भेड़ बनना|Becoming a Sheep|to lack independent thought|0.3739912807941437|0.8647085428237915|0.0|0.5715658664703369|3
+400|भेड़ की तरह भागना|Running Like a Sheep|to run after the crowd|0.6311858892440796|0.8392186164855957|0.0|0.6328190565109253|3
+401|भेड़िया बनना|Becoming a wolf|to be cruel or selfish|0.413777232170105|0.8611000180244446|0.0|0.5608205795288086|1
+402|भेड़ का रूप धारण करना|Taking the Form of a Sheep|to appear innocent while being deceitful|0.44399935007095337|0.8595594763755798|0.029411764705882353|0.5049657821655273|1
+403|भेड़ की खाल में भेड़िया|A wolf in sheep's clothing|a dangerous person pretending to be gentle|0.47002851963043213|0.8461205363273621|0.0|0.5419426560401917|5
+404|भेड़ के पीछे भेड़|sheep after sheep|to imitate without thinking|0.30749592185020447|0.7784310579299927|0.0|0.4596296548843384|1
+405|भेड़ की तरह झुंड में रहना|Like sheep in a flock|to depend on others’ lead|0.44787320494651794|0.7964877486228943|0.0|0.5856391191482544|3
+406|भेड़ की तरह बोलना|Speaking Like a Sheep|to agree without question|0.43695947527885437|0.8507540822029114|0.0|0.564593493938446|1
+407|भेड़िया आया कहकर झूठ बोलना|Lying That the Wolf Came|to lie so often that no one believes you later|0.42779484391212463|0.7869421243667603|0.10666666666666666|0.6116790771484375|3
+408|ईमान बेचना|selling faith|to sacrifice integrity for gain|0.6434342265129089|0.8588582277297974|0.0|0.6132213473320007|1
+409|ईमान पर आँच आना|Believing in the One True God|to face moral challenge|0.4589184820652008|0.6837202310562134|0.0|0.6160061359405518|1
+410|ईमानदार बनना|Being Honest|to act honestly|0.7854521870613098|0.8535772562026978|0.3636363636363637|0.8499091863632202|5
+411|ईमान का सौदा करना|Bargaining for Faith|to compromise ethics for money|0.5352205634117126|0.8513287305831909|0.125|0.5886385440826416|5
+412|ईमान की कमाई|The Reward of Faith|honest earnings|0.5807108283042908|0.8553416132926941|0.0|0.5628889799118042|2
+413|ईमान दिखाना|exercising faith|to prove one’s honesty|0.5954152941703796|0.8240307569503784|0.0|0.6295639872550964|1
+414|ईमानदारी निभाना|Being Honest|to act truthfully and faithfully|0.6025171875953674|0.8504135012626648|0.0|0.8004568815231323|4
+415|ईमान का साथी|a fellow believer|a trustworthy companion|0.6115630865097046|0.820561945438385|0.0|0.7233560085296631|4
+416|ईमान से उतरना|falling away from the faith|to become dishonest|0.6209397315979004|0.8351449966430664|0.0|0.6360481381416321|2
+417|ईमान की परीक्षा देना|Testing of Faith|to face a test of character|0.7507503032684326|0.8305724859237671|0.09523809523809523|0.7181655168533325|4
+418|झूठ बोलना|lying|to tell a lie|0.6438880562782288|0.8301445245742798|0.0|0.6748172044754028|4
+419|झूठ पकड़ना|catch a lie|to catch a lie or liar|0.7340456247329712|0.7177448868751526|0.5625|0.9382883906364441|5
+420|झूठ की पोल खोलना|Opening a Poll of Lies|to expose deceit|0.6275004148483276|0.7628597021102905|0.0|0.7279483079910278|4
+421|झूठा बहाना बनाना|making false excuses|to make false excuses|0.9522940516471863|0.8346730470657349|0.631578947368421|0.9710861444473267|5
+422|झूठ बोलकर बचना|Avoid lying|to lie and escape consequences|0.7179394960403442|0.8116192817687988|0.0|0.7544049620628357|4
+423|झूठ फैलाना|spreading lies|to spread lies|0.9533553123474121|0.8365908861160278|0.34782608695652173|0.9391731023788452|5
+424|झूठ सच बनाना|Making a Lie True|to manipulate facts to appear true|0.6520931124687195|0.8396589159965515|0.0784313725490196|0.688389003276825|2
+425|झूठ पर झूठ बोलना|Lying on a lie|to keep lying|0.6961397528648376|0.7532851696014404|0.08333333333333334|0.7544528245925903|4
+426|झूठ से मुँह मोड़ना|Turning away from falsehood|to stay away from falsehood|0.8896945118904114|0.8393211364746094|0.7169811320754716|0.9235856533050537|4
+427|झूठ पकड़ा जाना|being caught lying|to get caught lying|0.9102050065994263|0.819509744644165|0.6470588235294118|0.9514108896255493|5
+428|एक तीर से दो निशाने|Two targets with one arrow|to achieve two goals with one action|0.5742520689964294|0.8072946071624756|0.37499999999999994|0.6227021217346191|3
+429|नौ दो ग्यारह होना|nine two eleven.|to run away quickly|0.41281741857528687|0.6538461446762085|0.0|0.5309455394744873|2
+430|खयाली पुलाव पकाना|cooking candies|to daydream unrealistic plans|0.345104455947876|0.5288342833518982|0.0|0.4516836404800415|1
+431|दाल में कुछ काला है|There 's something black in the pulp|something is suspicious|0.5253011584281921|0.8135057091712952|0.24137931034482757|0.5813127756118774|1
+432|दाल न गलना|not swallowing pulses|a plan not working out|0.4568657875061035|0.5184314846992493|0.0975609756097561|0.6331915855407715|2
+433|जले पर नमक छिड़कना|sprinkling salt on fire|to make someone’s pain worse|0.398873895406723|0.8478167057037354|0.0|0.5282840132713318|1
+434|सोने पर सुहागा|Sweet on the palate|an added bonus to something good|0.46474409103393555|0.4874385595321655|0.0|0.5513674020767212|3
+435|रामबाण उपाय|remedy|a sure-shot remedy|0.6625605821609497|0.8077029585838318|0.21052631578947367|0.8130629658699036|4
+436|आसमान से तारे तोड़ना|The falling of the stars from the sky|to promise or attempt the impossible|0.40026217699050903|0.6971242427825928|0.07792207792207792|0.566929817199707|3
+437|सात समुंदर पार|Across the Seven Seas|very far away|0.5218981504440308|0.8294724225997925|0.0|0.6287446022033691|3
+438|अब पछताए होत क्या जब चिड़ियाँ चुग गई खेत|What, when the birds devour the crop,|repenting after the damage is done|0.4133261740207672|0.677588701248169|0.10958904109589042|0.3559623956680298|2
+439|हाथ कंगन को आरसी क्या|What's the RC to the hand bracelet|no proof needed for the obvious|0.4329647123813629|0.5983580350875854|0.08695652173913043|0.43017643690109253|2
+440|तिल का ताड़ बनाना|making a molasses palm|to exaggerate a small issue|0.4262140393257141|0.7468459606170654|0.041666666666666664|0.3922330439090729|2
+441|ठोकर खाना|stumble|to stumble and learn from mistakes|0.5301185250282288|0.5137781500816345|0.15789473684210528|0.756813108921051|3
+442|ठंडा बस्ता डालना|cold sack|to shelve a matter indefinitely|0.38285738229751587|0.6465822458267212|0.0|0.6024696826934814|2
+443|ठंडी साँस भरना|cold breathing|to sigh in sorrow|0.5020747780799866|0.8106791377067566|0.0|0.6464890837669373|1
+444|जी का जंजाल|G's whirlwind|a constant nuisance|0.40964311361312866|0.6983150243759155|0.0|0.5731621980667114|2
+445|जी जान से लगना|clinging to life|to put one’s heart and soul into it|0.4717789590358734|0.6468302607536316|0.0|0.6063552498817444|5
+446|पीठ पीछे वार करना|back to back|to backstab someone|0.5303862690925598|0.5159820914268494|0.29629629629629634|0.6968065500259399|3
+447|पीठ थपथपाना|patting the back|to praise or encourage|0.44277122616767883|0.7933435440063477|0.0|0.5850409865379333|1
+448|पीठ दिखाना|pointing back|to run away from a challenge|0.47968849539756775|0.7653061151504517|0.0|0.6298258900642395|2
+449|पत्ता साफ होना|leaf clearing|to be removed or eliminated|0.4475261867046356|0.7513722777366638|0.0|0.7025488615036011|2
+450|पत्ते खोलना|opening of leaves|to reveal one’s plans|0.49571529030799866|0.7923505306243896|0.0|0.5727474689483643|2
+451|पलड़ा भारी होना|heaviness|to have the upper hand|0.433443546295166|0.6325732469558716|0.0|0.6521081924438477|1
+452|फटे में टांग अड़ाना|a broken leg|to meddle where not needed|0.40850961208343506|0.4960767328739166|0.0|0.4617917835712433|2
+453|फूटी किस्मत|bloated fortune|very bad luck|0.48600974678993225|0.725974977016449|0.0|0.6893094778060913|1
+454|फूटी कोड़ी|scratch|a tiny amount of money|0.43134596943855286|0.47352907061576843|0.0|0.5483288168907166|2
+455|फूल नहीं समाना|not holding flowers|to be overjoyed|0.42928072810173035|0.6420478820800781|0.0|0.5662522315979004|1
+456|रंग में भंग पड़ना|dissolving in color|to have celebrations spoiled|0.42389410734176636|0.7594566345214844|0.0|0.602554440498352|2
+457|रंग बदलना|change of colour|to betray or change stance|0.5159596800804138|0.8263052701950073|0.2|0.6530597805976868|2
+458|रंग लाना|bring color|to succeed|0.581192672252655|0.809048056602478|0.0|0.5310721397399902|2
+459|रंगे हाथ पकड़ा जाना|being caught red-handed|to be caught red-handed|0.9337239861488342|0.8103694319725037|0.7555555555555555|0.9331222176551819|4
+460|लकीर का फ़कीर|The Faqir of the Line|to follow tradition blindly|0.4078579246997833|0.746946394443512|0.0|0.5253978371620178|5
+461|लंबी-लंबी छोड़ना|lengthy leave|to boast with tall claims|0.4565895199775696|0.6591620445251465|0.0|0.5898230671882629|3
+462|लोहा मानना|iron|to acknowledge someone’s superiority|0.44010159373283386|0.44454705715179443|0.0|0.5431429743766785|2
+463|लोहा गरम है चोट कर|Iron is hot hurting|strike while the iron is hot|0.6671789288520813|0.7125644683837891|0.3829787234042554|0.7848792672157288|3
+464|दिन-दुगनी रात-चौगुनी तरक्की|Double the day, double the night, quadruple the growth.|rapid, compounding growth|0.48578962683677673|0.7717034220695496|0.10126582278481013|0.7182900309562683|3
+465|दिन में तारे दिखना|The appearance of the stars during the day|to be in extreme pain or shock|0.4133724868297577|0.8435479998588562|0.0|0.49263840913772583|2
+466|मक्खन लगाना|applying butter|to flatter for gain|0.4548082649707794|0.7998509407043457|0.0|0.573647141456604|2
+467|मगजमारी करना|harassing|to toil mentally|0.512270450592041|0.7995755672454834|0.0|0.6056450605392456|2
+468|माथा पीटना|patting the head|to regret greatly|0.42747005820274353|0.7629803419113159|0.0|0.5335715413093567|1
+469|माथा ठोकना|nodding his head|to plead earnestly or pray|0.4134504795074463|0.6497452855110168|0.0|0.47100183367729187|1
+470|माथे पर बल पड़ना|pressure on the forehead|to appear tense|0.5814045071601868|0.7939531803131104|0.0|0.5913066864013672|2
+471|मान रखना|respect|to honor someone’s feelings|0.4626292884349823|0.7789224982261658|0.0|0.6209813356399536|4
+472|मुँह में दही जमाना|Putting yogurt in the mouth|to remain deliberately silent|0.42805418372154236|0.7849255800247192|0.0|0.5102877020835876|1
+473|मूँछों पर ताव देना|Tapping the whiskers|to show pride or bravado|0.3745373487472534|0.7102845311164856|0.0|0.5256775617599487|2
+474|जग हँसाई होना|to be laughable|to become a public joke|0.6587459444999695|0.725767970085144|0.1111111111111111|0.7898700833320618|5
+475|टांग अड़ाना|ankle sprain|to interfere unnecessarily|0.38460084795951843|0.7902830839157104|0.0|0.4456946849822998|1
+476|तूफ़ान खड़ा करना|raising a storm|to create a big ruckus|0.7148253321647644|0.8282204866409302|0.05714285714285715|0.7215514183044434|5
+477|कलेजा मुँह को आना|coming to the mouth of the liver|to be terrified (near-death feel)|0.3726418912410736|0.5866786241531372|0.0|0.5800686478614807|3
+478|कलेजा ठंडा होना|coldness of the liver|to feel avenged or satisfied after anger|0.4742420017719269|0.82176274061203|0.0|0.5777456760406494|1
+479|घी सीधी उंगली से ना निकले तो टेढ़ी करनी पड़े|If the ghee doesn 't come out of the straight finger, you have to twist it.|use strict means if polite ones fail|0.45976918935775757|0.7234422564506531|0.03278688524590164|0.3771461844444275|3
+480|छाती ठोकना|throbbing in the chest|to boast loudly|0.37767884135246277|0.6663234233856201|0.0|0.5016350746154785|1
+481|छाती पर साँप लोटना|Wrapping a snake around your chest|to be intensely jealous|0.34123966097831726|0.7577937245368958|0.0|0.46885600686073303|3
+482|छाती पर मूंग दलना|crushing a pea on the chest|to oppress or torment someone|0.28533563017845154|0.6582328677177429|0.0|0.5609199404716492|2
+483|छाती चौड़ी होना|breast width|to feel proud|0.43515491485595703|0.6573748588562012|0.0|0.5337547063827515|1
+484|खेत खाए गधा, मारें जुलाहा|The farm eats the donkey, kills the blacksmith.|to punish the wrong person|0.40929093956947327|0.5858801603317261|0.08|0.4258077144622803|2
+485|कुएँ में कूदना|jumping into a well|to jump into trouble knowingly|0.6140338182449341|0.8521578311920166|0.16666666666666669|0.7322158813476562|2
+486|कुआँ खोदना|digging a well|to prepare in advance|0.45754149556159973|0.8396077156066895|0.0|0.5462606549263|2
+487|चींटी की चाल|the ant's movements|very slow progress|0.49023154377937317|0.8207376003265381|0.0|0.5569823384284973|2
+488|गागर में सागर भरना|Filling the ocean in gargoyles|to say a lot in few words|0.3989798128604889|0.6275554895401001|0.07017543859649124|0.4728349447250366|1
+489|ऊँची दुकान फीका पकवान|High store faded dish|great show, poor quality|0.3994654715061188|0.5433735847473145|0.0|0.5903887152671814|2
+490|नाच न जाने आँगन टेढ़ा|crooked courtyard without dancing|blame surroundings for one’s lack|0.4604285657405853|0.5441367030143738|0.0|0.5532571077346802|2
+491|नेकी कर दरिया में डाल|Do good and throw them into the sea.|do good without expectation|0.47847896814346313|0.781512439250946|0.1846153846153846|0.5599492192268372|2
+492|थोथा चना बाजे घना|a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a little, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a.|empty vessels make more noise|0.2733868360519409|0.18330368399620056|0.0|0.4361618459224701|1
+493|रात गई बात गई|The night went by.|let bygones be bygones|0.5498353838920593|0.6590876579284668|0.05263157894736842|0.47360584139823914|2
+494|रातों-रात बदलना|Changing from night to night|to change overnight|0.616771399974823|0.7832769155502319|0.08888888888888889|0.8763826489448547|4
+495|रस्सी जल गई पर ऐंठ न गई|The rope burned but didn 't snap|to be arrogant despite downfall|0.5470010638237|0.7871065735816956|0.0|0.4515416920185089|3
+496|रोज़ का रोना|crying every day|the same old complaint|0.5337691903114319|0.7890826463699341|0.0|0.5813389420509338|1
+497|रोटी-रोज़ी का सवाल|The Question of Bread|a matter of livelihood|0.5484040379524231|0.8354436159133911|0.0975609756097561|0.6285771727561951|2
+498|लाभ-हानि की परवाह न करना|Not caring about profits or losses|to not care about profit or loss|0.9274301528930664|0.8470385670661926|0.608695652173913|0.8837073445320129|4
+499|लाख टके की बात|A million words.|a very valuable point|0.4922128915786743|0.676284909248352|0.0|0.49622204899787903|2
+500|लकड़ी बेकार करना|waste wood|to waste effort (colloquial sense)|0.48672807216644287|0.7863786220550537|0.15000000000000002|0.6514573097229004|1
+501|लड़ाई का मूड बनाना|Creating a Fighting Mood|to get into a quarrelsome mood|0.7515290975570679|0.8367965221405029|0.1111111111111111|0.7586772441864014|4
+502|शक की सूई अटकना|sticking to the needle of doubt|to remain doubtful|0.6128677725791931|0.6404191255569458|0.125|0.8397411704063416|4
+503|सड़कछाप व्यवहार|road mark behavior|rude, rough behavior|0.613710343837738|0.6697703003883362|0.3636363636363636|0.6677847504615784|2
+504|सिर पर चढ़ाना|put on the head|to pamper excessively|0.4526011049747467|0.6869814991950989|0.0|0.5781794786453247|1
+505|सिर पर हाथ फेरना|turning the hand over the head|to bless affectionately|0.4645857810974121|0.8211170434951782|0.0|0.5402018427848816|1
+506|सिर पर तूफ़ान टूटना|Hurricane breaking on the head|to face a sudden calamity|0.4850558936595917|0.7650344371795654|0.0|0.6809514760971069|3
+507|सिर खपाना|head covering|to rack one’s brains|0.4209055006504059|0.7007180452346802|0.0|0.5625314712524414|2
+508|सिर ऊँचा करना|lifting the head|to bring honor|0.596675455570221|0.81863933801651|0.07692307692307691|0.6107264757156372|2
+509|सिर झुकाना|bow your head|to show respect or shame|0.5068181753158569|0.812708854675293|0.0|0.6073758602142334|5
+510|सुबह के भूले शाम को घर आ जाएँ तो भूले नहीं कहलाते|When they come home in the morning, they are not forgotten.|better late than never|0.39271286129951477|0.6266626119613647|0.0|0.4713577628135681|1
+511|अक्ल के घोड़े दौड़ाना|Racing the horses of wisdom|to overthink unnecessarily|0.45173752307891846|0.7751682996749878|0.0|0.5366978645324707|5
+512|अव्वल दर्जे का|of the highest order|of top quality|0.7393887639045715|0.791053295135498|0.06451612903225808|0.6985803842544556|5
+513|अधेड़ उम्र की दिक्कत|The trouble of middle age|middle-age related issues (colloq.)|0.6661099791526794|0.8496320247650146|0.23728813559322035|0.79816734790802|4
+514|अंगारों पर चलना|Walking on grain|to go through hardships|0.450003445148468|0.612285852432251|0.0|0.5800782442092896|3
+515|अंगूठा दिखाना|thumbs up|to refuse bluntly|0.5221948623657227|0.7641226053237915|0.0|0.592400848865509|2
+516|अंगूठा छाप|thumbprint|an illiterate person (dated)|0.44074001908302307|0.8250758647918701|0.0|0.567672073841095|2
+517|अंधेर नगरी चौपट राजा|Andher Nagari Chowpat Raja was born in India.|a place with complete mismanagement|0.3857882022857666|0.5815949440002441|0.0|0.2718268632888794|2
+518|अन्नदान महादान|food and drink|charity of food is supreme (proverbial)|0.5915219783782959|0.6448257565498352|0.07843137254901959|0.5933435559272766|2
+519|अक्ल ठिकाने लगना|Reasonableness|to come to one’s senses|0.44820448756217957|0.6296606063842773|0.0|0.6010317802429199|1
+520|कानून हाथ में लेना|Taking the Law into Your Hands|to take law into one’s own hands|0.8806372880935669|0.8434127569198608|0.393939393939394|0.8143644332885742|5
+521|कान पर हाथ रखना|hand over the ear|to be alarmed or scared|0.39412927627563477|0.742301344871521|0.0|0.5391613245010376|3
+522|कानोंकान खबर न होना|not hearing the news|no one gets wind of it|0.6288114190101624|0.7174086570739746|0.0|0.7001405358314514|4
+523|काला-सफेद करना|black and white|to decide authoritatively|0.4822341501712799|0.692639172077179|0.0|0.6275573968887329|1
+524|कलेजे पर पत्थर रखना|Placing a stone on the liver|to harden one’s heart to do something tough|0.4777807593345642|0.8050054311752319|0.05263157894736841|0.5425404906272888|1
+525|किसी की बैंड बजाना|playing in someone 's band|to thrash or defeat thoroughly|0.42245009541511536|0.8283003568649292|0.0|0.5620702505111694|2
+526|खुल्लम-खुल्ला कहना|Speak openly|to say openly|0.878152072429657|0.8266948461532593|0.39999999999999997|0.8778475522994995|5
+527|खून गर्म होना|warmth of the blood|to feel fired up|0.6105895638465881|0.8085406422615051|0.0|0.700387716293335|1
+528|खुशी के मारे फूले न समाना|Do not be overwhelmed by joy|to be overjoyed|0.6941469311714172|0.7135277986526489|0.28571428571428575|0.7701893448829651|4
+529|गला सूख जाना|dry throat|to feel nervous or scared|0.39322152733802795|0.8183574676513672|0.0|0.541653037071228|2
+530|गला काट प्रतिस्पर्धा|Throat-chopping competition|cut-throat competition|0.6991413831710815|0.8007715940475464|0.6222222222222222|0.8780328035354614|2
+531|गलती पर पर्दा डालना|Covering up the mistake|to cover up a mistake|0.9206283092498779|0.8448450565338135|0.37209302325581395|0.937661349773407|4
+532|गले की फाँस|sore throat|a nagging problem|0.48901084065437317|0.715481162071228|0.0|0.5328727960586548|2
+533|गले मिलना|embrace|to embrace warmly (reconciliation)|0.5060925483703613|0.7979311347007751|0.17142857142857143|0.8340721130371094|5
+534|घड़ी-घड़ी रंग बदलना|Changing the color of the clock|to be fickle|0.5377433896064758|0.7643532156944275|0.0|0.4283682107925415|2
+535|घूम-फिरकर वहीं आना|Going around and getting there.|to end up at the same point|0.40203559398651123|0.701498806476593|0.03333333333333333|0.7087475657463074|3
+536|चक्कर काटना|circumambulation|to make repeated rounds (bureaucracy)|0.454078733921051|0.7363805770874023|0.0|0.6948701739311218|2
+537|चक्की में पिसना|grinding in the mill|to be crushed by circumstances|0.406873494386673|0.7415275573730469|0.0|0.6176316738128662|3
+538|चौबे जी छब्बे बने, दुबे बने न|The fourteenth became sixteenth and the twelfth became nineteenth.|to aim higher and lose what you had|0.36473605036735535|0.41336116194725037|0.05555555555555556|0.39764437079429626|3
+539|चूँ भी न करना|not even kissing|to not utter a word|0.47259098291397095|0.7632362842559814|0.06060606060606061|0.6549616456031799|4
+540|चोली-दामन का साथ|with Choli - Daman|inseparable relationship|0.3734549582004547|0.7965263724327087|0.0|0.5141561627388|2
+541|छोटा मुँह बड़ी बात|The small mouth is the big thing.|big talk from a small person|0.585527241230011|0.7645025253295898|0.21875000000000003|0.6684925556182861|1
+542|जुबान पर ताला लगाना|locking on the tongue|to keep one’s mouth shut|0.5199366807937622|0.7835819721221924|0.0|0.7727563381195068|4
+543|जुबान देना और निभाना|Speaking and acting|to keep a promise|0.46942728757858276|0.7710846662521362|0.0|0.5025412440299988|2
+544|जुबान की कसम|By the tongue.|a solemn vow|0.48591646552085876|0.6302981972694397|0.0|0.5065011978149414|3
+545|जान पर बन आना|Becoming Alive|to be in grave danger|0.43539658188819885|0.6064484119415283|0.0|0.5990180373191833|2
+546|जान हथेली पर लेकर फिरना|Carrying a life in the palm of your hand|to live riskily|0.42195647954940796|0.7956287860870361|0.0|0.6870182752609253|3
+547|जेब ढीली करना|loosening the pocket|to spend money|0.47830650210380554|0.7858496904373169|0.0|0.5263453722000122|2
+548|जेब काटना|pocket cutting|to pickpocket / cheat|0.4501393139362335|0.7967914342880249|0.35714285714285715|0.6892648935317993|2
+549|जोर आज़माइश करना|Trying hard|to test strength|0.6070569753646851|0.8221255540847778|0.0|0.6426174640655518|3
+550|जोर-शोर से करना|loudly|to do with great enthusiasm|0.507517397403717|0.6700334548950195|0.0|0.5757801532745361|2
+551|टेंट-टून बजना|playing tent-tone|to make a loud scene (colloq.)|0.5318280458450317|0.6892919540405273|0.0|0.5373294949531555|1
+552|ठाठ से रहना|being classy|to live in style|0.6207039952278137|0.8232122659683228|0.0|0.6763738989830017|3
+553|डंका पीटना|knocking|to announce loudly|0.41575753688812256|0.666283905506134|0.0|0.6300841569900513|1
+554|ढिंढोरा पीटना|beating|to brag publicly|0.46732470393180847|0.5413199067115784|0.0|0.6123682856559753|1
+555|ढील देना|loosen up|to be lenient|0.46845969557762146|0.7455012798309326|0.0|0.7124466896057129|4
+556|तारीफ़ के पुल बाँधना|Building Bridges of Commendation|to heap praises|0.5172099471092224|0.8193706274032593|0.0|0.7192955613136292|4
+557|तह तक पहुँचना|reaching the bottom|to get to the root cause|0.6507004499435425|0.7921968698501587|0.14285714285714282|0.6473108530044556|2
+558|तन-मन-धन से|by means of wealth and possessions|with body, mind, and wealth; wholeheartedly|0.4525642991065979|0.667799711227417|0.2368421052631579|0.6875858902931213|3
+559|तार-तार करना|wire|to tear apart reputation|0.47800132632255554|0.6976481676101685|0.0|0.5400847792625427|1
+560|तार जोड़ना|adding strings|to connect the dots|0.6324530839920044|0.8053256869316101|0.0|0.539941668510437|2
+561|तीस मार खाँ|Thirty times|a self-proclaimed hero; boaster|0.3626236915588379|0.418452650308609|0.0|0.528885006904602|1
+562|तीन में न तेरह में|Not in three nor in thirteen.|irrelevant to any group|0.42102232575416565|0.7247961759567261|0.0|0.5822559595108032|2
+563|तेल-मसाज करना|oil massage|to flatter for benefit (colloq.)|0.4622085988521576|0.8431715965270996|0.0|0.5014165043830872|2
+564|थक-हार कर बैठ जाना|Sitting down tired|to give up after trying|0.5220590829849243|0.7240925431251526|0.0|0.6313748359680176|2
+565|थाली का बैंगन बनना|Becoming a Plate Bamboo|to switch sides easily (opportunist)|0.398281067609787|0.6148191094398499|0.0|0.582034707069397|2
+566|दिमाग का पारा चढ़ना|Mercury buildup in the brain|to lose temper|0.4784703850746155|0.8206316232681274|0.0|0.5065749883651733|2
+567|दिमाग सातवें आसमान पर|Mind at seventh heaven|to be overconfident or elated|0.38249748945236206|0.7681972980499268|0.0|0.5711788535118103|3
+568|दिमाग की बत्ती जलना|Burning the Light of the Mind|to suddenly get an idea|0.4357333481311798|0.7388740181922913|0.0|0.6274617314338684|5
+569|दाँव खेलना|betting|to take a calculated risk|0.4586784243583679|0.8542032241821289|0.0|0.6558815836906433|4
+570|दाँव-पेंच आज़माना|Trying the Right Way|to use tricks or tactics|0.47217005491256714|0.6712439060211182|0.0|0.718806803226471|2
+571|नाक में नकेल डालना|Putting nickel in the nose|to bring someone under strict control|0.45843324065208435|0.6577227711677551|0.03125|0.5188004970550537|2
+572|नाक रगड़ना|rubbing the nose|to beg desperately|0.4711802899837494|0.7793189287185669|0.0|0.5300180315971375|1
+573|नाक ऊँची रखना|keeping the nose up|to uphold one’s honor|0.5310865044593811|0.8243061900138855|0.0|0.6298127174377441|2
+574|नाक काट कर रख देना|cutting off the nose|to disgrace someone completely|0.4090915322303772|0.7814083099365234|0.0|0.610221266746521|2
+575|नाक पर दम होना|Dyspnea of the nose|to be short-tempered / easily angered|0.42427483201026917|0.7602302432060242|0.0|0.46868380904197693|1
+576|नाक का बाल होना|having nasal hair|to be a favorite / close confidant|0.454526424407959|0.8176770210266113|0.0|0.4745110273361206|2
+577|कान खोलकर सुनना|Listening with an open ear|to listen attentively|0.6935095191001892|0.831905722618103|0.08888888888888889|0.7878271341323853|5
+578|कान देना|to listen|to pay attention|0.7148627638816833|0.8268833756446838|0.0|0.6600624918937683|4
+579|कान पकड़ कर माफी मांगना|Apologizing by Holding Your Ear|to apologize earnestly|0.5226610898971558|0.8086750507354736|0.19607843137254902|0.7375014424324036|4
+580|कान के नीचे देना|put under the ear|to slap / scold sharply|0.43790021538734436|0.8074626922607422|0.0|0.5135751962661743|1
+581|कान में भनक पड़ना|ringing in the ears|to get a hint of something|0.4207005500793457|0.7321302890777588|0.0|0.5557336211204529|2
+582|कान फटना|bursting of the ears|to hear loud/harsh sounds|0.49698808789253235|0.7966220378875732|0.0|0.7033861875534058|2
+583|कान कतरना|ear scratching|to cheat a little from all sides|0.41503629088401794|0.7238327264785767|0.0|0.6108033657073975|1
+584|आँख बचाकर निकलना|Saving the Eye|to slip away unnoticed|0.4693736135959625|0.5821664929389954|0.0|0.5566539764404297|2
+585|आँखें चार होना|having four eyes|to exchange glances / fall in love|0.4821125566959381|0.8166849613189697|0.0|0.5657569766044617|3
+586|आँखें चुराना|stealing eyes|to avoid facing someone|0.37893369793891907|0.7588661909103394|0.06250000000000001|0.519034206867218|2
+587|आँखें तिरछी करना|squinting|to squint in doubt|0.6844485402107239|0.7378392219543457|0.1818181818181818|0.841166079044342|1
+588|आँखों पर पट्टी बंधना|blindfolded|to be blinded to the truth|0.5576614141464233|0.7363392114639282|0.058823529411764705|0.7358993291854858|1
+589|आँखों में बसाए रखना|Keeping your eyes peeled|to cherish someone deeply|0.38461199402809143|0.532717764377594|0.0|0.6057541370391846|5
+590|आँखों ही आँखों में इशारा करना|Looking into each other's eyes|to communicate silently|0.48177066445350647|0.7353777885437012|0.0|0.5317713022232056|3
+591|हाथ आजमाना|try your hand|to try one’s hand at something|0.7209749221801758|0.8106501698493958|0.13953488372093023|0.8333877325057983|4
+592|हाथ पक्का होना|firmness of hand|to be highly skilled|0.522430419921875|0.7745723128318787|0.0|0.5319640636444092|2
+593|हाथ कंगन|wrist bracelet|obvious proof; needs no words|0.3935083746910095|0.7911399006843567|0.0|0.3969646096229553|2
+594|हाथ रोक लेना|restraining the hand|to restrain oneself|0.5188301801681519|0.7953221201896667|0.22857142857142856|0.8187456727027893|4
+595|हाथी के दाँत खाना और, दिखाना और|eating elephant tusks and, showing and|hypocrisy; different inside vs outside|0.4552057385444641|0.7696751356124878|0.0|0.45194166898727417|1
+596|हाथ से हाथ धो बैठना|Hand washing|to lose something completely|0.2578238844871521|0.7245280146598816|0.0|0.5550363063812256|1
+597|हाथ धो बैठना|washing hands|to suffer total loss|0.3416301906108856|0.8010563850402832|0.0|0.4873683750629425|3
+598|हाथी के पाँव में सबका पाँव|Everyone 's feet in the elephant 's feet|the mighty controls all|0.355586439371109|0.7070108652114868|0.031746031746031744|0.4888981580734253|3
+599|हाथ पर रखकर देखना|Watching by hand|to test practically|0.48363110423088074|0.6699813604354858|0.0|0.5993528962135315|4
+600|हाथ टेक देना|giving a handshake|to surrender|0.4091881215572357|0.8123220205307007|0.0|0.6049472093582153|3
+601|पैरों तले की ज़मीन हिलना|shaking the ground beneath the feet|to be shocked badly|0.45452407002449036|0.8144937753677368|0.0|0.5629796385765076|1
+602|पैर पटकना|footstepping|to throw a tantrum|0.40482020378112793|0.7151006460189819|0.0|0.5616335272789001|1
+603|पैरों पर कुल्हाड़ी चलाना|Driving axes on feet|to self-sabotage|0.41109707951545715|0.6483957767486572|0.0|0.5279382467269897|2
+604|पैरों की जूती समझना|Understanding the Footwear|to treat with utter disdain|0.36951056122779846|0.7750982046127319|0.0|0.3987664580345154|1
+605|पैर उखड़ जाना|dislocation of the foot|to lose grip or stability|0.6165696978569031|0.7912583351135254|0.0|0.623552680015564|3
+606|पैरों की बेड़ियाँ|ankle bracelets|constraints that bind progress|0.404574990272522|0.8395078182220459|0.0|0.40523800253868103|2
+607|पाँव पीछे हटाना|withdrawing the foot|to back out|0.6291778683662415|0.7757366895675659|0.0|0.5584676265716553|1
+608|पैरों पर खड़ा होना|standing on one's feet|to become self-reliant|0.5242687463760376|0.8214201927185059|0.0|0.5773959159851074|1
+609|मुँह में राम, हाथ में छुरी|Ram in mouth, knife in hand|to be two-faced|0.45045581459999084|0.7675842642784119|0.0|0.4873671233654022|3
+610|मुँह पर लौकी रखना|Putting lipstick on the mouth|to keep completely silent|0.3799125850200653|0.7588580846786499|0.0|0.522498369216919|3
+611|मुँह मियाँ मिट्ठू|My mouth is sweet|to boast about oneself|0.38605329394340515|0.47127196192741394|0.0|0.49102839827537537|2
+612|मुँह का कौर छीनना|removing the mucous membrane|to snatch someone’s rightful share|0.4259553551673889|0.6337512731552124|0.0|0.5399937033653259|2
+613|मुँह का रख लेना|keeping your mouth shut|to save face|0.5551138520240784|0.6611886620521545|0.0|0.6590209007263184|3
+614|मुँह की बात निकल जाना|word of mouth|to blurt something out|0.4413626492023468|0.7027857303619385|0.0|0.6503688097000122|4
+615|माथा ठनकना|nodding his head|to get suspicious suddenly|0.4228273928165436|0.6909300088882446|0.0|0.4601520299911499|1
+616|माथा ठन जाना|tingling of the head|to clash over ego|0.516387403011322|0.823681116104126|0.0|0.6264357566833496|1
+617|माथे पर लिखना|writing on the forehead|to be written on one’s fate/forehead|0.7308232188224792|0.8070427775382996|0.29508196721311475|0.8287658095359802|3
+618|माथा टेकना|bow your head|to bow in submission|0.624954104423523|0.7942616939544678|0.06666666666666667|0.6783173680305481|5
+619|दिल का हाल समझना|Understanding the Condition of the Heart|to understand true feelings|0.5561164021492004|0.8300723433494568|0.17910447761194032|0.6068400740623474|3
+620|दिल बड़ा करना|enlarging the heart|to be generous/forgiving|0.4748993515968323|0.7981428503990173|0.0|0.557037889957428|3
+621|दिल छोटा करना|shortening the heart|to get discouraged|0.3985607326030731|0.7858706712722778|0.0|0.5833723545074463|2
+622|दिल बहला फुसलाना|Deceiving the heart|to console and distract|0.41668930649757385|0.6031382083892822|0.0|0.5275864601135254|4
+623|दिल का धनी|rich in heart|large-hearted person|0.5698222517967224|0.8174290657043457|0.20689655172413793|0.6968792676925659|3
+624|दिल खोलकर हँसना|Laughter from the heart|to laugh heartily|0.7344587445259094|0.8273115754127502|0.21621621621621623|0.7918591499328613|4
+625|दिल लगा कर पढ़ना|Reading with Intent|to study diligently|0.6421992778778076|0.793984055519104|0.0|0.5093218088150024|3
+626|दिल हार बैठना|heart failure|to lose one’s heart (fall in love)|0.39768585562705994|0.8251892924308777|0.2173913043478261|0.5312039852142334|1
+627|दिमाग ठनकना|wheezing|to get suspicious|0.4644995331764221|0.6315258741378784|0.0|0.5365840196609497|1
+628|दिमाग चकरा जाना|dizziness|to get dizzy/confused|0.519949734210968|0.7242026925086975|0.0|0.8078608512878418|5
+629|दिमाग ठंडा रखना|Keeping the Mind Cool|to stay calm|0.7831200957298279|0.8346730470657349|0.0|0.7466568350791931|4
+630|दिमाग घिसना|wriggling of the brain|to use brain excessively|0.5067692399024963|0.6538854241371155|0.1818181818181818|0.7391814589500427|1
+631|दिमाग पर जोर डालना|Stressing the Mind|to strain the brain|0.7329986691474915|0.7970031499862671|0.17647058823529413|0.7860298156738281|4
+632|दिमाग सातवें आसमान पर होना|Being in the seventh heaven|to be over the moon / cocky|0.5399776101112366|0.6770474910736084|0.11320754716981132|0.49971631169319153|4
+633|दाँत पीसकर रह जाना|grinding of teeth|to swallow anger silently|0.45112699270248413|0.7118725776672363|0.0|0.5801247358322144|2
+634|दाँत नाखून दिखाना|showing teeth and nails|to show aggression|0.5142375230789185|0.8464678525924683|0.0|0.5984925627708435|3
+635|दाँतों तले अंगुली आ जाना|Fingering under the teeth|to be stunned with surprise|0.3704128563404083|0.7001784443855286|0.0|0.48045432567596436|2
+636|दाँत खींच लेना|pulling teeth|to break someone’s courage|0.399193674325943|0.8081269264221191|0.0|0.6003134846687317|1
+637|जुबान चलती रहना|keep the tongue moving|to keep blabbering|0.5514169335365295|0.7891502380371094|0.1081081081081081|0.7018969655036926|1
+638|जुबान मीठी करना|sweetening the tongue|to speak sweetly to please|0.5137142539024353|0.8140127062797546|0.044444444444444446|0.6666614413261414|3
+639|जुबान फँसना|tongue trapping|to get tongue-tied|0.7490056157112122|0.6849009990692139|0.3448275862068966|0.7945196628570557|2
+640|जुबान दराज़ होना|stiffness of the tongue|to be insolent in speech|0.5018576979637146|0.8064267635345459|0.0|0.5485627055168152|2
+641|जुबान पर लगाम लगाना|control of the tongue|to control speech|0.7246119379997253|0.8018485307693481|0.28571428571428575|0.7909980416297913|3
+642|कलेजे में आग लगना|College fire|to burn with jealousy/grief|0.4294526278972626|0.7030935883522034|0.0|0.5920321345329285|2
+643|कलेजे में ठंडक पड़ना|Having a cold in college|to feel satisfied after justice|0.4456002712249756|0.7143843173980713|0.0|0.43727385997772217|3
+644|खून खौल उठना|boiling of blood|to boil with rage|0.6964834332466125|0.8146941065788269|0.0|0.703434944152832|3
+645|खून खून होना|to bleed|to be very close blood relations|0.4416056275367737|0.6561475992202759|0.052631578947368425|0.6188670992851257|2
+646|खून पिला देना|bloodletting|to torment someone severely|0.44908037781715393|0.7733029723167419|0.0|0.545383632183075|2
+647|खून में दौड़ना|Running in blood|to be in one’s nature|0.4014686644077301|0.7867223024368286|0.1111111111111111|0.5773280262947083|2
+648|खून पिघलना|melting of blood|to feel compassion|0.42922577261924744|0.8270319700241089|0.0|0.5954967141151428|1
+649|खून मांगना|asking for blood|to demand revenge|0.4802283048629761|0.8189419507980347|0.0|0.5864988565444946|3
+650|पसीना सुखाना|sweating|to exploit someone’s hard work|0.488447368144989|0.6895814538002014|0.0|0.5846498012542725|1
+651|पसीना पोछना|sweating|to relieve someone’s hardship|0.4147423505783081|0.7972089052200317|0.0|0.5651189088821411|1
+652|पसीना निकाल देना|sweating|to scare/work someone badly|0.4643300473690033|0.7737342715263367|0.0|0.563866376876831|1
+653|रातों की नींद हराम करना|It can be difficult to sleep at night.|to keep someone sleepless|0.7173537015914917|0.6695374846458435|0.12307692307692307|0.7279375791549683|2
+654|रातों रात भाग्य बदलना|Overnight change of fortune|fortune to change overnight|0.9002443552017212|0.804661750793457|0.5769230769230769|0.9177455306053162|5
+655|रात काटना|spending the night|to somehow pass a tough night|0.6714454889297485|0.8242735862731934|0.13043478260869568|0.7767340540885925|1
+656|सिर पर चढ़ बैठना|sitting on the head|to take undue advantage of leniency|0.4164491891860962|0.6609883308410645|0.0|0.5170036554336548|2
+657|सिर पर हाथ रखना|hand on head|to bless or protect|0.4635784924030304|0.7716081142425537|0.0|0.6244708299636841|1
+658|सिर पर कर्ज़ चढ़ना|In the meantime, I have to work hard to get out of debt.|to be burdened with debt|0.5423725247383118|0.5459226965904236|0.04597701149425287|0.7026804089546204|2
+659|सिर से पानी गुजरना|Water passing through the head|to cross all limits / patience|0.4699808955192566|0.835750937461853|0.0|0.572965145111084|1
+660|सिर फोड़ लेना|scratching the head|to take all the blame/work alone|0.4149318039417267|0.7453394532203674|0.11764705882352942|0.5505118370056152|2
+661|सिर फटना|bursting of the head|to get a splitting headache / big fight|0.5839851498603821|0.7085812091827393|0.13793103448275865|0.7307256460189819|3
+662|सिर घुमाना|turning of the head|to confuse someone|0.43419942259788513|0.8075732588768005|0.0|0.6636925935745239|2
+663|सीना ठोकना|throbbing in the chest|to boast confidently|0.3993368446826935|0.6772002577781677|0.0|0.5266947746276855|2
+664|सीना चौड़ा होना|widening of the chest|to feel proud|0.4290376305580139|0.814478874206543|0.0|0.5826113820075989|2
+665|सीना फुलाना|swelling of the chest|to puff up with pride|0.535355269908905|0.817474365234375|0.0|0.622739315032959|3
+666|सीने पर पत्थर रखना|Putting a stone on the chest|to do something painful bravely|0.4398421347141266|0.7857762575149536|0.03333333333333333|0.651030957698822|2
+667|सीने में कील चुभना|Nail piercing in the chest|to feel deep hurt|0.3939763307571411|0.6997165083885193|0.0|0.5291038751602173|2
+668|छाती पर बोझ रखना|carrying a load on the chest|to keep guilt/weight on heart|0.6680036783218384|0.818416178226471|0.06779661016949153|0.6258677840232849|3
+669|छाती धौंकनी चलना|throbbing in the chest|to pant with anger/fear|0.48707136511802673|0.6946887373924255|0.0|0.5787719488143921|2
+670|छाती पर मूँग दल देना|Plucking on the chest|to oppress cruelly|0.4000052511692047|0.6087162494659424|0.0|0.5098346471786499|2
+671|आगाह करना|to warn|to warn in advance|0.7709648013114929|0.824019193649292|0.38095238095238093|0.9289052486419678|4
+672|आग-बबूला कर देना|The burning of a fire.|to enrage someone greatly|0.43330463767051697|0.6152375936508179|0.0|0.5986994504928589|2
+673|आग में तपना|boiling in fire|to go through severe trials|0.44091686606407166|0.8351845145225525|0.0|0.5753971338272095|2
+674|आग ठंडी कर देना|The cooling of the fire|to pacify anger|0.5586997866630554|0.8096520900726318|0.0|0.6286910176277161|2
+675|आग फूँकना|blowing fire|to provoke conflict|0.5149349570274353|0.817054808139801|0.0|0.6650347709655762|1
+676|आग लगा बैठना|sit on fire|to cause trouble unknowingly|0.3976193368434906|0.678955078125|0.0|0.5124838352203369|2
+677|आग बुझाना|extinguishing fire|to resolve a heated situation|0.6036689877510071|0.8410072326660156|0.0|0.6438114047050476|3
+678|आग से निकाल कर राख करना|Removing ash from the fire|to ruin after rescuing|0.5749638080596924|0.7116855978965759|0.0|0.6663323044776917|1
+679|रंग पकड़ना|catching colour|to mature or become noticeable|0.47324302792549133|0.7942543029785156|0.0|0.5826355814933777|2
+680|रंग उड़ जाना|flying colour|to lose color/enthusiasm|0.4587951600551605|0.5427985787391663|0.12121212121212122|0.6093980073928833|4
+681|रंगत फीकी पड़ना|color fading|to look dull/sickly|0.5463688373565674|0.8342167139053345|0.0|0.6247637867927551|2
+682|रंग चढ़ना|coloring|to intensify (influence/celebration)|0.41940730810165405|0.5921852588653564|0.0|0.5321658253669739|1
+683|रंग बदलते देखना|Watching the color change|to witness changing loyalties|0.7116289734840393|0.8114816546440125|0.15384615384615383|0.6740764379501343|2
+684|नाक सूँघना|runny nose|to pry into someone’s matters|0.44410356879234314|0.8102476596832275|0.0|0.4738454818725586|2
+685|नाक का बाल बन जाना|The development of nasal hair|to become someone’s favorite|0.5013951063156128|0.8268676400184631|0.0|0.47647544741630554|1
+686|नाक दबा देना|squeezing the nose|to silence forcefully|0.504483163356781|0.8066501617431641|0.0|0.6649042367935181|2
+687|नाक का पानी उतरना|runny nose|to be utterly humiliated|0.5038228631019592|0.7793904542922974|0.0|0.48777249455451965|2
+688|कान खींचना|pulling the ears|to scold/punish strictly|0.44439712166786194|0.7424381971359253|0.0|0.5216068029403687|1
+689|कान देना-न देना|To listen or not to listen|to ignore what’s being said|0.58749920129776|0.7758767008781433|0.0|0.7069951295852661|3
+690|कान फूंकना|blowing out the ears|to warn privately|0.42097917199134827|0.647727370262146|0.0|0.5094414949417114|2
+691|कान पर हाथ धरे रह जाना|Holding hands over the ears|to be shocked speechless|0.4457274079322815|0.81702721118927|0.0|0.4320465922355652|2
+692|आँख मिलाना|eye contact|to meet the gaze confidently|0.6613003611564636|0.8458574414253235|0.11111111111111112|0.7549130916595459|4
+693|आँख नीची करना|lowering the eye|to lower eyes in shame|0.6906305551528931|0.8080320358276367|0.1111111111111111|0.831263542175293|2
+694|आँखें झुकाना|squinting|to be modest/shy|0.5479823350906372|0.7100900411605835|0.0|0.5787363648414612|1
+695|आँखें तरेर कर देखना|Looking with open eyes|to glare angrily|0.5426543951034546|0.7440693378448486|0.0|0.5834903717041016|4
+696|आँखें चमक उठना|blinking of the eyes|to become excited|0.5140799283981323|0.760944128036499|0.0|0.6006965637207031|2
+697|आँखें नम होना|moisture in the eyes|to get teary-eyed|0.5397661924362183|0.8192336559295654|0.05714285714285714|0.6824843287467957|2
+698|आँखें धोखा खा जाना|Deceiving eyes|to be visually deceived|0.49935880303382874|0.71681147813797|0.12121212121212123|0.8599537014961243|3
+699|आँख का तारा|star of the eye|apple of the eye|0.862038254737854|0.810792088508606|0.689655172413793|0.8208006620407104|2
+700|आँख का तिल|eye moles|someone extremely dear|0.4667671322822571|0.8328307867050171|0.0|0.5126330852508545|2
+701|हाथ से काम निकलना|working out by hand|to get work done by others|0.5425235033035278|0.5942564010620117|0.08888888888888888|0.6242853999137878|3
+702|हाथ गंदा करना|getting your hands dirty|to do dirty/lowly work|0.5548480749130249|0.8248988389968872|0.1333333333333333|0.7254074215888977|5
+703|हाथ पर नाग रखना|holding a snake on your hand|to sit idle doing nothing|0.3863465189933777|0.8321758508682251|0.03703703703703704|0.4867554306983948|3
+704|हाथ डूबना|drowning hands|to sink resources into loss|0.4351349472999573|0.7059265375137329|0.0|0.6062538027763367|1
+705|हाथ थामे रह जाना|holding hands|to stay dependent|0.45326611399650574|0.7733344435691833|0.0|0.5365632176399231|3
+706|हाथ काटकर अलग करना|cutting off the hand|to sever ties completely|0.4674037992954254|0.7371712923049927|0.0|0.7099931240081787|3
+707|पाँव धरना|footing|to set foot (begin)|0.5370035767555237|0.6322396993637085|0.0|0.7824841737747192|2
+708|पाँव पसारकर सोना|Spread your legs and go to sleep.|to relax without worry|0.45501306653022766|0.810461163520813|0.0|0.6182964444160461|2
+709|पाँव फिसलना|slippery foot|to make a slip/mistake|0.42076992988586426|0.8222032785415649|0.0|0.6559503078460693|2
+710|पाँव भारी होना|heaviness of the foot|to be pregnant (euphemistic)|0.4290316104888916|0.8184711933135986|0.0|0.505048394203186|2
+711|पाँव के नीचे से जमीन खींच लेना|Pulling the ground under the feet|to pull the rug from under|0.6023736000061035|0.7442649602890015|0.19672131147540983|0.756293773651123|3
+712|पाँव तले रौंदना|trampling underfoot|to crush mercilessly|0.3978498876094818|0.6143836975097656|0.0|0.6633992195129395|3
+713|पाँव रोक देना|stopping foot|to restrain someone|0.4393833577632904|0.76917964220047|0.0|0.6860669255256653|2
+714|मुँह फुलाना|swelling of the mouth|to sulk|0.42205601930618286|0.831666111946106|0.0|0.5988808274269104|2
+715|मुँह पर ताला लगाना|locking the mouth|to stay tight-lipped|0.7202944755554199|0.834251344203949|0.0|0.7350569367408752|5
+716|मुँह तक आकर लौट जाना|Going back to the mouth|to almost say but stop|0.4740169644355774|0.7512890100479126|0.0|0.609916627407074|3
+717|मुँह फूटना|bursting at the mouth|to blurt under pressure|0.5910333395004272|0.6423807144165039|0.0|0.7294831871986389|5
+718|मुँह के बल गिरना|falling over the face|to fail badly|0.4623832404613495|0.7689943313598633|0.0|0.6235374808311462|2
+719|मुँह-माँगा दाम|low price|price asked without bargaining|0.5457660555839539|0.6155092716217041|0.05714285714285715|0.7753875255584717|1
+720|मुँह में खून लगना|bleeding in the mouth|to become greedy after first gain|0.47653383016586304|0.8408962488174438|0.0|0.507210373878479|2
+721|मुँह में लौकी डालना|Putting onions in the mouth|to hush someone completely|0.40343427658081055|0.8114889860153198|0.0|0.5457075238227844|1
+722|मुँह का स्वाद बदलना|Changes in mouth taste|to lighten the mood|0.5529412627220154|0.8281526565551758|0.0|0.5275989174842834|2
+723|माथा ठोककर मानना|nodding your head|to accept with resignation|0.411118745803833|0.7363344430923462|0.0|0.5733954310417175|2
+724|माथे का पसीना पोंछना|wiping the forehead with sweat|to finish hard work|0.5202158093452454|0.7935463190078735|0.0|0.5678129196166992|2
+725|माथे की लकीरें|forehead lines|lines of fate/concern|0.583784282207489|0.8207259178161621|0.06451612903225806|0.618823766708374|3
+726|माथे पे शिकन|wrinkling of the forehead|wrinkles of worry|0.5707221627235413|0.8000560402870178|0.2051282051282051|0.724617600440979|2
+727|माथा घूम जाना|dizziness|to feel dizzy/overwhelmed|0.526664137840271|0.6762449145317078|0.0|0.7751177549362183|5
+728|माथे पर हाथ मारना|clapping on the forehead|to smack the forehead in regret|0.6891053915023804|0.7641269564628601|0.4|0.8061268329620361|2
+729|दिल दहला देना|to warm the heart|to horrify|0.5982866883277893|0.7972652912139893|0.0|0.5845531225204468|5
+730|दिल में घर कर लेना|Taking Home in the Heart|to make a place in one’s heart|0.5463045835494995|0.7130415439605713|0.2105263157894737|0.7202284336090088|3
+731|दिल पर चोट लगना|injury to the heart|to be emotionally hurt|0.5663306713104248|0.8317685127258301|0.0|0.6588047742843628|3
+732|दिल पे लेना-न लेना|Taking it to heart|to take/not take to heart|0.660975456237793|0.5804657936096191|0.3255813953488372|0.8158829212188721|5
+733|दिल का रोग|heart disease|heartache/grief|0.6080579161643982|0.8487361669540405|0.0909090909090909|0.7170541882514954|2
+734|दिल की बात कहना|Speak from the heart|to confide|0.5557906031608582|0.8391448259353638|0.0|0.6707294583320618|4
+735|दिमाग घूम जाना|dizziness|to get furious or confused|0.45164331793785095|0.6430851221084595|0.0|0.612346887588501|2
+736|दिमाग पर पत्थर रखना|Putting a stone on the head|to force oneself against feelings|0.44881555438041687|0.746037483215332|0.03278688524590164|0.564527690410614|2
+737|दिमाग में कील ठोकना|Nails in the brain|to insist hard on a point|0.4600840210914612|0.6412448883056641|0.0|0.4064338505268097|2
+738|दिमाग की नस दबना|Narrowing of the spinal cord|to lose calm badly|0.4770408570766449|0.8097074031829834|0.0|0.5673797726631165|2
+739|दिमाग ठप्प होना|brain stasis|to have a mental block|0.7242085933685303|0.8251364827156067|0.0|0.7346881628036499|3
+740|दाँत दिखाना-न दिखाना|showing or not showing teeth|to mock or avoid mocking|0.46290379762649536|0.807923436164856|0.07692307692307691|0.4900740385055542|2
+741|दाँत लगना|tooth decay|to become accustomed (badly)|0.39964333176612854|0.7370327115058899|0.0|0.5963338613510132|2
+742|दाँत भींचना|tooth whitening|to endure silently|0.4179900586605072|0.6495975255966187|0.0|0.5201501846313477|2
+743|दाँत की नोक पर रखना|Putting on the tooth tip|to remember exactly|0.43558546900749207|0.746463418006897|0.0|0.5295318961143494|2
+744|दाँत-काटे का बैर|tooth - cutting bar|deadly enmity|0.377787321805954|0.7209460735321045|0.0|0.5495049357414246|2
+745|जुबान की मिठास|sweetness of tongue|sweetness of speech|0.617175817489624|0.8124470114707947|0.6470588235294118|0.8978680372238159|4
+746|जुबान सरकना|slip of the tongue|to slip of the tongue|0.867489755153656|0.7813332676887512|0.8947368421052632|0.8898679614067078|5
+747|जुबान की धार|edge of the tongue|sharpness of words|0.46131882071495056|0.7530762553215027|0.12121212121212122|0.6082060933113098|1
+748|जुबान को ताला|lock the tongue|to keep silent|0.5115906000137329|0.815668523311615|0.0|0.6943844556808472|2
+749|खून खौल जाना|boiling of blood|to boil with rage|0.6988027691841125|0.8167828321456909|0.0|0.7034348249435425|2
+750|खून सूख जाना|dehydration|to be terrified or horrified|0.4491277039051056|0.8286725282669067|0.0|0.5004167556762695|2
+751|खून पीना|drinking blood|to exploit harshly|0.4402216076850891|0.8466942310333252|0.0|0.6308435201644897|2
+752|खून के आँसू रोना|Crying tears of blood|to suffer painfully|0.4528060555458069|0.7928556203842163|0.0|0.6931679248809814|5
+753|पसीना चूना|sweaty lime|to toil severely|0.4676339030265808|0.6782273054122925|0.0|0.5984144806861877|1
+754|पसीना टपकना|dripping sweat|to sweat profusely|0.6846755146980286|0.7600599527359009|0.2222222222222222|0.9001001119613647|4
+755|पसीना रोक देना|stop sweating|to relieve / cool down|0.5602426528930664|0.7957388758659363|0.0|0.7410441637039185|1
+756|सीने में साँप लोटना|Wrapping a snake in your chest|to be eaten up by jealousy|0.4047452509403229|0.6627565026283264|0.0|0.6015142202377319|2
+757|सीने-से-लगाना|breast-to-breast|to embrace warmly|0.4629543721675873|0.5028380155563354|0.0|0.582146406173706|2
+758|सीना-जोरी करना|sewing|to browbeat|0.5156412124633789|0.565470814704895|0.0|0.5589162707328796|1
+759|सीने में धुआँ उठना|Smoking in the chest|to smolder with anger|0.5118573904037476|0.7168768644332886|0.0|0.6476941704750061|3
+760|आग सलाख करना|barking up the wrong tree|to test by ordeal|0.4136246144771576|0.41491273045539856|0.0|0.6241742372512817|4
+761|आग में घिरना|surrounded by fire|to be surrounded by trouble|0.7066656947135925|0.8221943378448486|0.5581395348837209|0.7638325691223145|2
+762|आग सेंकना|cooking fire|to take advantage amid conflict|0.4159325063228607|0.7067631483078003|0.0|0.5354545712471008|2
+763|आग ओकना|burning|to speak venomously|0.4004130959510803|0.6615564823150635|0.0|0.6265160441398621|1
+764|आग बुझा बैठना|extinguishing fire|to lose spirit prematurely|0.5334518551826477|0.7204428911209106|0.0|0.6598913073539734|2
+765|रंग में रंग जाना|coloring in color|to blend in completely|0.4741072952747345|0.740140438079834|0.2222222222222222|0.5725064277648926|2
+766|रंग उछालना|bouncing colour|to malign someone publicly|0.43315061926841736|0.7411868572235107|0.0|0.4918537437915802|2
+767|रंगत लौटना|colored return|to regain glow/cheer|0.5664685964584351|0.5758820176124573|0.0|0.6091197729110718|2
+768|नाक घुसाना|stuffing the nose|to interfere unnecessarily|0.4936601519584656|0.7209881544113159|0.0|0.5490937232971191|2
+769|नाक मरोड़ना|wringing of the nose|to insult or humiliate publicly|0.36663204431533813|0.7938008308410645|0.0|0.584730327129364|2
+770|नाक पर गुस्सा होना|irritation of the nose|to get angry quickly|0.5014287829399109|0.7264041900634766|0.0|0.6396932005882263|2
+771|नाक नीचे करना|lowering the nose|to make someone feel inferior|0.503443717956543|0.8147170543670654|0.0|0.6040905714035034|2
+772|नाक का बाल खींचना|pulling nose hair|to criticize harshly|0.4353261888027191|0.7580142021179199|0.0606060606060606|0.5238271355628967|1
+773|कान में भनक लगना|ringing in the ears|to get a small hint about something|0.41140687465667725|0.7421412467956543|0.0|0.526456892490387|2
+774|कान में फूँक मार देना|blowing in the ear|to secretly manipulate someone|0.4114049971103668|0.7618280053138733|0.0|0.5140132308006287|2
+775|कान पकड़े रह जाना|keeping your ears closed|to stay astonished or scared|0.5143232941627502|0.7157469987869263|0.0|0.6513325572013855|2
+776|कान के नीचे थप्पड़ मारना|slapping under the ear|to slap soundly (figuratively punish)|0.5090001225471497|0.7586065530776978|0.0|0.7644728422164917|3
+777|कान में सीटी बजना|whistling in the ear|to hear unpleasant sounds / tinnitus|0.5020460486412048|0.6788081526756287|0.0|0.7820084095001221|2
+778|आँखों से आँसू पोछना|Washing tears from eyes|to comfort someone in sorrow|0.4372313320636749|0.788608968257904|0.0|0.5997124314308167|5
+779|आँखों में बसा लेना|settling in the eyes|to remember fondly|0.498522013425827|0.7288632392883301|0.0|0.6364926099777222|1
+780|आँखें फेर लेना|looking away|to turn away / stop supporting|0.5468664765357971|0.7826287150382996|0.10810810810810811|0.7647258639335632|5
+781|आँख मूँदकर भरोसा करना|The Bible teaches us to trust in God.|to trust blindly|0.6666538715362549|0.5363999605178833|0.25925925925925924|0.5411131381988525|2
+782|आँखों के आगे अंधेरा छा जाना|Darkness before the eyes|to be momentarily shocked|0.5092344284057617|0.7865763902664185|0.0|0.604064404964447|3
+783|आँख बचाकर काम करना|Keeping an Eye Out|to do secretly|0.4409579336643219|0.7295281887054443|0.0|0.715847909450531|1
+784|आँख खुलना|eye opening|to become aware of truth|0.5227884650230408|0.7531617283821106|0.0|0.6045037508010864|2
+785|आँखों में आँसू भर आना|Tears in the eyes|to feel deeply emotional|0.4975621998310089|0.8008053302764893|0.0|0.5891998410224915|3
+786|आँखें नीची करना|lowering the eyes|to bow in embarrassment or respect|0.3907172381877899|0.8107154369354248|0.0|0.570906400680542|3
+787|हाथ तंग होना|tightness of the hand|to be financially tight|0.533001720905304|0.8279129862785339|0.04761904761904762|0.5617886185646057|1
+788|हाथ ऊपर होना|hand up|to be superior in status or strength|0.3247316777706146|0.7181854248046875|0.0|0.6368107795715332|3
+789|हाथ नीचे होना|hands down|to lose or be defeated|0.4401244819164276|0.6532293558120728|0.0|0.7066692113876343|3
+790|हाथ जोड़ना|joining hands|to plead or show respect|0.47251948714256287|0.8164103031158447|0.0|0.48520809412002563|2
+791|हाथ में काम न होना|Lack of hands|to be idle|0.5058994293212891|0.6814427375793457|0.0|0.5285727977752686|1
+792|हाथ न लगाना|not touching|to avoid touching / involvement|0.7229234576225281|0.8079098463058472|0.3243243243243243|0.8034836649894714|2
+793|हाथ छुड़ाना|loosening the hand|to escape from control|0.5012418627738953|0.7870500683784485|0.0|0.6572980880737305|4
+794|हाथ रोक देना|holding back the hand|to stop mid-action|0.5594490766525269|0.8201454877853394|0.0|0.6115689277648926|3
+795|पैर रखना भी पाप|It 's also a sin to put your feet up .|to be forbidden to enter|0.4546643793582916|0.7803266048431396|0.09090909090909091|0.5210673213005066|4
+796|पैर जमने न देना|Do not let your feet stand still|to obstruct someone’s progress|0.5150814056396484|0.8002880811691284|0.0|0.5721126198768616|3
+797|पैर पर पाँव रखना|standing on the foot|to challenge or overtake|0.4306867718696594|0.7677780985832214|0.0|0.5573568344116211|2
+798|पैरों में गिरना|falling to the feet|to beg for mercy|0.49212774634361267|0.7660683393478394|0.0|0.5989537835121155|4
+799|पैर भारी होना|heaviness of legs|to bring bad luck (figuratively)|0.4160933196544647|0.8137987852096558|0.0|0.4915041923522949|3
+800|पैर धोना|foot washing|to show deep respect|0.40286508202552795|0.8242228031158447|0.0|0.4776671230792999|2
+801|पैर पकड़ लेना|grasping feet|to surrender humbly|0.3697182238101959|0.7202157974243164|0.0|0.5582932829856873|1
+802|पैर रोक लेना|stopping foot|to hesitate before action|0.494632750749588|0.7802524566650391|0.0|0.6212389469146729|2
+803|मुँह मोड़ लेना|turning away|to turn away emotionally|0.8141667246818542|0.8290719985961914|0.125|0.8763551712036133|3
+804|मुँह बंद कर देना|shut your mouth|to silence completely|0.5826497077941895|0.8437182307243347|0.0|0.7512243390083313|3
+805|मुँह चलाना|running the mouth|to speak unnecessarily|0.4868125915527344|0.6469079256057739|0.0|0.5291478633880615|5
+806|मुँह लगाना|mouthing|to get too familiar with elders|0.3639940917491913|0.5794827938079834|0.0|0.5487415790557861|3
+807|मुँह मीठा होना|sweetness of mouth|to taste success|0.5796447396278381|0.7891238927841187|0.0|0.7402269244194031|5
+808|मुँह बिचकाना|wringing of the mouth|to show irritation or disgust|0.442362517118454|0.7893773317337036|0.0|0.6172903776168823|1
+809|मुँह पीटना|spanking|to cry loudly in distress|0.3634375035762787|0.6251171827316284|0.0|0.5922733545303345|1
+810|मुँह धुलवाना|mouth washing|to publicly humiliate|0.38974472880363464|0.7844568490982056|0.0|0.5564298033714294|2
+811|माथे पर शिकन डालना|Squeezing the forehead|to frown slightly|0.5059459805488586|0.7234237194061279|0.0|0.6440312266349792|2
+812|माथे पर लकीरें पड़ना|Stripes on the forehead|to show anxiety or anger|0.4997064173221588|0.7835030555725098|0.0|0.531074583530426|2
+813|दिल में जगह बनाना|Make room in the heart|to win affection|0.5985751748085022|0.8028318285942078|0.0|0.685604989528656|4
+814|दिल में काँटे चुभना|A thorn in the heart|to feel deeply hurt|0.5098662376403809|0.7114928960800171|0.0|0.6419686079025269|5
+815|दिल में खटका होना|heart palpitations|to have a lingering doubt|0.4317092001438141|0.7727940082550049|0.0|0.5271933078765869|3
+816|दिल में गुस्सा रखना|Keeping Anger in the Heart|to hold a grudge|0.6801736950874329|0.8163720965385437|0.0|0.7628186345100403|2
+817|दिल की गहराई से|From the bottom of my heart|from the bottom of one’s heart|0.8743107318878174|0.829537034034729|0.7333333333333334|0.9066747426986694|5
+818|दिल हिल जाना|heartbeat|to be shaken emotionally|0.372952938079834|0.6081056594848633|0.0|0.5460492968559265|1
+819|दिल बाग़-बाग़ होना|The Garden of the Hearts|to feel immense joy|0.45321372151374817|0.6566487550735474|0.0|0.5668953061103821|3
+820|दिल टूटकर रह जाना|being heartbroken|to be devastated|0.6418930888175964|0.8088672161102295|0.0|0.8133856058120728|4
+821|दिल को सुकून मिलना|How can we find peace of mind?|to find peace|0.7638627290725708|0.7772232890129089|0.41860465116279066|0.810160756111145|2
+822|दिमाग खराब कर देना|Destroying the brain|to frustrate someone badly|0.4246102571487427|0.8155773878097534|0.0|0.5173581838607788|2
+823|दिमाग ठिकाने लग जाना|Becoming mentally unstable|to become sensible again|0.5653645992279053|0.7244231700897217|0.0425531914893617|0.6712000370025635|1
+824|दिमाग पर बोझ डालना|Stress on the brain|to overthink|0.5539189577102661|0.8246070146560669|0.0|0.6234053373336792|3
+825|दिमाग गुम होना|loss of consciousness|to lose one’s senses|0.7403810620307922|0.8207095861434937|0.0|0.8221808075904846|5
+826|दिमाग की बत्ती बुझ जाना|The light of the mind goes out.|to go blank suddenly|0.5746325254440308|0.8092668056488037|0.0|0.7035346031188965|3
+827|दाँत किटकिटाना|tooth grinding|to shiver in cold or fear|0.35900548100471497|0.7060321569442749|0.0|0.5407631397247314|2
+828|दाँत नाखून से काम लेना|Tooth - to - nail work|to struggle hard|0.4598102867603302|0.6775604486465454|0.0|0.5291278958320618|2
+829|दाँतों तले अंगुली दबाना|Pressing the finger under the teeth|to be stunned in awe|0.37361404299736023|0.8109205961227417|0.0|0.4214714467525482|3
+830|जुबान बंद कर देना|shutting down the tongue|to silence someone completely|0.5738686919212341|0.8310237526893616|0.0|0.6933872699737549|4
+831|जुबान काट लेना|cutting off the tongue|to regret words spoken|0.44793978333473206|0.8078254461288452|0.0|0.594642698764801|2
+832|जुबान कसना|stiffening of the tongue|to rebuke harshly|0.43344345688819885|0.8092707991600037|0.0|0.571912407875061|4
+833|जुबान के पक्के|stiffness of the tongue|to be true to one’s word|0.41690632700920105|0.6064850091934204|0.04166666666666667|0.5611501932144165|2
+834|जुबान पर ताला|lock on tongue|to keep secrets locked|0.48784008622169495|0.8217000365257263|0.0|0.6770118474960327|1
+835|जुबान फिसल जाना|slip of the tongue|to say something accidentally|0.47101688385009766|0.8151525259017944|0.0|0.6705830097198486|5
+836|जुबान सरक जाना|slip of the tongue|to misspeak|0.48366808891296387|0.8027626872062683|0.0|0.7162280082702637|5
+837|जुबान की मिठास रखना|Keeping the Sweetness of the Tongue|to speak kindly|0.4420391917228699|0.8063244819641113|0.0|0.6156209111213684|5
+838|खून का रिश्ता निभाना|To be related by blood|to uphold family ties|0.596067488193512|0.7969024777412415|0.0|0.7050983309745789|3
+839|पसीना रोकना|stopping sweating|to relieve effort|0.5249871611595154|0.8244598507881165|0.0|0.6818789839744568|2
+840|पसीने-पसीने होना|sweating|to be drenched with effort|0.5971197485923767|0.6949790716171265|0.0|0.7311744689941406|1
+841|सीने में दर्द होना|chest pain|to feel emotional pain|0.5162091851234436|0.83468097448349|0.14285714285714285|0.6848647594451904|3
+842|सीने में जलन होना|burning in the chest|to feel envy|0.4317988455295563|0.8151485919952393|0.0|0.5833677649497986|2
+843|सीने में लावा उठना|Lava rising in the chest|to boil in anger|0.5984514355659485|0.8019094467163086|0.10256410256410255|0.6083989143371582|2
+844|सीने पर बोझ होना|burden on the chest|to feel guilt or burden|0.5957421660423279|0.7890379428863525|0.0975609756097561|0.7405033707618713|2
+845|सीने में आग लगना|Fever in the chest|to feel jealous or provoked|0.39240920543670654|0.7568236589431763|0.0|0.546297550201416|2
+846|रंग दिखाना|Show colour|to reveal true colors|0.6903172135353088|0.8331154584884644|0.14285714285714288|0.6880038976669312|2
+847|रंगीन होना|colourful|to enjoy life freely|0.5468693375587463|0.7520163059234619|0.0|0.5818043947219849|2
+848|रंग फीका पड़ना|color fading|to lose enthusiasm|0.5836057066917419|0.8451858162879944|0.0|0.5772546529769897|3
+849|रंग उड़ना|flying colour|to fade away|0.41655513644218445|0.5209526419639587|0.0|0.6100519299507141|1
+850|रंग जमना|colour freezing|to gain traction|0.5284072756767273|0.7979961037635803|0.0|0.5025777220726013|2
+851|रंग लगना|coloring|to start celebrating|0.5026829242706299|0.6995816826820374|0.0|0.5430110692977905|3
+852|रंग में रँग जाना|staining in color|to blend or adapt fully|0.41695448756217957|0.7529544830322266|0.0|0.5507869720458984|2
+853|अति सर्वत्र वर्जयेत|very ubiquitously tabooed|too much of anything is bad|0.4823187589645386|0.7630958557128906|0.0|0.6481652855873108|1
+854|अपना उल्लू सीधा करना|Straightening your owl|to act selfishly for personal gain|0.4025488793849945|0.7651891112327576|0.0|0.48729008436203003|2
+855|अक्ल ठिकाने लगाना|Reasonableness|to make someone sensible|0.5740881562232971|0.5444707870483398|0.0|0.6255618929862976|1
+856|अंगूर खट्टे हैं|The grapes are sour.|to pretend disinterest after failure|0.4886282980442047|0.8398023247718811|0.0|0.42364925146102905|1
+857|अपनी डींगे हाँकना|Showing off your pride|to brag about oneself|0.5280906558036804|0.6648204326629639|0.0|0.8184741139411926|4
+858|अपनी नाक ऊँची रखना|Keeping your nose up|to maintain self-respect|0.49779489636421204|0.8226546049118042|0.0|0.625062108039856|1
+859|अपना राग अलापना|Let go of your anger|to talk only about oneself|0.5379769802093506|0.5770527720451355|0.0|0.5236713886260986|2
+860|अंधे का हाथ बटेर लगना|Blindness of the hand|to gain something valuable by accident|0.4067050516605377|0.6184030771255493|0.0|0.5273234844207764|1
+861|अंधेरे में रखना|keeping in the dark|to hide the truth deliberately|0.5829591751098633|0.793342113494873|0.125|0.711665153503418|3
+862|अपनी गलती मानना|Accepting Your Fault|to accept one’s fault|0.8654354214668274|0.8749995231628418|0.25641025641025644|0.8881878852844238|5
+863|अपनी डफली अपना राग|Your duffly your rag|to do things one’s own way|0.3205229938030243|0.44620242714881897|0.0|0.5948140025138855|2
+864|अक्ल का पैमाना टूट जाना|The breakdown of the intellectual scale|to act beyond reason|0.5270603895187378|0.8009123802185059|0.0|0.6113985776901245|2
+865|अक्ल घास चरने जाना|Going out to pasture|to act utterly foolish|0.3650207221508026|0.6478143930435181|0.0|0.5152029395103455|2
+866|अंधे के हाथ तिलक लगना|Blindness of the hand|rare stroke of luck|0.47734662890434265|0.5812196135520935|0.10526315789473685|0.6403270363807678|2
+867|अंधा बांटे रेवड़ी|blindly divided herd|to favor one’s own people|0.47507309913635254|0.5352305769920349|0.0|0.6675173044204712|1
+868|अंधे की लकड़ी|wood of the blind|someone completely dependent on another|0.4323391616344452|0.7883079051971436|0.0|0.5594137907028198|2
+869|अंधे की लाठी छीनना|Taking away the wand of the blind|to exploit the helpless|0.45719394087791443|0.7877271175384521|0.10526315789473684|0.6261522769927979|3
+870|अंधे की भी आँख खुल गई|And the eyes of the blind were opened.|even the ignorant realized the truth|0.678128719329834|0.8310000896453857|0.17948717948717952|0.5388203859329224|3
+871|अंधे की रोटी गीली|The blind man's bread was wet.|when bad luck persists|0.4642276465892792|0.8426185846328735|0.0|0.4948353171348572|2
+872|अंधे का नाम सुना, आँखों से नहीं देखा|Hearing the name of the blind, not seeing with the eyes|to hear about something but not experience it|0.4870087206363678|0.7300778031349182|0.07407407407407407|0.6333881616592407|2
+873|अंधा क्या चाहे, दो आँखें|What a blind man wants, two eyes.|people desire what they lack most|0.5076823830604553|0.8190900683403015|0.058823529411764705|0.5713501572608948|1
+874|अंधेरे में रखा जाना|being kept in darkness|to be kept uninformed|0.719067394733429|0.8308086395263672|0.1951219512195122|0.6666591167449951|4
+875|अंधे को सूरज दिखाना|Showing the Sun to the Blind|to tell something obvious|0.5096346735954285|0.854315996170044|0.07547169811320754|0.6332526803016663|1
+876|अंधे को रास्ता दिखाना|Guiding the Blind|to guide the clueless|0.6954346299171448|0.8540644645690918|0.17142857142857143|0.7399452924728394|3
+877|अंधेरे में बैठना|Sitting in the dark|to stay in ignorance|0.6968991160392761|0.8296394348144531|0.10810810810810811|0.6437726020812988|4
+878|अंधा धुन में लगे रहना|Being blindly attuned|to do something mindlessly|0.5203477144241333|0.6376001834869385|0.04545454545454545|0.6617013216018677|1
+879|अंधेरे में सुई खोजना|Finding a Needle in the Dark|to attempt the impossible|0.4538300335407257|0.8440832495689392|0.11320754716981132|0.6581342220306396|4
+880|अंधे के हाथ में दीपक|Lamp in the Hand of a Blind Man|a resource wasted on the incapable|0.4781896770000458|0.8331555724143982|0.11594202898550723|0.5321940779685974|3
+881|अंधा ऊँट सवारी करना|riding a blind camel|to take foolish risks blindly|0.3646914064884186|0.8256136178970337|0.125|0.5734814405441284|5
+882|अंधेरे में रोशनी फैलाना|Spreading Light in the Dark|to spread awareness among the ignorant|0.6265687346458435|0.8421218991279602|0.15151515151515152|0.6390732526779175|3
+883|अंधा राजा प्रजा अंधी|The blind king, the blind people.|leader and followers both foolish|0.5355914235115051|0.7122858166694641|0.0|0.6121580600738525|2
+884|अंधे के भाग्य में चमक|Glowing in the Fate of the Blind|to get lucky unexpectedly|0.39057472348213196|0.7221561670303345|0.0|0.6660030484199524|2
+885|अंधे को रास्ता न सूझना|Do not guide the blind|to be completely lost|0.445559561252594|0.6839823722839355|0.0|0.5632039904594421|5
+886|अंधा प्रेम करना|Blindly Loving|to love without reason|0.6354807019233704|0.8167048692703247|0.0625|0.720744252204895|5
+887|अंधे को हाथ का सहारा|Helping the Blind|a small help to someone in need|0.5370945930480957|0.7229886054992676|0.0|0.6774222254753113|4
+888|अंधे की लाठी|the stick of the blind|only source of dependence|0.44116824865341187|0.8040385246276855|0.08695652173913043|0.5160689353942871|3
+889|अंधे को सपने में रोशनी दिखना|Seeing a Light in a Dream to a Blind Person|to imagine impossible hope|0.46142059564590454|0.7835960984230042|0.0|0.6525958180427551|3
+890|अंधेरे में रहना|Being in the dark|to be ignorant|0.6253872513771057|0.8088808059692383|0.0|0.6277424097061157|3
+891|अंधेरे में रास्ता ढूँढना|Finding the Way in the Dark|to act without clear plan|0.5542733073234558|0.8596323728561401|0.0|0.5869395136833191|2
+892|अंधेरे में छिपाना|Hiding in the dark|to conceal wrong deeds|0.5773448944091797|0.8298850059509277|0.0|0.6769527792930603|3
+893|अंधा रेवड़ी बाँटे|Blind Shepherds Share|favoring without fairness|0.38720396161079407|0.61133873462677|0.0|0.5254908204078674|1
+894|अंधे की किस्मत|The Fate of the Blind|blind luck / chance success|0.5082866549491882|0.8658332824707031|0.044444444444444446|0.658473014831543|2
+895|अंधे को रंग दिखाना|Showing Color to the Blind|to try to explain the unexplainable|0.46346792578697205|0.8540459871292114|0.1935483870967742|0.5997881889343262|3
+896|अंधे का नाम सुना, चेहरा नहीं देखा|Heard the blind man's name, didn't see his face.|heard about but never met|0.5989513993263245|0.8287913799285889|0.07692307692307693|0.554256796836853|3
+897|अंधा क्या देखे, दो आँखें|What the Blind See, Two Eyes|one always desires what they lack|0.38869330286979675|0.7824968695640564|0.16129032258064516|0.5560787320137024|2
+898|अंधा गुस्सा करना|being blindly angry|to get blindly angry|0.928868293762207|0.8179581165313721|0.6666666666666667|0.9327023029327393|2
+899|अंधेरे में डूब जाना|In the darkness.|to fall into ignorance or despair|0.4859119653701782|0.6780396103858948|0.0|0.6286209225654602|2
+900|अंधे के भाग्य में छेद|The Hole in the Blind Man's Destiny|to have perpetual bad luck|0.4165925979614258|0.8210557699203491|0.0|0.6169093251228333|5
+901|अंधे का भाग्य जागना|The Fate of the Blind Awakening|to get lucky suddenly|0.4352015554904938|0.7380383014678955|0.0|0.619748592376709|1
+902|अंधेरे में भटकना|Wander in the dark|to wander without direction|0.670229971408844|0.8298602104187012|0.186046511627907|0.7237503528594971|4
+903|अंधा प्रेम अंधा परिणाम|Blind love is the result of blindness.|blind love leads to trouble|0.7459709048271179|0.7419675588607788|0.26865671641791045|0.7008664011955261|4
+904|अंधेरे में रहकर उजाला ढूँढना|In the midst of the darkness, we find the light.|to struggle for wisdom amidst ignorance|0.6156306862831116|0.7795913815498352|0.06521739130434782|0.561188817024231|5
+905|अंधे के हाथ दीपक लगना|Blind hands lighting a lamp|to get help at the right time|0.4811660349369049|0.770006000995636|0.0|0.4485064148902893|2
+906|अंधा भी रास्ता पहचान गया|Even the Blind One Knows the Way|even the unaware understood|0.6941220164299011|0.853864312171936|0.23333333333333334|0.6457943916320801|3
+907|अंधेरे से डरना|Fear of the Dark|to fear ignorance or truth|0.6682026982307434|0.8468786478042603|0.0975609756097561|0.6391990780830383|3
+908|अंधे को सीधा रास्ता दिखाना|Guiding the Blind|to guide righteously|0.6258901357650757|0.8384484648704529|0.0|0.6678963899612427|3
+909|अंधेरे में दीप जलाना|Lighting a lamp in the dark|to bring hope in darkness|0.6484209895133972|0.844528317451477|0.1886792452830189|0.705488383769989|3
+910|अंधेरे में ताकना|Staring into the dark|to look aimlessly|0.654076337814331|0.8301687240600586|0.0|0.6051602959632874|2
+911|अंधे को नजर आना|Seeing the Blind|to gain realization unexpectedly|0.4946884214878082|0.8170859813690186|0.0|0.6216326951980591|2
+912|अंधे का रास्ता रोकना|Barring the Way of the Blind|to block someone’s progress unjustly|0.47474491596221924|0.8215615153312683|0.0|0.5504889488220215|5
+913|अंधेरे में खोज करना|Searching in the Dark|to explore with uncertainty|0.5973545908927917|0.8302242755889893|0.0|0.6249616742134094|5
+914|अंधे की चड्डी चुराना|stealing a blind man's shorts|to mock the helpless|0.455262690782547|0.7812844514846802|0.0|0.6236644387245178|2
+915|अंधे को दर्पण देना|Mirroring the Blind|to give something useless to someone incapable|0.3624657392501831|0.8118598461151123|0.03076923076923077|0.5111451745033264|2
+916|अंधेरे का फायदा उठाना|How can we make use of the darkness?|to exploit ignorance|0.6298651099205017|0.8228025436401367|0.0|0.5862892866134644|4
+917|अंधेरे में झांकना|peeping in the dark|to peep into the unknown|0.7204868793487549|0.7986029982566833|0.14285714285714288|0.8532811403274536|3
+918|अंधेरे से बाहर आना|Getting Out of the Darkness|to come out of ignorance|0.6681074500083923|0.8239620923995972|0.27450980392156865|0.7387920618057251|3
+919|अंधा राजा राज्य चलाना|Blind King Running the State|incompetent leadership|0.46222129464149475|0.8034098148345947|0.0|0.6100687384605408|1
+920|अंधे की झोपड़ी में रोशनी|Light in the dark|to find hope where none was expected|0.49303582310676575|0.743638277053833|0.0|0.6866651177406311|2
+921|अंधा काँटा निकालना|removing a blind fork|to help at personal risk|0.43807628750801086|0.7016287446022034|0.0|0.548356831073761|1
+922|अंधा कानून चलाना|Blindly Following the Law|to enforce law without logic|0.7172189354896545|0.7176291346549988|0.07692307692307691|0.7371717095375061|4
+923|अंधे को अंधेरे में छोड़ना|Leaving the blind in the dark|to abandon someone helpless|0.5089617967605591|0.8510992527008057|0.0|0.6516485810279846|3
+924|अंधेरे में रहना नहीं चाहिए|Do not stay in the dark|one should not stay ignorant|0.7532908916473389|0.8339167237281799|0.3846153846153846|0.6596938371658325|5
+925|अंधे को दिशा देनी चाहिए|The blind must be guided.|to help the clueless find their way|0.6572532057762146|0.8314015865325928|0.06451612903225806|0.7182759642601013|3
+926|अंधेरे से डरना नहीं चाहिए|Don't Be Afraid of the Dark|one should not fear truth|0.6862088441848755|0.8567076921463013|0.0|0.6592753529548645|2
+927|अंधेरे में दीप जलाना अच्छा है|Lighting a lamp in the dark is good|to bring light even when alone|0.6675630211830139|0.8473043441772461|0.05797101449275362|0.8141420483589172|3
+928|धरती पर पैर रखना|Putting feet on the ground|to stay humble despite success|0.507301390171051|0.8312939405441284|0.0|0.5748392939567566|3
+929|आसमान से गिरना|falling from the sky|to lose everything suddenly|0.4787085950374603|0.832551121711731|0.044444444444444446|0.6697621941566467|3
+930|हवा में उड़ना|flying in the air|to daydream or be overconfident|0.37269604206085205|0.8348315358161926|0.0|0.5761810541152954|1
+931|पानी में रहकर मगर से बैर|In the water, the monkey hates monkeys.|to pick fights with powerful people|0.3600119948387146|0.5308005213737488|0.0|0.4408166706562042|2
+932|खुशियों के झूले झूलना|The swings of happiness|to live in joy|0.5701673030853271|0.7110521793365479|0.0|0.7492036819458008|4
+933|रंगीन मिज़ाज होना|Being colorful|to be flirtatious or fun-loving|0.5595307946205139|0.7584919333457947|0.0|0.643150269985199|1
+934|दिल से खेलना|Playing with the heart|to toy with someone’s feelings|0.5544204711914062|0.8421446681022644|0.15384615384615383|0.6377890706062317|3
+935|दिल का मामला|heart condition|a romantic issue|0.5990056991577148|0.8222166299819946|0.0|0.4937252402305603|2
+936|दिल बड़ा रखना|Keeping the Heart Wide|to be generous or forgiving|0.45331114530563354|0.7504985928535461|0.0|0.5929834246635437|4
+937|दिल छोटा मत करो|Don't cut your heart out.|don’t lose hope|0.6271038055419922|0.66396164894104|0.2|0.7084329128265381|4
+938|दिल लगाना और तोड़ना|Heartbreaking and heartbreaking|to fall in and out of love|0.48229071497917175|0.540115237236023|0.10526315789473684|0.6063458919525146|2
+939|दिल का बोझ हल्का करना|Lightening the Burden of the Heart|to share feelings and feel relieved|0.5119260549545288|0.8269795179367065|0.0|0.6173082590103149|4
+940|दिल से दिल का रिश्ता|A heart - to - heart relationship|a close emotional connection|0.6063108444213867|0.8389358520507812|0.0|0.7542626261711121|4
+941|दिल में आग लगाना|Fire in the heart|to provoke jealousy or passion|0.4165267050266266|0.7178762555122375|0.0|0.561240017414093|5
+942|दिल देना और लेना|Giving and Taking|to love and reciprocate|0.5640193819999695|0.6859625577926636|0.16216216216216214|0.6511659026145935|3
+943|दिल पर राज करना|Reigning over the heart|to rule someone’s heart|0.6477693319320679|0.8093538880348206|0.1333333333333333|0.7815084457397461|5
+944|दिल पर बोझ होना|burden on the heart|to feel guilt or heaviness|0.5810129046440125|0.7834845185279846|0.04545454545454546|0.6557143330574036|4
+945|दिमाग में खिचड़ी पकना|Having hiccups in the brain|to overthink randomly|0.5367287397384644|0.49869033694267273|0.0|0.5975044369697571|2
+946|दिमाग का दही बनाना|How to make brain yogurt|to confuse someone completely|0.3721047043800354|0.8092361092567444|0.0|0.446800172328949|1
+947|दिमाग खपाना|brainstorming|to think very hard|0.4700414836406708|0.7295764684677124|0.0|0.6705886721611023|2
+948|दिमाग लगाना ज़रूरी है|It is important to be mindful.|to use common sense|0.5994524955749512|0.7890648245811462|0.0|0.6531036496162415|2
+949|मुँह में ज़ुबान नहीं|No tongue in the mouth|to be timid or silent|0.3989831805229187|0.8185650110244751|0.0|0.5787511467933655|2
+950|मुँह पर बोलना|mouth talk|to speak directly|0.60065096616745|0.7255501747131348|0.0|0.712426483631134|3
+951|मुँह मीठा कराना|to sweeten the mouth|to celebrate success with sweets|0.6250817179679871|0.8043830990791321|0.11764705882352941|0.707489550113678|2
+952|नाक कटना|cutting off the nose|to lose honor|0.491195410490036|0.6909452676773071|0.0|0.623227059841156|2
+953|नाक ऊँची करना|raising the nose|to make someone proud|0.5056169629096985|0.8121957182884216|0.0|0.5807647109031677|1
+954|नाक बचाना|protecting the nose|to save face|0.6773822903633118|0.8364477157592773|0.0|0.6360988616943359|2
+955|नाक दबाना|squeezing the nose|to force acceptance|0.49677327275276184|0.7967746257781982|0.0|0.5918840169906616|2
+956|नाक चढ़ाना|stuffing the nose|to act proudly|0.512693464756012|0.6331083178520203|0.0|0.5847513675689697|2
+957|कान खड़े करना|raising ears|to become alert|0.5779650211334229|0.7871662974357605|0.0|0.6203821301460266|2
+958|कान में बात डालना|Putting in the ears|to inform secretly|0.44289353489875793|0.6392049193382263|0.0|0.5945202112197876|2
+959|कान में जूँ न रेंगना|Not crawling lice in the ear|to remain unaffected|0.3497459292411804|0.6772177219390869|0.0|0.5203846096992493|2
+960|पैरों तले ज़मीन खिसकना|Sliding the ground underfoot|to be shocked or panicked|0.3756353557109833|0.7414830923080444|0.0|0.5461156368255615|3
+961|पैर उखड़ना|dislocation of the foot|to lose stability|0.6108503937721252|0.7731055617332458|0.0|0.6009864807128906|2
+962|हाथ बाँधकर बैठना|sitting handcuffed|to stay idle or helpless|0.535365879535675|0.7782138586044312|0.0|0.6593155860900879|2
+963|हाथ उठाना|raising hands|to hit or bless|0.46269503235816956|0.817771852016449|0.0|0.7087883353233337|1
+964|हाथ साफ़ करना|washing hands|to steal cleverly|0.3784463107585907|0.8423842191696167|0.0|0.5137549042701721|2
+965|हाथ में खेलना|playing in the hand|to control completely|0.45030906796455383|0.6191322207450867|0.0|0.5443927049636841|3
+966|सिर पर चढ़ना|climbing on the head|to take advantage of leniency|0.42123931646347046|0.6756166219711304|0.0|0.5567830801010132|2
+967|सिर पर सवार होना|riding on the head|to be obsessed or enraged|0.3763889670372009|0.6498236656188965|0.0|0.5842364430427551|1
+968|सिर ऊँचा रखना|Keeping the head up|to uphold dignity|0.5542173981666565|0.8185778260231018|0.0|0.7116308808326721|5
+969|सिर पर तूफ़ान लाना|Bringing a Storm to the Head|to invite big trouble|0.5012680292129517|0.7796823382377625|0.0|0.6680738925933838|4
+970|सिर फोड़ना|scratching the head|to fight violently|0.4753681421279907|0.7174546718597412|0.0|0.6409502029418945|1
+971|सिर पर कर्ज़ होना|Debt on the head|to be in debt|0.5784558653831482|0.7888500094413757|0.0|0.7490842938423157|3
+972|सिर का दर्द|headache|a troublesome person|0.4846687614917755|0.8565491437911987|0.0|0.5609679818153381|1
+973|सीने में जलन|burning in the chest|to feel envy|0.4224216639995575|0.8375121355056763|0.0|0.5833677649497986|1
+974|सीने पर बोझ|burden on the chest|to feel guilt or burden|0.5845558047294617|0.8260742425918579|0.0975609756097561|0.7405034899711609|5
+975|सीने में हवा भरना|filling the chest with air|to instill pride or ego|0.47934937477111816|0.8172882199287415|0.0|0.5753064155578613|3
+976|सीना ठंडा होना|chest coldness|to feel relieved or avenged|0.404439777135849|0.8208267688751221|0.0|0.5328894257545471|2
+977|सीने पर हाथ रखना|Holding hands on the chest|to make a heartfelt promise|0.4361405670642853|0.8226932287216187|0.0|0.47154325246810913|1
+978|सीने में साँस न लेना|Shortness of breath in the chest|to be extremely scared|0.44896870851516724|0.7626490592956543|0.0|0.5294981002807617|2
+979|मन बनाना|make up your mind|to make up one’s mind|0.8626080751419067|0.7857174873352051|0.4210526315789474|0.8832409381866455|5
+980|मन भर जाना|fullness of mind|to lose interest|0.5110535621643066|0.7583473324775696|0.0|0.6595999002456665|2
+981|मन खुश करना|pleasing the mind|to please someone|0.5643090605735779|0.8181486129760742|0.06666666666666667|0.7098265886306763|3
+982|मन बदलना|change of mind|to change opinion suddenly|0.6685644388198853|0.8210934996604919|0.2702702702702703|0.8318079710006714|5
+983|मन लगाकर काम करना|work with your mind|to work sincerely|0.6005498766899109|0.8277466297149658|0.1212121212121212|0.7088399529457092|2
+984|मन जीत लेना|Conquering the Mind|to win hearts|0.6854658722877502|0.8371553421020508|0.0|0.6841523051261902|3
+985|पहला पत्ता गिरने से पहले|Before the first leaf falls|by autumn / before the first leaf falls|0.8200685977935791|0.855484664440155|0.8181818181818181|0.8171373605728149|5
+986|जंजीरों में बंधा महसूस करना|Feeling chained in chains|to feel chained or trapped|0.8092119693756104|0.806903600692749|0.27999999999999997|0.9176652431488037|3
+987|मेरी बुरी किस्मत|My bad luck|just my bad luck|0.9192217588424683|0.861592710018158|0.7499999999999999|0.9102469682693481|5
+988|मेरे जीते-जी|My win-win|over my dead body / as long as I’m alive|0.3436149060726166|0.719553530216217|0.0|0.5131044983863831|3
+989|दुम दबाकर निकल लेना|Pulling out|to run away in fear (tail between legs)|0.3479989767074585|0.6138928532600403|0.0|0.5352687835693359|1
+990|घुटने टेक देना|kneeling|to surrender / kneel in defeat|0.5335969924926758|0.8147462606430054|0.0625|0.741105854511261|2
+991|कौड़ियों के भाव|expression of cocoons|for a pittance / dirt cheap|0.4346707761287689|0.5231982469558716|0.0|0.5541762113571167|3
+992|हाथ गंदे करना|getting your hands dirty|to get one’s hands dirty (do something unsavory)|0.6604199409484863|0.8245854377746582|0.2972972972972973|0.8357736468315125|5
+993|लाड़-प्यार करना|flirting|to pamper / spoil|0.5104938745498657|0.783655047416687|0.0|0.662041962146759|2
+994|हर तरफ से घेर लेना|encircling from all sides|to box in / surround on all sides|0.7760143280029297|0.7773653268814087|0.2807017543859649|0.6776681542396545|5
+995|दिमाग पर छा जाना|being overwhelmed|to get stuck in one’s head|0.4881609082221985|0.4813624322414398|0.0|0.7110122442245483|5
+996|धंधा पहले, मज़ा बाद में|Business first, fun later|business before pleasure|0.837485134601593|0.8674018383026123|0.2666666666666666|0.7529946565628052|5
+997|आसमान छूना (भाव/कीमतें)|touching the sky (prices)|to be sky-high (prices, rates)|0.6384940147399902|0.7595515251159668|0.34615384615384615|0.8455076217651367|4
+998|औरत के पल्लू में छिपना|hiding in a woman's lap|to hide behind a woman’s pallu (show cowardice)|0.5548216700553894|0.7865873575210571|0.29729729729729726|0.7527403235435486|1
+999|बच्चों को भूखा मारना|starving children|to let the kids go hungry / starve|0.6934370398521423|0.782545804977417|0.041666666666666664|0.8809734582901001|5

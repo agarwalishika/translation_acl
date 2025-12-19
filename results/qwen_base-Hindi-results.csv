@@ -1,0 +1,1001 @@
+|source|predicted|ground_truth|da|qe|rouge|embed_distance|laj
+0|आंखें चुराना|"""Stealing Eyes"""|to avoid being seen|0.41116461157798767|0.7164502143859863|0.06666666666666667|0.629115879535675|2
+1|आंखों का तारा|"""The Stars of the Eyes"""|beloved person|0.3985649645328522|0.7676329612731934|0.0|0.55385422706604|1
+2|चेहरा उतरना|"""To be revealed"""|to be sad or disappointed|0.40418145060539246|0.46967431902885437|0.20512820512820512|0.5703767538070679|2
+3|दाँतों तले उंगली दबाना|"""To put one's foot down"""|to be very surprised|0.3882390260696411|0.5936031937599182|0.0|0.5580298900604248|1
+4|साँस लेना|"""Breathe In"""|to feel relieved after hard work|0.37197145819664|0.7937321066856384|0.0|0.507358193397522|2
+5|बात पक्की होना|"""To be on the right track"" or ""To be true"""|to agree on something or finalize a deal|0.5443444848060608|0.6036382913589478|0.11363636363636365|0.6328673958778381|2
+6|बाल-बाल बचना|"""To be a little bit late"""|to narrowly escape from trouble|0.502453088760376|0.5002195835113525|0.0|0.6355987787246704|2
+7|अक्ल का दुश्मन|"""Enemy of the mind"""|a fool who avoids wisdom|0.5151366591453552|0.8085196018218994|0.0|0.5481835007667542|4
+8|जान पर खेलना|"""Playing with the Knowledge"""|to act fearlessly or take great risks|0.46933305263519287|0.5441933274269104|0.0|0.5649664402008057|3
+9|पेट में चूहे कूदना|"""Feeling Nervous or Anxious"""|to be extremely hungry|0.46589896082878113|0.3842369019985199|0.0|0.5639554858207703|1
+10|आसमान पर चढ़ना|Climbing to the Top|to be proud or overconfident|0.4195219874382019|0.8207128047943115|0.0|0.5744432210922241|3
+11|आकाश पाताल का अंतर|The Gap Between Heaven and Hell|to be vastly different|0.46857312321662903|0.8307458162307739|0.0|0.6138938069343567|5
+12|हवा से बातें करना|"""Talking in the Wind"""|to move very fast|0.4639275372028351|0.8174512386322021|0.0|0.5502706170082092|5
+13|पत्थर की लकीर|"""The Stone's Song"""|to be firm on one’s word or decision|0.4053201973438263|0.6105105876922607|0.14035087719298245|0.5296971797943115|2
+14|पहाड़ टूट पड़ना|"""To have a mountain fall on one's head"""|to face a huge problem or calamity|0.510568380355835|0.6848589777946472|0.050632911392405056|0.7431825995445251|3
+15|ईद का चाँद होना|"""To be on the right track"""|to appear after a long time (a rare person)|0.45052388310432434|0.4595581889152527|0.0|0.6008092761039734|1
+16|चकमा देना|"""To give someone a piece of your mind"""|to deceive or trick someone|0.47653207182884216|0.4869629442691803|0.1764705882352941|0.6626281142234802|1
+17|उल्टी गंगा बहना|"""To go against the flow"""|something unusual or against norms happening|0.5271396636962891|0.6484455466270447|0.2028985507246377|0.6260381937026978|5
+18|छक्के छुड़ाना|"""To give up hope"""|to defeat completely|0.47210755944252014|0.5034537315368652|0.0|0.6524868607521057|3
+19|फूँक-फूँक कर कदम रखना|"""To take a step with hesitation"""|to act very cautiously|0.5073131918907166|0.6572712063789368|0.0|0.7297542095184326|4
+20|दम में दम आना|"""To be at a loss for words"""|to regain courage or relief after fear|0.45389822125434875|0.6251288056373596|0.0|0.585319995880127|2
+21|दाँत से दाँत बजाना|"""To Bite the Hand That Feeds You"""|to shiver from cold|0.3817078769207001|0.42045852541923523|0.0|0.6014788746833801|5
+22|मुँह में पानी आना|"""To have water in one's mouth"""|to be tempted by delicious food|0.481518417596817|0.8184895515441895|0.0|0.666947603225708|3
+23|नाक काटना|"""To Cut the Nose"""|to disgrace or embarrass someone|0.36607977747917175|0.7632439136505127|0.0|0.5333535671234131|1
+24|कमर टूटना|"""To be in a bind"" or ""To be in a tight spot"""|to feel exhausted or discouraged|0.4282929599285126|0.5395209193229675|0.07407407407407406|0.5560712814331055|2
+25|कमर कसना|"""To break the ice"" or ""To ease the tension"""|to prepare oneself for a challenge|0.5423547625541687|0.48168066143989563|0.0|0.6169654726982117|4
+26|कलेजा पत्थर का होना|"""To be as strong as a rock"""|to be mentally or emotionally very strong|0.5250731110572815|0.6355085372924805|0.2222222222222222|0.739915132522583|5
+27|दाँत खट्टे करना|"""To bite one's nails"""|to defeat someone badly|0.4284878075122833|0.6379589438438416|0.046511627906976744|0.6714581847190857|2
+28|ईंट से ईंट बजाना|"""To make a noise like a bird"""|to completely destroy or demolish someone|0.3348136246204376|0.3951372504234314|0.0|0.5512977838516235|1
+29|नाक में दम करना|"""To take a stand"""|to annoy someone constantly|0.4093867540359497|0.5469254851341248|0.0|0.5291657447814941|4
+30|नाक पर मक्खी न बैठने देना|"""Not to let the nose get a nosebleed"""|to be strict or disciplined|0.3983483612537384|0.6028127670288086|0.0|0.5060366988182068|2
+31|नाक कट जाना|"""To have one's nose rubbed in something"""|to lose one's honor or respect|0.49283990263938904|0.6237376928329468|0.21333333333333332|0.6132179498672485|3
+32|नाक में तेल डालकर सोना|"""To sleep with one's nose in the fire"" "|to sleep carefreely without worries|0.425619900226593|0.5774882435798645|0.23376623376623376|0.6650412678718567|1
+33|नाक का सवाल होना|"""To have a question on one's mind"""|to be a matter of pride or ego|0.5305261015892029|0.6576017141342163|0.05714285714285714|0.6144967675209045|2
+34|नाक भौं सिकोड़ना|"""To swallow one's pride"""|to show disapproval|0.49448439478874207|0.597653865814209|0.048780487804878044|0.6357591152191162|5
+35|नाक नीची करना|To Bow One's Head|to humiliate publicly|0.36256080865859985|0.7880337834358215|0.0|0.5254215598106384|3
+36|कान खड़े होना|"""To be in a state of hearing"""|to become alert or suspicious|0.5075967907905579|0.5162075161933899|0.06666666666666667|0.6658790111541748|1
+37|कान पर जूँ न रेंगना|"""Don't get caught off guard"""|to remain unaffected or unmoved|0.4283860921859741|0.600354790687561|0.0|0.7158505320549011|5
+38|कान में तेल डालना|"""To Add Oil to the Fire"""|to ignore someone's words|0.42231282591819763|0.5933806896209717|0.0|0.5266191363334656|2
+39|कान में फूंक मारना|"""To hit someone on the head"""|to influence or manipulate someone secretly|0.4449513256549835|0.6443986892700195|0.1917808219178082|0.5445554256439209|3
+40|कान पकड़ना|"""To hold one's ears"""|to vow never to repeat a mistake|0.3918516933917999|0.7334635257720947|0.03703703703703704|0.6276533603668213|2
+41|कान भरना|"""To be overwhelmed or filled with something"""|to manipulate someone against another|0.4609871804714203|0.43515822291374207|0.048192771084337345|0.5409512519836426|2
+42|कान काटना|"""Cutting Off One's Ears"""|to outsmart completely|0.399589866399765|0.7885376811027527|0.0|0.6709516048431396|2
+43|आसमान सिर पर उठाना|"""To lift oneself up to the sky"""|to create a big commotion or panic|0.4316406548023224|0.7443867325782776|0.0|0.6391775608062744|3
+44|आसमान से बातें करना|To Talk to the Sky|to reach great heights or success|0.4589683413505554|0.820404052734375|0.0|0.5405961871147156|2
+45|आसमान से गिरे खजूर में अटके|"""To be stuck in a dilemma or a difficult situation"""|to fall from one trouble into another|0.5993271470069885|0.42763736844062805|0.0|0.7256664633750916|4
+46|आग बबूला होना|"""To be in a tight spot"" or ""To be in a difficult situation"""|to become extremely angry|0.45473334193229675|0.5567949414253235|0.0449438202247191|0.5302959680557251|5
+47|आग में घी डालना|"""Pouring Oil on the Fire"""|to worsen an already bad situation|0.4484284818172455|0.7513999342918396|0.0|0.5037166476249695|4
+48|आग में कूदना|"""To be at the mercy of circumstances"""|to take a dangerous risk|0.49833032488822937|0.4674369990825653|0.0|0.6716094017028809|5
+49|आग लगना|"""To catch fire"""|to become furious or jealous|0.3680785596370697|0.7474005818367004|0.0|0.5862097144126892|1
+50|आग ठंडी होना|"""The fire becomes cold"""|to calm down after anger|0.6072830557823181|0.8230527639389038|0.0|0.6383907198905945|2
+51|आग उगलना|"""To Spread Like Wildfire"""|to speak harshly or aggressively|0.39424580335617065|0.6438518762588501|0.07142857142857144|0.5377747416496277|4
+52|आग से खेलना|"""Playing with Fire"""|to invite danger knowingly|0.5617570281028748|0.8472611904144287|0.0|0.5654367208480835|2
+53|आग लगाना|"""To set fire to"""|to instigate or provoke trouble|0.40292826294898987|0.7078115940093994|0.0|0.687371015548706|1
+54|आग दिखाना|"""To show the way forward"""|to show anger or power|0.49161168932914734|0.5468628406524658|0.2553191489361702|0.6380982398986816|2
+55|आग लग जाना|"""To Start Burning"""|to feel jealous or restless|0.3647584319114685|0.7207711935043335|0.0|0.512953519821167|3
+56|आग बन जाना|"""To become a fire"" or ""To ignite"""|to become furious|0.54623943567276|0.6970707774162292|0.3333333333333333|0.678740382194519|2
+57|आग पर तेल डालना|"""To add fuel to the fire"""|to intensify an argument or situation|0.5347020030021667|0.8377020359039307|0.0|0.6804839372634888|4
+58|धूल चाटना|"""To be busy with trivial matters"""|to face defeat or humiliation|0.5201500058174133|0.44195088744163513|0.0|0.5913952589035034|4
+59|धूल फाँकना|"""To stir up trouble"""|to struggle in poverty or hardship|0.47928476333618164|0.6550518274307251|0.07407407407407407|0.6458393931388855|2
+60|धूल झाड़ना|"""To stir up dust"""|to scold or reprimand strongly|0.4254646599292755|0.7271591424942017|0.04347826086956522|0.5699653625488281|2
+61|धूल में मिलाना|"""To be caught in a web of lies"""|to destroy completely|0.4309080243110657|0.6039941906929016|0.0|0.5169355869293213|2
+62|धूल उड़ाना|"""To be in a state of confusion or disarray"""|to make a scene unnecessarily|0.5390222072601318|0.6073739528656006|0.05263157894736841|0.49355795979499817|4
+63|धूल झोंकना|"""To be in a state of confusion or bewilderment"""|to deceive or mislead someone|0.4843253195285797|0.5409363508224487|0.05|0.591571033000946|4
+64|हवा निकल जाना|"""The wind blows away"""|to lose courage suddenly|0.45020791888237|0.7629009485244751|0.0|0.6047844290733337|3
+65|हवा खा जाना|"""To be out of breath"" or ""To be gasping for air"""|to run away secretly|0.480379194021225|0.6996935606002808|0.0|0.5095168948173523|5
+66|हवा में उड़ाना|"""Flying Blind"""|to waste money carelessly|0.3875647485256195|0.49412402510643005|0.0|0.5041956901550293|2
+67|हवा बन जाना|"""To be blown away"""|to disappear quickly|0.4780350625514984|0.7774347066879272|0.0|0.6941972970962524|4
+68|हवा में बात करना|"""Talking in the Air"""|to speak without proof or sense|0.44246622920036316|0.8014280796051025|0.0|0.6643937826156616|1
+69|हवा लगना|"""The wind blows"""|to be influenced by others|0.3975626826286316|0.6733310222625732|0.0|0.5694206357002258|1
+70|हवा देना|"""To give air"" or ""To breathe"""|to encourage or instigate something|0.44597163796424866|0.6447622776031494|0.06349206349206349|0.6071622371673584|2
+71|हवा बदलना|"""To Change the Wind"""|to change situation or environment|0.5516287684440613|0.7834389209747314|0.3018867924528302|0.6595467329025269|2
+72|हवा चखना|"""To take a deep breath"""|to get a taste of something new (usually trouble)|0.532173216342926|0.7632614374160767|0.026666666666666665|0.6357296109199524|1
+73|हवा बंद होना|"""The Wind Stops Blowing"""|to lose confidence completely|0.42119136452674866|0.8034250140190125|0.0|0.5374077558517456|2
+74|आँख में धूल झोंकना|**To see smoke in one's eyes**|to deceive or fool someone|0.4241591691970825|0.6925488710403442|0.0|0.5035572648048401|5
+75|आँखें फटी की फटी रह जाना|"""To be seen as if one has fallen asleep"""|to be shocked or amazed|0.3939940631389618|0.4884782135486603|0.1492537313432836|0.596664309501648|1
+76|आँखों में धूल झोंकना|"""To see smoke in one's eyes"""|to cheat someone cleverly|0.4497596323490143|0.6824581623077393|0.037037037037037035|0.5432484745979309|1
+77|आँखों में बस जाना|"""To be swallowed up by one's eyes"""|to win someone’s heart|0.4403269588947296|0.6596516966819763|0.13559322033898308|0.6489090323448181|1
+78|आँखों से ओझल होना|"""To see with one's eyes"""|to disappear from sight|0.4096910059452057|0.48313528299331665|0.0|0.7134897708892822|2
+79|आँख दिखाना|"""To Show One's Face"""|to threaten or scold harshly|0.3729132413864136|0.689386248588562|0.0|0.5214776396751404|3
+80|आँख तरेरना|"""To be in a state of confusion or bewilderment"""|to glare angrily|0.5078590512275696|0.6517523527145386|0.0|0.5191764831542969|4
+81|आँखें फाड़ना|"""To Open One's Eyes"""|to stare in surprise|0.46475204825401306|0.6343830823898315|0.0|0.5694438219070435|5
+82|आँखें मूँदना|"""To Close One's Eyes"""|to ignore intentionally|0.46053895354270935|0.7862491607666016|0.0|0.5216603875160217|2
+83|आँखों में आँसू आना|"""To see tears in one's eyes"""|to become emotional or sad|0.4983309805393219|0.772174060344696|0.0|0.6812165379524231|4
+84|दिल लगाना|"""To have a heart-to-heart talk"""|to fall in love|0.4550973176956177|0.5418685078620911|0.0|0.6290343403816223|4
+85|दिल तोड़ना|"""To let go of one's heart"""|to break someone's heart|0.5549598932266235|0.7485663294792175|0.3461538461538462|0.7825788855552673|2
+86|दिल जीतना|"""To have a heart-to-heart conversation"""|to win someone's affection|0.5177231431007385|0.5536670684814453|0.0|0.6449997425079346|4
+87|दिल पर लेना|"""Heartfelt"" or ""Deeply"""|to take something personally|0.39590492844581604|0.3887174427509308|0.0|0.5669563412666321|4
+88|दिल लगाकर काम करना|"""Working with the heart"""|to work wholeheartedly|0.6479063034057617|0.8197696805000305|0.09302325581395349|0.6580485105514526|5
+89|दिल में बात रखना|"""To hold a conversation in one's heart"""|to hide one’s feelings|0.5483885407447815|0.7746566534042358|0.21874999999999997|0.7179026007652283|1
+90|दिल पर पत्थर रखना|"""To Put a Stone in One's Heart"""|to act bravely despite pain|0.43829312920570374|0.763367772102356|0.0|0.6090090870857239|1
+91|दिल जलना|"""To feel a burning sensation in one's heart"""|to feel jealous or envious|0.4203749895095825|0.7710905075073242|0.16216216216216217|0.6332967281341553|4
+92|दिल बहलाना|"""To be heartbroken"""|to distract from sadness|0.5057002902030945|0.4931766986846924|0.0|0.6863471865653992|2
+93|दिल धड़कना|"""To feel the heat"""|to feel nervous or excited|0.45063474774360657|0.4834023416042328|0.2790697674418605|0.6219370365142822|3
+94|दिल खोलकर देना|"""To give someone a heart attack"""|to be generous|0.44423791766166687|0.5102871656417847|0.0|0.588226318359375|1
+95|दिल में चोर होना|Feeling Like a Thief in the Night|to have guilt or bad intentions|0.3917454183101654|0.7050353288650513|0.0|0.5800065398216248|4
+96|दिल में बसना|"""To be in one's heart"""|to be deeply loved or remembered|0.463711142539978|0.7505554556846619|0.14285714285714288|0.711354672908783|1
+97|दिल का हाल बताना|"The idiom ""दिल का हाल बताना"" translates to ""to express one's feelings"" or ""to convey one's emotions"" in English. This phrase is often used to describe the act of sharing one's innermost thoughts and feelings with someone else."|to express inner feelings|0.6930772662162781|0.5444872975349426|0.14728682170542634|0.46242424845695496|4
+98|दिल टूट जाना|"""To Lose One's Heart"""|to feel heartbroken|0.5241337418556213|0.724395215511322|0.15789473684210528|0.7240815758705139|5
+99|दिल खुश हो जाना|Feeling Contentment|to become happy|0.6596737504005432|0.7860804796218872|0.0|0.7125585079193115|4
+100|दिल में बात आना|"""To feel something in one's heart"""|to get an idea or feeling|0.5474836826324463|0.7538758516311646|0.06451612903225808|0.7402094602584839|5
+101|दिल से उतर जाना|"""To feel a sense of relief"""|to lose affection or trust|0.477342814207077|0.5091985464096069|0.0|0.6190427541732788|2
+102|दिल से लगाना|"""To feel or experience something deeply"""|to love or treat affectionately|0.5585007071495056|0.7442863583564758|0.05555555555555555|0.6282070279121399|4
+103|दिल लगा रहना|"""Feeling Like It"""|to stay interested or focused|0.34986984729766846|0.45283225178718567|0.0|0.6005272269248962|1
+104|दिमाग चलना|"""Thinking Out Loud"""|to think cleverly|0.5519953966140747|0.5120247602462769|0.125|0.6606512069702148|5
+105|दिमाग खराब होना|"""To have a bad mind"" or ""To have a bad head"""|to lose temper or sanity|0.5362589955329895|0.6366040110588074|0.05555555555555555|0.6324222087860107|4
+106|दिमाग लगाना|"""To think about something"""|to use intelligence or creativity|0.5243309736251831|0.7767348289489746|0.0|0.7258555889129639|4
+107|दिमाग ठिकाने लगाना|"""To fix one's mind on something"""|to discipline or bring to senses|0.5867472290992737|0.7605656385421753|0.02985074626865672|0.6670113801956177|4
+108|दिमाग का दही होना|"""To be in a state of confusion or bewilderment"""|to get mentally exhausted|0.5808243155479431|0.4774695932865143|0.0|0.6234376430511475|2
+109|दिमाग घुमाना|"""To think or ponder deeply"""|to confuse or manipulate someone|0.47474125027656555|0.6775040626525879|0.06779661016949153|0.5430715680122375|1
+110|दिमाग का ताला खोलना|"""To lose one's mind"" or ""To go crazy"""|to start thinking or understanding|0.49318620562553406|0.4738222062587738|0.0547945205479452|0.6244091987609863|1
+111|दिमाग खाना|"""To have a mental breakdown"""|to irritate by constant nagging|0.47503748536109924|0.4901517331600189|0.0|0.5800427198410034|2
+112|दिमाग लग जाना|"""To get a headache"""|to focus attention on something|0.35085567831993103|0.5806304216384888|0.0|0.6065254211425781|2
+113|दिमाग में बात आना|"""An Idea Strikes"""|to get a sudden idea|0.6231418251991272|0.763876736164093|0.17142857142857143|0.780020534992218|4
+114|पानी-पानी होना|"""To be in the same boat"""|to feel embarrassed or ashamed|0.43244311213493347|0.7304598093032837|0.0|0.5584524273872375|5
+115|पानी फिर जाना|"""The water flows back"""|to have plans fail suddenly|0.5225295424461365|0.7661195993423462|0.0|0.5695645213127136|1
+116|पानी मांगना|"""To ask for water"""|to beg for mercy|0.6462743878364563|0.8229978084564209|0.18750000000000003|0.6290469169616699|1
+117|पानी उतारना|"""To Pour Water"""|to humiliate someone publicly|0.35508158802986145|0.6342580914497375|0.0|0.536174476146698|2
+118|पानी सिर से गुजरना|"""To be overwhelmed by something"""|to reach the limit of patience|0.527198076248169|0.5713896751403809|0.0|0.6375560164451599|4
+119|पानी में आग लगाना|"""To set fire to a boat"""|to attempt the impossible|0.5610733032226562|0.7060150504112244|0.041666666666666664|0.6549095511436462|2
+120|पानी पर लिखा|"""Written on Water"""|to be temporary or futile|0.4294566810131073|0.8241096138954163|0.0|0.5585047006607056|2
+121|पानी बराबर होना|"""Equalizing the Water"""|to be equal in strength or skill|0.43661025166511536|0.7669090032577515|0.07407407407407408|0.6909681558609009|4
+122|पानी पीना|"""Drinking Water"""|to feel comfortable after fear|0.4063987731933594|0.8033084869384766|0.0|0.5045750141143799|1
+123|पानी मांगना पड़ना|"""To be thirsty for water"""|to be defeated badly|0.4730343520641327|0.7490273714065552|0.1818181818181818|0.6304747462272644|2
+124|पानी लाना|"""To bring water"""|to bring respect or reputation|0.5113850235939026|0.801566481590271|0.3181818181818182|0.6154149174690247|1
+125|हाथ बँटाना|"""To Break Out"""|to help or assist someone|0.43541809916496277|0.44559070467948914|0.0|0.4911852777004242|1
+126|हाथ धोकर पीछे पड़ना|"""To run away from something with one's hands in the air"""|to chase or target relentlessly|0.5476827025413513|0.5748167634010315|0.0|0.6592137217521667|2
+127|हाथ खड़े कर देना|"""To put one's hands on something"""|to give up completely|0.39172860980033875|0.7088315486907959|0.0|0.648464560508728|3
+128|हाथ पाँव फूल जाना|"""To be completely absorbed or engrossed"""|to panic or get nervous|0.5045139193534851|0.5363686680793762|0.06250000000000001|0.5440309047698975|1
+129|हाथ मलना|"""To be in a tight spot"""|to regret something deeply|0.40845367312431335|0.3978397250175476|0.0|0.575044572353363|2
+130|हाथ साफ़ होना|"""To have a clean hand"" or ""To be clean-handed"""|to be skilled or experienced|0.4856220781803131|0.7138359546661377|0.18181818181818182|0.5568885803222656|3
+131|हाथ पर हाथ धरे रहना|"""To hold one's breath"""|to do nothing|0.40790387988090515|0.5165157318115234|0.0|0.6348519325256348|3
+132|हाथ की सफाई दिखाना|"""Showing one's hand"""|to show cleverness or skill|0.44139936566352844|0.57301265001297|0.043478260869565216|0.6610335111618042|2
+133|हाथ में लेना|"""To take hold of"" or ""To grasp"""|to take responsibility for something|0.4535798132419586|0.7386554479598999|0.1791044776119403|0.5817980766296387|3
+134|हाथ से निकल जाना|"""To be taken by surprise"""|to miss an opportunity|0.5116915106773376|0.5197592377662659|0.0|0.6951879858970642|1
+135|हाथ लगना|"""To feel the weight of something"""|to get caught or succeed|0.4770481586456299|0.5178021192550659|0.06896551724137931|0.5345680713653564|5
+136|हाथ धोना|"""To wash one's hands"""|to lose something completely|0.30918800830841064|0.7985586524009705|0.0|0.6447060108184814|2
+137|हाथ मिलाना|"""To shake hands"""|to collaborate or agree|0.4699852466583252|0.8083897829055786|0.0|0.6148089170455933|2
+138|हाथ बाँधना|"""To Hold One's Breath"""|to restrict or tie someone’s ability|0.409193754196167|0.5288732647895813|0.13333333333333333|0.5643932819366455|3
+139|हाथ ऊँचा होना|"""To be on one's toes"""|to be more powerful or dominant|0.33527058362960815|0.5363534092903137|0.14814814814814814|0.6366076469421387|5
+140|हाथ जलना|"""To Feel the Heat"""|to learn by mistake|0.47806093096733093|0.4701063334941864|0.0|0.5397661328315735|3
+141|हाथ थामना|"""To put one's hands on something"""|to support someone|0.4673860967159271|0.7327289581298828|0.0784313725490196|0.6615923047065735|1
+142|हाथ पसारना|"""To lose one's grip"""|to beg or plead|0.45404961705207825|0.5405080318450928|0.0|0.5871564745903015|1
+143|हाथ काटना|"""To Cut One's Hand"" "|to separate or break relation|0.3348974585533142|0.7200353145599365|0.0|0.5728310346603394|1
+144|हाथ मोड़ना|"""To Fold One's Hands"""|to refuse or reject something|0.29776760935783386|0.7175610065460205|0.0|0.5406957268714905|5
+145|पैर पसारना|"""To lose one's footing"""|to spend or expand beyond means|0.41688472032546997|0.5838183164596558|0.0|0.596050500869751|4
+146|पैर जमाना|"""To get stuck"" or ""To be stuck"""|to settle firmly|0.4325180947780609|0.3840540051460266|0.0|0.6168838739395142|2
+147|पैर पकड़ना|"""To hold onto something tightly"""|to beg for forgiveness|0.39139512181282043|0.5888720750808716|0.0|0.5801047086715698|2
+148|पैर तले ज़मीन खिसकना|"""To lose one's footing"""|to be shocked or lose ground|0.5782821774482727|0.6258291602134705|0.15384615384615385|0.7563106417655945|4
+149|पैर पर कुल्हाड़ी मारना|"""To Hit Someone on the Head"""|to harm oneself by one’s own actions|0.45306196808815|0.5491492748260498|0.058823529411764705|0.5820812582969666|3
+150|पैर पीछे खींचना|"""To look back"""|to withdraw from commitment|0.4527115821838379|0.615235447883606|0.0|0.5075994729995728|3
+151|पैर फैलाना|"""To lose one's footing"""|to extend scope gradually|0.49262765049934387|0.5535971522331238|0.0|0.3970680236816406|3
+152|पैर रोकना|"""To hold one's breath"""|to restrain or hesitate|0.48015883564949036|0.6228649616241455|0.0|0.731818675994873|3
+153|पैर रखना|"""To hold one's ground"" or ""To stand firm"""|to begin something new|0.4148253798484802|0.5828766822814941|0.0|0.5156497955322266|4
+154|पैर उठाना|"""To Stand Up"""|to show disrespect or overconfidence|0.4182193875312805|0.68525630235672|0.0425531914893617|0.5534346103668213|3
+155|मुँह बनाना|"""To Make a Face"""|to show annoyance or sadness|0.41291823983192444|0.7219101786613464|0.0|0.5841975808143616|2
+156|मुँह खोलना|"""Opening One's Mouth"""|to start speaking up|0.5235864520072937|0.7975718379020691|0.05128205128205128|0.6147277355194092|3
+157|मुँह लटकाना|"""To be stuck in one's own thoughts or ideas"""|to look disappointed|0.4347456097602844|0.49837741255760193|0.0|0.5114717483520508|5
+158|मुँह की खाना|"""Mouthful of Food"""|to suffer humiliation|0.38795337080955505|0.5309271812438965|0.0|0.5471095442771912|3
+159|मुँह मोड़ना|"""To Hold One's Tongue"""|to turn away or refuse help|0.33105623722076416|0.5596100091934204|0.0|0.5774093866348267|1
+160|मुँह दिखाना|"""To show one's face"""|to appear shamelessly after wrongdoing|0.5239580273628235|0.7990666627883911|0.0|0.6769757866859436|3
+161|मुँह में राम बगल में छुरी|"""In the mouth, Ram; behind the ear, churri"""|to be deceitful in nature|0.3545512557029724|0.5225081443786621|0.029411764705882356|0.4530705213546753|2
+162|मुँह माँगी मुराद मिलना|"""Desire comes when you ask for it"""|to get exactly what one wanted|0.5664238929748535|0.7565746903419495|0.0|0.5830183625221252|4
+163|मुँह बंद रखना|"""To keep one's mouth shut"""|to stay silent|0.6533510088920593|0.8116446733474731|0.0|0.7999062538146973|4
+164|मुँह खुलवाना|"""Opening One's Mouth"""|to make someone speak|0.47847267985343933|0.7694443464279175|0.10000000000000002|0.5851036906242371|3
+165|मुँह चुराना|"""To Steal One's Words"""|to avoid facing someone|0.40559208393096924|0.6223056316375732|0.0|0.4786040782928467|2
+166|मुँह तोड़ जवाब देना|"""To speak out one's mind"""|to give a fitting reply|0.5039432644844055|0.6407926082611084|0.0|0.5853845477104187|4
+167|मुँह में घी शक्कर|"""To be full of butter and sugar"""|used to bless or hope for good news|0.4246923625469208|0.6082531213760376|0.05555555555555555|0.5095021724700928|2
+168|मुँह लगना|"""To be at a loss for words"""|to act too familiar with elders|0.446432888507843|0.5444208383560181|0.0|0.5562697649002075|1
+169|मुँह में जुबान न होना|"""Not having a mouthful of joy"""|to be timid or unable to speak up|0.40887248516082764|0.5580155849456787|0.0|0.6006907820701599|1
+170|मुँह से बात निकलना|"""To speak without thinking"""|to accidentally reveal something|0.541890025138855|0.7040392756462097|0.0|0.6260473132133484|1
+171|हिम्मत हारना|"""To lose one's courage or spirit"""|to lose courage|0.7538424134254456|0.7623435258865356|0.45833333333333337|0.881429135799408|5
+172|हिम्मत रखना|"""To be cautious or careful"""|to stay strong and confident|0.5885921716690063|0.652705192565918|0.0|0.6149628162384033|4
+173|हिम्मत बाँधना|"""To hold one's breath"""|to encourage oneself|0.5384465456008911|0.6736646890640259|0.049999999999999996|0.6290355324745178|2
+174|हिम्मत जुटाना|"""To be taken aback"" or ""To be caught off guard"""|to gather courage|0.47056296467781067|0.5329622030258179|0.0|0.6082579493522644|4
+175|हिम्मत टूटना|"""To lose one's resolve"""|to become hopeless|0.6022668480873108|0.7940191626548767|0.0|0.7396390438079834|4
+176|हिम्मत दिखाना|"""To show one's resolve"""|to show bravery|0.6757097244262695|0.8175212740898132|0.33333333333333337|0.7986640930175781|5
+177|हिम्मत बढ़ाना|"""Boosting Motivation"""|to motivate or encourage someone|0.5439236164093018|0.7996670007705688|0.19999999999999998|0.793311595916748|5
+178|जुबान चलाना|"""To be in a bind"" or ""To be in a tight spot"""|to talk disrespectfully|0.38465872406959534|0.4608084261417389|0.0|0.4827592074871063|5
+179|जुबान फिसलना|"""To lose one's nerve"""|to say something by mistake|0.4130657911300659|0.6672382950782776|0.0|0.6374099254608154|1
+180|जुबान देना|"""To give a gift"""|to make a promise|0.5584443807601929|0.6539196968078613|0.12903225806451615|0.4995678663253784|1
+181|जुबान रखना|"""To hold one's tongue"""|to keep one’s word|0.63642418384552|0.713038444519043|0.3|0.7621440887451172|2
+182|जुबान काटना|"""Cutting off the head"""|to regret saying something|0.32918110489845276|0.5961185693740845|0.043478260869565216|0.5014469027519226|2
+183|जुबान पकड़ना|"""To seize the moment"""|to hold someone to their words|0.5143187046051025|0.6270644068717957|0.0784313725490196|0.6475043892860413|2
+184|जुबान पर काबू रखना|"""To hold on to one's pride"""|to control speech|0.5150941610336304|0.6815686225891113|0.0|0.5445541739463806|4
+185|जुबान लगना|"""To be in a pickle"""|to get into an argument|0.4147143065929413|0.5257671475410461|0.0|0.7010353803634644|5
+186|जुबान बंद रखना|"""To keep one's mouth shut"""|to stay silent intentionally|0.6310085654258728|0.8111399412155151|0.0|0.8074184060096741|5
+187|दाँत पीसना|"""To bite one's nails"""|to show silent anger|0.45532000064849854|0.7820582985877991|0.0|0.5631773471832275|2
+188|दाँत दिखाना|"""To show one's teeth"""|to laugh unnecessarily|0.4545421302318573|0.8135005235671997|0.0|0.6447240710258484|1
+189|दाँत गिनाना|"""Counting Teeth"""|to mock or insult someone|0.32727622985839844|0.8197903633117676|0.0|0.5880260467529297|1
+190|दाँत काटी रोटी|"""Cutting off the nails to the bread"""|to have a close friendship|0.3992188274860382|0.5245887041091919|0.0|0.5460759997367859|2
+191|दाँत टूट जाना|"""To lose one's teeth"""|to be defeated or embarrassed|0.4392695724964142|0.7813377380371094|0.0|0.677499532699585|1
+192|पसीना बहाना|"""To use a pretext"""|to work hard|0.5043021440505981|0.42594337463378906|0.0|0.5367104411125183|2
+193|पसीना छुड़ाना|"""To cut down one's losses"""|to frighten or exhaust|0.443316787481308|0.46746525168418884|0.0|0.613554835319519|4
+194|पसीना निकलना|"""To come out of hiding"""|to feel nervous or hot|0.4716604948043823|0.49329984188079834|0.0|0.5681760311126709|2
+195|पसीना-पसीना होना|"""To be on tenterhooks"""|to be drenched in sweat (from work or fear)|0.38020917773246765|0.4164585471153259|0.11940298507462685|0.4809182584285736|5
+196|खून पसीना एक करना|"""To do something with one's blood"""|to work tirelessly|0.48040568828582764|0.5761173963546753|0.0|0.628097414970398|3
+197|खून खौलना|"""To bleed dry"""|to feel extreme anger|0.467679888010025|0.6279720067977905|0.0|0.5732959508895874|3
+198|खून जलाना|"""To shed blood"" or ""To spill blood"""|to waste emotional energy|0.38470324873924255|0.7128124237060547|0.0|0.5176490545272827|2
+199|खून चूसना|"""To bleed to death"""|to exploit someone harshly|0.45801129937171936|0.6966169476509094|0.0|0.6889782547950745|3
+200|खून में उबाल आना|"""To be in a state of turmoil or agitation"""|to be fired up with passion|0.5724184513092041|0.6959734559059143|0.1081081081081081|0.6321651339530945|4
+201|खून पसीने की कमाई|"""Stealing Blood from the Wound"""|hard-earned money|0.4413876235485077|0.6066659092903137|0.0|0.5464382171630859|5
+202|खून सफेद होना|"""To be bloodless"""|to become heartless or selfish|0.5580039024353027|0.6212830543518066|0.13333333333333333|0.6428695321083069|1
+203|खून चढ़ना|"""To bleed to death"""|to feel energetic or brave|0.45515522360801697|0.5237395167350769|0.0|0.6302281618118286|2
+204|खून उतरना|"""To bleed out"""|to lose courage suddenly|0.4391271471977234|0.6692588329315186|0.0|0.6968209743499756|2
+205|पसीने छूटना|"""To be forgiven or pardoned"""|to panic under pressure|0.4272780418395996|0.47008541226387024|0.0|0.5573259592056274|2
+206|खून जम जाना|"""To be in a tight spot"" or ""To be in a difficult situation"""|to be terrified|0.5160831809043884|0.4555183947086334|0.10256410256410257|0.573523223400116|2
+207|खून देना|"""To give blood"""|to sacrifice selflessly|0.6075485348701477|0.8088741302490234|0.0|0.6875130534172058|3
+208|खून का रिश्ता|The Connection of Blood|blood relation|0.6922443509101868|0.8191595077514648|0.060606060606060615|0.7405012845993042|2
+209|खून बहाना|"""To use someone's blood as a cover"""|to fight fiercely|0.4759420156478882|0.6498302817344666|0.0|0.5949651002883911|2
+210|खून खराबा होना|"""To be in trouble"""|to result in violence or bloodshed|0.48413971066474915|0.5994646549224854|0.07692307692307693|0.6657246947288513|4
+211|दिल थाम लेना|"""To be heartbroken"""|to feel suspense or fear|0.49210256338119507|0.5445435047149658|0.0|0.5988315939903259|5
+212|दिल लगा लेना|"""Feeling the Pain"""|to fall in love deeply|0.42648372054100037|0.45646700263023376|0.0|0.6268980503082275|2
+213|दिल में आग लगना|"""A fire starts in one's heart"""|to feel jealousy or anger|0.4089173972606659|0.7699675559997559|0.0|0.5660728216171265|5
+214|दिल दहल जाना|"""To have one's heart broken"""|to be terrified|0.5872357487678528|0.5849950313568115|0.0|0.6632553935050964|5
+215|दिल धकधक करना|"""To Be Nervous or Fidgety"""|to feel nervous or anxious|0.67896968126297|0.5438368320465088|0.4230769230769231|0.7573686838150024|3
+216|दिल में उतरना|"""To be felt in the heart"""|to become likable or close to heart|0.5462485551834106|0.6780334711074829|0.19047619047619047|0.6619575619697571|4
+217|दिल में ठंडक पड़ना|"""To feel cold in the heart"""|to feel relief or satisfaction|0.491587370634079|0.7933856248855591|0.20689655172413796|0.6184573769569397|3
+218|दिल को छू जाना|"""To crush one's heart"" or ""To hurt one's heart"""|to touch emotionally|0.45857706665992737|0.5109933614730835|0.0|0.5708553194999695|5
+219|दिल जीत लेना|"""To win the heart"" or ""To win someone's affection"""|to win affection|0.7953596115112305|0.7159357070922852|0.3582089552238806|0.8136668801307678|5
+220|दिल में कसक रह जाना|"""To feel like one is being crushed in the heart"""|to feel unfulfilled desire or regret|0.4955569803714752|0.6942964196205139|0.13333333333333336|0.6420655846595764|3
+221|दिल का चैन खोना|"""To lose one's heart"""|to lose peace due to love or worry|0.5249952673912048|0.6488289833068848|0.24137931034482757|0.7194454669952393|4
+222|दिल बहल जाना|"""To feel overwhelmed"""|to feel consoled|0.6626669764518738|0.6455299854278564|0.36363636363636365|0.6717144250869751|3
+223|दिल कड़ा करना|"""To put one's heart into something"""|to act firmly despite emotions|0.5430925488471985|0.6227439045906067|0.0|0.6674249172210693|5
+224|दिल बैठ जाना|"""To Feel Stuck"""|to lose hope or courage|0.4830084443092346|0.5805768966674805|0.0|0.6172568798065186|2
+225|दिल बदलना|"""Change of Heart"""|to change one’s opinion or feelings|0.4819139242172241|0.7702178955078125|0.23076923076923078|0.6785361170768738|5
+226|साँप निकल गया, लकीर पीटते रह गए|"""The snake has slithered away, and the song has continued to play."""|to act after the damage is already done|0.4945584833621979|0.4756656289100647|0.05217391304347826|0.48138657212257385|3
+227|साँप सूँघ जाना|"""To be in a tight spot"" or ""To be in a bind"""|to become completely silent out of fear|0.43437284231185913|0.46981939673423767|0.04444444444444444|0.539287805557251|1
+228|साँप और नेवले की लड़ाई|The Battle of the Snake and the Snake Charmer|a fight between sworn enemies|0.3824343979358673|0.6940553784370422|0.0|0.6608670949935913|2
+229|साँप के मुँह में छछूंदर|"""A Mouse in the Mouth of a Snake"""|to be stuck in an impossible situation|0.36561504006385803|0.7582317590713501|0.052631578947368425|0.6018816828727722|4
+230|साँप को दूध पिलाना|"""To give milk to a snake"""|to favor someone who will harm you later|0.4214995205402374|0.8367132544517517|0.0|0.5939098000526428|2
+231|साँप की केंचुली बदलना|"""To change one's mind"""|to change completely in nature or appearance|0.5426453948020935|0.45310941338539124|0.2352941176470588|0.7139486074447632|4
+232|साँप भी मर जाए और लाठी भी न टूटे|"""Even if the snake dies, the stick doesn't break"""|to solve a problem smartly without harm to anyone|0.49358490109443665|0.8106516003608704|0.0|0.5260293483734131|1
+233|साँप का बच्चा|"""The Son of a Snake"""|a dangerous or deceitful person|0.40138813853263855|0.8493466377258301|0.0|0.5573727488517761|2
+234|साँप के बिल में हाथ डालना|"""To put one's hand in the mouth of a snake"""|to invite trouble knowingly|0.420480877161026|0.7491045594215393|0.0|0.6178035140037537|1
+235|साँप निकलते ही लकीर पीटना|"""To sing while the snake is coiling"""|to regret after losing the opportunity|0.41400331258773804|0.5328867435455322|0.12987012987012986|0.4881784915924072|1
+236|शेर की सवारी करना|"""Riding on a Tiger"""|to take a dangerous or risky decision|0.39577537775039673|0.8283344507217407|0.03508771929824561|0.5626229047775269|4
+237|शेर बनना|"""To be like a lion"""|to act bravely or arrogantly|0.46484413743019104|0.780459463596344|0.0|0.6482855677604675|2
+238|शेर का दिल रखना|"""Keeping one's heart in one's mouth"""|to be very courageous|0.4032672345638275|0.446723610162735|0.0|0.5798963904380798|5
+239|शेर के मुँह में हाथ डालना|"""To put one's hand in the mouth of a lion"""|to challenge danger directly|0.4397527277469635|0.8132737278938293|0.0|0.6014850735664368|3
+240|शेर की तरह गरजना|"""To Roar Like a Lion"""|to speak fearlessly or loudly|0.4866194427013397|0.8161542415618896|0.0|0.5838863253593445|4
+241|शेर का शिकार करना|Hunting for a Lion|to achieve a big or risky goal|0.3922380208969116|0.8255008459091187|0.04081632653061224|0.5577107071876526|2
+242|लोमड़ी की तरह चालाक|"""Like a trickster"""|to be extremely cunning|0.5272666811943054|0.5513944625854492|0.0|0.6835617423057556|4
+243|कुत्ते की तरह भौंकना|"""To shiver like a dog"""|to shout without reason|0.5550448298454285|0.5941133499145508|0.09090909090909091|0.7060521841049194|2
+244|कुत्ते की मौत मरना|"""To die like a dog"""|to die miserably or without dignity|0.45916280150413513|0.76193767786026|0.18181818181818182|0.7306396961212158|1
+245|कुत्ते की पूँछ टेढ़ी की टेढ़ी|"""The dog's tail is longer than the snake's tail."""|bad habits never change|0.39809590578079224|0.5423065423965454|0.0|0.4259573817253113|2
+246|कुत्ते के भौंकने से हाथी नहीं रुकता|"""The elephant doesn't stop shaking even if the dog shakes."""|great people ignore petty criticism|0.4804466664791107|0.6700394153594971|0.0|0.49011993408203125|2
+247|कुत्ते की दुम टेढ़ी की टेढ़ी|"""A Dog's Tail is Longer than a Fox's Tail"""|incorrigible by nature|0.32610639929771423|0.5743889212608337|0.0|0.6021420955657959|3
+248|कुत्ते की तरह पीछे पड़ना|Running Away Like a Dog|to chase someone relentlessly|0.5393934845924377|0.775651752948761|0.0|0.6419404745101929|3
+249|बंदर क्या जाने अदरक का स्वाद|"""What do you know about the taste of a cucumber?"""|the unworthy cannot appreciate value|0.4713752865791321|0.6959606409072876|0.02222222222222222|0.38337016105651855|1
+250|बंदर के हाथ में उस्तरा|"""In the Hands of a Monkey"""|a dangerous thing in foolish hands|0.47133350372314453|0.573101282119751|0.12903225806451613|0.641760528087616|2
+251|बंदर नाच देखना|"""To watch a monkey dance"""|to enjoy entertainment or drama|0.5326311588287354|0.836950957775116|0.0|0.5802602767944336|2
+252|बंदर घुड़की देना|"""To be a beggar"""|to make empty threats|0.44881439208984375|0.39341050386428833|0.0|0.579002857208252|2
+253|बंदर के हाथ नारियल|"""A monkey's hand on the nipple"""|valuable thing with an undeserving person|0.37306705117225647|0.5130792260169983|0.0|0.5015232563018799|2
+254|बिल्ली के गले में घंटी बाँधना|"""To put a clock on a donkey's ears"""|to take initiative in a dangerous task|0.3441459834575653|0.7778822183609009|0.0759493670886076|0.5031182169914246|2
+255|बिल्ली की तरह मुँह बनाना|"""To make a face like a bill"""|to act innocent after wrongdoing|0.3949648439884186|0.4701545536518097|0.0|0.5095863342285156|2
+256|बिल्ली की तरह चुप रहना|To be silent like a bill|to remain silent out of guilt or fear|0.5310630798339844|0.5041524767875671|0.1846153846153846|0.6947038173675537|1
+257|बिल्ली के भाग्य से छींका टूटा|"""The fall of a leaf due to the luck of a bill"""|to get something valuable by pure luck|0.4712078869342804|0.508820116519928|0.06451612903225806|0.7346105575561523|2
+258|चूहे बिल्ली का खेल|"""Playing with a Child's Doll"""|a game of chase and evasion|0.39730799198150635|0.6583399772644043|0.0|0.5508922338485718|3
+259|चूहे दौड़ना|"""To act like a child"" or ""To behave like a child"""|to feel hungry|0.3992191255092621|0.39961734414100647|0.0|0.4783843159675598|1
+260|गधे के सिर से सींग गायब|"""The calf is lost from the cow's head"""|something missing without a trace|0.41629472374916077|0.7358086109161377|0.0|0.620285153388977|3
+261|गधे पर बैठकर शेर की बात करना|Sitting on a Cow and Talking about a Dog|to act proud without reason|0.326447993516922|0.6268279552459717|0.028169014084507043|0.4845558702945709|2
+262|गधे को घोड़ा बनाना|"""To make a horse out of a cow"""|to exaggerate someone’s abilities|0.41709157824516296|0.8184947967529297|0.0|0.504669189453125|1
+263|गधे को फूलों की माला पहनाना|"""To adorn oneself with flowers"""|to honor an undeserving person|0.4927053153514862|0.5472191572189331|0.0|0.5905546545982361|1
+264|गधे के कान में बांसुरी|"""Whispering in the ear of a cow"""|to waste effort on someone ignorant|0.37204107642173767|0.6992875933647156|0.0|0.5454352498054504|2
+265|गाय का दूध पीना|Drinking Cow's Milk|to live peacefully and simply|0.37955501675605774|0.8497443795204163|0.0|0.5218872427940369|1
+266|गाय बनना|"""To become a cow"""|to act innocent or submissive|0.4069659411907196|0.8266937136650085|0.0|0.6126829981803894|1
+267|गाय के आगे बीन बजाना|"""To sing along with the cow"""|to explain something to someone who won’t understand|0.35982295870780945|0.6688539385795593|0.07058823529411765|0.4907078444957733|2
+268|ऊँट के मुँह में जीरा|"""A needle in a haystack"""|too little for a large need|0.4229598045349121|0.5933253169059753|0.11538461538461538|0.6953737735748291|3
+269|ऊँट पहाड़ के नीचे|"""The bird is perched on the mountain's base."""|to meet one’s superior or defeat|0.46474239230155945|0.7231279611587524|0.024096385542168672|0.4177866578102112|1
+270|ऊँट के मुँह में खजूर|"""A plum in the mouth of a sparrow"""|tiny reward for great effort|0.4325436055660248|0.8071214556694031|0.0|0.5599070191383362|3
+271|ऊँट की चाल चलना|To Move Like a Duck|to act steadily but slowly|0.4437214732170105|0.805605947971344|0.0|0.6450599431991577|2
+272|ऊँट रेत में सिर छिपाना|"""To keep one's head down"""|to ignore reality or hide from truth|0.40537601709365845|0.5346768498420715|0.0|0.5983700752258301|3
+273|घोड़े बेचकर सोना|"""To sleep on the money earned from selling a horse"""|to sleep peacefully without worry|0.5007830262184143|0.6096689701080322|0.15730337078651685|0.6206328272819519|2
+274|घोड़े पर सवार होना|"""Riding on a Horse"""|to be in a hurry or overexcited|0.3558419644832611|0.8079347610473633|0.11764705882352942|0.5746912360191345|2
+275|घोड़े का नाल पहनना|"""To be a horse's tail"""|to try something superstitious for luck|0.37158212065696716|0.5618663430213928|0.0|0.5811247825622559|1
+276|घोड़े की लगाम कसना|"""To Break the Horseshoe Nail"""|to tighten control|0.4406362473964691|0.5937967300415039|0.0|0.5444716811180115|1
+277|घोड़े दौड़ाना|"""Running like a horse"""|to act hastily without thinking|0.43298980593681335|0.675911545753479|0.0|0.6297267079353333|5
+278|मछली पानी से बाहर|"""To get out of the water"""|to feel uncomfortable in a strange place|0.4115491211414337|0.5593110918998718|0.0|0.5873504877090454|3
+279|मछली हाथ से निकलना|"""To emerge unexpectedly or unexpectedly"""|to miss an opportunity|0.43868288397789|0.41823360323905945|0.0|0.663677453994751|2
+280|मछली पकड़ना|"""To catch a fish"""|to manipulate a situation for gain|0.5232710838317871|0.8183861374855042|0.0392156862745098|0.6484996676445007|2
+281|मछली मरना|"""To be in deep trouble"""|to face downfall silently|0.5126944184303284|0.4228942096233368|0.0|0.7216636538505554|4
+282|मगरमच्छ के आँसू|"""A Cloud of Smoke"""|false show of sympathy|0.4471624195575714|0.6013070940971375|0.15789473684210528|0.617565929889679|1
+283|मगरमच्छ बनना|"""To be in a pickle"""|to act powerful or arrogant falsely|0.36525973677635193|0.46772345900535583|0.0|0.5980280637741089|1
+284|मगरमच्छ का शिकार करना|Hunting the Shadow|to take on a huge challenge|0.524500846862793|0.522739052772522|0.0|0.5797513127326965|2
+285|सांड बनना|"""To be grounded"""|to act angrily or uncontrollably|0.35301312804222107|0.509789764881134|0.0|0.6157358288764954|5
+286|सांड को लाल कपड़ा दिखाना|"""To show the red cloth of sand"""|to provoke someone deliberately|0.4128030240535736|0.6841398477554321|0.0|0.5450103878974915|1
+287|सांड की तरह दौड़ना|Running Like a Dog|to rush without thinking|0.48849016427993774|0.8484604954719543|0.0|0.6530318260192871|3
+288|सांड की तरह जिद्दी|"""As Sand as a Pillow"""|to be very stubborn|0.407647043466568|0.440520703792572|0.0|0.5660860538482666|1
+289|सांड की तरह ताकतवर|"""Like a rock-solid foundation"""|to be physically strong|0.5162646770477295|0.462889701128006|0.0|0.6444873213768005|4
+290|तेल देखो तेल की धार|"""See the oil and you'll know the path"""|to wait and watch patiently|0.42806220054626465|0.5345416069030762|0.11594202898550725|0.5151124000549316|4
+291|तेल लगाना|"""To add fuel to the fire"""|to flatter or please for benefit|0.45345279574394226|0.772672176361084|0.0|0.6231557130813599|3
+292|तेल निकलना|"""To be in a pickle"" or ""To be in a tight spot"""|to get exhausted completely|0.4006892144680023|0.41346481442451477|0.0|0.518531084060669|1
+293|तेल पानी एक होना|"""To be as good as oil and water"""|to be completely incompatible|0.46023982763290405|0.6782070994377136|0.12698412698412698|0.628338634967804|1
+294|तेल जलाना|"""To Light a Fire"""|to work hard late into the night|0.41270992159843445|0.7446207404136658|0.0|0.5238472819328308|2
+295|धन पानी की तरह बहाना|"""To spend money like water"""|to waste money lavishly|0.5767335295677185|0.7540284395217896|0.24489795918367346|0.811431348323822|5
+296|धन दौलत इकट्ठी करना|"""To Combine Wealth and Power"""|to accumulate wealth|0.7223376631736755|0.7665027976036072|0.21276595744680854|0.7131079435348511|3
+297|धन का घमंड होना|"""To lose one's fortune"""|to be arrogant about wealth|0.4821617603302002|0.5323924422264099|0.0|0.7030780911445618|3
+298|धन के पीछे भागना|"""To cut one's losses"""|to be greedy for money|0.4646681845188141|0.4792918264865875|0.0|0.7210295796394348|4
+299|धन का नशा चढ़ना|"""To lose one's fortune"""|to be blinded by riches|0.49445703625679016|0.5772624015808105|0.0|0.7804261445999146|1
+300|धन कमाना|"""To make money"""|to earn wealth|0.7701103091239929|0.8274561762809753|0.0|0.8320512771606445|5
+301|धन की बरसात होना|"""To be in a state of financial difficulty"""|to receive great fortune|0.46134713292121887|0.6213204860687256|0.0|0.5768200159072876|1
+302|धन को पानी समझना|"""To consider money as water"""|to spend carelessly|0.5947055220603943|0.8583513498306274|0.0|0.5733907222747803|4
+303|धन का दुरुपयोग करना|"""Wasting Money"""|to misuse wealth|0.5931898355484009|0.8266969919204712|0.0|0.7279791831970215|3
+304|धन देना|"""To Give Wealth"""|to offer charity or contribution|0.5529624819755554|0.7807848453521729|0.0|0.661022961139679|4
+305|नजर लगना|"""To see something in one's mind's eye"""|to be jinxed or affected by envy|0.409008264541626|0.5876060724258423|0.0|0.5856193900108337|3
+306|नजर उतारना|"""To look at"" or ""To gaze upon"""|to remove the evil eye|0.4806123673915863|0.6965644359588623|0.0|0.5155595541000366|2
+307|नजर बचाना|"""To keep an eye on"""|to avoid eye contact|0.547166645526886|0.7137309908866882|0.15789473684210525|0.6612069010734558|2
+308|नजर डालना|"""To Look Away"" or ""To Avoid Looking"""|to glance or check|0.5143362283706665|0.49349984526634216|0.07547169811320754|0.6806350946426392|3
+309|नजर चुराना|"""Stealing Eyes"""|to avoid someone intentionally|0.3716687262058258|0.6808354258537292|0.0|0.4900933802127838|1
+310|नजर रखना|"""To keep an eye on"" or ""To watch out for"""|to keep watch on something|0.6970245242118835|0.6808205842971802|0.39999999999999997|0.866710901260376|5
+311|नजर मिलाना|"""To see the light"""|to look straight and confidently|0.5180752873420715|0.6291635036468506|0.04081632653061224|0.6701433062553406|1
+312|नजर में आना|"""To appear in one's eyes"""|to get attention or recognition|0.4333615005016327|0.744583249092102|0.0|0.6674675941467285|1
+313|नजर से गिरना|"""To fall by the wayside"""|to lose respect in someone’s eyes|0.4378882348537445|0.6746741533279419|0.0|0.6501373648643494|1
+314|नजरों में बसना|"""To be seen"""|to be deeply admired or loved|0.37736308574676514|0.7470446825027466|0.2|0.6443119049072266|1
+315|मुँह की बात छीनना|"""To take someone's word for it"""|to say what someone was about to say|0.5278723239898682|0.6667464971542358|0.2222222222222222|0.7242852449417114|5
+316|रूठा मन मनाना|"""To think about something constantly"""|to reconcile after disagreement|0.47811517119407654|0.5002257227897644|0.0|0.56001216173172|2
+317|मन बनना|"""To be in one's thoughts"""|to decide willingly|0.41412410140037537|0.5283016562461853|0.0|0.7116073369979858|4
+318|मन भरना|"""To be filled with thoughts"""|to lose interest or get satisfied|0.44535455107688904|0.6424271464347839|0.0|0.6611427068710327|1
+319|मन लगाना|"""To put one's heart into something"""|to stay focused|0.5407465100288391|0.7648087739944458|0.04|0.6927215456962585|4
+320|मन मारना|"""To Break One's Heart"""|to suppress one’s desires|0.44073906540870667|0.6372716426849365|0.2553191489361702|0.551886796951294|5
+321|मन में बैठना|"""To dwell in one's mind"""|to be convinced deeply|0.4503096342086792|0.765137255191803|0.0|0.64958655834198|4
+322|मन में बात रखना|"""To keep something in mind"""|to keep things inside|0.6691387891769409|0.7918469905853271|0.29787234042553196|0.7584774494171143|5
+323|मन बहलाना|"""To forget one's mind"""|to divert oneself pleasantly|0.5739132761955261|0.6034694910049438|0.08163265306122448|0.6321479082107544|2
+324|मन से उतरना|"""To feel strongly or deeply"""|to lose affection for someone|0.4852641224861145|0.5048452615737915|0.0|0.5547845363616943|4
+325|मनमानी करना|"""To think about oneself"""|to act selfishly or on one’s own terms|0.5170627236366272|0.44947564601898193|0.030769230769230767|0.7010638117790222|3
+326|दो नावों पर सवार होना|"""To be on two horses at once"""|to try doing two opposite things at once|0.5104655623435974|0.6685979962348938|0.2702702702702703|0.7274609804153442|3
+327|दूध का जला छाछ भी फूंककर पीता है|"""Drinking milk with a spoonful of salt added"""|once bitten, twice shy|0.40253886580467224|0.5032374858856201|0.0|0.4553511440753937|2
+328|दूध का दूध, पानी का पानी करना|"""To treat someone as if they were the same as you"""|to reveal the truth or clarify everything|0.4266319274902344|0.3932759463787079|0.06060606060606061|0.5625860095024109|5
+329|दूध में मक्खी की तरह|"""Like milk with a spoonful of honey"""|an unwanted person in a good place|0.3916248083114624|0.4948939383029938|0.02702702702702703|0.4710952937602997|2
+330|दूध का कर्ज चुकाना|"The idiom ""दूध का कर्ज चुकाना"" can be translated semantically into English as ""To pay for one's own mistakes."" "|to repay parents' love and care|0.49417129158973694|0.515070915222168|0.015384615384615384|0.41487252712249756|4
+331|दूध में नीम का पत्ता|"""The Needle in Milk"""|something that ruins a good thing|0.3885945677757263|0.5898748636245728|0.0|0.5414840579032898|2
+332|दूध का दूध अलग करना|"""To make a distinction between milk and milk"""|to identify right and wrong clearly|0.45226243138313293|0.6481419205665588|0.07142857142857144|0.6186463832855225|3
+333|दूध की धार बनना|"""To become a milkman"""|to prosper or flourish|0.4547941982746124|0.5888025164604187|0.0|0.5884491205215454|2
+334|दूध पीता बच्चा नहीं हूँ|"""A child who has drunk milk is not a child."""|I’m not naive anymore|0.5059182643890381|0.7860088348388672|0.0857142857142857|0.45105791091918945|2
+335|दूध की नदियाँ बहाना|"""To run like a cow"""|to dream of prosperity|0.37205401062965393|0.3762563169002533|0.0|0.6413755416870117|1
+336|घर की मुर्गी दाल बराबर|"""Equal to the Rice in the House"""|to undervalue what one has|0.43458858132362366|0.642856240272522|0.0|0.5582008361816406|3
+337|घर फूँक तमाशा देखना|"""To watch a house burning"""|to risk everything for curiosity|0.4790942072868347|0.6808321475982666|0.0|0.5781044960021973|3
+338|घर का भेदी लंका ढाए|"""The Difference Between Home and a Bed"""|an insider can cause great harm|0.4301341772079468|0.37223389744758606|0.0|0.5660589933395386|1
+339|घर की बात बाहर निकलना|"""To let the cat out of the bag"""|to leak private matters|0.4372263550758362|0.4869576096534729|0.07142857142857142|0.602603554725647|2
+340|घर बसाना|"""To settle down"""|to settle down or start a family|0.7237186431884766|0.7426069378852844|0.5416666666666667|0.8006359934806824|5
+341|घर उजड़ना|"""To be at a loss for words"""|to lose everything|0.5007749199867249|0.45480236411094666|0.044444444444444446|0.6899828314781189|5
+342|घर में घुसकर मारना|"""To strike from within"""|to attack boldly|0.6064023375511169|0.6738637685775757|0.0|0.6562281847000122|5
+343|घर का रास्ता भूल जाना|"""Getting lost in one's own home"""|to wander aimlessly or forget priorities|0.4769871234893799|0.7392754554748535|0.0|0.6780522465705872|3
+344|घर आँगन में झगड़ा|"The idiom ""घर आँगन में झगड़ा"" can be translated semantically into English as ""A quarrel at home."""|domestic disputes|0.5328047275543213|0.5784988403320312|0.0|0.46326589584350586|4
+345|घर की लक्ष्मी|"""The Wealth of the House"""|a woman considered the prosperity of a home|0.5417143702507019|0.8060581684112549|0.14084507042253522|0.657705545425415|3
+346|आम के आम गुठलियों के दाम|"""The cost of the common people's small businesses"""|double benefit from one effort|0.4582333266735077|0.43582335114479065|0.0|0.6457422375679016|3
+347|आम रास्ता पकड़ना|"""To take the easy way out"""|to take the easy or common way|0.8366754651069641|0.8168849945068359|0.6101694915254238|0.8732144236564636|4
+348|आम आदमी|"""Average Joe"""|a common man|0.6203208565711975|0.7959154844284058|0.0|0.6807342767715454|5
+349|आमदनी अठन्नी खर्चा रुपैया|"""A penny saved is a penny earned"""|expenses exceeding income|0.43129459023475647|0.542290985584259|0.0|0.5809116363525391|4
+350|आम खाने वाले बनो, पेड़ मत गिनो|"""Be a common eater, don't count the trees."""|enjoy benefits without overanalyzing|0.47464385628700256|0.6511253118515015|0.0|0.5150094628334045|3
+351|आमदनी बढ़ाना|"""To increase one's appetite"""|to increase income|0.5550357699394226|0.6803836822509766|0.45454545454545453|0.7042431235313416|2
+352|अंधे के हाथ बटेर लगना|"""To take the blind man's hand"""|to get lucky unexpectedly|0.4238710105419159|0.6242117285728455|0.0|0.6061998009681702|5
+353|अंधा कानून|"""Dark Law"""|law that doesn’t see right and wrong|0.4598807096481323|0.8105536699295044|0.0|0.6633692979812622|1
+354|अंधेरे में तीर चलाना|"""To try to shoot in the dark"""|to try without knowledge|0.5851527452468872|0.779185950756073|0.18518518518518517|0.710713267326355|5
+355|अंधे को अंधेरे में बहुत दूर की सूझी|"""To see the darkness in the darkness"""|to overestimate one’s own understanding|0.42672988772392273|0.5063325762748718|0.0|0.5828179121017456|3
+356|अंधे के हाथ में आइना|In the Eyes of the Blind|a useless thing in wrong hands|0.41980889439582825|0.6767421960830688|0.0|0.6181959509849548|1
+357|अंधों में काना राजा|"""To be blind to the truth"""|to shine among the incompetent|0.5680273175239563|0.46811607480049133|0.10526315789473685|0.6882598996162415|5
+358|काला अक्षर भैंस बराबर|"""A black letter is equal to a mouse"""|to be illiterate or uneducated|0.415449321269989|0.8015543222427368|0.0|0.5451275110244751|1
+359|काला धन|"""Black Gold"""|black or illegal money|0.554186999797821|0.8621321320533752|0.2|0.757015585899353|3
+360|काला मन|"""Dark Mind"""|evil thoughts or intentions|0.5098156332969666|0.8377915620803833|0.0|0.652000904083252|2
+361|काले मन का इंसान|"""A person with a black heart"""|a person with bad heart|0.7657454609870911|0.8491379022598267|0.6037735849056605|0.779560387134552|3
+362|काली करतूत|"""Dark Cloud"""|bad or shameful deeds|0.46277859807014465|0.5765728950500488|0.0|0.5844602584838867|2
+363|काली रात में दिया जलाना|"""To burn the midnight oil"""|to hope amidst despair|0.3972400724887848|0.6224775314331055|0.0|0.643834114074707|5
+364|काली कमाई|"""Blackmail"""|illegal earnings|0.43789684772491455|0.5614388585090637|0.0|0.6227520108222961|5
+365|काली मिर्च लगाना|"""Putting the karmic seed in the ground"""|to exaggerate a story|0.4193741977214813|0.5719945430755615|0.0|0.4773525595664978|2
+366|काली नीयत|"""Blackmail"""|to have bad intentions|0.39551928639411926|0.6182258725166321|0.0|0.6550137996673584|5
+367|काला सच|"""Dark Truth"""|an unpleasant hidden truth|0.638940691947937|0.8543152213096619|0.1764705882352941|0.7569745182991028|5
+368|बीज बोना|"""To sow the seeds of doubt"""|to initiate an idea or event|0.5418321490287781|0.6249557733535767|0.0|0.6341387033462524|4
+369|बीज बोकर फल काटना|"""To cut the fruit with the seed still in it."""|to reap what one sows|0.5473651885986328|0.7046611309051514|0.0|0.5463559031486511|3
+370|बीज से पेड़ बनना|"""Growth from Seed"""|to see progress from small beginnings|0.567428469657898|0.7116423845291138|0.22222222222222218|0.7533838152885437|4
+371|बीज बोकर काँटे काटना|"""To cut the roots"""|to face consequences of one’s actions|0.44837912917137146|0.5918182730674744|0.0|0.5759813189506531|4
+372|बीज बदलना|"""To Change One's Mind"""|to change the foundation or cause|0.5318900942802429|0.5248214602470398|0.2857142857142857|0.6984602808952332|4
+373|बीज नष्ट करना|"""To destroy the seed"" "|to end something at its root|0.6092722415924072|0.8141964673995972|0.0|0.6956226825714111|2
+374|बीज जमना|"""To be planted"""|to start taking effect|0.4477865397930145|0.5681421756744385|0.0|0.6389532685279846|2
+375|बीज बोने वाला|"""The seed of a lie"""|one who starts a trend or cause|0.47366318106651306|0.5567137598991394|0.038461538461538464|0.5690577030181885|2
+376|बीज रोपना|"""To sow the seeds of doubt"""|to initiate growth or influence|0.5733419060707092|0.6221525073051453|0.0|0.6524035930633545|1
+377|बीज काटना|"""Cutting the Seed"""|to destroy the base of something|0.480156272649765|0.7713665962219238|0.12244897959183672|0.6204704642295837|4
+378|थाली का बैंगन|"""The Spoon in the Bowl"""|someone who changes sides easily|0.3675028681755066|0.57260662317276|0.0|0.555735170841217|2
+379|थाली में नमक खाना|"""To eat salt and vinegar"""|to benefit from someone’s kindness|0.3923107385635376|0.6092956066131592|0.0|0.5031000375747681|1
+380|थाली में छींद लगाना|Plugging the Leaks|to betray the one who helped|0.42218437790870667|0.48436716198921204|0.13333333333333333|0.5828225612640381|2
+381|थाली बजाना|"""To stir up trouble"""|to protest or express excitement|0.4792780876159668|0.4338928163051605|0.0|0.7035167217254639|4
+382|थाली का खाना|"""A meal of leftovers"""|a share of resources or wealth|0.49368736147880554|0.5929771661758423|0.0784313725490196|0.622138500213623|3
+383|थाली में रखना|"""To put something in the pot"""|to serve something easily|0.6163393259048462|0.7196273803710938|0.33333333333333326|0.6626527309417725|3
+384|थाली पलटना|"""To stir the pot"""|to go against one’s own|0.4739552438259125|0.6856067180633545|0.0|0.5014176368713379|1
+385|थाली की रोटी बनना|"""To be as good as a piece of bread"""|to be part of a group or system|0.4360573887825012|0.5674822330474854|0.19178082191780824|0.5471035242080688|1
+386|थाली चाटना|"""To eat like a pig"""|to exploit something completely|0.43862810730934143|0.5477871298789978|0.04081632653061225|0.6545153260231018|2
+387|थाली में परोसना|"""To eat from a plate"""|to give ready-made success|0.5235349535942078|0.7150875926017761|0.0|0.5482299327850342|1
+388|चिराग तले अंधेरा|"""Darkness in the eyes"""|to overlook what’s right before you|0.5154958367347717|0.4980661869049072|0.0|0.6246626973152161|2
+389|चिराग जलना|"""To burn like a candle"""|to bring light or hope|0.5225310325622559|0.6693647503852844|0.04444444444444444|0.6797164082527161|3
+390|चिराग बुझना|"""To be extinguished like a candle"""|to lose hope or family support|0.45525866746902466|0.684734582901001|0.0|0.5929200649261475|2
+391|चिराग दिखाना|"""To show the light"""|to guide or help someone|0.560545027256012|0.6805717349052429|0.0|0.6059343814849854|3
+392|चिराग लेकर ढूँढना|"""To search for a needle in a haystack"""|to search very carefully|0.4696591794490814|0.6388251781463623|0.25000000000000006|0.7826201319694519|4
+393|चिराग तले छिपना|"""To hide like a candle in the dark"""|to hide in the most obvious place|0.6144707202911377|0.7242861986160278|0.3835616438356164|0.705019474029541|4
+394|चिराग की तरह जलना|"""To burn like a candle"""|to sacrifice oneself for others|0.4235614538192749|0.8125945329666138|0.0|0.6281366348266602|3
+395|चिराग घर का बुझना|The Burning of the Lamp|to lose a loved one|0.3632018566131592|0.6548497080802917|0.0|0.5792743563652039|1
+396|चिराग को हवा लगना|"""To lose one's breath"""|to face danger or crisis|0.423675537109375|0.4704195261001587|0.0|0.6338306665420532|1
+397|चिराग हाथ में होना|"""To have a light in your hand"""|to have control or guidance|0.5054430365562439|0.7750857472419739|0.20338983050847456|0.6150686740875244|3
+398|भेड़ चाल चलना|"""To be busy or occupied"""|to follow others blindly|0.48883241415023804|0.3823070526123047|0.0|0.595312237739563|1
+399|भेड़ बनना|"""To be a pest"""|to lack independent thought|0.4373459219932556|0.4990340769290924|0.0|0.6490104794502258|2
+400|भेड़ की तरह भागना|"""To part like a snake"""|to run after the crowd|0.5474610328674316|0.6277492046356201|0.0|0.5921850204467773|3
+401|भेड़िया बनना|"""To become a pest"""|to be cruel or selfish|0.46422168612480164|0.5616288781166077|0.10256410256410256|0.644877552986145|3
+402|भेड़ का रूप धारण करना|"""To take on the role of a bug"""|to appear innocent while being deceitful|0.45467665791511536|0.6387001276016235|0.0|0.575021505355835|2
+403|भेड़ की खाल में भेड़िया|"""The enemy of my enemy is my friend"""|a dangerous person pretending to be gentle|0.4409031569957733|0.3793359398841858|0.0|0.47527244687080383|4
+404|भेड़ के पीछे भेड़|"""The tail of a snake"""|to imitate without thinking|0.36654728651046753|0.6307623386383057|0.0|0.5383456945419312|1
+405|भेड़ की तरह झुंड में रहना|"""To live like a cricket in a cricket match"""|to depend on others’ lead|0.3896090090274811|0.4872812032699585|0.0|0.4689843952655792|2
+406|भेड़ की तरह बोलना|"""Speaking like a cricket"""|to agree without question|0.4469115436077118|0.7873141765594482|0.0|0.5347982048988342|2
+407|भेड़िया आया कहकर झूठ बोलना|"""To lie by saying 'a cricket ball has come'"""|to lie so often that no one believes you later|0.44844064116477966|0.5273802280426025|0.1020408163265306|0.6438214182853699|3
+408|ईमान बेचना|"""To Betray One's Faith"""|to sacrifice integrity for gain|0.5289068222045898|0.7301603555679321|0.0|0.6701412796974182|5
+409|ईमान पर आँच आना|"""To have faith in something"""|to face moral challenge|0.5814122557640076|0.7690227627754211|0.0|0.6173184514045715|2
+410|ईमानदार बनना|"""To become confident"""|to act honestly|0.6581248641014099|0.8177458047866821|0.0|0.672593891620636|2
+411|ईमान का सौदा करना|"""To take a vow of faith"""|to compromise ethics for money|0.5440380573272705|0.7490365505218506|0.0|0.5053151845932007|1
+412|ईमान की कमाई|"""Faith in the wrong way"""|honest earnings|0.4252781867980957|0.457674503326416|0.0|0.5481094121932983|1
+413|ईमान दिखाना|"""To show one's faith"""|to prove one’s honesty|0.7420121431350708|0.8293594121932983|0.2790697674418604|0.734298050403595|2
+414|ईमानदारी निभाना|"""To have faith"""|to act truthfully and faithfully|0.5910398960113525|0.8095791339874268|0.13333333333333333|0.7052953839302063|1
+415|ईमान का साथी|"""A Faithful Companion"""|a trustworthy companion|0.7632312774658203|0.834763765335083|0.3414634146341463|0.7568066120147705|4
+416|ईमान से उतरना|"""To stand firm"""|to become dishonest|0.39965108036994934|0.636466920375824|0.0|0.5944026112556458|2
+417|ईमान की परीक्षा देना|"""To Face the Test of Faith"""|to face a test of character|0.8010273575782776|0.7994138598442078|0.5|0.7942347526550293|4
+418|झूठ बोलना|"""To tell a lie"""|to tell a lie|0.8750184774398804|0.8049359321594238|0.923076923076923|0.942049503326416|5
+419|झूठ पकड़ना|"""To Pick Up a Lie"""|to catch a lie or liar|0.4856688678264618|0.6598503589630127|0.24390243902439024|0.7414551973342896|4
+420|झूठ की पोल खोलना|"""To reveal the truth"""|to expose deceit|0.7383342385292053|0.8301163911819458|0.0|0.8164829611778259|2
+421|झूठा बहाना बनाना|"""Making up a lie"""|to make false excuses|0.6829628348350525|0.8167825937271118|0.0|0.7885923385620117|5
+422|झूठ बोलकर बचना|"""To survive by lying"""|to lie and escape consequences|0.7089248895645142|0.8013989925384521|0.0|0.8238281607627869|4
+423|झूठ फैलाना|"""Lying"""|to spread lies|0.529214084148407|0.7523442506790161|0.0|0.836411714553833|3
+424|झूठ सच बनाना|"""Making the False Seem True"""|to manipulate facts to appear true|0.7012314200401306|0.8132044672966003|0.09523809523809523|0.7511295676231384|5
+425|झूठ पर झूठ बोलना|"""To speak lies with lies"""|to keep lying|0.6417794227600098|0.6596375703811646|0.0|0.773932933807373|4
+426|झूठ से मुँह मोड़ना|"""Lying with one's mouth"""|to stay away from falsehood|0.41637951135635376|0.4722420871257782|0.0|0.6477890014648438|2
+427|झूठ पकड़ा जाना|Stealing Honesty|to get caught lying|0.5020391941070557|0.5620123147964478|0.0|0.68727707862854|2
+428|एक तीर से दो निशाने|"""Two targets from one arrow"""|to achieve two goals with one action|0.5569905042648315|0.8038074970245361|0.18181818181818182|0.6527848243713379|2
+429|नौ दो ग्यारह होना|"""To be in a state of confusion or disarray"""|to run away quickly|0.4978785812854767|0.5367295742034912|0.0|0.5321223735809326|2
+430|खयाली पुलाव पकाना|"""To make an empty promise"""|to daydream unrealistic plans|0.4784386157989502|0.4468889534473419|0.0|0.5243852734565735|5
+431|दाल में कुछ काला है|"""There's a bit of black in the lentils"""|something is suspicious|0.44585829973220825|0.8283237218856812|0.0|0.5351561903953552|3
+432|दाल न गलना|"""To not lose one's head"""|a plan not working out|0.44496098160743713|0.4006395637989044|0.1276595744680851|0.5819763541221619|4
+433|जले पर नमक छिड़कना|"""To remove salt from water"""|to make someone’s pain worse|0.5133998990058899|0.6762366890907288|0.0|0.5526906847953796|1
+434|सोने पर सुहागा|"""To be in a state of constant worry or anxiety"""|an added bonus to something good|0.5037829875946045|0.47842663526535034|0.023529411764705882|0.41543927788734436|1
+435|रामबाण उपाय|"""Rama's Arrow"" or ""Arrow of Rama"""|a sure-shot remedy|0.4331032335758209|0.3898862302303314|0.0|0.5761622190475464|1
+436|आसमान से तारे तोड़ना|"""To throw stars from the sky"""|to promise or attempt the impossible|0.45470044016838074|0.7280567288398743|0.08955223880597014|0.643947958946228|3
+437|सात समुंदर पार|"""Crossing Seven Seas"""|very far away|0.49395784735679626|0.8173723220825195|0.0|0.6347219347953796|2
+438|अब पछताए होत क्या जब चिड़ियाँ चुग गई खेत|"""What's the point now if the birds have flown away from the fields?"""|repenting after the damage is done|0.47868454456329346|0.6279687881469727|0.05357142857142857|0.32765936851501465|1
+439|हाथ कंगन को आरसी क्या|"""What's the point of having a hand in the pot?"""|no proof needed for the obvious|0.5125434994697571|0.5464118719100952|0.07058823529411766|0.4709385335445404|5
+440|तिल का ताड़ बनाना|"""To create a thorn in someone's side"""|to exaggerate a small issue|0.4345324635505676|0.5167044997215271|0.11940298507462688|0.5690610408782959|3
+441|ठोकर खाना|"""To eat the head of the elephant"""|to stumble and learn from mistakes|0.3694101870059967|0.4647934138774872|0.0|0.5736885070800781|1
+442|ठंडा बस्ता डालना|"""To put the icing on the cake"""|to shelve a matter indefinitely|0.43211400508880615|0.6973549127578735|0.0|0.5620197057723999|3
+443|ठंडी साँस भरना|"""Taking a deep breath"""|to sigh in sorrow|0.6144199967384338|0.8011450171470642|0.0|0.6167850494384766|1
+444|जी का जंजाल|"""A Huge Debt"""|a constant nuisance|0.44595974683761597|0.47723284363746643|0.0|0.6084976196289062|4
+445|जी जान से लगना|"""To be attached to someone or something"""|to put one’s heart and soul into it|0.47011616826057434|0.6884238719940186|0.024691358024691353|0.6281116604804993|2
+446|पीठ पीछे वार करना|"""To take a backseat"""|to backstab someone|0.4636189639568329|0.5634316205978394|0.16666666666666669|0.6676503419876099|4
+447|पीठ थपथपाना|"""Peech thapthapana"" (पीठ थपथपाना)"|to praise or encourage|0.34619632363319397|0.5921491980552673|0.0|0.5011112093925476|1
+448|पीठ दिखाना|"""To show one's backside"""|to run away from a challenge|0.468742311000824|0.791820764541626|0.0|0.6741018295288086|2
+449|पत्ता साफ होना|"""To have clarity or understanding"""|to be removed or eliminated|0.5304237008094788|0.6558265089988708|0.06557377049180327|0.611954391002655|4
+450|पत्ते खोलना|"""To Open One's Eyes"""|to reveal one’s plans|0.5285350680351257|0.5040926337242126|0.2926829268292683|0.654228925704956|4
+451|पलड़ा भारी होना|"""To become heavy with time"""|to have the upper hand|0.5035916566848755|0.5515464544296265|0.0|0.6721729636192322|1
+452|फटे में टांग अड़ाना|"""To be in a tight spot"""|to meddle where not needed|0.5137036442756653|0.6049746870994568|0.0|0.5229355692863464|4
+453|फूटी किस्मत|"""A Lucky Break"""|very bad luck|0.5005091428756714|0.6005715131759644|0.16666666666666669|0.674443244934082|5
+454|फूटी कोड़ी|"""A Frustrated Effort"""|a tiny amount of money|0.4677640497684479|0.43592289090156555|0.0|0.5137922763824463|2
+455|फूल नहीं समाना|"""Not like a flower"""|to be overjoyed|0.40576884150505066|0.7259043455123901|0.0|0.5886484980583191|2
+456|रंग में भंग पड़ना|"""To lose one's color"" or ""To lose one's hue"""|to have celebrations spoiled|0.4401213824748993|0.5817828178405762|0.0|0.5294325351715088|3
+457|रंग बदलना|"""Change of Heart"""|to betray or change stance|0.45795226097106934|0.5266695022583008|0.2439024390243902|0.7032153606414795|5
+458|रंग लाना|"""To Color"" or ""To Paint"""|to succeed|0.40946894884109497|0.541570782661438|0.0|0.5412318706512451|2
+459|रंगे हाथ पकड़ा जाना|"""To hold onto one's emotions"""|to be caught red-handed|0.42651042342185974|0.4704645574092865|0.0|0.5749258995056152|2
+460|लकीर का फ़कीर|The Poor Man's Song|to follow tradition blindly|0.34469279646873474|0.5158129930496216|0.0|0.5187301635742188|2
+461|लंबी-लंबी छोड़ना|"""To leave something for a long time"""|to boast with tall claims|0.4207618534564972|0.7098399996757507|0.0|0.6024062633514404|1
+462|लोहा मानना|"""To be seen as gold"""|to acknowledge someone’s superiority|0.44019725918769836|0.5465583801269531|0.0|0.6468768119812012|4
+463|लोहा गरम है चोट कर|"""The iron is hot, the fire is burning."""|strike while the iron is hot|0.7585344910621643|0.5174822807312012|0.4571428571428572|0.7501155138015747|3
+464|दिन-दुगनी रात-चौगुनी तरक्की|Double the Day, Triple the Night|rapid, compounding growth|0.4156707227230072|0.6088196039199829|0.0|0.5833520889282227|2
+465|दिन में तारे दिखना|"""To see stars in a day"""|to be in extreme pain or shock|0.38604870438575745|0.7684099674224854|0.07142857142857144|0.4611615538597107|2
+466|मक्खन लगाना|"""To add sugar to the mix"""|to flatter for gain|0.5610417127609253|0.7605578899383545|0.0|0.5690774917602539|4
+467|मगजमारी करना|"""To be in a pickle"" or ""To be in a tight spot"""|to toil mentally|0.4626869857311249|0.6002488732337952|0.0|0.5859725475311279|4
+468|माथा पीटना|"""To be in a pickle"""|to regret greatly|0.431051105260849|0.5176618099212646|0.0|0.6124362945556641|2
+469|माथा ठोकना|"""To Hit One's Head"""|to plead earnestly or pray|0.3553423285484314|0.5325524806976318|0.0|0.4622219502925873|2
+470|माथे पर बल पड़ना|"""To have a headache"""|to appear tense|0.49445101618766785|0.7140960097312927|0.0|0.6139523386955261|2
+471|मान रखना|"""To hold one's ground"" or ""To maintain one's position"""|to honor someone’s feelings|0.47938719391822815|0.5899639129638672|0.1411764705882353|0.48750177025794983|3
+472|मुँह में दही जमाना|"""To put honey in one's mouth"""|to remain deliberately silent|0.38903453946113586|0.7699909806251526|0.0|0.5807608366012573|2
+473|मूँछों पर ताव देना|"""To give someone a dressing-down"""|to show pride or bravado|0.4393186867237091|0.4409227967262268|0.0|0.6599167585372925|2
+474|जग हँसाई होना|"""To laugh at the world"""|to become a public joke|0.5926990509033203|0.7192315459251404|0.0|0.6813209652900696|2
+475|टांग अड़ाना|"""To be in a tight spot"" or ""To be in a difficult situation"""|to interfere unnecessarily|0.44780462980270386|0.5278322100639343|0.0|0.47067785263061523|1
+476|तूफ़ान खड़ा करना|"""To be in a state of turmoil or chaos"""|to create a big ruckus|0.6387605667114258|0.6809340119361877|0.0625|0.66231369972229|2
+477|कलेजा मुँह को आना|"""To Speak with Authority"""|to be terrified (near-death feel)|0.35769811272621155|0.4067169725894928|0.0|0.5882152915000916|1
+478|कलेजा ठंडा होना|"""The classroom is cold"""|to feel avenged or satisfied after anger|0.43645015358924866|0.5679616332054138|0.0|0.5073699951171875|1
+479|घी सीधी उंगली से ना निकले तो टेढ़ी करनी पड़े|"The idiom ""घी सीधी उंगली से ना निकले तो टेढ़ी करनी पड़े"" translates to ""If the butter does not come out with a single drop, then it must be boiled."" This idiom suggests that if something is not easily accessible or attainable, one might need to resort to more drastic measures, such as boiling it, to achieve the desired result."|use strict means if polite ones fail|0.4945870339870453|0.4197310507297516|0.02801120448179271|0.301371693611145|4
+480|छाती ठोकना|"""To Put One's Head in the Sand"""|to boast loudly|0.34040167927742004|0.5402341485023499|0.0|0.5338729023933411|4
+481|छाती पर साँप लोटना|"""To be in a tight spot"" or ""To be in a difficult situation"""|to be intensely jealous|0.42978420853614807|0.4211468994617462|0.13793103448275862|0.4867721199989319|4
+482|छाती पर मूंग दलना|"""To have a lot of trouble or difficulty"""|to oppress or torment someone|0.4564065635204315|0.37877967953681946|0.05555555555555555|0.6504918932914734|2
+483|छाती चौड़ी होना|"""To have a wide forehead"""|to feel proud|0.4791788160800934|0.7764395475387573|0.0|0.6025989651679993|5
+484|खेत खाए गधा, मारें जुलाहा|"""The farmer's cow eats the grass, the hunter kills the deer."""|to punish the wrong person|0.4368681311607361|0.5861549377441406|0.06451612903225806|0.40547800064086914|2
+485|कुएँ में कूदना|"""To be in a pickle"""|to jump into trouble knowingly|0.4368305504322052|0.4641229212284088|0.0|0.7137597799301147|5
+486|कुआँ खोदना|"""To be at a loss for words"""|to prepare in advance|0.4503786265850067|0.4301595687866211|0.0|0.5154579877853394|5
+487|चींटी की चाल|"""To be in a hurry"""|very slow progress|0.47566094994544983|0.39311033487319946|0.0|0.6215625405311584|5
+488|गागर में सागर भरना|"""To fill the ocean with a river"""|to say a lot in few words|0.46919235587120056|0.6527494192123413|0.032786885245901634|0.5437140464782715|2
+489|ऊँची दुकान फीका पकवान|"""High-end store with cheap food"""|great show, poor quality|0.5591917037963867|0.723551869392395|0.0|0.6450772881507874|2
+490|नाच न जाने आँगन टेढ़ा|"""Not knowing how to dance, the room is too big."""|blame surroundings for one’s lack|0.5020458698272705|0.6104682683944702|0.0|0.4454430937767029|2
+491|नेकी कर दरिया में डाल|"""Throwing a stone into the sea"""|do good without expectation|0.3417973816394806|0.5590446591377258|0.0|0.5909035205841064|1
+492|थोथा चना बाजे घना|"""A thick, dark, dense forest"""|empty vessels make more noise|0.41070792078971863|0.4666821360588074|0.0|0.5297698378562927|2
+493|रात गई बात गई|"The idiom ""रात गई बात गई"" can be translated semantically into English as ""The night has passed by."""|let bygones be bygones|0.42655518651008606|0.539347231388092|0.03571428571428572|0.24306806921958923|4
+494|रातों-रात बदलना|"""Switching from one night to another"""|to change overnight|0.5937214493751526|0.7309491634368896|0.03636363636363636|0.8463932871818542|4
+495|रस्सी जल गई पर ऐंठ न गई|"""The water ran out, but the fire did not go out"""|to be arrogant despite downfall|0.5128085017204285|0.5945655107498169|0.0|0.48952871561050415|2
+496|रोज़ का रोना|"""To cry every day"""|the same old complaint|0.48536109924316406|0.763570249080658|0.0|0.5874230265617371|1
+497|रोटी-रोज़ी का सवाल|"""The Question of the Day"""|a matter of livelihood|0.4936956465244293|0.6548775434494019|0.08695652173913043|0.609290599822998|3
+498|लाभ-हानि की परवाह न करना|"""Not to be swayed by gains or losses"""|to not care about profit or loss|0.7798276543617249|0.7726707458496094|0.2162162162162162|0.7491850852966309|4
+499|लाख टके की बात|"""A Matter of Thousands of Rupees"""|a very valuable point|0.39949801564216614|0.7423534393310547|0.0|0.6237377524375916|1
+500|लकड़ी बेकार करना|"""To steal like a thief"""|to waste effort (colloquial sense)|0.4905909299850464|0.4381653964519501|0.0|0.6015779376029968|1
+501|लड़ाई का मूड बनाना|"""To maintain the rhythm of the game"""|to get into a quarrelsome mood|0.5666161775588989|0.6627651453018188|0.0|0.5757859349250793|4
+502|शक की सूई अटकना|"""To be stuck in indecision"""|to remain doubtful|0.6264796853065491|0.6193080544471741|0.0|0.7482384443283081|5
+503|सड़कछाप व्यवहार|"""Road Rash Behavior"""|rude, rough behavior|0.45888736844062805|0.6447250843048096|0.39999999999999997|0.7056984305381775|2
+504|सिर पर चढ़ाना|"""To have one's head in the clouds"""|to pamper excessively|0.38188859820365906|0.44718220829963684|0.0|0.5571377873420715|4
+505|सिर पर हाथ फेरना|"""To put one's head in the sand"""|to bless affectionately|0.3659527599811554|0.5264537930488586|0.0|0.5869279503822327|5
+506|सिर पर तूफ़ान टूटना|"""To have a storm in one's mind"""|to face a sudden calamity|0.5246410965919495|0.6830004453659058|0.10169491525423728|0.7270733118057251|5
+507|सिर खपाना|"""To take a risk"""|to rack one’s brains|0.464093953371048|0.502022385597229|0.0|0.6658465266227722|2
+508|सिर ऊँचा करना|"""To raise one's head"""|to bring honor|0.5516335964202881|0.7732802629470825|0.0|0.6738142967224121|1
+509|सिर झुकाना|"""To bow one's head"""|to show respect or shame|0.5008553862571716|0.7864549160003662|0.0|0.6872243881225586|3
+510|सुबह के भूले शाम को घर आ जाएँ तो भूले नहीं कहलाते|"""If you come home in the evening after a day of forgetting, you won't be called a forgetful person."""|better late than never|0.42872440814971924|0.7305130362510681|0.014814814814814815|0.44759583473205566|2
+511|अक्ल के घोड़े दौड़ाना|"""Running after one's own shadow"""|to overthink unnecessarily|0.44270363450050354|0.44632360339164734|0.0|0.5216785669326782|1
+512|अव्वल दर्जे का|"""The Last Straw"""|of top quality|0.38600635528564453|0.4863843321800232|0.0|0.5598277449607849|2
+513|अधेड़ उम्र की दिक्कत|"""The burden of an old age"""|middle-age related issues (colloq.)|0.5685549378395081|0.8189033269882202|0.06557377049180327|0.6928629875183105|1
+514|अंगारों पर चलना|"""To walk on the edge of a cliff"""|to go through hardships|0.4995070993900299|0.4831288158893585|0.0|0.6455711722373962|3
+515|अंगूठा दिखाना|"""To show one's teeth"" or ""To reveal one's teeth"""|to refuse bluntly|0.3931235671043396|0.5663888454437256|0.05970149253731343|0.5264939069747925|1
+516|अंगूठा छाप|"""A small footprint"""|an illiterate person (dated)|0.4456559121608734|0.648260235786438|0.0|0.562022864818573|1
+517|अंधेर नगरी चौपट राजा|"""Dark City, Blind King"""|a place with complete mismanagement|0.4607047736644745|0.7073083519935608|0.0|0.5933212637901306|3
+518|अन्नदान महादान|"""The Great Annihilation"""|charity of food is supreme (proverbial)|0.4637333154678345|0.4116418659687042|0.0|0.5270516872406006|1
+519|अक्ल ठिकाने लगना|"""To be at one's wit's end"""|to come to one’s senses|0.5946205258369446|0.7453247904777527|0.3018867924528302|0.7162488698959351|1
+520|कानून हाथ में लेना|"""Taking the law into one's own hands"""|to take law into one’s own hands|0.9309528470039368|0.8365496397018433|0.7466666666666666|0.9293554425239563|5
+521|कान पर हाथ रखना|"""To Hold One's Breath"""|to be alarmed or scared|0.36752602458000183|0.539524257183075|0.0|0.5190544724464417|2
+522|कानोंकान खबर न होना|"""Not hearing a peep"""|no one gets wind of it|0.568267822265625|0.6097934246063232|0.0|0.7135487198829651|4
+523|काला-सफेद करना|"""To color black and white"""|to decide authoritatively|0.4253033399581909|0.7400305271148682|0.0|0.6148481369018555|3
+524|कलेजे पर पत्थर रखना|"""To put a stone on one's head"""|to harden one’s heart to do something tough|0.5510936975479126|0.6739677786827087|0.275|0.6774488687515259|2
+525|किसी की बैंड बजाना|"""To play someone's tune"""|to thrash or defeat thoroughly|0.41553059220314026|0.7402654886245728|0.0|0.5954575538635254|1
+526|खुल्लम-खुल्ला कहना|"""To speak in a roundabout way"""|to say openly|0.49037858843803406|0.6358938217163086|0.047619047619047616|0.622704029083252|2
+527|खून गर्म होना|"""To get hot under the collar"""|to feel fired up|0.5650743842124939|0.4819033443927765|0.0|0.6736771464347839|5
+528|खुशी के मारे फूले न समाना|"""Not all flowers are as fragrant as the ones that have been plucked in joy"""|to be overjoyed|0.45118144154548645|0.576526403427124|0.0|0.5574628114700317|2
+529|गला सूख जाना|"""To get one's throat dry"""|to feel nervous or scared|0.4050636291503906|0.7594039440155029|0.0|0.532321572303772|1
+530|गला काट प्रतिस्पर्धा|"""Cutting off the head of the competition"""|cut-throat competition|0.5408312678337097|0.5573434829711914|0.28571428571428575|0.8516759872436523|5
+531|गलती पर पर्दा डालना|"""To cover up one's mistake"""|to cover up a mistake|0.8654332756996155|0.8293280601501465|0.6530612244897959|0.9519706964492798|5
+532|गले की फाँस|"""Whispering in someone's ear"""|a nagging problem|0.3955085575580597|0.6043623685836792|0.045454545454545456|0.5694758892059326|3
+533|गले मिलना|"""To have a heart-to-heart talk"""|to embrace warmly (reconciliation)|0.5475632548332214|0.6729752421379089|0.0|0.627688467502594|4
+534|घड़ी-घड़ी रंग बदलना|"""Change color every hour"""|to be fickle|0.49155160784721375|0.7920114398002625|0.0|0.5341442823410034|2
+535|घूम-फिरकर वहीं आना|"""To keep going around the same place"""|to end up at the same point|0.6019876003265381|0.7487486004829407|0.29411764705882354|0.7449349761009216|4
+536|चक्कर काटना|"""To Cut the Gordian Knot"""|to make repeated rounds (bureaucracy)|0.45903927087783813|0.4479426443576813|0.0|0.587158739566803|2
+537|चक्की में पिसना|"""To be in a tight spot"""|to be crushed by circumstances|0.4979241192340851|0.6338419914245605|0.14814814814814814|0.7342466115951538|4
+538|चौबे जी छब्बे बने, दुबे बने न|"""He has made a fool of himself, and now he is a fool."""|to aim higher and lose what you had|0.40975019335746765|0.3301503360271454|0.06060606060606061|0.38129493594169617|1
+539|चूँ भी न करना|"""To do nothing at all"""|to not utter a word|0.550482988357544|0.7524205446243286|0.0975609756097561|0.7571710348129272|4
+540|चोली-दामन का साथ|"The idiom ""चोली-दामन का साथ"" can be translated semantically into English as ""a match made in heaven."" This idiom suggests that something is perfect or ideal, often implying a harmonious or ideal combination of elements."|inseparable relationship|0.41785430908203125|0.41655322909355164|0.00819672131147541|0.26636433601379395|4
+541|छोटा मुँह बड़ी बात|"The idiom ""छोटा मुँह बड़ी बात"" translates semantically to ""a small mouth for a big talk"" in English. This phrase is often used to describe someone who talks a lot but doesn't have much to say or doesn't have much substance to their words."|big talk from a small person|0.5561777353286743|0.547886073589325|0.10714285714285714|0.4815291464328766|4
+542|जुबान पर ताला लगाना|"""To put a foot in one's mouth"""|to keep one’s mouth shut|0.5696038007736206|0.6247693300247192|0.41379310344827586|0.7934890389442444|2
+543|जुबान देना और निभाना|"""To give and to receive"""|to keep a promise|0.5355979204177856|0.68574458360672|0.0|0.6256664991378784|4
+544|जुबान की कसम|"""A promise like a jewel"""|a solemn vow|0.5388526916503906|0.610711932182312|0.0|0.7149902582168579|4
+545|जान पर बन आना|"""To be born out of ignorance"""|to be in grave danger|0.4988463222980499|0.5721072554588318|0.1568627450980392|0.61279296875|2
+546|जान हथेली पर लेकर फिरना|"""To return home with a heavy heart"""|to live riskily|0.42137411236763|0.6522142887115479|0.0|0.573723316192627|5
+547|जेब ढीली करना|"""To Pocket Money"""|to spend money|0.5406498908996582|0.4665471017360687|0.22222222222222224|0.6663755774497986|3
+548|जेब काटना|"""Cutting one's own pocket"" or ""Cutting one's own throat"""|to pickpocket / cheat|0.4188975691795349|0.45712658762931824|0.1038961038961039|0.5669316053390503|1
+549|जोर आज़माइश करना|"""To Make a Big Deal Out of Something"""|to test strength|0.4893662631511688|0.7302923202514648|0.0|0.5266790390014648|2
+550|जोर-शोर से करना|"""To work with great effort or intensity"""|to do with great enthusiasm|0.6770726442337036|0.7536108493804932|0.34782608695652173|0.724800169467926|5
+551|टेंट-टून बजना|"""To be on the tip of one's tongue"""|to make a loud scene (colloq.)|0.4419874846935272|0.4680958390235901|0.0|0.6011368632316589|2
+552|ठाठ से रहना|"""To live in the shadow"""|to live in style|0.5313259363174438|0.46569451689720154|0.5263157894736841|0.7000566124916077|5
+553|डंका पीटना|"""To be in a pickle"""|to announce loudly|0.3773585557937622|0.4995834231376648|0.0|0.530432403087616|2
+554|ढिंढोरा पीटना|"""To be in a pickle"""|to brag publicly|0.43448352813720703|0.5245718359947205|0.06060606060606061|0.5994161367416382|1
+555|ढील देना|"""To be open-minded"""|to be lenient|0.6390085816383362|0.6226010918617249|0.27586206896551724|0.6936638355255127|4
+556|तारीफ़ के पुल बाँधना|"""To Tie a Rope to a Scale"""|to heap praises|0.41485053300857544|0.4633256494998932|0.0|0.6272130012512207|2
+557|तह तक पहुँचना|"""To reach the end of the road"""|to get to the root cause|0.6186142563819885|0.7031932473182678|0.21052631578947367|0.6101178526878357|3
+558|तन-मन-धन से|"""Money in the Bank"""|with body, mind, and wealth; wholeheartedly|0.33985233306884766|0.42427200078964233|0.0|0.557393491268158|1
+559|तार-तार करना|"""To be very enthusiastic or excited"""|to tear apart reputation|0.47723981738090515|0.45896655321121216|0.0|0.4599998891353607|2
+560|तार जोड़ना|"""To Put the Pieces Together"""|to connect the dots|0.709939181804657|0.7294090986251831|0.17391304347826086|0.7356581687927246|4
+561|तीस मार खाँ|"""To eat three times a day"""|a self-proclaimed hero; boaster|0.4419352114200592|0.5017779469490051|0.0|0.45457249879837036|1
+562|तीन में न तेरह में|"""Not in Three, Not in Twenty"""|irrelevant to any group|0.4005313813686371|0.7518116235733032|0.0|0.5910804271697998|4
+563|तेल-मसाज करना|"""To rub one's head on a wall"""|to flatter for benefit (colloq.)|0.4620126783847809|0.43688130378723145|0.0|0.5991405844688416|1
+564|थक-हार कर बैठ जाना|"""To sit down in a defeated or defeated state"""|to give up after trying|0.4835759401321411|0.6551392674446106|0.0|0.6811630129814148|4
+565|थाली का बैंगन बनना|"""To be a thorn in one's side"""|to switch sides easily (opportunist)|0.42830926179885864|0.5391411781311035|0.05970149253731344|0.7000481486320496|3
+566|दिमाग का पारा चढ़ना|"""To think outside the box"""|to lose temper|0.5030872821807861|0.5881384611129761|0.0|0.6060682535171509|5
+567|दिमाग सातवें आसमान पर|"""The Mind on the Seventh Heaven"""|to be overconfident or elated|0.39587780833244324|0.8075076341629028|0.0|0.5390134453773499|3
+568|दिमाग की बत्ती जलना|"""To have a brain freeze"""|to suddenly get an idea|0.5274794697761536|0.5657773017883301|0.0|0.7200356721878052|2
+569|दाँव खेलना|"""To play the game of life"""|to take a calculated risk|0.5913183689117432|0.626666784286499|0.0|0.5525994896888733|1
+570|दाँव-पेंच आज़माना|"""To be a match for"" or ""To be equal to"""|to use tricks or tactics|0.39680173993110657|0.49063923954963684|0.09090909090909091|0.5975890755653381|1
+571|नाक में नकेल डालना|"""To put a needle in one's eye"" "|to bring someone under strict control|0.45253387093544006|0.7746002078056335|0.028169014084507043|0.6375171542167664|1
+572|नाक रगड़ना|"""To get the wind up"" or ""To get one's knickers in a twist"""|to beg desperately|0.3410275876522064|0.39577504992485046|0.0|0.5162569284439087|2
+573|नाक ऊँची रखना|"""To keep one's head above water"""|to uphold one’s honor|0.6260299682617188|0.7539582848548889|0.2545454545454545|0.735124945640564|1
+574|नाक काट कर रख देना|"""To cut off the nose to spite the face"""|to disgrace someone completely|0.4348790943622589|0.6440827250480652|0.0|0.6725640296936035|3
+575|नाक पर दम होना|"""To be stuck with something"""|to be short-tempered / easily angered|0.496391624212265|0.5473817586898804|0.15625000000000003|0.5972229838371277|1
+576|नाक का बाल होना|"""To have a nose like a camel's hump"""|to be a favorite / close confidant|0.4217677116394043|0.49147629737854004|0.08219178082191782|0.5843044519424438|1
+577|कान खोलकर सुनना|"""Hearing by opening one's ears"""|to listen attentively|0.607221782207489|0.7929296493530273|0.0|0.7301285266876221|1
+578|कान देना|"""To Listen"""|to pay attention|0.5566714406013489|0.7769193649291992|0.0|0.5843629240989685|5
+579|कान पकड़ कर माफी मांगना|"""To ask for forgiveness with one's ears pinned back"""|to apologize earnestly|0.5128690004348755|0.7414205074310303|0.051948051948051945|0.6752774715423584|3
+580|कान के नीचे देना|"""To whisper or speak in a low voice"""|to slap / scold sharply|0.4871165454387665|0.5388939380645752|0.0|0.5747742652893066|3
+581|कान में भनक पड़ना|"""To hear something clearly or distinctly"""|to get a hint of something|0.6015526652336121|0.5747217535972595|0.20289855072463767|0.6482732892036438|3
+582|कान फटना|"""To lose one's hearing"""|to hear loud/harsh sounds|0.5355187058448792|0.7417550086975098|0.08333333333333333|0.6950070261955261|1
+583|कान कतरना|"""To be in a state of confusion or bewilderment"""|to cheat a little from all sides|0.46501126885414124|0.558346688747406|0.023529411764705882|0.47804534435272217|4
+584|आँख बचाकर निकलना|"""To take a chance"""|to slip away unnoticed|0.5104456543922424|0.5390967130661011|0.0|0.6506484746932983|1
+585|आँखें चार होना|"""To see everything"""|to exchange glances / fall in love|0.4434027671813965|0.5017840266227722|0.0|0.6235436797142029|1
+586|आँखें चुराना|"""Stealing Eyes"" or ""Gaining an Advantage"""|to avoid facing someone|0.39976513385772705|0.5105719566345215|0.03225806451612903|0.5192902684211731|2
+587|आँखें तिरछी करना|"""To look at someone with narrowed eyes"""|to squint in doubt|0.6021546721458435|0.6994243860244751|0.0|0.6946043968200684|1
+588|आँखों पर पट्टी बंधना|"""To put a bandage on one's eyes"""|to be blinded to the truth|0.4918087422847748|0.7809204459190369|0.03225806451612903|0.6539921760559082|3
+589|आँखों में बसाए रखना|"""To keep something in one's mind"""|to cherish someone deeply|0.5226383209228516|0.7595413327217102|0.1016949152542373|0.6684024333953857|4
+590|आँखों ही आँखों में इशारा करना|"""Pointing with one's eyes"""|to communicate silently|0.4733521044254303|0.7486218810081482|0.0|0.5416008830070496|3
+591|हाथ आजमाना|"""To put one's foot down"""|to try one’s hand at something|0.5318127870559692|0.6100431680679321|0.21052631578947367|0.6520074605941772|3
+592|हाथ पक्का होना|"""To be on the ball"""|to be highly skilled|0.508969247341156|0.47072017192840576|0.21052631578947367|0.583213210105896|1
+593|हाथ कंगन|"""To have a hand in"""|obvious proof; needs no words|0.4255099296569824|0.3942265212535858|0.0|0.4920528531074524|5
+594|हाथ रोक लेना|"""To hold one's hand"""|to restrain oneself|0.4844767153263092|0.7184160351753235|0.05405405405405405|0.6945518255233765|2
+595|हाथी के दाँत खाना और, दिखाना और|"""To eat and show one's teeth"""|hypocrisy; different inside vs outside|0.40651676058769226|0.47419923543930054|0.0|0.5825219750404358|3
+596|हाथ से हाथ धो बैठना|"""To wash one's hands clean"""|to lose something completely|0.32332757115364075|0.7010658979415894|0.0|0.6205145120620728|2
+597|हाथ धो बैठना|"""To wash one's hands of something"""|to suffer total loss|0.3619779646396637|0.6929845809936523|0.0|0.6065794229507446|5
+598|हाथी के पाँव में सबका पाँव|"""The Hand of a Bull"""|the mighty controls all|0.4475161135196686|0.513390302658081|0.04761904761904762|0.6349887847900391|1
+599|हाथ पर रखकर देखना|"""To look at something with one's hands on it"""|to test practically|0.5072120428085327|0.7191910743713379|0.0|0.5309101343154907|3
+600|हाथ टेक देना|"""To Take Someone's Hand"""|to surrender|0.38892218470573425|0.6440446972846985|0.0|0.6500575542449951|1
+601|पैरों तले की ज़मीन हिलना|"""To be on shaky ground"""|to be shocked badly|0.5166062712669373|0.6973727941513062|0.1951219512195122|0.6392534971237183|5
+602|पैर पटकना|"""To shake one's head"" or ""To shake one's head in disagreement"""|to throw a tantrum|0.4661863148212433|0.43449679017066956|0.0|0.5378636121749878|4
+603|पैरों पर कुल्हाड़ी चलाना|"""To walk on tiptoe"""|to self-sabotage|0.4382545053958893|0.562048077583313|0.0|0.6150529980659485|3
+604|पैरों की जूती समझना|"""Understanding the Basics"""|to treat with utter disdain|0.40804538130760193|0.4940401017665863|0.0|0.48615753650665283|2
+605|पैर उखड़ जाना|"""To lose one's balance"" or ""To stagger"""|to lose grip or stability|0.6387161612510681|0.521060585975647|0.27692307692307694|0.8025186657905579|4
+606|पैरों की बेड़ियाँ|"""Footprints"""|constraints that bind progress|0.4551067650318146|0.6299000978469849|0.05405405405405405|0.4733053743839264|2
+607|पाँव पीछे हटाना|"""To turn one's back on"""|to back out|0.5401359796524048|0.5831425189971924|0.30303030303030304|0.6911205053329468|4
+608|पैरों पर खड़ा होना|Standing on One's Head|to become self-reliant|0.41538456082344055|0.735085129737854|0.0|0.6042974591255188|1
+609|मुँह में राम, हाथ में छुरी|"""Mouth is Ram, Hand is Churri"""|to be two-faced|0.4724951684474945|0.6283738613128662|0.0|0.5782181024551392|1
+610|मुँह पर लौकी रखना|"""To hold one's tongue"""|to keep completely silent|0.3995162546634674|0.513031542301178|0.0|0.7402365207672119|5
+611|मुँह मियाँ मिट्ठू|"""Sweet Talk"""|to boast about oneself|0.4043734669685364|0.5134983062744141|0.0|0.5365676879882812|2
+612|मुँह का कौर छीनना|"""To take the bull by the horns"""|to snatch someone’s rightful share|0.3836820125579834|0.547930896282196|0.0|0.6562881469726562|3
+613|मुँह का रख लेना|"""To keep one's mouth shut"" or ""To hold one's tongue"""|to save face|0.45300349593162537|0.6431119441986084|0.0|0.5074304938316345|4
+614|मुँह की बात निकल जाना|"""To have an outburst of words"""|to blurt something out|0.6073402762413025|0.7395283579826355|0.03846153846153846|0.7713301181793213|4
+615|माथा ठनकना|"""To be confused or perplexed"""|to get suspicious suddenly|0.5363004803657532|0.622979998588562|0.0|0.6115806102752686|2
+616|माथा ठन जाना|"""To have one's head in the clouds"""|to clash over ego|0.44500622153282166|0.5391244888305664|0.0|0.70268315076828|2
+617|माथे पर लिखना|"""Writing on the Forehead"""|to be written on one’s fate/forehead|0.6712198853492737|0.7415525913238525|0.31746031746031744|0.8002312183380127|4
+618|माथा टेकना|"""To Take Someone's Head"" or ""To Take Someone's Mind"""|to bow in submission|0.34202712774276733|0.42510858178138733|0.0|0.5915023684501648|3
+619|दिल का हाल समझना|Understanding the Heart|to understand true feelings|0.652901828289032|0.822158932685852|0.25531914893617025|0.6237770915031433|1
+620|दिल बड़ा करना|"""To make one's heart grow"""|to be generous/forgiving|0.47443991899490356|0.7552262544631958|0.0|0.577039897441864|2
+621|दिल छोटा करना|"""To make someone's heart smaller"""|to get discouraged|0.4405114948749542|0.7280932664871216|0.0|0.6176323294639587|2
+622|दिल बहला फुसलाना|"""To feel a flutter in the heart"""|to console and distract|0.4188931882381439|0.6773092746734619|0.0|0.47156640887260437|4
+623|दिल का धनी|"""The Heart's Wealth"""|large-hearted person|0.44020411372184753|0.7210257053375244|0.21621621621621623|0.5548996925354004|5
+624|दिल खोलकर हँसना|"""Laughing with one's heart"""|to laugh heartily|0.6649717092514038|0.803132176399231|0.23809523809523808|0.8559017181396484|4
+625|दिल लगा कर पढ़ना|"""Reading with a heavy heart"" "|to study diligently|0.44368603825569153|0.7338538765907288|0.0|0.5214282274246216|5
+626|दिल हार बैठना|"""To Lose One's Heart"""|to lose one’s heart (fall in love)|0.6737214922904968|0.7845432758331299|0.7017543859649122|0.7759720087051392|5
+627|दिमाग ठनकना|"""To be confused or bewildered"""|to get suspicious|0.49405720829963684|0.6755713224411011|0.0|0.5660420060157776|1
+628|दिमाग चकरा जाना|"""To think about something obsessively"""|to get dizzy/confused|0.5721501111984253|0.6460612416267395|0.0|0.6144941449165344|4
+629|दिमाग ठंडा रखना|"""Keeping the mind cool"""|to stay calm|0.8162504434585571|0.8273769617080688|0.0|0.7826308608055115|4
+630|दिमाग घिसना|"""To Put One's Mind on Something"""|to use brain excessively|0.5565513372421265|0.6117435693740845|0.0|0.5935878753662109|2
+631|दिमाग पर जोर डालना|"""To put pressure on one's mind"""|to strain the brain|0.7167547941207886|0.8092188835144043|0.0|0.765966534614563|4
+632|दिमाग सातवें आसमान पर होना|"""To be on the seventh heaven"""|to be over the moon / cocky|0.5437089800834656|0.6769360303878784|0.28571428571428575|0.5450870990753174|4
+633|दाँत पीसकर रह जाना|"""To be in debt to someone"""|to swallow anger silently|0.45911940932273865|0.5117846727371216|0.03921568627450981|0.5938355326652527|3
+634|दाँत नाखून दिखाना|"""To show one's teeth"""|to show aggression|0.5302762389183044|0.7371373176574707|0.3243243243243243|0.6775983572006226|1
+635|दाँतों तले अंगुली आ जाना|"""To have one's teeth clenched"""|to be stunned with surprise|0.48334813117980957|0.6215330362319946|0.0|0.5914470553398132|2
+636|दाँत खींच लेना|"""To take hold of the teeth"""|to break someone’s courage|0.45788416266441345|0.6627947688102722|0.0|0.6438726186752319|1
+637|जुबान चलती रहना|"""To be persistent or determined"""|to keep blabbering|0.5919626355171204|0.49620410799980164|0.0|0.6714072823524475|4
+638|जुबान मीठी करना|"""To make something sweet"""|to speak sweetly to please|0.6691012382507324|0.5929882526397705|0.16|0.6836206912994385|1
+639|जुबान फँसना|"""To Break a Heart"""|to get tongue-tied|0.43404388427734375|0.5264227390289307|0.0|0.5644177794456482|3
+640|जुबान दराज़ होना|"""To be in a tight spot"""|to be insolent in speech|0.4852048456668854|0.577709436416626|0.3333333333333333|0.5791160464286804|1
+641|जुबान पर लगाम लगाना|"""To put a band-aid on a wound"""|to control speech|0.5035567283630371|0.6213618516921997|0.0|0.5184098482131958|3
+642|कलेजे में आग लगना|"""To get into trouble at school"""|to burn with jealousy/grief|0.46069011092185974|0.5448613166809082|0.0|0.6053245067596436|2
+643|कलेजे में ठंडक पड़ना|"""To feel cold in school"""|to feel satisfied after justice|0.4685823619365692|0.6229578852653503|0.21818181818181817|0.5572801828384399|3
+644|खून खौल उठना|"""To get one's blood boiling"""|to boil with rage|0.6619380712509155|0.7632884979248047|0.08888888888888889|0.7897207140922546|4
+645|खून खून होना|"""Blood for blood"""|to be very close blood relations|0.41989976167678833|0.5636099576950073|0.20833333333333331|0.6799604892730713|3
+646|खून पिला देना|"""To spill blood"""|to torment someone severely|0.45472580194473267|0.7948507070541382|0.0|0.6247892379760742|1
+647|खून में दौड़ना|"""Running in the Blood"""|to be in one’s nature|0.4662611186504364|0.7942408323287964|0.09302325581395349|0.5936852693557739|4
+648|खून पिघलना|"""To lose one's blood"" or ""To bleed out"""|to feel compassion|0.3893705904483795|0.62956702709198|0.0|0.5017191767692566|3
+649|खून मांगना|"""To ask for blood"""|to demand revenge|0.492296040058136|0.8014600276947021|0.0|0.7366219758987427|3
+650|पसीना सुखाना|"""To put up with something"""|to exploit someone’s hard work|0.4979266822338104|0.4579840898513794|0.07017543859649122|0.6543191075325012|2
+651|पसीना पोछना|"""To be curious"" or ""To inquire"""|to relieve someone’s hardship|0.4298015534877777|0.46638810634613037|0.0|0.40238991379737854|5
+652|पसीना निकाल देना|"""To Cut Off One's Nose to spite One's Face"""|to scare/work someone badly|0.42461711168289185|0.4333259165287018|0.05263157894736842|0.5678699612617493|5
+653|रातों की नींद हराम करना|"""Sleeping all night"""|to keep someone sleepless|0.5926843285560608|0.5812116861343384|0.09523809523809525|0.7757804989814758|1
+654|रातों रात भाग्य बदलना|"""Changing luck at night"""|fortune to change overnight|0.651103675365448|0.780147910118103|0.12244897959183673|0.8556020855903625|4
+655|रात काटना|"""Cutting the Night"""|to somehow pass a tough night|0.4504477083683014|0.565319299697876|0.12765957446808512|0.6963491439819336|1
+656|सिर पर चढ़ बैठना|"""To Put One's Head in the Sand"""|to take undue advantage of leniency|0.38048574328422546|0.5036605000495911|0.0|0.5491383075714111|2
+657|सिर पर हाथ रखना|"""To hold one's head up high"""|to bless or protect|0.4453562796115875|0.7774887084960938|0.0|0.5991787314414978|4
+658|सिर पर कर्ज़ चढ़ना|"""To be on one's nerves"""|to be burdened with debt|0.4370296001434326|0.5774961709976196|0.16666666666666666|0.5727874040603638|2
+659|सिर से पानी गुजरना|"""To have water run down one's neck"""|to cross all limits / patience|0.4511840045452118|0.8067457675933838|0.0|0.6249544620513916|3
+660|सिर फोड़ लेना|"""To scratch one's head"""|to take all the blame/work alone|0.3995334208011627|0.7140778303146362|0.0|0.6058504581451416|1
+661|सिर फटना|To Lose One's Head|to get a splitting headache / big fight|0.405498206615448|0.6169987916946411|0.07017543859649122|0.608661413192749|5
+662|सिर घुमाना|"""To be confused or bewildered"""|to confuse someone|0.6158424019813538|0.4559953808784485|0.21739130434782608|0.7982730269432068|5
+663|सीना ठोकना|"""To put on the brakes"""|to boast confidently|0.4405754804611206|0.5128331780433655|0.0|0.5752658247947693|1
+664|सीना चौड़ा होना|"""To have a wide forehead"""|to feel proud|0.48562538623809814|0.7751252055168152|0.0|0.6025989651679993|2
+665|सीना फुलाना|"""To be overwhelmed by something"""|to puff up with pride|0.6207711100578308|0.5185074806213379|0.0|0.7045764923095703|2
+666|सीने पर पत्थर रखना|"""To put a stone on one's head"""|to do something painful bravely|0.444831907749176|0.7359628677368164|0.0|0.7028417587280273|2
+667|सीने में कील चुभना|"""To be in a tight spot"" or ""To be in a difficult situation"""|to feel deep hurt|0.47056105732917786|0.48328283429145813|0.0|0.549389660358429|4
+668|छाती पर बोझ रखना|"""To have a bone to pick"""|to keep guilt/weight on heart|0.40939363837242126|0.6351926922798157|0.0|0.6075043082237244|1
+669|छाती धौंकनी चलना|"""To be in a precarious situation"""|to pant with anger/fear|0.46957042813301086|0.5214612483978271|0.0|0.6310637593269348|5
+670|छाती पर मूँग दल देना|"""To be burdened with something"""|to oppress cruelly|0.4903852045536041|0.4943642020225525|0.0|0.5941159129142761|4
+671|आगाह करना|"""To be on the same page"""|to warn in advance|0.47007715702056885|0.4649096727371216|0.0|0.5597978234291077|2
+672|आग-बबूला कर देना|"""To act like a fool"" or ""To behave foolishly"""|to enrage someone greatly|0.4668523371219635|0.5171464085578918|0.0|0.5729847550392151|1
+673|आग में तपना|"""To suffer in the fire"" or ""To burn in the fire"""|to go through severe trials|0.4565137028694153|0.702755331993103|0.0|0.5558180212974548|2
+674|आग ठंडी कर देना|"""To Cool Down the Fire"""|to pacify anger|0.6226944327354431|0.8015707731246948|0.0|0.6899672746658325|3
+675|आग फूँकना|"""To ignite a fire"""|to provoke conflict|0.6465047001838684|0.8250219821929932|0.0|0.703973114490509|3
+676|आग लगा बैठना|"""To feel like a fire has started"""|to cause trouble unknowingly|0.47091761231422424|0.7045760154724121|0.0|0.5987889170646667|2
+677|आग बुझाना|"""To put out a fire"""|to resolve a heated situation|0.625267744064331|0.8243389129638672|0.041666666666666664|0.6893043518066406|3
+678|आग से निकाल कर राख करना|"""To pick up the pieces and keep going"""|to ruin after rescuing|0.532820999622345|0.5077893137931824|0.0|0.6727442741394043|5
+679|रंग पकड़ना|"""To Take a Hold of Color"""|to mature or become noticeable|0.4792589843273163|0.7483102083206177|0.0|0.5233486294746399|1
+680|रंग उड़ जाना|"""The colors fly off"""|to lose color/enthusiasm|0.5573951601982117|0.7270617485046387|0.1904761904761905|0.6871521472930908|2
+681|रंगत फीकी पड़ना|"""To be in a pickle"""|to look dull/sickly|0.46723976731300354|0.5543617606163025|0.0|0.6048552393913269|1
+682|रंग चढ़ना|"""To Rise to Fame"""|to intensify (influence/celebration)|0.46202751994132996|0.6691884994506836|0.0|0.5756717920303345|5
+683|रंग बदलते देखना|"""To see colors change"""|to witness changing loyalties|0.635861337184906|0.8191574811935425|0.16326530612244897|0.7357747554779053|3
+684|नाक सूँघना|"""To be in a pickle"""|to pry into someone’s matters|0.38690996170043945|0.4995066225528717|0.0|0.6745863556861877|4
+685|नाक का बाल बन जाना|"""To have one's nose put out of joint"""|to become someone’s favorite|0.43850836157798767|0.4770163893699646|0.11594202898550725|0.6021431684494019|4
+686|नाक दबा देना|"""To hold one's breath"""|to silence forcefully|0.5290127396583557|0.7823991775512695|0.0|0.6878604292869568|2
+687|नाक का पानी उतरना|"""To have a nosebleed"""|to be utterly humiliated|0.5142839550971985|0.701052725315094|0.0|0.6061216592788696|2
+688|कान खींचना|"""To hold one's breath"" or ""To be silent"""|to scold/punish strictly|0.4113004207611084|0.68505859375|0.030769230769230767|0.4962488114833832|1
+689|कान देना-न देना|"""To listen or not to listen"""|to ignore what’s being said|0.6055022478103638|0.7531839609146118|0.0|0.7121553421020508|1
+690|कान फूंकना|"""To give someone a hard time"" or ""To be difficult for someone"""|to warn privately|0.4355250298976898|0.3794246017932892|0.0|0.4867582321166992|2
+691|कान पर हाथ धरे रह जाना|"""To hold one's breath"""|to be shocked speechless|0.49153977632522583|0.5848414897918701|0.0|0.6321118474006653|2
+692|आँख मिलाना|"""To See Eye to Eye"""|to meet the gaze confidently|0.5534982085227966|0.7485752105712891|0.0|0.6412160992622375|1
+693|आँख नीची करना|"""To look down"""|to lower eyes in shame|0.5701364874839783|0.7694363594055176|0.11764705882352942|0.7756873965263367|4
+694|आँखें झुकाना|"""To Blink"""|to be modest/shy|0.5207170248031616|0.6777707934379578|0.09090909090909091|0.5174084305763245|2
+695|आँखें तरेर कर देखना|"""To look at someone with narrowed eyes"""|to glare angrily|0.5951521992683411|0.7206499576568604|0.0|0.6338726282119751|3
+696|आँखें चमक उठना|"""To have one's eyes sparkle"""|to become excited|0.5932255387306213|0.7914354205131531|0.0|0.6697163581848145|3
+697|आँखें नम होना|"""To bow one's head"""|to get teary-eyed|0.43471503257751465|0.6359472274780273|0.0|0.6203562617301941|2
+698|आँखें धोखा खा जाना|"""To eat one's eyes out"""|to be visually deceived|0.46586874127388|0.5823789238929749|0.0|0.6798271536827087|4
+699|आँख का तारा|"""The Eye of the Needle"""|apple of the eye|0.6785167455673218|0.5601550936698914|0.5789473684210527|0.8020398020744324|5
+700|आँख का तिल|"""The Eye of the Needle"""|someone extremely dear|0.34961363673210144|0.5584723353385925|0.0|0.5533426403999329|3
+701|हाथ से काम निकलना|"""Doing work by hand"""|to get work done by others|0.6035173535346985|0.6523087024688721|0.2608695652173913|0.6882779598236084|2
+702|हाथ गंदा करना|"""To be in a pickle"""|to do dirty/lowly work|0.4319426715373993|0.46301034092903137|0.0|0.6172828674316406|2
+703|हाथ पर नाग रखना|"""To hold a snake in one's hand"""|to sit idle doing nothing|0.34449324011802673|0.8073145151138306|0.0|0.5526609420776367|3
+704|हाथ डूबना|"""To be overwhelmed or to become paralyzed"""|to sink resources into loss|0.4716203510761261|0.43423640727996826|0.0|0.5055418014526367|2
+705|हाथ थामे रह जाना|"""To hold one's breath"""|to stay dependent|0.4716486930847168|0.7062139511108398|0.0|0.6286337375640869|1
+706|हाथ काटकर अलग करना|"""Cutting off one's hand to be different"""|to sever ties completely|0.4254898130893707|0.5690715312957764|0.0|0.6407346725463867|4
+707|पाँव धरना|"""To hold one's breath"""|to set foot (begin)|0.4671081602573395|0.7106451392173767|0.0|0.5664570331573486|4
+708|पाँव पसारकर सोना|"""Sleeping on one's feet"""|to relax without worry|0.3637617528438568|0.7051131129264832|0.0|0.5945433378219604|5
+709|पाँव फिसलना|"""To lose one's footing"""|to make a slip/mistake|0.5307986736297607|0.7509716153144836|0.0|0.7310256361961365|4
+710|पाँव भारी होना|"""To have a heavy burden on one's shoulders"""|to be pregnant (euphemistic)|0.4649415612220764|0.7374637126922607|0.0|0.5359792709350586|4
+711|पाँव के नीचे से जमीन खींच लेना|"""To dig one's heels in"""|to pull the rug from under|0.4565410315990448|0.5529287457466125|0.0|0.7202154994010925|3
+712|पाँव तले रौंदना|"""To be in a tight spot"""|to crush mercilessly|0.4168514311313629|0.5072318911552429|0.0|0.6466122269630432|5
+713|पाँव रोक देना|"""To hold one's tongue"""|to restrain someone|0.40576979517936707|0.6323109865188599|0.0|0.7287997603416443|2
+714|मुँह फुलाना|"""To be full of oneself"""|to sulk|0.41064247488975525|0.47094738483428955|0.0|0.6621881723403931|2
+715|मुँह पर ताला लगाना|"""Putting a Band-Aid on a Wound"""|to stay tight-lipped|0.5233252644538879|0.6935818195343018|0.0|0.6477305889129639|2
+716|मुँह तक आकर लौट जाना|"""To return to one's roots"""|to almost say but stop|0.4764538109302521|0.6536471843719482|0.0|0.5696879029273987|2
+717|मुँह फूटना|"""To bite one's tongue"""|to blurt under pressure|0.43331000208854675|0.6623837351799011|0.045454545454545456|0.6663727164268494|1
+718|मुँह के बल गिरना|"""To be swayed by words"" or ""To be influenced by words"""|to fail badly|0.4173865020275116|0.37796708941459656|0.0|0.42066463828086853|4
+719|मुँह-माँगा दाम|"""Mouth-Desire Price"""|price asked without bargaining|0.46295586228370667|0.6052776575088501|0.0851063829787234|0.6987366080284119|1
+720|मुँह में खून लगना|"""To have blood on one's lips"""|to become greedy after first gain|0.4531192481517792|0.8175957798957825|0.0|0.6015827655792236|2
+721|मुँह में लौकी डालना|"""To put a carrot in one's mouth"""|to hush someone completely|0.3894414007663727|0.7747670412063599|0.03333333333333333|0.6131426095962524|1
+722|मुँह का स्वाद बदलना|Changing the Taste of One's Words|to lighten the mood|0.4784693121910095|0.7271676063537598|0.11320754716981132|0.5884279012680054|1
+723|माथा ठोककर मानना|"""To swallow one's pride"""|to accept with resignation|0.45769086480140686|0.617767870426178|0.0|0.5926579236984253|4
+724|माथे का पसीना पोंछना|"""To take someone's word for it"""|to finish hard work|0.4366782605648041|0.45485812425613403|0.0392156862745098|0.599215030670166|5
+725|माथे की लकीरें|"""Whispers in the ear"" or ""Silent advice"""|lines of fate/concern|0.4669000208377838|0.39599499106407166|0.0|0.5584484338760376|2
+726|माथे पे शिकन|"""To have one's head in the clouds"""|wrinkles of worry|0.4008217751979828|0.47145509719848633|0.0|0.6897782683372498|4
+727|माथा घूम जाना|"""To be confused or bewildered"""|to feel dizzy/overwhelmed|0.647281289100647|0.46685463190078735|0.0|0.7176624536514282|4
+728|माथे पर हाथ मारना|"""To hit someone on the head"""|to smack the forehead in regret|0.6453874707221985|0.779163122177124|0.13114754098360656|0.7510946989059448|3
+729|दिल दहला देना|"""To Give Someone a Heart Attack"""|to horrify|0.4872482120990753|0.7255862951278687|0.0|0.5880916714668274|1
+730|दिल में घर कर लेना|"""To feel at home"""|to make a place in one’s heart|0.487865149974823|0.7309825420379639|0.0|0.7822198271751404|5
+731|दिल पर चोट लगना|"""Feeling a pang of heart"""|to be emotionally hurt|0.473311185836792|0.7240464687347412|0.0|0.6511096954345703|4
+732|दिल पे लेना-न लेना|"""To be in someone's heart or mind"""|to take/not take to heart|0.4307115972042084|0.5231595039367676|0.12698412698412698|0.6872842311859131|5
+733|दिल का रोग|"""Heart Disease"""|heartache/grief|0.5559230446815491|0.8296493291854858|0.08333333333333333|0.7720634341239929|2
+734|दिल की बात कहना|"""Talking about the heart"""|to confide|0.4747597873210907|0.7743360996246338|0.0|0.5921428799629211|5
+735|दिमाग घूम जाना|"""To have a mental breakdown"""|to get furious or confused|0.5460416674613953|0.661258339881897|0.0|0.7319003343582153|5
+736|दिमाग पर पत्थर रखना|"""To put a stone in one's head"""|to force oneself against feelings|0.4714759886264801|0.7463787794113159|0.030303030303030304|0.6586110591888428|2
+737|दिमाग में कील ठोकना|"""To hit one's head on the wall"""|to insist hard on a point|0.49456682801246643|0.6075271368026733|0.10000000000000002|0.6471624970436096|2
+738|दिमाग की नस दबना|"""To shut one's mind"""|to lose calm badly|0.4524708092212677|0.6139758825302124|0.0|0.6782079339027405|2
+739|दिमाग ठप्प होना|"""To have a blank mind"""|to have a mental block|0.7270172238349915|0.7801762819290161|0.4090909090909091|0.7754758596420288|1
+740|दाँत दिखाना-न दिखाना|"""To show one's teeth"" or ""To reveal one's teeth"""|to mock or avoid mocking|0.422568142414093|0.5894273519515991|0.05263157894736842|0.4577173888683319|1
+741|दाँत लगना|"""To have a toothache"""|to become accustomed (badly)|0.5057399868965149|0.7384668588638306|0.0|0.6158298254013062|2
+742|दाँत भींचना|"""To hold one's tongue"""|to endure silently|0.3798353672027588|0.6948200464248657|0.0|0.7259363532066345|4
+743|दाँत की नोक पर रखना|"""To hold onto something tightly"""|to remember exactly|0.5067996382713318|0.5796123147010803|0.0|0.6724215149879456|1
+744|दाँत-काटे का बैर|"""The Toothache's Curse"""|deadly enmity|0.4133354723453522|0.5748631358146667|0.0|0.6652114391326904|2
+745|जुबान की मिठास|"""Sweet Temptation"""|sweetness of speech|0.5779507756233215|0.589528501033783|0.0625|0.7152085900306702|5
+746|जुबान सरकना|"""To be in a pickle"""|to slip of the tongue|0.43286818265914917|0.5186758041381836|0.0|0.6924617886543274|5
+747|जुबान की धार|"""To be in a pickle"""|sharpness of words|0.4028078019618988|0.4665217697620392|0.0|0.5724135041236877|5
+748|जुबान को ताला|"""To hit someone on the head"""|to keep silent|0.40016970038414|0.4890633523464203|0.0|0.544462263584137|1
+749|खून खौल जाना|"""To bleed out"""|to boil with rage|0.6129880547523499|0.6016929149627686|0.07142857142857144|0.6743022203445435|2
+750|खून सूख जाना|"""To lose one's blood"""|to be terrified or horrified|0.45789340138435364|0.6971336007118225|0.0|0.6025259494781494|3
+751|खून पीना|"""To drink blood"""|to exploit harshly|0.4926941990852356|0.8214174509048462|0.0|0.6554527878761292|3
+752|खून के आँसू रोना|"""To cry with blood in one's eyes"""|to suffer painfully|0.4667457044124603|0.766505241394043|0.0|0.6699468493461609|2
+753|पसीना चूना|"""To be in a pickle"""|to toil severely|0.46547186374664307|0.45256751775741577|0.0|0.6849504709243774|4
+754|पसीना टपकना|"""To stall"" or ""To hold back"""|to sweat profusely|0.3998408615589142|0.40768033266067505|0.046511627906976744|0.4855395555496216|1
+755|पसीना रोक देना|"""To hold back tears"""|to relieve / cool down|0.5146285891532898|0.8226885795593262|0.0|0.6455355882644653|2
+756|सीने में साँप लोटना|"""To be in a tight spot"""|to be eaten up by jealousy|0.41267433762550354|0.474910169839859|0.15686274509803924|0.6412278413772583|5
+757|सीने-से-लगाना|"""To be affected by something"""|to embrace warmly|0.5240775346755981|0.4900219440460205|0.0|0.6111902594566345|4
+758|सीना-जोरी करना|"""To push someone to the limit"" or ""To push someone to their limits"""|to browbeat|0.447394996881485|0.4007999897003174|0.0|0.5109584331512451|5
+759|सीने में धुआँ उठना|"""To get a cold"""|to smolder with anger|0.46008366346359253|0.601589560508728|0.0|0.6584970951080322|2
+760|आग सलाख करना|"""To set fire to the fuel"""|to test by ordeal|0.48991549015045166|0.4957003593444824|0.04761904761904762|0.6130234003067017|2
+761|आग में घिरना|"""Getting Burned"""|to be surrounded by trouble|0.44125160574913025|0.739127516746521|0.0|0.6184547543525696|3
+762|आग सेंकना|"""To be caught in a fire"""|to take advantage amid conflict|0.4620048701763153|0.6469061374664307|0.0|0.6287499666213989|1
+763|आग ओकना|"""To be in a panic"""|to speak venomously|0.4374561309814453|0.5335832834243774|0.0|0.6060249209403992|5
+764|आग बुझा बैठना|"""To be in a state of panic or confusion"""|to lose spirit prematurely|0.6016247272491455|0.5534254908561707|0.0|0.5988801717758179|4
+765|रंग में रंग जाना|"""To be in a state of confusion or chaos"""|to blend in completely|0.5026624798774719|0.5773525834083557|0.0923076923076923|0.5345547199249268|1
+766|रंग उछालना|"""To Stir Up Emotions"""|to malign someone publicly|0.4776169955730438|0.5845887064933777|0.0|0.5280658602714539|4
+767|रंगत लौटना|"""To return with a smile"""|to regain glow/cheer|0.6123238205909729|0.5947470664978027|0.0930232558139535|0.7122126221656799|4
+768|नाक घुसाना|"""To be in a pickle"" or ""To be in a tight spot"""|to interfere unnecessarily|0.3783257305622101|0.3847202658653259|0.0|0.4827083647251129|3
+769|नाक मरोड़ना|"""To be in a bad mood"""|to insult or humiliate publicly|0.4104320704936981|0.6189101338386536|0.0|0.6295095682144165|2
+770|नाक पर गुस्सा होना|"""To have a lump in one's throat"""|to get angry quickly|0.4694412648677826|0.5923607349395752|0.0|0.6419761180877686|5
+771|नाक नीचे करना|"""To put one's nose out of joint"""|to make someone feel inferior|0.36497947573661804|0.5931458473205566|0.03125|0.5977070331573486|4
+772|नाक का बाल खींचना|"""To take the nose ring"""|to criticize harshly|0.389620840549469|0.4878403842449188|0.0|0.491067111492157|2
+773|कान में भनक लगना|"""To have a headache"""|to get a small hint about something|0.40221312642097473|0.5933038592338562|0.03571428571428572|0.6272021532058716|2
+774|कान में फूँक मार देना|"""To give someone a good scare"""|to secretly manipulate someone|0.48293522000312805|0.5020656585693359|0.19999999999999998|0.6124129891395569|5
+775|कान पकड़े रह जाना|"""To have one's ears pinned back"""|to stay astonished or scared|0.5145390033721924|0.6478508114814758|0.0|0.6641509532928467|2
+776|कान के नीचे थप्पड़ मारना|"""To hit someone on the head"""|to slap soundly (figuratively punish)|0.5935519337654114|0.6965614557266235|0.0|0.6808613538742065|3
+777|कान में सीटी बजना|"""To hear a sound in one's ear"""|to hear unpleasant sounds / tinnitus|0.5370182991027832|0.6220386028289795|0.26865671641791045|0.7984918355941772|4
+778|आँखों से आँसू पोछना|"""To cry with the eyes"""|to comfort someone in sorrow|0.43067118525505066|0.7052978277206421|0.04|0.5975674986839294|2
+779|आँखों में बसा लेना|"""To put a blind eye to"""|to remember fondly|0.4784608781337738|0.500683605670929|0.0|0.5961878895759583|1
+780|आँखें फेर लेना|To Look Away|to turn away / stop supporting|0.5486765503883362|0.788213312625885|0.10526315789473682|0.6139159202575684|5
+781|आँख मूँदकर भरोसा करना|"""Taking a leap of faith"""|to trust blindly|0.5259519219398499|0.7450371980667114|0.0|0.7505876421928406|4
+782|आँखों के आगे अंधेरा छा जाना|"""To see through someone's eyes"""|to be momentarily shocked|0.5088785290718079|0.5081321597099304|0.0|0.6370196342468262|1
+783|आँख बचाकर काम करना|"""Working with one eye open"""|to do secretly|0.5017040967941284|0.748116672039032|0.0|0.6751044988632202|3
+784|आँख खुलना|"""To Open One's Eyes"""|to become aware of truth|0.5669794678688049|0.76934814453125|0.0|0.6472322344779968|4
+785|आँखों में आँसू भर आना|"""To feel teary-eyed"""|to feel deeply emotional|0.594036340713501|0.7883440256118774|0.28571428571428575|0.7687398195266724|3
+786|आँखें नीची करना|"""To look down upon"""|to bow in embarrassment or respect|0.40696439146995544|0.6647276878356934|0.0|0.6375743746757507|5
+787|हाथ तंग होना|"""To feel down"" or ""To be depressed"""|to be financially tight|0.47335055470466614|0.5626466870307922|0.14035087719298245|0.532084584236145|2
+788|हाथ ऊपर होना|"""To be on the ball"""|to be superior in status or strength|0.40861043334007263|0.4457993805408478|0.14035087719298245|0.6340479254722595|5
+789|हाथ नीचे होना|"""To have one's hands down"""|to lose or be defeated|0.4868588447570801|0.72242271900177|0.0|0.7307229042053223|2
+790|हाथ जोड़ना|"""To Put One's Hands Together"""|to plead or show respect|0.40221014618873596|0.780564546585083|0.037037037037037035|0.5103681683540344|1
+791|हाथ में काम न होना|"""Not having a hand in the work"""|to be idle|0.4646499752998352|0.6812537908554077|0.0|0.6759272217750549|3
+792|हाथ न लगाना|"""Not to touch"""|to avoid touching / involvement|0.6869483590126038|0.7522777318954468|0.15|0.8400647044181824|4
+793|हाथ छुड़ाना|"""To Give Up"""|to escape from control|0.4308426082134247|0.641961932182312|0.0|0.6173239946365356|1
+794|हाथ रोक देना|"""To hold one's breath"""|to stop mid-action|0.5591517090797424|0.6712110042572021|0.0|0.5880573987960815|4
+795|पैर रखना भी पाप|"""To be guilty of something"""|to be forbidden to enter|0.4898025095462799|0.44644513726234436|0.19607843137254902|0.6565727591514587|1
+796|पैर जमने न देना|"""Not to let your feet get stuck"""|to obstruct someone’s progress|0.5330241322517395|0.7646995782852173|0.0|0.5874992609024048|4
+797|पैर पर पाँव रखना|"""To put one's foot down"""|to challenge or overtake|0.41364380717277527|0.6568690538406372|0.0|0.6796168088912964|1
+798|पैरों में गिरना|"""To fall down"""|to beg for mercy|0.4610614478588104|0.6149163246154785|0.0|0.6368170380592346|1
+799|पैर भारी होना|"""Feeling Heavy Feet"""|to bring bad luck (figuratively)|0.4152091443538666|0.7772893309593201|0.04081632653061224|0.5061788558959961|1
+800|पैर धोना|To Clean Up One's Act|to show deep respect|0.441843718290329|0.5223713517189026|0.0|0.547406017780304|2
+801|पैर पकड़ लेना|"""To Hold Someone's Hand"""|to surrender humbly|0.40300026535987854|0.6707907915115356|0.0|0.6199424862861633|2
+802|पैर रोक लेना|"""To hold one's breath"""|to hesitate before action|0.4939574599266052|0.6575052738189697|0.043478260869565216|0.6821138262748718|2
+803|मुँह मोड़ लेना|"""To hold one's tongue"""|to turn away emotionally|0.41305413842201233|0.6159762144088745|0.0|0.6588082909584045|2
+804|मुँह बंद कर देना|"""To keep one's mouth shut"""|to silence completely|0.5251400470733643|0.8040180802345276|0.0|0.7457911968231201|3
+805|मुँह चलाना|"""To Speak Out Loud"""|to speak unnecessarily|0.5512079000473022|0.5800701975822449|0.36842105263157887|0.6296653747558594|3
+806|मुँह लगाना|"""To Put Your Foot in Your Mouth"""|to get too familiar with elders|0.35776230692863464|0.45287197828292847|0.0|0.5414623022079468|2
+807|मुँह मीठा होना|"""To be mouth-watering"""|to taste success|0.5021141767501831|0.6350270509719849|0.0|0.7037478089332581|3
+808|मुँह बिचकाना|"""To bite one's tongue"""|to show irritation or disgust|0.40854111313819885|0.7185081243515015|0.0|0.642785370349884|3
+809|मुँह पीटना|"""To have a mouthful of words"""|to cry loudly in distress|0.3929210603237152|0.46077075600624084|0.0|0.5698210000991821|1
+810|मुँह धुलवाना|"""To talk nonsense"" or ""To babble"""|to publicly humiliate|0.44176745414733887|0.3930492699146271|0.0|0.5803785920143127|3
+811|माथे पर शिकन डालना|"""To give someone a hard time"" or ""To make someone suffer"""|to frown slightly|0.4252627193927765|0.565711259841919|0.0|0.4925735592842102|1
+812|माथे पर लकीरें पड़ना|"""To have words on one's mind"""|to show anxiety or anger|0.42296287417411804|0.547456681728363|0.0|0.5890079140663147|2
+813|दिल में जगह बनाना|"""To make room in one's heart"""|to win affection|0.5796924233436584|0.7834179401397705|0.0|0.6629478931427002|4
+814|दिल में काँटे चुभना|"""To feel a lump in one's heart"""|to feel deeply hurt|0.5377591848373413|0.721061110496521|0.23076923076923078|0.722887396812439|5
+815|दिल में खटका होना|"""To feel a pang of regret or remorse"""|to have a lingering doubt|0.6615615487098694|0.7722598910331726|0.030769230769230767|0.6437094211578369|2
+816|दिल में गुस्सा रखना|"""To have a lump in one's heart"""|to hold a grudge|0.5041119456291199|0.7181427478790283|0.0816326530612245|0.697546124458313|2
+817|दिल की गहराई से|The Depth of the Heart|from the bottom of one’s heart|0.6758061051368713|0.7582305669784546|0.2962962962962963|0.787510335445404|4
+818|दिल हिल जाना|"""The heart melts"""|to be shaken emotionally|0.5457818508148193|0.7062625885009766|0.0|0.6897987127304077|3
+819|दिल बाग़-बाग़ होना|"""To have a heart full of gardens"""|to feel immense joy|0.4961531460285187|0.6164243817329407|0.0|0.6064689755439758|3
+820|दिल टूटकर रह जाना|"""To be heartbroken"""|to be devastated|0.6984639763832092|0.7494708299636841|0.2580645161290323|0.824289083480835|4
+821|दिल को सुकून मिलना|"""Finding Peace of Mind"""|to find peace|0.788474440574646|0.8138338327407837|0.24242424242424246|0.8392158150672913|5
+822|दिमाग खराब कर देना|"""To mess up one's mind"""|to frustrate someone badly|0.4980410635471344|0.7756184339523315|0.04081632653061224|0.7055070996284485|3
+823|दिमाग ठिकाने लग जाना|"""To lose one's mind"""|to become sensible again|0.47175005078315735|0.7304807901382446|0.0|0.7075263261795044|4
+824|दिमाग पर बोझ डालना|"""To put a thought into action"""|to overthink|0.5888698101043701|0.6529382467269897|0.0|0.722251832485199|3
+825|दिमाग गुम होना|"""To be lost in thought"""|to lose one’s senses|0.5895178914070129|0.747623860836029|0.046511627906976744|0.7452464699745178|5
+826|दिमाग की बत्ती बुझ जाना|"""To lose one's mind"""|to go blank suddenly|0.49126970767974854|0.6565216779708862|0.0|0.750365138053894|2
+827|दाँत किटकिटाना|"""To bite one's nails"""|to shiver in cold or fear|0.3668932020664215|0.7249146103858948|0.0|0.596146285533905|2
+828|दाँत नाखून से काम लेना|"The idiom ""दाँत नाखून से काम लेना"" can be translated semantically into English as ""to work with the teeth and nails."" This phrase suggests a situation where someone is working very hard, perhaps due to a lack of other resources or tools. It implies a sense of determination and effort, but also a hint of frustration or struggle."|to struggle hard|0.521097719669342|0.49814534187316895|0.05|0.3239437937736511|3
+829|दाँतों तले अंगुली दबाना|"""To bite one's nails"""|to be stunned in awe|0.3914765417575836|0.608970046043396|0.04878048780487805|0.49502119421958923|3
+830|जुबान बंद कर देना|"""To Close One's Eyes"""|to silence someone completely|0.5051122307777405|0.6308451890945435|0.04081632653061224|0.6163262724876404|4
+831|जुबान काट लेना|"""To Cut the Root"""|to regret words spoken|0.4293486177921295|0.46923938393592834|0.0|0.49955040216445923|3
+832|जुबान कसना|"""To cut off the nose to spite the face"""|to rebuke harshly|0.40935108065605164|0.5457882881164551|0.0|0.6443814635276794|3
+833|जुबान के पक्के|"""The Bottom Line"""|to be true to one’s word|0.37749841809272766|0.4447079002857208|0.0|0.5756353139877319|4
+834|जुबान पर ताला|"""The nail on the head"""|to keep secrets locked|0.42849239706993103|0.648934006690979|0.0|0.6212485432624817|2
+835|जुबान फिसल जाना|"""To lose one's temper"""|to say something accidentally|0.4833095073699951|0.7789257764816284|0.0|0.6718719005584717|1
+836|जुबान सरक जाना|"""To be in a tight spot"""|to misspeak|0.487900048494339|0.5721810460090637|0.0|0.6469243764877319|4
+837|जुबान की मिठास रखना|"""To hold onto one's pride"" or ""To cling to one's dignity"""|to speak kindly|0.43485379219055176|0.49574312567710876|0.0|0.493882417678833|2
+838|खून का रिश्ता निभाना|"""To keep the bloodline alive"""|to uphold family ties|0.5811235904693604|0.7596983909606934|0.0|0.7863014936447144|3
+839|पसीना रोकना|"""Hold your tongue"""|to relieve effort|0.314292311668396|0.7015524506568909|0.0|0.6174253225326538|3
+840|पसीने-पसीने होना|"""To be in a state of constant worry or anxiety"""|to be drenched with effort|0.5574831962585449|0.6955985426902771|0.10256410256410257|0.5297538042068481|5
+841|सीने में दर्द होना|"""To feel pain in one's bones"""|to feel emotional pain|0.660706639289856|0.7320854663848877|0.34615384615384615|0.7576979994773865|1
+842|सीने में जलन होना|"""To have a fire in one's head"""|to feel envy|0.4822169840335846|0.7175548672676086|0.0|0.6183087825775146|2
+843|सीने में लावा उठना|"""To lift the lid off"""|to boil in anger|0.46994251012802124|0.5564542412757874|0.0|0.6006308794021606|1
+844|सीने पर बोझ होना|"""To be in a pickle"""|to feel guilt or burden|0.4022575616836548|0.5224937796592712|0.0|0.6100720167160034|5
+845|सीने में आग लगना|"""To catch fire"""|to feel jealous or provoked|0.3645149767398834|0.611915647983551|0.0|0.5477277636528015|3
+846|रंग दिखाना|"""To show one's colors"""|to reveal true colors|0.6396837830543518|0.7345855832099915|0.1904761904761905|0.8075827360153198|4
+847|रंगीन होना|"The idiom ""रंगीन होना"" in Hindi translates to ""to be colorful"" or ""to be vibrant"" in English. This phrase is often used to describe something that is lively, lively, or full of life."|to enjoy life freely|0.5361334681510925|0.44236427545547485|0.03864734299516909|0.3547160029411316|3
+848|रंग फीका पड़ना|"""To be in a fix"""|to lose enthusiasm|0.4765794575214386|0.44809842109680176|0.0|0.6384813189506531|1
+849|रंग उड़ना|"""To change one's color"" or ""To alter one's appearance"""|to fade away|0.4352416396141052|0.4704485535621643|0.0|0.573074460029602|4
+850|रंग जमना|"""To become discolored or stained"""|to gain traction|0.49275752902030945|0.6707584857940674|0.0|0.5708690881729126|2
+851|रंग लगना|"""To be affected by color"""|to start celebrating|0.5035180449485779|0.579916775226593|0.0|0.5220971703529358|1
+852|रंग में रँग जाना|"""To be in a state of confusion"""|to blend or adapt fully|0.4937601387500763|0.6143900752067566|0.03571428571428572|0.5749325752258301|2
+853|अति सर्वत्र वर्जयेत|"""Avoid everything at all costs"""|too much of anything is bad|0.5234512686729431|0.6150714755058289|0.13559322033898305|0.7284064888954163|4
+854|अपना उल्लू सीधा करना|"""To get straight to the point"""|to act selfishly for personal gain|0.46634623408317566|0.4587430953979492|0.0|0.5643956661224365|2
+855|अक्ल ठिकाने लगाना|"""To put one's mind at ease"" or ""To calm one's mind"""|to make someone sensible|0.554706335067749|0.671980619430542|0.049999999999999996|0.6190796494483948|4
+856|अंगूर खट्टे हैं|"""The grapes are sour."""|to pretend disinterest after failure|0.48556196689605713|0.8342832922935486|0.0|0.4615531265735626|2
+857|अपनी डींगे हाँकना|"""To complain about one's own misfortunes"""|to brag about oneself|0.6207076907157898|0.5857604146003723|0.25396825396825395|0.6992775797843933|4
+858|अपनी नाक ऊँची रखना|"""To have one's nose in the air"""|to maintain self-respect|0.45972099900245667|0.724139392375946|0.0|0.6523379683494568|5
+859|अपना राग अलापना|"""Expressing one's feelings"""|to talk only about oneself|0.6203988790512085|0.6912052631378174|0.038461538461538464|0.6840544939041138|5
+860|अंधे का हाथ बटेर लगना|"""To be blind to something"""|to gain something valuable by accident|0.5316926836967468|0.5625800490379333|0.2461538461538462|0.64870685338974|5
+861|अंधेरे में रखना|"""To keep something in the dark"""|to hide the truth deliberately|0.6922246813774109|0.7588764429092407|0.09677419354838711|0.70039302110672|1
+862|अपनी गलती मानना|"""To take one's own mistake as a lesson"""|to accept one’s fault|0.7547459006309509|0.7909457087516785|0.18749999999999997|0.7633327841758728|5
+863|अपनी डफली अपना राग|"""To be in one's own way"""|to do things one’s own way|0.7527332305908203|0.47264784574508667|0.5185185185185186|0.8795981407165527|4
+864|अक्ल का पैमाना टूट जाना|"""To lose one's mind"""|to act beyond reason|0.45519164204597473|0.6228890419006348|0.0|0.7058203220367432|3
+865|अक्ल घास चरने जाना|"""To be overwhelmed by thoughts"""|to act utterly foolish|0.47151151299476624|0.431025892496109|0.0|0.6016640663146973|3
+866|अंधे के हाथ तिलक लगना|"""To wear a tilak on the hands of the blind"""|rare stroke of luck|0.42216673493385315|0.7307615876197815|0.06060606060606061|0.5595340728759766|2
+867|अंधा बांटे रेवड़ी|"""To Cut Off the Head of a Snake"""|to favor one’s own people|0.36742228269577026|0.4254942238330841|0.0|0.5615427494049072|3
+868|अंधे की लकड़ी|"""The Darkness of Obscurity"""|someone completely dependent on another|0.42004698514938354|0.6123116612434387|0.0|0.5309569835662842|1
+869|अंधे की लाठी छीनना|Seeking Darkness|to exploit the helpless|0.4145514667034149|0.4437045156955719|0.0|0.62911057472229|1
+870|अंधे की भी आँख खुल गई|"""Even a blind person's eye has opened"""|even the ignorant realized the truth|0.6440348029136658|0.8446899652481079|0.05128205128205129|0.6128271222114563|4
+871|अंधे की रोटी गीली|"""A dark cake with white spots"""|when bad luck persists|0.41334080696105957|0.5345561504364014|0.0|0.5626733303070068|2
+872|अंधे का नाम सुना, आँखों से नहीं देखा|"""He heard the name of the blind, but didn't see with his own eyes."""|to hear about something but not experience it|0.5186638832092285|0.7767736911773682|0.08064516129032258|0.4854321777820587|1
+873|अंधा क्या चाहे, दो आँखें|"""No matter how blind you are, you still have two eyes."""|people desire what they lack most|0.4595496952533722|0.6931840181350708|0.0|0.39884600043296814|1
+874|अंधेरे में रखा जाना|"""To be left in the dark"""|to be kept uninformed|0.6655527949333191|0.7997728586196899|0.17777777777777778|0.744248628616333|3
+875|अंधे को सूरज दिखाना|"""To shine a light on the blind"""|to tell something obvious|0.5482750535011292|0.790445864200592|0.0|0.658990740776062|2
+876|अंधे को रास्ता दिखाना|"""To show the way to the blind"""|to guide the clueless|0.706716775894165|0.8356992602348328|0.11538461538461538|0.7223076224327087|3
+877|अंधेरे में बैठना|Sitting in the Dark|to stay in ignorance|0.6576774716377258|0.8226770162582397|0.10810810810810811|0.6632086038589478|3
+878|अंधा धुन में लगे रहना|To remain in the dark|to do something mindlessly|0.535378634929657|0.6189634203910828|0.0|0.6046232581138611|3
+879|अंधेरे में सुई खोजना|"""Searching for a needle in the dark"""|to attempt the impossible|0.48418375849723816|0.836907148361206|0.0967741935483871|0.6641326546669006|5
+880|अंधे के हाथ में दीपक|"""A torch in the hands of the blind"""|a resource wasted on the incapable|0.5156636834144592|0.8166579008102417|0.10958904109589042|0.6196960806846619|3
+881|अंधा ऊँट सवारी करना|"""Riding a Blind Horse"""|to take foolish risks blindly|0.38971319794654846|0.8215941190719604|0.12000000000000001|0.5829237699508667|5
+882|अंधेरे में रोशनी फैलाना|"""To bring light into darkness"""|to spread awareness among the ignorant|0.6464641094207764|0.8319028615951538|0.028985507246376812|0.6781144738197327|3
+883|अंधा राजा प्रजा अंधी|The Blind King and the Blind People|leader and followers both foolish|0.5200666785240173|0.7872946858406067|0.08571428571428572|0.6270906925201416|1
+884|अंधे के भाग्य में चमक|"""A flash of luck in the darkness of misfortune"""|to get lucky unexpectedly|0.5467200875282288|0.7005679607391357|0.05333333333333333|0.7826690673828125|5
+885|अंधे को रास्ता न सूझना|Ignoring the Blind|to be completely lost|0.45725181698799133|0.7123838663101196|0.0|0.6648955345153809|1
+886|अंधा प्रेम करना|"""To fall in love in the dark"""|to love without reason|0.6020204424858093|0.7604874968528748|0.15384615384615383|0.6939681768417358|3
+887|अंधे को हाथ का सहारा|"""An eye for an eye"""|a small help to someone in need|0.3572292625904083|0.4747551381587982|0.0|0.5313395261764526|1
+888|अंधे की लाठी|"""A club for the blind"""|only source of dependence|0.47753581404685974|0.5671629905700684|0.0|0.5001783967018127|2
+889|अंधे को सपने में रोशनी दिखना|"""To give light to the blind in dreams"""|to imagine impossible hope|0.538921594619751|0.7753814458847046|0.0|0.6924425363540649|5
+890|अंधेरे में रहना|"""Living in the Dark"""|to be ignorant|0.512225329875946|0.8120433688163757|0.0|0.5684468150138855|1
+891|अंधेरे में रास्ता ढूँढना|Searching for a Path in the Dark|to act without clear plan|0.5453065633773804|0.8505359292030334|0.0|0.5699665546417236|5
+892|अंधेरे में छिपाना|"""Hiding in the Dark"""|to conceal wrong deeds|0.5210210680961609|0.8019458651542664|0.0|0.6547259092330933|5
+893|अंधा रेवड़ी बाँटे|"""To Spread Darkness"""|favoring without fairness|0.4866028428077698|0.41397491097450256|0.0|0.563706636428833|2
+894|अंधे की किस्मत|"""Misfortune of the Blind"""|blind luck / chance success|0.5519581437110901|0.8316633701324463|0.08333333333333333|0.6788545846939087|3
+895|अंधे को रंग दिखाना|"""Painting the Dark"""|to try to explain the unexplainable|0.3857293426990509|0.5886486768722534|0.11320754716981131|0.5926270484924316|2
+896|अंधे का नाम सुना, चेहरा नहीं देखा|"""He heard the name of the blind man but didn't see his face."""|heard about but never met|0.6276740431785583|0.8378215432167053|0.1263157894736842|0.5133087038993835|4
+897|अंधा क्या देखे, दो आँखें|"""What does a blind person see, two eyes?"""|one always desires what they lack|0.4502342641353607|0.7876332402229309|0.07792207792207792|0.4226600229740143|2
+898|अंधा गुस्सा करना|"""To cry in the dark"""|to get blindly angry|0.5052245259284973|0.6713228821754456|0.0|0.65099036693573|5
+899|अंधेरे में डूब जाना|"""To sink into darkness"""|to fall into ignorance or despair|0.686856210231781|0.8126545548439026|0.14285714285714285|0.7781503796577454|2
+900|अंधे के भाग्य में छेद|"""In the misfortune of the blind"""|to have perpetual bad luck|0.4939371645450592|0.6156045198440552|0.0|0.6546041965484619|4
+901|अंधे का भाग्य जागना|"""To suffer from bad luck"""|to get lucky suddenly|0.600536048412323|0.4783955514431|0.08888888888888889|0.7331990599632263|2
+902|अंधेरे में भटकना|"""To stumble in the dark"""|to wander without direction|0.5792604684829712|0.7967210412025452|0.0|0.7331475615501404|4
+903|अंधा प्रेम अंधा परिणाम|"""Dark Love, Dark Consequence"""|blind love leads to trouble|0.5773851275444031|0.8152616024017334|0.14814814814814814|0.7447468638420105|2
+904|अंधेरे में रहकर उजाला ढूँढना|Searching for Light in Darkness|to struggle for wisdom amidst ignorance|0.6330451369285583|0.8197715878486633|0.08450704225352113|0.6333411931991577|1
+905|अंधे के हाथ दीपक लगना|"""To put a light in the eyes of the blind"""|to get help at the right time|0.5012621283531189|0.780023455619812|0.12987012987012986|0.5866649150848389|2
+906|अंधा भी रास्ता पहचान गया|"""Even the blind can find the way."""|even the unaware understood|0.650585949420929|0.8664733171463013|0.22580645161290322|0.6019657850265503|5
+907|अंधेरे से डरना|"""Being afraid in the dark"""|to fear ignorance or truth|0.6215395331382751|0.8324328660964966|0.0|0.6859727501869202|1
+908|अंधे को सीधा रास्ता दिखाना|"""To show the straight path to the blind"""|to guide righteously|0.6567609310150146|0.8348394632339478|0.0|0.6894771456718445|3
+909|अंधेरे में दीप जलाना|"""To light a lamp in the dark"""|to bring hope in darkness|0.7318612337112427|0.8196122646331787|0.14285714285714285|0.7927402257919312|5
+910|अंधेरे में ताकना|"""To stare at the dark"""|to look aimlessly|0.6278507113456726|0.8007815480232239|0.0|0.6945788264274597|2
+911|अंधे को नजर आना|"""To see the blind"""|to gain realization unexpectedly|0.49096062779426575|0.8016068935394287|0.0|0.6346598863601685|2
+912|अंधे का रास्ता रोकना|"""To refuse to see the truth"" or ""To ignore reality"""|to block someone’s progress unjustly|0.5282325148582458|0.47285521030426025|0.0|0.5474599599838257|4
+913|अंधेरे में खोज करना|Searching in the Dark|to explore with uncertainty|0.5973546504974365|0.8302242755889893|0.0|0.6249616742134094|4
+914|अंधे की चड्डी चुराना|"""Stealing from the Blind"""|to mock the helpless|0.47864511609077454|0.6340497732162476|0.13953488372093023|0.6462344527244568|1
+915|अंधे को दर्पण देना|"""To Give a Mirror to the Blind"""|to give something useless to someone incapable|0.45675042271614075|0.8188101053237915|0.19753086419753085|0.5926127433776855|2
+916|अंधेरे का फायदा उठाना|"""To see the benefits of darkness"""|to exploit ignorance|0.6164937615394592|0.7820558547973633|0.0|0.6974252462387085|2
+917|अंधेरे में झांकना|"""Looking for something in the dark"""|to peep into the unknown|0.6623840928077698|0.7762216329574585|0.1|0.7676495313644409|3
+918|अंधेरे से बाहर आना|"""To emerge from the dark"""|to come out of ignorance|0.7318221926689148|0.8283191323280334|0.0|0.7765176892280579|4
+919|अंधा राजा राज्य चलाना|"""Running a Kingdom in the Dark"""|incompetent leadership|0.39291784167289734|0.7239691019058228|0.0|0.5588085651397705|2
+920|अंधे की झोपड़ी में रोशनी|In the Dark|to find hope where none was expected|0.465383917093277|0.5549226999282837|0.0|0.6253941655158997|1
+921|अंधा काँटा निकालना|"""To Cut Off the Blind Spot"""|to help at personal risk|0.39189329743385315|0.6787015795707703|0.0|0.5439911484718323|2
+922|अंधा कानून चलाना|"""Operating a Dark Law"""|to enforce law without logic|0.5428325533866882|0.7765326499938965|0.08163265306122448|0.6713682413101196|2
+923|अंधे को अंधेरे में छोड़ना|Leaving the Blind in Darkness|to abandon someone helpless|0.5176895260810852|0.8471500873565674|0.0|0.6345910429954529|4
+924|अंधेरे में रहना नहीं चाहिए|"""You don't need to live in the dark."""|one should not stay ignorant|0.6585164666175842|0.8367247581481934|0.0|0.5690518021583557|3
+925|अंधे को दिशा देनी चाहिए|"""It's necessary to guide the blind"""|to help the clueless find their way|0.6724364161491394|0.8011424541473389|0.08108108108108109|0.6799527406692505|4
+926|अंधेरे से डरना नहीं चाहिए|"""It's not necessary to be afraid of the dark."""|one should not fear truth|0.7350378632545471|0.8483593463897705|0.07894736842105263|0.5848576426506042|1
+927|अंधेरे में दीप जलाना अच्छा है|"""It's better to light a lamp in the dark."""|to bring light even when alone|0.64128178358078|0.8412179350852966|0.1282051282051282|0.7033023238182068|5
+928|धरती पर पैर रखना|"""To Stand on One's Own Two Feet"""|to stay humble despite success|0.4182964861392975|0.5530775785446167|0.09230769230769231|0.6645308136940002|5
+929|आसमान से गिरना|"""To Fall from Grace"""|to lose everything suddenly|0.4731111526489258|0.6631937623023987|0.0|0.6035601496696472|4
+930|हवा में उड़ना|"""To fly in the wind"""|to daydream or be overconfident|0.4272795617580414|0.8203136920928955|0.0|0.6191560626029968|3
+931|पानी में रहकर मगर से बैर|"""To be in a pickle"""|to pick fights with powerful people|0.42767295241355896|0.43166300654411316|0.07272727272727272|0.6565738916397095|4
+932|खुशियों के झूले झूलना|"""To be carried away by joy"""|to live in joy|0.5795730948448181|0.6868904829025269|0.04878048780487805|0.7630921602249146|5
+933|रंगीन मिज़ाज होना|"""To have a lively atmosphere"""|to be flirtatious or fun-loving|0.5854076147079468|0.7594020366668701|0.0|0.7183690667152405|2
+934|दिल से खेलना|"""Play with the heart"""|to toy with someone’s feelings|0.5405429005622864|0.8429856896400452|0.19607843137254902|0.6281071901321411|3
+935|दिल का मामला|"""The Heart's Matter"""|a romantic issue|0.5155882239341736|0.8179951906204224|0.0|0.583219051361084|5
+936|दिल बड़ा रखना|"""Keeping one's heart in check"""|to be generous or forgiving|0.4260161221027374|0.6065019369125366|0.0|0.6056471467018127|4
+937|दिल छोटा मत करो|Don't let your heart be small|don’t lose hope|0.6754302382469177|0.8409301042556763|0.2222222222222222|0.7260140776634216|3
+938|दिल लगाना और तोड़ना|"""To be in love and to lose love"""|to fall in and out of love|0.7440678477287292|0.7814100980758667|0.22222222222222224|0.7771884202957153|4
+939|दिल का बोझ हल्का करना|"""To soften one's heart"""|to share feelings and feel relieved|0.5534490942955017|0.7942618727684021|0.03389830508474576|0.6934558153152466|4
+940|दिल से दिल का रिश्ता|"""Heart-to-heart connection"""|a close emotional connection|0.5521590709686279|0.7916743755340576|0.3018867924528302|0.8260622024536133|4
+941|दिल में आग लगाना|"""To ignite one's heart"""|to provoke jealousy or passion|0.5070933103561401|0.7936089634895325|0.0|0.7047592401504517|4
+942|दिल देना और लेना|"""Giving and Receiving"""|to love and reciprocate|0.6161483526229858|0.722161054611206|0.28571428571428564|0.7241095304489136|3
+943|दिल पर राज करना|"""To rule one's heart"" or ""To have control over one's emotions"""|to rule someone’s heart|0.7404299378395081|0.7815470695495605|0.32967032967032966|0.765555739402771|4
+944|दिल पर बोझ होना|"""To have a heart attack"""|to feel guilt or heaviness|0.41102346777915955|0.6179887056350708|0.04|0.6341700553894043|2
+945|दिमाग में खिचड़ी पकना|"""To think about something in a roundabout way"""|to overthink randomly|0.5346425771713257|0.5023472905158997|0.08823529411764705|0.7004069089889526|4
+946|दिमाग का दही बनाना|"""To think about something like a boil"""|to confuse someone completely|0.38894668221473694|0.4425777494907379|0.058823529411764705|0.6074467897415161|2
+947|दिमाग खपाना|"""To be in the mood"""|to think very hard|0.4329170286655426|0.648284912109375|0.0|0.6362542510032654|1
+948|दिमाग लगाना ज़रूरी है|"""It's Necessary to Think"""|to use common sense|0.5828392505645752|0.7702521085739136|0.0|0.635004997253418|2
+949|मुँह में ज़ुबान नहीं|"""No mouth is clean"""|to be timid or silent|0.40450865030288696|0.5521811246871948|0.0|0.5862899422645569|1
+950|मुँह पर बोलना|"""Speaking with one's mouth full"""|to speak directly|0.4954683482646942|0.5673182606697083|0.08333333333333333|0.7115877866744995|3
+951|मुँह मीठा कराना|"""To make someone's mouth water"""|to celebrate success with sweets|0.5043014883995056|0.7048308849334717|0.0|0.6341493725776672|3
+952|नाक कटना|"""To Cut One's Nose to Get the Gnat"""|to lose honor|0.39261606335639954|0.46007317304611206|0.04|0.616890013217926|1
+953|नाक ऊँची करना|"""To raise one's eyebrows"""|to make someone proud|0.438739538192749|0.7677310705184937|0.044444444444444446|0.6535061597824097|2
+954|नाक बचाना|"""To Save Face"""|to save face|0.890972375869751|0.742872953414917|0.9090909090909091|0.8406574130058289|5
+955|नाक दबाना|"""To swallow one's pride"""|to force acceptance|0.4866635501384735|0.5337682962417603|0.0|0.6369063258171082|5
+956|नाक चढ़ाना|"""To Raise One's Voice"""|to act proudly|0.5362178087234497|0.6039013266563416|0.0|0.6602770090103149|4
+957|कान खड़े करना|"""To put one's ear up"""|to become alert|0.6033235192298889|0.7655132412910461|0.0|0.6759625673294067|2
+958|कान में बात डालना|"""To put something in one's ear"""|to inform secretly|0.4549046754837036|0.760087251663208|0.0|0.621006429195404|5
+959|कान में जूँ न रेंगना|"""Don't let your ears ring"""|to remain unaffected|0.38620173931121826|0.6095888614654541|0.0|0.6069188714027405|2
+960|पैरों तले ज़मीन खिसकना|"""To lose one's footing"""|to be shocked or panicked|0.4072297513484955|0.681615948677063|0.0|0.628714919090271|5
+961|पैर उखड़ना|"""To be at a loss for words"" or ""To be speechless"""|to lose stability|0.5250775218009949|0.4864462912082672|0.029411764705882353|0.510772705078125|2
+962|हाथ बाँधकर बैठना|"""To sit with one's hands in fists"""|to stay idle or helpless|0.49136874079704285|0.7330220937728882|0.03278688524590164|0.6982293725013733|5
+963|हाथ उठाना|"""To Raise One's Hand"""|to hit or bless|0.47519299387931824|0.7712616324424744|0.0|0.7075383067131042|2
+964|हाथ साफ़ करना|"""To Clean One's Hands"""|to steal cleverly|0.4191191494464874|0.7916975021362305|0.05405405405405406|0.6231477856636047|1
+965|हाथ में खेलना|"""Playing with one's hands"""|to control completely|0.3983233571052551|0.7368766069412231|0.0|0.620114803314209|2
+966|सिर पर चढ़ना|"""To be on one's head"""|to take advantage of leniency|0.387067049741745|0.5052928924560547|0.0|0.6207355260848999|2
+967|सिर पर सवार होना|"""To be at the helm"" or ""To be in charge"""|to be obsessed or enraged|0.46563079953193665|0.5972165465354919|0.17647058823529407|0.580756425857544|2
+968|सिर ऊँचा रखना|"""To Keep One's Head Up"""|to uphold dignity|0.5058675408363342|0.7778428196907043|0.0|0.6699254512786865|3
+969|सिर पर तूफ़ान लाना|"""To Blow One's Own Horn"""|to invite big trouble|0.3426278233528137|0.3765232264995575|0.0|0.629326581954956|1
+970|सिर फोड़ना|"""To be in a state of confusion or disarray"""|to fight violently|0.4923667907714844|0.5841153860092163|0.0|0.5533145070075989|2
+971|सिर पर कर्ज़ होना|"""To be burdened with a headache"""|to be in debt|0.5410142540931702|0.6455361843109131|0.17777777777777776|0.659927487373352|2
+972|सिर का दर्द|"""The headache on the forehead"""|a troublesome person|0.4164378345012665|0.7619513869285583|0.0|0.5554727911949158|2
+973|सीने में जलन|"""Burning in the Heart"""|to feel envy|0.43949177861213684|0.7579793334007263|0.0|0.5861878395080566|5
+974|सीने पर बोझ|"""To have a bone to pick"""|to feel guilt or burden|0.37607672810554504|0.5753688216209412|0.0|0.611225962638855|5
+975|सीने में हवा भरना|"""To fill the air with noise"""|to instill pride or ego|0.49301427602767944|0.4804324507713318|0.038461538461538464|0.5881199240684509|1
+976|सीना ठंडा होना|"""To be in a cold sweat"""|to feel relieved or avenged|0.4649704396724701|0.6369480490684509|0.0|0.6090529561042786|2
+977|सीने पर हाथ रखना|"""To hold one's breath"""|to make a heartfelt promise|0.43599733710289|0.5948339700698853|0.0|0.6226376295089722|3
+978|सीने में साँस न लेना|Not Breathing in the Face|to be extremely scared|0.41250577569007874|0.7411246299743652|0.0|0.5402941107749939|3
+979|मन बनाना|"""To build up one's mind"""|to make up one’s mind|0.7292091250419617|0.7478585243225098|0.5957446808510639|0.7429288029670715|1
+980|मन भर जाना|"""To be filled with thoughts or emotions"""|to lose interest|0.5046194195747375|0.6758694052696228|0.0|0.5614917278289795|5
+981|मन खुश करना|"""To Make One's Mind Happy"""|to please someone|0.5403026342391968|0.7980109453201294|0.0|0.6489787101745605|5
+982|मन बदलना|"""To change one's mind"""|to change opinion suddenly|0.6060225367546082|0.8098260164260864|0.3829787234042554|0.8317273855209351|5
+983|मन लगाकर काम करना|"""Doing Work with One's Mind"""|to work sincerely|0.5665876269340515|0.7927664518356323|0.18181818181818182|0.6778989434242249|4
+984|मन जीत लेना|"""To Win One's Mind"""|to win hearts|0.7532757520675659|0.7886736392974854|0.3333333333333333|0.7870001792907715|5
+985|पहला पत्ता गिरने से पहले|"""Before the first leaf falls"""|by autumn / before the first leaf falls|0.7698294520378113|0.8494524955749512|0.8235294117647058|0.8340957760810852|4
+986|जंजीरों में बंधा महसूस करना|Feeling Trapped or Constrained|to feel chained or trapped|0.8436781764030457|0.8007729053497314|0.3636363636363637|0.8819902539253235|5
+987|मेरी बुरी किस्मत|"""My Bad Luck"""|just my bad luck|0.7352250218391418|0.8540284037590027|0.7692307692307692|0.8659634590148926|5
+988|मेरे जीते-जी|"""My victory is my defeat"""|over my dead body / as long as I’m alive|0.45285001397132874|0.537953794002533|0.11764705882352942|0.56512451171875|2
+989|दुम दबाकर निकल लेना|"""To sneak out quietly"""|to run away in fear (tail between legs)|0.47921594977378845|0.7140531539916992|0.0|0.6517065167427063|4
+990|घुटने टेक देना|"""To take a break"""|to surrender / kneel in defeat|0.3903522789478302|0.7365164160728455|0.0|0.606558620929718|2
+991|कौड़ियों के भाव|"""The Mood of the Crowd"""|for a pittance / dirt cheap|0.42783939838409424|0.5760782957077026|0.0|0.557941734790802|1
+992|हाथ गंदे करना|"""To cover up one's tracks"""|to get one’s hands dirty (do something unsavory)|0.4729280173778534|0.5383164286613464|0.15384615384615383|0.690471887588501|1
+993|लाड़-प्यार करना|"""To be in a state of conflict or disagreement"""|to pamper / spoil|0.5047715902328491|0.6467928886413574|0.0|0.4671323597431183|3
+994|हर तरफ से घेर लेना|"""To encircle from all sides"""|to box in / surround on all sides|0.7173586487770081|0.7812235355377197|0.26229508196721313|0.7019208073616028|4
+995|दिमाग पर छा जाना|"""To lose one's mind"" or ""To go crazy"""|to get stuck in one’s head|0.5364267826080322|0.5182194709777832|0.208955223880597|0.6687126159667969|4
+996|धंधा पहले, मज़ा बाद में|"""Money first, fun later"""|business before pleasure|0.6657088398933411|0.8400932550430298|0.0|0.7143012285232544|5
+997|आसमान छूना (भाव/कीमतें)|"""To Settle Down"""|to be sky-high (prices, rates)|0.4675591289997101|0.4090914726257324|0.0|0.5913317203521729|4
+998|औरत के पल्लू में छिपना|Hiding in the Shadows of a Woman's Hair|to hide behind a woman’s pallu (show cowardice)|0.5163792967796326|0.7371814846992493|0.23655913978494625|0.7425302863121033|2
+999|बच्चों को भूखा मारना|"""To Starve Children"""|to let the kids go hungry / starve|0.5905452370643616|0.779464602470398|0.15384615384615383|0.8386721611022949|5

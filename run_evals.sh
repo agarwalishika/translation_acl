@@ -1,3 +1,4 @@
+export CUDA_VISIBLE_DEVICES=2
 py evaluate_translations.py --file "outputs/command_r_32b-Chinese-outputs.csv"
 py evaluate_translations.py --file "outputs/command_r_32b-Hindi-outputs.csv"
 py evaluate_translations.py --file "outputs/command_r_7b-Chinese-outputs.csv"
