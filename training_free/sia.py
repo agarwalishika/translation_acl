@@ -31,12 +31,39 @@ if __name__ == "__main__":
             outputs = llm.generate(inputs, sampling_params=sampling_params)
             outputs = [o.outputs[0].text.strip() for o in outputs]
 
-            prompt_2 = lambda output, idiom: f"You are a linguistic researcher on idioms and good at {lang} and English. Choose the best English idiom matching the Chinese idiom and its semantic meaning.\n{lang} idiom: {idiom}"
+            #prompt_2 = lambda output, idiom: f"You are a linguistic researcher on idioms and good at {lang} and English. Choose the best English idiom matching the Chinese idiom and its semantic meaning.\n{lang} idiom: {idiom}"
 
             # TODO: finish the rest of the methodology
+            # Construct selection prompts using the candidate idioms generated in stage 1
+            prompt_2 = lambda output, idiom: (
+                f"You are a linguistic researcher on idioms and good at {lang} and English.\n"
+                f"Below are candidate English idioms generated for a {lang} idiom.\n\n"
+                f"{lang} idiom: {idiom}\n"
+                f"Candidate English idioms and explanations:\n{output}\n\n"
+                f"Task:\n"
+                f"1. Select the single English idiom that best matches the semantic meaning and pragmatic usage "
+                f"of the {lang} idiom.\n"
+                f"2. If none are appropriate, respond with 'NO_MATCH'.\n\n"
+                f"### Best English idiom:"
+            )
+
+            selection_inputs = [
+                prompt_2(out, idiom)
+                for out, idiom in zip(outputs, df['src'])
+            ]
+
+            selection_outputs = llm.generate(
+                selection_inputs,
+                sampling_params=sampling_params
+            )
+
+            best_matches = [
+                o.outputs[0].text.strip()
+                for o in selection_outputs
+            ]
 
             # TODO: parse the final output and store the final model predictions in a list of strings
-            predicted_outputs = [...]
+            predicted_outputs = [best_matches]
 
             # save the predicted output to a csv
             df['predicted'] = predicted_outputs
