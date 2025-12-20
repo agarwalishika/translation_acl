@@ -28,11 +28,11 @@ if __name__ == "__main__":
             f"You are a linguistic researcher on idioms and good at {lang} and English.\n"
             f"You will be provided a {lang} idiom.\n\n"
             f"Task:\n"
-            f"1) Provide a brief English definition of the {lang} idiom.\n"
-            f"2) Generate up to three real English idioms that best match the meaning and pragmatic usage.\n\n"
-            f"Rules:\n"
-            f"- If you cannot find three good English idioms, return as many as you can.\n"
-            f"- If no English idiom matches, only provide the definition and write 'NO_MATCH' under candidates.\n"
+            f"1) First provide a brief English definition of the {lang} idiom.\n"
+            f"2) Then find three most similar English idioms to the {lang} idiom and make sure to maintain context and cultural nuances.\n\n"
+            f"Follow these instructions:\n"
+            f"- If you cannot find three similar English idioms, return as many as you can.\n"
+            f"- If no English idiom has the same meaning, only define the {lang} idiom.\n"
             f"- Do NOT give a literal translation as an idiom.\n\n"
             f"{lang} idiom: {idiom}\n\n"
             f"Output format:\n"
@@ -50,13 +50,12 @@ if __name__ == "__main__":
         """
         return (
             f"You are a linguistic researcher on idioms and good at {lang} and English.\n"
-            f"Select the single best English idiom that matches the meaning and pragmatic usage of the {lang} idiom.\n"
-            f"If none of the candidates are appropriate idioms, output exactly: NO_MATCH\n\n"
+            f"Select the single best English idiom that matches the definition of the {lang} idiom.\n\n"
             f"{lang} idiom: {idiom}\n\n"
             f"Stage-1 output (definition + candidates):\n"
             f"{stage1_output}\n\n"
             f"Output format:\n"
-            f"Best: <one English idiom OR NO_MATCH>\n"
+            f"Best: <select the most relevant English idiom>\n"
         )
 
     def parse_best_line(text: str) -> str:
