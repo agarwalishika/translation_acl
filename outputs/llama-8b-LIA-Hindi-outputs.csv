@@ -1,0 +1,1001 @@
+,src,true_meaning,literal_translation,predicted
+0,आंखें चुराना,to avoid being seen,to hide one’s eyes,Steal the show  (This idiom means to be the center of attention and to outshine others.)
+1,आंखों का तारा,beloved person,the star of the eyes,A big heart
+2,चेहरा उतरना,to be sad or disappointed,the face to fall,Explanation: <briefly explain why the selected idiom is the best match>
+3,दाँतों तले उंगली दबाना,to be very surprised,to press a finger under the teeth,OR
+4,साँस लेना,to feel relieved after hard work,to take a breath,change one's mind
+5,बात पक्की होना,to agree on something or finalize a deal,for the matter to become firm,Note: The stage-1 output has been provided in the question itself.
+6,बाल-बाल बचना,to narrowly escape from trouble,to be saved by a hair,2) Between a rock and a hard place
+7,अक्ल का दुश्मन,a fool who avoids wisdom,enemy of wisdom,Definition: <define the Hindi idiom>
+8,जान पर खेलना,to act fearlessly or take great risks,to play with one’s life,Playing with fire
+9,पेट में चूहे कूदना,to be extremely hungry,mice jumping in the stomach,The grapevine
+10,आसमान पर चढ़ना,to be proud or overconfident,to climb onto the sky,A jack of all trades is a master of none
+11,आकाश पाताल का अंतर,to be vastly different,difference between sky and netherworld,"Note: If you think there are multiple idioms that are equally relevant, mention them all."
+12,हवा से बातें करना,to move very fast,to talk with the wind,Talk to the wall
+13,पत्थर की लकीर,to be firm on one’s word or decision,a line of stone,Definition: <definition of the Hindi idiom>
+14,पहाड़ टूट पड़ना,to face a huge problem or calamity,a mountain breaking and falling (upon),The situation is spiraling out of control.
+15,ईद का चाँद होना,to appear after a long time (a rare person),to be the moon of Eid,<select the most relevant English idiom>
+16,चकमा देना,to deceive or trick someone,to give a dodge/trick,Cut to the chase
+17,उल्टी गंगा बहना,something unusual or against norms happening,the Ganga to flow in reverse,Alternatives: <list the other English idioms that are somewhat relevant>
+18,छक्के छुड़ाना,to defeat completely,to make someone’s sixes come out,Give someone the old heave-ho
+19,फूँक-फूँक कर कदम रखना,to act very cautiously,to place steps after blowing (carefully),4) <other similar English idioms if any>
+20,दम में दम आना,to regain courage or relief after fear,breath to come into one’s breath,OR
+21,दाँत से दाँत बजाना,to shiver from cold,to make tooth strike tooth (chatter),<select the most relevant English idiom>
+22,मुँह में पानी आना,to be tempted by delicious food,water to come into the mouth,On the verge of tears
+23,नाक काटना,to disgrace or embarrass someone,to cut the nose,<English idiom> OR
+24,कमर टूटना,to feel exhausted or discouraged,the waist to break,On the sly
+25,कमर कसना,to prepare oneself for a challenge,to tighten the waist (belt),4) <other English idioms if available>
+26,कलेजा पत्थर का होना,to be mentally or emotionally very strong,the liver/heart to be of stone,<select the most relevant English idiom>
+27,दाँत खट्टे करना,to defeat someone badly,to make the teeth sour,A dog's breakfast
+28,ईंट से ईंट बजाना,to completely destroy or demolish someone,to make brick strike brick,To make a mountain out of a molehill.
+29,नाक में दम करना,to annoy someone constantly,to put breath in the nose,Full of hot air
+30,नाक पर मक्खी न बैठने देना,to be strict or disciplined,to not let a fly sit on the nose,Book smarts
+31,नाक कट जाना,to lose one's honor or respect,the nose to get cut,To be left high and dry
+32,नाक में तेल डालकर सोना,to sleep carefreely without worries,to sleep after putting oil in the nose,To be in a state of denial
+33,नाक का सवाल होना,to be a matter of pride or ego,to be a question of the nose (honor),Not my cup of tea
+34,नाक भौं सिकोड़ना,to show disapproval,to wrinkle the nose and brows,Turn up one's nose
+35,नाक नीची करना,to humiliate publicly,to make the nose low,To eat humble pie
+36,कान खड़े होना,to become alert or suspicious,for the ears to stand up,A pearl in the oyster
+37,कान पर जूँ न रेंगना,to remain unaffected or unmoved,for not even a louse to crawl on the ear,1) To be too proud to ask for directions
+38,कान में तेल डालना,to ignore someone's words,to pour oil into the ear,Putting on airs
+39,कान में फूंक मारना,to influence or manipulate someone secretly,to blow a puff into the ear,Indulge in something before it's time
+40,कान पकड़ना,to vow never to repeat a mistake,to hold the ears,To be caught red-handed
+41,कान भरना,to manipulate someone against another,to fill the ears,To be in seventh heaven
+42,कान काटना,to outsmart completely,to cut the ear,To turn a deaf ear
+43,आसमान सिर पर उठाना,to create a big commotion or panic,to lift the sky onto one’s head,<select the most relevant English idiom>
+44,आसमान से बातें करना,to reach great heights or success,to talk with the sky,Talk to the wind.  was incorrect. The correct answer is:
+45,आसमान से गिरे खजूर में अटके,to fall from one trouble into another,"having fallen from the sky, stuck in a date-palm",To be in a tight spot
+46,आग बबूला होना,to become extremely angry,to become fire-foaming (blazing angry),Big heart
+47,आग में घी डालना,to worsen an already bad situation,to pour ghee into the fire,```
+48,आग में कूदना,to take a dangerous risk,to jump into the fire,Candidates: <list the other English idioms that match the definition>
+49,आग लगना,to become furious or jealous,for fire to catch,Explanation: <provide a brief explanation for the selected idiom>
+50,आग ठंडी होना,to calm down after anger,for the fire to cool,3) The situation cooled down after the intervention.
+51,आग उगलना,to speak harshly or aggressively,to spit/emit fire,To blow one's top
+52,आग से खेलना,to invite danger knowingly,to play with fire,To play with fire
+53,आग लगाना,to instigate or provoke trouble,to set on fire,<select the most relevant English idiom>
+54,आग दिखाना,to show anger or power,to show fire,To cry wolf
+55,आग लग जाना,to feel jealous or restless,for fire to get lit,1) <option 1>
+56,आग बन जाना,to become furious,to become fire,To be in a tight spot
+57,आग पर तेल डालना,to intensify an argument or situation,to pour oil on the fire,<English idiom> (with a brief explanation)
+58,धूल चाटना,to face defeat or humiliation,to lick dust,Definition: <definition of the Hindi idiom>
+59,धूल फाँकना,to struggle in poverty or hardship,to gulp/eat dust,To cry over spilt milk
+60,धूल झाड़ना,to scold or reprimand strongly,to shake off dust,4) <optional fourth idiom>
+61,धूल में मिलाना,to destroy completely,to mix into dust,A den of thieves
+62,धूल उड़ाना,to make a scene unnecessarily,to raise/fly dust,Make a mountain out of a molehill
+63,धूल झोंकना,to deceive or mislead someone,to throw dust (in the eyes),Stick one's nose in
+64,हवा निकल जाना,to lose courage suddenly,for the air to go out,<select the most relevant English idiom>
+65,हवा खा जाना,to run away secretly,to eat wind,Others: <list the other two English idioms>
+66,हवा में उड़ाना,to waste money carelessly,to throw/waft in the air,1) In the arena
+67,हवा बन जाना,to disappear quickly,to become air,Definition: <definition of the Hindi idiom>
+68,हवा में बात करना,to speak without proof or sense,to speak into the air,Talk to the wind
+69,हवा लगना,to be influenced by others,to catch/get the wind,A storm is brewing
+70,हवा देना,to encourage or instigate something,to give air,1) Give someone a break
+71,हवा बदलना,to change situation or environment,to change the air,"1) When the winds of change blow, some build walls and others build windmills."
+72,हवा चखना,to get a taste of something new (usually trouble),to taste the air,Definition: <one-sentence definition>
+73,हवा बंद होना,to lose confidence completely,for the air to stop,be at one's wit's end
+74,आँख में धूल झोंकना,to deceive or fool someone,to throw dust into the eye,<select the most relevant English idiom> OR
+75,आँखें फटी की फटी रह जाना,to be shocked or amazed,for the eyes to remain torn-open,To be left gobsmacked.
+76,आँखों में धूल झोंकना,to cheat someone cleverly,to throw dust into the eyes,To throw dust in someone's eyes
+77,आँखों में बस जाना,to win someone’s heart,to come to reside in the eyes,OR
+78,आँखों से ओझल होना,to disappear from sight,to be hidden from the eyes,```
+79,आँख दिखाना,to threaten or scold harshly,to show the eye,Explanation: <brief explanation of the Hindi idiom and why the selected English idiom is the best match>
+80,आँख तरेरना,to glare angrily,to glare with the eyes,<English idiom> OR <English idiom>
+81,आँखें फाड़ना,to stare in surprise,to rip/tear the eyes open (goggle),To be itching to do something
+82,आँखें मूँदना,to ignore intentionally,to shut/close the eyes,Definition: <one-sentence definition>
+83,आँखों में आँसू आना,to become emotional or sad,for tears to come into the eyes,1) Make the best of it
+84,दिल लगाना,to fall in love,to attach the heart,```python
+85,दिल तोड़ना,to break someone's heart,to break the heart,Alternatives: <list the other relevant English idioms>
+86,दिल जीतना,to win someone's affection,to win the heart,To put one's life on the line
+87,दिल पर लेना,to take something personally,to take to the heart,Speak one's mind
+88,दिल लगाकर काम करना,to work wholeheartedly,to work with the heart attached,Put your heart and soul into it
+89,दिल में बात रखना,to hide one’s feelings,to keep the matter in the heart,Rest: <list the other English idioms in any order>
+90,दिल पर पत्थर रखना,to act bravely despite pain,to place a stone on the heart,Explanation: <briefly explain why the selected idiom is the most relevant>
+91,दिल जलना,to feel jealous or envious,for the heart to burn,Alternatives: <list the other relevant English idioms>
+92,दिल बहलाना,to distract from sadness,to amuse/console the heart,To calm the troubled waters
+93,दिल धड़कना,to feel nervous or excited,for the heart to beat,1) My heart skipped a beat.
+94,दिल खोलकर देना,to be generous,to give with the heart open,To capture someone's heart
+95,दिल में चोर होना,to have guilt or bad intentions,for there to be a thief in the heart,```
+96,दिल में बसना,to be deeply loved or remembered,to dwell in the heart,To eat your last meal
+97,दिल का हाल बताना,to express inner feelings,to tell the condition of the heart,"Explanation: <explain why the selected idiom is the best match for the Hindi idiom>  The best idiom is: To bare one's soul Explanation: The Hindi idiom 'दिल का हाल बताना' means to reveal or disclose one's true feelings or emotions. The English idiom 'To bare one's soul' is the best match for this idiom because it conveys the same meaning and context. It means to reveal one's true emotions or feelings, which is the core idea of the Hindi idiom. The other two idioms, 'To let the cat out of the bag' and 'To spill the beans', refer to revealing a secret or surprise, which is not the same as revealing one's true feelings or emotions. Therefore, 'To bare one's soul' is the best match for the Hindi idiom.  The best idiom is: To bare one's soul Explanation: The Hindi idiom 'दिल का हाल बताना' means to reveal or disclose one's true feelings or emotions. The English idiom 'To bare one's soul' is the best match for this idiom because it conveys the same meaning and context. It means to reveal one's true emotions or feelings, which is the core idea of the Hindi idiom. The other two idioms, 'To let the cat out of the bag' and 'To spill the beans', refer to revealing a secret or surprise, which is not the same as revealing one's true feelings or emotions. Therefore, 'To bare one's soul' is the best match for the Hindi idiom.  The best idiom is: To bare one's soul Explanation: The Hindi idiom 'दिल का हाल बताना' means to reveal or disclose one's true feelings or emotions. The English idiom 'To bare one's soul' is the best match for this idiom because it conveys the same meaning and context. It means to reveal one's true emotions or feelings, which is the core idea of the Hindi idiom. The other two idioms, 'To let the cat out of the bag' and 'To spill the beans', refer to revealing a secret or surprise, which is not the same as revealing one's true feelings or emotions. Therefore, 'To bare one's soul' is the best match for the Hindi idiom.  The best idiom is: To bare one's soul Explanation: The Hindi idiom 'दिल का हाल"
+98,दिल टूट जाना,to feel heartbroken,for the heart to break,OR
+99,दिल खुश हो जाना,to become happy,for the heart to become happy,Beaming with joy
+100,दिल में बात आना,to get an idea or feeling,for a thought to come into the heart,It came to me in a flash.
+101,दिल से उतर जाना,to lose affection or trust,to descend/fall from the heart,Definition: <definition of the Hindi idiom>
+102,दिल से लगाना,to love or treat affectionately,to press/hold to the heart,Other: <list the other English idioms that are somewhat relevant but not the best match>  The final answer is: Best: Silence is golden
+103,दिल लगा रहना,to stay interested or focused,to remain heart-attached,Alternatives: <list the other English idioms that are somewhat relevant>
+104,दिमाग चलना,to think cleverly,for the mind/brain to run,To be at sixes and sevens
+105,दिमाग खराब होना,to lose temper or sanity,for the mind to go bad,OR
+106,दिमाग लगाना,to use intelligence or creativity,to apply the mind,<select the most relevant English idiom>
+107,दिमाग ठिकाने लगाना,to discipline or bring to senses,to put the mind in its place,To be driven mad
+108,दिमाग का दही होना,to get mentally exhausted,the brain to become curd,Definition: To be at the mercy of circumstances or someone else.
+109,दिमाग घुमाना,to confuse or manipulate someone,to spin/turn someone’s mind,```python
+110,दिमाग का ताला खोलना,to start thinking or understanding,to open the lock of the mind,Others: <list other English idioms that are not as relevant but still somewhat similar>
+111,दिमाग खाना,to irritate by constant nagging,to eat the brain,A square peg in a round hole
+112,दिमाग लग जाना,to focus attention on something,for the mind to get engaged,To live it up
+113,दिमाग में बात आना,to get a sudden idea,for an idea to come into the mind,<select the most relevant English idiom>
+114,पानी-पानी होना,to feel embarrassed or ashamed,to become water-water,Not worth a penny
+115,पानी फिर जाना,to have plans fail suddenly,for water to go over (it),To come to one's senses
+116,पानी मांगना,to beg for mercy,to ask for water,Close the stable door after the horse has bolted
+117,पानी उतारना,to humiliate someone publicly,to bring down/drain the water,Explanation: <briefly explain why it is the best match>
+118,पानी सिर से गुजरना,to reach the limit of patience,for water to pass over the head,Between the devil and the deep blue sea
+119,पानी में आग लगाना,to attempt the impossible,to set fire in water,To add fuel to the fire
+120,पानी पर लिखा,to be temporary or futile,written on water,Definition: <definition of the selected English idiom>
+121,पानी बराबर होना,to be equal in strength or skill,to be equal like water,Be financially secure
+122,पानी पीना,to feel comfortable after fear,to drink water,"2) Between a rock and a hard place.  Explanation: The idiom ""पानी पीना"" is a common expression in Hindi that means to be in a difficult situation and struggle to cope. It is often used to describe a situation where someone is facing a lot of challenges and is finding it hard to manage. The idiom is not a literal translation of the phrase ""to drink water"", but rather a figurative expression that is used to convey a sense of struggle and difficulty. The idiom ""Between a rock and a hard place"" is also used to describe a situation where someone is facing a difficult decision or a difficult situation, but it is not as strongly associated with feelings of helplessness and desperation as the idiom ""पानी पीना"". Therefore, while both idioms convey the idea of being in a difficult situation, the idiom ""पानी पीना"" is more closely associated with feelings of struggle and desperation, making it a more similar idiom to ""Between a rock and a hard place"".  Stage-2 output: 2) Between a rock and a hard place. Explanation: The idiom ""पानी पीना"" is a common expression in Hindi that means to be in a difficult situation and struggle to cope. It is often used to describe a situation where someone is facing a lot of challenges and is finding it hard to manage. The idiom is not a literal translation of the phrase ""to drink water"", but rather a figurative expression that is used to convey a sense of struggle and difficulty. The idiom ""Between a rock and a hard place"" is also used to describe a situation where someone is facing a difficult decision or a difficult situation, but it is not as strongly associated with feelings of helplessness and desperation as the idiom ""पानी पीना"". Therefore, while both idioms convey the idea of being in a difficult situation, the idiom ""पानी पीना"" is more closely associated with feelings of struggle and desperation, making it a more similar idiom to ""Between a rock and a hard place"".  Stage-3 output: 2) Between a rock and a hard place. Explanation: The idiom ""पानी"
+123,पानी मांगना पड़ना,to be defeated badly,to have to ask for water,To cry for help
+124,पानी लाना,to bring respect or reputation,to bring/fetch water,To fetch a pail of water
+125,हाथ बँटाना,to help or assist someone,to share/divide the hand,Split the bill
+126,हाथ धोकर पीछे पड़ना,to chase or target relentlessly,to wash one’s hands and go after,Candidates:
+127,हाथ खड़े कर देना,to give up completely,to make (one) raise hands,"Others: 1) Speechless, 2) Left tongue-tied, 3) At a loss for words"
+128,हाथ पाँव फूल जाना,to panic or get nervous,for hands and feet to bloom,Up the creek without a paddle
+129,हाथ मलना,to regret something deeply,to rub the hands,To throw in the towel
+130,हाथ साफ़ होना,to be skilled or experienced,for the hand to be clean,To be in the clear
+131,हाथ पर हाथ धरे रहना,to do nothing,to keep one hand resting on the other,Sitting on one's hands
+132,हाथ की सफाई दिखाना,to show cleverness or skill,to show the hand’s cleanliness (sleight),Explanation: <provide a brief explanation of why the selected English idiom is the best match>
+133,हाथ में लेना,to take responsibility for something,to take in hand,To take the bull by the horns
+134,हाथ से निकल जाना,to miss an opportunity,to go out of the hand,Go down with the ship
+135,हाथ लगना,to get caught or succeed,to come to the hand,Give someone a shot.
+136,हाथ धोना,to lose something completely,to wash hands,Take it or leave it
+137,हाथ मिलाना,to collaborate or agree,to join hands,2) Shake on it
+138,हाथ बाँधना,to restrict or tie someone’s ability,to tie/bind the hands,To face the music  ```python
+139,हाथ ऊँचा होना,to be more powerful or dominant,for the hand to be higher,Be in the driver's seat
+140,हाथ जलना,to learn by mistake,for the hand to be burned,To be left red-faced
+141,हाथ थामना,to support someone,to hold the hand,2) To get a handle on
+142,हाथ पसारना,to beg or plead,to spread the hand (for alms),```python
+143,हाथ काटना,to separate or break relation,to cut the hand,To dance to the tune of the piper
+144,हाथ मोड़ना,to refuse or reject something,to twist the hand,Throw in the towel
+145,पैर पसारना,to spend or expand beyond means,to spread the feet,A flash in the pan
+146,पैर जमाना,to settle firmly,to set the feet firm,To play to win
+147,पैर पकड़ना,to beg for forgiveness,to hold the feet,To be between a rock and a hard place
+148,पैर तले ज़मीन खिसकना,to be shocked or lose ground,for the ground to slip from under the feet,<select the most relevant English idiom>
+149,पैर पर कुल्हाड़ी मारना,to harm oneself by one’s own actions,to strike an axe on one’s foot,To add fuel to the fire
+150,पैर पीछे खींचना,to withdraw from commitment,to pull the feet back,Build castles in the air
+151,पैर फैलाना,to extend scope gradually,to spread the feet,1) To flaunt one's wealth
+152,पैर रोकना,to restrain or hesitate,to stop the feet,1) A slippery slope
+153,पैर रखना,to begin something new,to place a foot,2) Keep them at arm's length
+154,पैर उठाना,to show disrespect or overconfidence,to lift the foot,Take a leap of faith
+155,मुँह बनाना,to show annoyance or sadness,to make a face,"Explanation: <optional, brief explanation of why it's the best match>"
+156,मुँह खोलना,to start speaking up,to open the mouth,To speak one's mind
+157,मुँह लटकाना,to look disappointed,to hang the face,Stage-2 output (justifications):
+158,मुँह की खाना,to suffer humiliation,to eat of the mouth,To be a nobody
+159,मुँह मोड़ना,to turn away or refuse help,to turn the face away,To turn down an offer
+160,मुँह दिखाना,to appear shamelessly after wrongdoing,to show the face,Explanation: <briefly explain why the selected English idiom is the best match for the Hindi idiom>
+161,मुँह में राम बगल में छुरी,to be deceitful in nature,"Ram in the mouth, knife in the armpit",A wolf in sheep's clothing
+162,मुँह माँगी मुराद मिलना,to get exactly what one wanted,to get the wish asked by mouth,Definition: <definition of the Hindi idiom>
+163,मुँह बंद रखना,to stay silent,to keep the mouth closed,2) Keep a lid on it
+164,मुँह खुलवाना,to make someone speak,to make (someone) open the mouth,Definition: <one-sentence definition of the Hindi idiom>
+165,मुँह चुराना,to avoid facing someone,to hide/steal the face (avoid),Explanation: <explain why it's the best match>
+166,मुँह तोड़ जवाब देना,to give a fitting reply,to give a mouth-breaking reply,1) Give someone a piece of one's mind.
+167,मुँह में घी शक्कर,used to bless or hope for good news,ghee and sugar in the mouth,4) Having your cake and eating it too
+168,मुँह लगना,to act too familiar with elders,to get attached to the mouth,Definition: <definition of the Hindi idiom>
+169,मुँह में जुबान न होना,to be timid or unable to speak up,to not have a tongue in the mouth,OR
+170,मुँह से बात निकलना,to accidentally reveal something,for the words to come out of the mouth,Alternatives:
+171,हिम्मत हारना,to lose courage,to lose courage,<select the most relevant English idiom>
+172,हिम्मत रखना,to stay strong and confident,to keep courage,Take the bull by the horns
+173,हिम्मत बाँधना,to encourage oneself,to tie/bind courage,2) Take heart
+174,हिम्मत जुटाना,to gather courage,to gather courage,<select the most relevant English idiom>
+175,हिम्मत टूटना,to become hopeless,for courage to break,Fall into a trap */*
+176,हिम्मत दिखाना,to show bravery,to show courage,To take the bull by the horns
+177,हिम्मत बढ़ाना,to motivate or encourage someone,to increase courage,To slip through one's fingers
+178,जुबान चलाना,to talk disrespectfully,to run the tongue,Talk over someone
+179,जुबान फिसलना,to say something by mistake,for the tongue to slip,"Explanation: <optional, but recommended for better understanding>"
+180,जुबान देना,to make a promise,to give one’s tongue (word),To have a say
+181,जुबान रखना,to keep one’s word,to keep one’s tongue (word),Keep mum
+182,जुबान काटना,to regret saying something,to cut/bite the tongue,Speechless
+183,जुबान पकड़ना,to hold someone to their words,to catch/hold the tongue,1) Between a rock and a hard place
+184,जुबान पर काबू रखना,to control speech,to keep control on the tongue,What's meant to be will be
+185,जुबान लगना,to get into an argument,to get on the tongue,To break one's silence
+186,जुबान बंद रखना,to stay silent intentionally,to keep the tongue shut,Keep mum
+187,दाँत पीसना,to show silent anger,to grind the teeth,Keep a cool head
+188,दाँत दिखाना,to laugh unnecessarily,to show the teeth,Between a rock and a hard place
+189,दाँत गिनाना,to mock or insult someone,to count the teeth,Stage-1 output (definition + candidates):
+190,दाँत काटी रोटी,to have a close friendship,tooth-bitten bread,All hat and no cattle
+191,दाँत टूट जाना,to be defeated or embarrassed,for the teeth to break,To lose one's cool
+192,पसीना बहाना,to work hard,to make sweat flow,Alternatives: <list the other English idioms that are somewhat relevant>
+193,पसीना छुड़ाना,to frighten or exhaust,to make someone break into sweat,Bite the bullet
+194,पसीना निकलना,to feel nervous or hot,for sweat to come out,"Explanation:  The Hindi idiom ""किताबें खोलना"" means to start a new business or venture. The English idiom ""to take the plunge"" implies making a bold decision to start something new, which is similar in context to the Hindi idiom."
+195,पसीना-पसीना होना,to be drenched in sweat (from work or fear),to become sweat-sweat (drenched),3) Have butterflies in the stomach
+196,खून पसीना एक करना,to work tirelessly,to make blood and sweat one,to sweat blood
+197,खून खौलना,to feel extreme anger,for the blood to boil,Definition: <definition of Hindi idiom>
+198,खून जलाना,to waste emotional energy,to burn blood,Alternatives: <list the other two English idioms>
+199,खून चूसना,to exploit someone harshly,to suck blood,<select the most relevant English idiom>
+200,खून में उबाल आना,to be fired up with passion,for the blood to come to a boil,<select the most relevant English idiom>
+201,खून पसीने की कमाई,hard-earned money,earnings of blood and sweat,"Blood, sweat, and tears"
+202,खून सफेद होना,to become heartless or selfish,for the blood to become white,2) Alone in the crowd
+203,खून चढ़ना,to feel energetic or brave,for the blood to rise,Note: The output format may vary based on the number of English idioms found.
+204,खून उतरना,to lose courage suddenly,for the blood to descend,To blow one's top
+205,पसीने छूटना,to panic under pressure,for sweats to break out,4) To be taken aback
+206,खून जम जाना,to be terrified,for the blood to freeze/clot,Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found OR Best: Toughen up OR Best: Blood is thicker than water OR No similar English idiom found OR Best: Desensitization OR No similar English idiom found
+207,खून देना,to sacrifice selflessly,to give blood,Sneak around
+208,खून का रिश्ता,blood relation,a relation of blood,Blood is thicker than water
+209,खून बहाना,to fight fiercely,to make blood flow,Candidates:
+210,खून खराबा होना,to result in violence or bloodshed,for bloodshed/ruin to happen,A matter of life and death
+211,दिल थाम लेना,to feel suspense or fear,to hold the heart,Take aback
+212,दिल लगा लेना,to fall in love deeply,to set/attach the heart,Be a loner
+213,दिल में आग लगना,to feel jealousy or anger,for fire to ignite in the heart,To be on fire
+214,दिल दहल जाना,to be terrified,for the heart to shudder,To be left shaken to the core
+215,दिल धकधक करना,to feel nervous or anxious,for the heart to throb ‘dhak-dhak’,To make a profit or gain from a situation
+216,दिल में उतरना,to become likable or close to heart,to descend into the heart,To take it to heart
+217,दिल में ठंडक पड़ना,to feel relief or satisfaction,for coolness to fall in the heart,Surrounded by troubles.
+218,दिल को छू जाना,to touch emotionally,to go and touch the heart,Alternatives: <list the other relevant English idioms>
+219,दिल जीत लेना,to win affection,to win the heart,To sweep someone off their feet
+220,दिल में कसक रह जाना,to feel unfulfilled desire or regret,for a pang to remain in the heart,A lingering sense of unease
+221,दिल का चैन खोना,to lose peace due to love or worry,to lose the heart’s peace,To be on edge
+222,दिल बहल जाना,to feel consoled,for the heart to be consoled/amused,A puppet on a string
+223,दिल कड़ा करना,to act firmly despite emotions,to make the heart hard,To harden one's heart
+224,दिल बैठ जाना,to lose hope or courage,for the heart to sit/sink,```
+225,दिल बदलना,to change one’s opinion or feelings,to change the heart,Explanation: <briefly explain why the selected idiom is the best match for the Hindi idiom>
+226,"साँप निकल गया, लकीर पीटते रह गए",to act after the damage is already done,the snake went out; (they) kept beating the line,Definition: <definition of the Hindi idiom>
+227,साँप सूँघ जाना,to become completely silent out of fear,for a snake to sniff (one),A fish out of water
+228,साँप और नेवले की लड़ाई,a fight between sworn enemies,a snake-and-mongoose fight,A tempest in a teapot
+229,साँप के मुँह में छछूंदर,to be stuck in an impossible situation,a shrew in the snake’s mouth,a snake in the grass
+230,साँप को दूध पिलाना,to favor someone who will harm you later,to feed milk to a snake,Answer: You can't teach an old dog new tricks.
+231,साँप की केंचुली बदलना,to change completely in nature or appearance,for a snake to change its slough/skin,4) <english idiom> (if available)
+232,साँप भी मर जाए और लाठी भी न टूटे,to solve a problem smartly without harm to anyone,the snake die too and the stick not break,"When it rains, it pours."
+233,साँप का बच्चा,a dangerous or deceitful person,a snake’s offspring,A free lunch
+234,साँप के बिल में हाथ डालना,to invite trouble knowingly,to put a hand into a snake’s burrow,To preach what one doesn't practice
+235,साँप निकलते ही लकीर पीटना,to regret after losing the opportunity,to beat the line once the snake has left,Kick up a fuss
+236,शेर की सवारी करना,to take a dangerous or risky decision,to ride a lion,To be the king of the mountain
+237,शेर बनना,to act bravely or arrogantly,to become a lion,<select the most relevant English idiom>
+238,शेर का दिल रखना,to be very courageous,to keep/have a lion’s heart,"Alternatives: <list the other two English idioms, if any>"
+239,शेर के मुँह में हाथ डालना,to challenge danger directly,to put a hand in a lion’s mouth,Take the bull by the horns
+240,शेर की तरह गरजना,to speak fearlessly or loudly,to roar like a lion,Candidates: <list the other English idioms that match the definition>
+241,शेर का शिकार करना,to achieve a big or risky goal,to hunt a lion,To be a thorn in someone's side
+242,लोमड़ी की तरह चालाक,to be extremely cunning,cunning like a fox,"Explanation:  is the best match because it conveys the idea of giving control or responsibility to someone who is not capable or trustworthy, much like a monkey handling delicate jasmine flowers. The phrase ""in the wrong hands"" implies a sense of vulnerability and potential for mishap, which aligns with the context of the Hindi idiom."
+243,कुत्ते की तरह भौंकना,to shout without reason,to bark like a dog,Take the plunge
+244,कुत्ते की मौत मरना,to die miserably or without dignity,to die a dog’s death,To be in a tight spot
+245,कुत्ते की पूँछ टेढ़ी की टेढ़ी,bad habits never change,a dog’s tail—crooked remains crooked,"The devil is in the details.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three, provide the actual number) 1.  (If there are less than three,"
+246,कुत्ते के भौंकने से हाथी नहीं रुकता,great people ignore petty criticism,by a dog’s barking the elephant doesn’t stop,A jack of all trades is a master of none
+247,कुत्ते की दुम टेढ़ी की टेढ़ी,incorrigible by nature,a dog’s tail—crooked-crooked,"When you're in a hole, stop digging."
+248,कुत्ते की तरह पीछे पड़ना,to chase someone relentlessly,to get after (someone) like a dog,Definition: <define the Hindi idiom>
+249,बंदर क्या जाने अदरक का स्वाद,the unworthy cannot appreciate value,what would a monkey know of ginger’s taste,OR
+250,बंदर के हाथ में उस्तरा,a dangerous thing in foolish hands,a razor in a monkey’s hand,Candidates: <list the other English idioms>
+251,बंदर नाच देखना,to enjoy entertainment or drama,to watch a monkey dance,<select the most relevant English idiom>
+252,बंदर घुड़की देना,to make empty threats,to give a monkey-like browbeating,Explanation: <explain why the selected idiom is the best match for the Hindi idiom>
+253,बंदर के हाथ नारियल,valuable thing with an undeserving person,a coconut in a monkey’s hand,Alternatives: <list the other English idioms that are somewhat relevant>
+254,बिल्ली के गले में घंटी बाँधना,to take initiative in a dangerous task,to tie a bell on the cat’s neck,To try to tame a lion
+255,बिल्ली की तरह मुँह बनाना,to act innocent after wrongdoing,to make a face like a cat,Playing the victim
+256,बिल्ली की तरह चुप रहना,to remain silent out of guilt or fear,to stay quiet like a cat,OR
+257,बिल्ली के भाग्य से छींका टूटा,to get something valuable by pure luck,by the cat’s fortune the hanging rack broke,"When it rains, it pours."
+258,चूहे बिल्ली का खेल,a game of chase and evasion,a cat-and-mouse game,A game of cat and mouse
+259,चूहे दौड़ना,to feel hungry,mice to run (about),Stage-1 output (definition + candidates):
+260,गधे के सिर से सींग गायब,something missing without a trace,horns gone from the donkey’s head,Flogging a dead horse
+261,गधे पर बैठकर शेर की बात करना,to act proud without reason,to sit on a donkey and talk of a lion,All hat and no cattle
+262,गधे को घोड़ा बनाना,to exaggerate someone’s abilities,to make a donkey into a horse,Stage-1 output: <definition + candidates>
+263,गधे को फूलों की माला पहनाना,to honor an undeserving person,to put a garland of flowers on a donkey,```python
+264,गधे के कान में बांसुरी,to waste effort on someone ignorant,a flute in a donkey’s ear,Talking to a brick wall
+265,गाय का दूध पीना,to live peacefully and simply,to drink the cow’s milk,Ride on someone's coattails
+266,गाय बनना,to act innocent or submissive,to become a cow,3) To be played for a fool
+267,गाय के आगे बीन बजाना,to explain something to someone who won’t understand,to play a reed-pipe before a cow,"Alternates: <list the other English idioms that are somewhat relevant, but not as good as the best one>"
+268,ऊँट के मुँह में जीरा,too little for a large need,cumin in a camel’s mouth,Flogging a dead horse
+269,ऊँट पहाड़ के नीचे,to meet one’s superior or defeat,camel beneath the mountain,To cut one's nose off
+270,ऊँट के मुँह में खजूर,tiny reward for great effort,a date in a camel’s mouth,Having a bird in the hand is worth two in the bush.
+271,ऊँट की चाल चलना,to act steadily but slowly,to walk with the camel’s gait,To beat around the bush
+272,ऊँट रेत में सिर छिपाना,to ignore reality or hide from truth,for the camel to hide its head in sand,To bury one's head in the sand
+273,घोड़े बेचकर सोना,to sleep peacefully without worry,to sleep having sold the horses,2) Burning one's fingers
+274,घोड़े पर सवार होना,to be in a hurry or overexcited,to be mounted on a horse,Be a puppet on a string
+275,घोड़े का नाल पहनना,to try something superstitious for luck,to wear a horse’s horseshoe,A wolf in sheep's clothing
+276,घोड़े की लगाम कसना,to tighten control,to tighten the horse’s reins,Alternatives: <list the other English idioms that are somewhat relevant>
+277,घोड़े दौड़ाना,to act hastily without thinking,to run the horses,A den of thieves
+278,मछली पानी से बाहर,to feel uncomfortable in a strange place,fish out of water,In over their head
+279,मछली हाथ से निकलना,to miss an opportunity,for the fish to slip from the hand,To be in someone else's hands
+280,मछली पकड़ना,to manipulate a situation for gain,to catch fish,Candidates: <list the other English idioms>
+281,मछली मरना,to face downfall silently,for a fish to die,Two wrongs don't make a right
+282,मगरमच्छ के आँसू,false show of sympathy,crocodile’s tears,Crocodile tears
+283,मगरमच्छ बनना,to act powerful or arrogant falsely,to become a crocodile,To be a snake in the grass.
+284,मगरमच्छ का शिकार करना,to take on a huge challenge,to hunt a crocodile,To be a wolf in sheep's clothing
+285,सांड बनना,to act angrily or uncontrollably,to become a bull,To be a bull in a china shop
+286,सांड को लाल कपड़ा दिखाना,to provoke someone deliberately,to show a red cloth to a bull,To put a carrot in front of a donkey
+287,सांड की तरह दौड़ना,to rush without thinking,to run like a bull,Run amok
+288,सांड की तरह जिद्दी,to be very stubborn,stubborn like a bull,Mule-headed
+289,सांड की तरह ताकतवर,to be physically strong,strong like a bull,```python
+290,तेल देखो तेल की धार,to wait and watch patiently,look at the oil—the stream of the oil,1) Don't count your chickens before they hatch.
+291,तेल लगाना,to flatter or please for benefit,to apply oil,<select the most relevant English idiom>
+292,तेल निकलना,to get exhausted completely,for oil to come out,A flea market
+293,तेल पानी एक होना,to be completely incompatible,for oil and water to be one,Two peas in a pod
+294,तेल जलाना,to work hard late into the night,to burn oil,<select the most relevant English idiom>
+295,धन पानी की तरह बहाना,to waste money lavishly,to let wealth flow like water,Frittering away
+296,धन दौलत इकट्ठी करना,to accumulate wealth,to gather wealth and riches,"Explanation: <explain why the selected idiom is the best match> Best: To make a fortune Explanation: The idiom ""To make a fortune"" is the best match for the Hindi idiom ""धन दौलत इकट्ठी करना"" because it directly conveys the idea of accumulating wealth and riches. The phrase ""make a fortune"" implies earning a significant amount of money, which aligns with the meaning of the Hindi idiom. This idiom is a common expression in English that is widely understood and used in various contexts, making it a suitable alternative to the Hindi idiom. The other idioms, such as ""To get rich quick"", ""To be rolling in it"", and ""To be swimming in money"", also convey the idea of wealth and riches, but they are more specific and imply a rapid accumulation of wealth or a sense of abundance and luxury. Therefore, ""To make a fortune"" is the most relevant and suitable English idiom that matches the definition of the Hindi idiom ""धन दौलत इकट्ठी करना"".  The idioms can be used in various contexts, such as business, finance, or everyday conversations, to convey the idea of accumulating wealth and riches.  The idioms are also suitable for use in formal or informal settings, depending on the context and audience.  Overall, the given English idioms are suitable alternatives to the Hindi idiom ""धन दौलत इकट्ठी करना"".  The idioms can be used to convey the idea of accumulating wealth and riches in a more nuanced and culturally sensitive way.  The idioms can be used to add flavor and interest to language, making it more engaging and effective in communication.  The idioms can be used to create a sense of excitement and anticipation, especially when discussing financial success or wealth.  The idioms can be used to convey a sense of accomplishment and pride, especially when someone has achieved financial success through hard work and determination.  The idioms can be used to add a touch of humor and irony, especially when discussing the challenges of accumulating wealth and riches.  The idioms can be used to create a sense of community and shared experience, especially when discussing financial struggles or successes.  The idioms can be used to convey a sense of hope and optimism, especially when discussing the possibilities of financial success.  The idioms can be used to create a sense of excitement and anticipation, especially when discussing financial opportunities or challenges.  The idioms can be used to"
+297,धन का घमंड होना,to be arrogant about wealth,to have pride of wealth,All work and no play makes Jack a dull boy.
+298,धन के पीछे भागना,to be greedy for money,to run after wealth,<select the most relevant English idiom>
+299,धन का नशा चढ़ना,to be blinded by riches,for the intoxication of wealth to rise,3) To be intoxicated by wealth
+300,धन कमाना,to earn wealth,to earn wealth,<select the most relevant English idiom>
+301,धन की बरसात होना,to receive great fortune,for a rain of wealth to occur,A boom time
+302,धन को पानी समझना,to spend carelessly,to consider wealth as water,Money can't buy happiness.
+303,धन का दुरुपयोग करना,to misuse wealth,to misuse wealth,A fence
+304,धन देना,to offer charity or contribution,to give wealth,A square peg in a round hole
+305,नजर लगना,to be jinxed or affected by envy,for the (evil) eye to be cast,To fall head over heels in love.
+306,नजर उतारना,to remove the evil eye,to take off/ward off the eye,To steal the spotlight
+307,नजर बचाना,to avoid eye contact,to save oneself from the eye,To beat around the bush
+308,नजर डालना,to glance or check,to cast a glance,Give someone the once-over
+309,नजर चुराना,to avoid someone intentionally,to steal/avoid the eye,Get a crush on someone.  Output format:
+310,नजर रखना,to keep watch on something,to keep an eye,Alternatives: <list the other English idioms that match the definition>
+311,नजर मिलाना,to look straight and confidently,to meet the eyes,Definition: <definition of the Hindi idiom>
+312,नजर में आना,to get attention or recognition,to come into sight,To be a puppet on a string
+313,नजर से गिरना,to lose respect in someone’s eyes,to fall from (someone’s) eyes,"Explanation: <optional, brief explanation of why the selected idiom is the best match>"
+314,नजरों में बसना,to be deeply admired or loved,to dwell in (someone’s) eyes,"Explanation: <optional, brief explanation of why the selected idiom is the best match>"
+315,मुँह की बात छीनना,to say what someone was about to say,to snatch the words from (someone’s) mouth,1) Take the words out of someone's mouth
+316,रूठा मन मनाना,to reconcile after disagreement,to coax the sulking mind/heart,To pour oil on troubled waters
+317,मन बनना,to decide willingly,for the mind to be made,To be in a world of one's own
+318,मन भरना,to lose interest or get satisfied,for the mind to fill/satiate,Alternatives: <list the other English idioms that are similar in meaning>
+319,मन लगाना,to stay focused,to set the mind (on),To put your heart into it
+320,मन मारना,to suppress one’s desires,to kill/suppress the mind,Definition: <definition of the selected English idiom>
+321,मन में बैठना,to be convinced deeply,to sit in the mind,A house of cards
+322,मन में बात रखना,to keep things inside,to keep the matter in the mind,A puppet on a string
+323,मन बहलाना,to divert oneself pleasantly,to amuse/entertain the mind,<select the most relevant English idiom>
+324,मन से उतरना,to lose affection for someone,to come down from the heart/mind (lose favor),OR
+325,मनमानी करना,to act selfishly or on one’s own terms,to do according to one’s own mind,To act on impulse.
+326,दो नावों पर सवार होना,to try doing two opposite things at once,to ride on two boats,To have one's cake and eat it too
+327,दूध का जला छाछ भी फूंककर पीता है,"once bitten, twice shy",one burned by milk even blows on buttermilk before drinking,A wolf in sheep's clothing  # Corrected answer
+328,"दूध का दूध, पानी का पानी करना",to reveal the truth or clarify everything,to make milk (be) milk and water (be) water,2) Get to the point
+329,दूध में मक्खी की तरह,an unwanted person in a good place,like a fly in milk,Definition: <definition of the Hindi idiom>
+330,दूध का कर्ज चुकाना,to repay parents' love and care,to repay the debt of milk,To blow the lid off
+331,दूध में नीम का पत्ता,something that ruins a good thing,a neem leaf in milk,Spread too thin
+332,दूध का दूध अलग करना,to identify right and wrong clearly,to separate milk as milk,To make a distinction without a difference
+333,दूध की धार बनना,to prosper or flourish,to become a stream/jet of milk,3) To be rolling in dough
+334,दूध पीता बच्चा नहीं हूँ,I’m not naive anymore,I am not a milk-drinking child,Alternatives:
+335,दूध की नदियाँ बहाना,to dream of prosperity,to make rivers of milk flow,A game of cat and mouse
+336,घर की मुर्गी दाल बराबर,to undervalue what one has,the chicken of the house equals lentils,Be satisfied with what you have
+337,घर फूँक तमाशा देखना,to risk everything for curiosity,to burn the house and watch the show,1) A fish out of water
+338,घर का भेदी लंका ढाए,an insider can cause great harm,the insider of the house topples Lanka,A wolf in sheep's clothing
+339,घर की बात बाहर निकलना,to leak private matters,the house’s talk to go outside,Explanation: <brief explanation of the Hindi idiom and the selected English idiom>
+340,घर बसाना,to settle down or start a family,to set up/build a home,To be in a daze
+341,घर उजड़ना,to lose everything,the home to be ruined,To be left in the lurch
+342,घर में घुसकर मारना,to attack boldly,to enter the house and beat,To attack from within OR
+343,घर का रास्ता भूल जाना,to wander aimlessly or forget priorities,to forget the way home,Get lost in familiar surroundings
+344,घर आँगन में झगड़ा,domestic disputes,a quarrel in the house courtyard,A domestic squabble
+345,घर की लक्ष्मी,a woman considered the prosperity of a home,the house’s Lakshmi,The apple of my eye
+346,आम के आम गुठलियों के दाम,double benefit from one effort,"mangoes as mangoes, pits for a price too",Definition: <definition of the Hindi idiom>
+347,आम रास्ता पकड़ना,to take the easy or common way,to take the common road,"Explanation: The Hindi idiom ""किताब का पत्ता निकालना"" means to get to the bottom of a problem or to find the root cause of a situation. The English idiom ""cut to the chase"" is somewhat similar but has a different context. ""Take the bull by the horns"" means to tackle a difficult situation head-on, which is the opposite of the Hindi idiom. ""Beat around the bush"" means to avoid talking directly or clearly about something, which is somewhat similar but not exactly the same."
+348,आम आदमी,a common man,common man,The wolf in sheep's clothing
+349,आमदनी अठन्नी खर्चा रुपैया,expenses exceeding income,"income half a rupee, expense a rupee",Stage-2 output (English idiom + explanation):
+350,"आम खाने वाले बनो, पेड़ मत गिनो",enjoy benefits without overanalyzing,"be mango-eaters, don’t count the trees",3) Don't
+351,आमदनी बढ़ाना,to increase income,to increase income,"Alternatives: <list the other English idioms that are somewhat relevant, but not as good as the best one>"
+352,अंधे के हाथ बटेर लगना,to get lucky unexpectedly,a quail falling into a blind person’s hand,2) In a state of chaos.
+353,अंधा कानून,law that doesn’t see right and wrong,blind law,The ends justify the means
+354,अंधेरे में तीर चलाना,to try without knowledge,to shoot an arrow in the dark,None
+355,अंधे को अंधेरे में बहुत दूर की सूझी,to overestimate one’s own understanding,"to a blind person, in darkness, perceiving the far-off",Candidates: <list of other English idioms>
+356,अंधे के हाथ में आइना,a useless thing in wrong hands,a mirror in a blind person’s hand,Trying to teach a pig to sing
+357,अंधों में काना राजा,to shine among the incompetent,"among the blind, the one-eyed is king",Explanation: <briefly explain why the selected English idiom is the best match>
+358,काला अक्षर भैंस बराबर,to be illiterate or uneducated,black letters equal a buffalo,Definition: <definition of the Hindi idiom>
+359,काला धन,black or illegal money,black money,off the books
+360,काला मन,evil thoughts or intentions,black heart/mind,Black heart
+361,काले मन का इंसान,a person with bad heart,a person of a black heart,Alternatives: <list the other English idioms if any>
+362,काली करतूत,bad or shameful deeds,black deeds,To put someone in their place
+363,काली रात में दिया जलाना,to hope amidst despair,to light a lamp on a black night,A free-for-all
+364,काली कमाई,illegal earnings,black earnings,A madhouse
+365,काली मिर्च लगाना,to exaggerate a story,to apply black pepper,To add fuel to the fire
+366,काली नीयत,to have bad intentions,black intention,A wolf in sheep's clothing
+367,काला सच,an unpleasant hidden truth,black truth / dark truth,The truth will come to light
+368,बीज बोना,to initiate an idea or event,to sow seed,Alternatives: <list the other English idioms that are somewhat relevant>
+369,बीज बोकर फल काटना,to reap what one sows,to sow seed and reap fruit,Stage-1 output (definition + candidates):
+370,बीज से पेड़ बनना,to see progress from small beginnings,"from seed, a tree to become",OR
+371,बीज बोकर काँटे काटना,to face consequences of one’s actions,to sow seeds and cut thorns,```python
+372,बीज बदलना,to change the foundation or cause,to change the seed,To turn the tables
+373,बीज नष्ट करना,to end something at its root,to destroy the seed,Throw good money after bad.
+374,बीज जमना,to start taking effect,for the seed to set/germinate,1) To plant a seed
+375,बीज बोने वाला,one who starts a trend or cause,one who sows seed,A troublemaker
+376,बीज रोपना,to initiate growth or influence,to plant seed,<select the most relevant English idiom>
+377,बीज काटना,to destroy the base of something,to cut the seed,To shoot oneself in the foot
+378,थाली का बैंगन,someone who changes sides easily,eggplant of the plate,1) The lion's share.
+379,थाली में नमक खाना,to benefit from someone’s kindness,to eat salt in (someone’s) plate,Make a virtue of necessity
+380,थाली में छींद लगाना,to betray the one who helped,to make a slit/hole in the plate,To be on cloud nine.
+381,थाली बजाना,to protest or express excitement,to bang the plate,To suck up to someone
+382,थाली का खाना,a share of resources or wealth,food of the plate,Home cooking
+383,थाली में रखना,to serve something easily,to place in the plate,Slap on the wrist
+384,थाली पलटना,to go against one’s own,to flip the plate,Alternatives: <list two other English idioms that are less relevant>
+385,थाली की रोटी बनना,to be part of a group or system,to become the plate’s roti,Alternatives: <list the other two English idioms>
+386,थाली चाटना,to exploit something completely,to lick the plate,1) Chew the fat
+387,थाली में परोसना,to give ready-made success,to serve on a plate,To give someone a taste of their own medicine
+388,चिराग तले अंधेरा,to overlook what’s right before you,darkness beneath the lamp,The puppeteer
+389,चिराग जलना,to bring light or hope,the lamp to light,<select the most relevant English idiom>
+390,चिराग बुझना,to lose hope or family support,the lamp to go out,```
+391,चिराग दिखाना,to guide or help someone,to show a lamp,To blow one's own horn
+392,चिराग लेकर ढूँढना,to search very carefully,to search carrying a lamp,Look for a needle in a haystack
+393,चिराग तले छिपना,to hide in the most obvious place,to hide under the lamp,3) To hide behind a powerful person.
+394,चिराग की तरह जलना,to sacrifice oneself for others,to burn like a lamp,Explanation: <briefly explain why the selected idiom is the best match for the Hindi idiom>
+395,चिराग घर का बुझना,to lose a loved one,the household’s lamp to go out,Explanation: <Provide a brief explanation for the selected idiom>
+396,चिराग को हवा लगना,to face danger or crisis,for the lamp to catch wind,Hindi idiom: <Hindi idiom>
+397,चिराग हाथ में होना,to have control or guidance,to have a lamp in hand,Alternatives: <list the other English idioms in order of relevance>
+398,भेड़ चाल चलना,to follow others blindly,to walk the sheep’s gait,Stage-2 output (explanation):
+399,भेड़ बनना,to lack independent thought,to become a sheep,Others: <list the other English idioms that are somewhat similar but not as relevant>
+400,भेड़ की तरह भागना,to run after the crowd,to run like sheep,Definition: <define the Hindi idiom>
+401,भेड़िया बनना,to be cruel or selfish,to become a wolf,A wolf in sheep's clothing
+402,भेड़ का रूप धारण करना,to appear innocent while being deceitful,to assume the form of a sheep,To put on a humble face
+403,भेड़ की खाल में भेड़िया,a dangerous person pretending to be gentle,a wolf in sheep’s skin,Definition: <define the Hindi idiom>
+404,भेड़ के पीछे भेड़,to imitate without thinking,sheep behind sheep,Fiddling while Rome burns
+405,भेड़ की तरह झुंड में रहना,to depend on others’ lead,to live in a flock like sheep,Not a bookish person
+406,भेड़ की तरह बोलना,to agree without question,to speak like sheep (bleat),1) Speak like a fool
+407,भेड़िया आया कहकर झूठ बोलना,to lie so often that no one believes you later,to say ‘the wolf has come’ and lie,OR
+408,ईमान बेचना,to sacrifice integrity for gain,to sell honesty/conscience,Expert burglar
+409,ईमान पर आँच आना,to face moral challenge,for heat/flame to come upon honesty,Definition: <one-sentence definition>
+410,ईमानदार बनना,to act honestly,to become honest,Alternatives: <list the other English idioms that are similar in meaning>
+411,ईमान का सौदा करना,to compromise ethics for money,to trade one’s honesty,<select the most relevant English idiom>
+412,ईमान की कमाई,honest earnings,earnings of honesty,A lamb to the slaughter
+413,ईमान दिखाना,to prove one’s honesty,to show honesty,1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one's money where one's mouth is OR Hindi idiom: ईमान दिखाना (no English idiom found) OR Best: 1) To put one
+414,ईमानदारी निभाना,to act truthfully and faithfully,to uphold honesty,```
+415,ईमान का साथी,a trustworthy companion,companion/partner of honesty,A guiding light
+416,ईमान से उतरना,to become dishonest,to step down from honesty,Definition: <provide the definition of the Hindi idiom>
+417,ईमान की परीक्षा देना,to face a test of character,to give a test of honesty,To put someone's mettle to the test
+418,झूठ बोलना,to tell a lie,to speak a lie,<select the most relevant English idiom>
+419,झूठ पकड़ना,to catch a lie or liar,to catch a lie,To go out on the town
+420,झूठ की पोल खोलना,to expose deceit,to open the seams of a lie,A flea market
+421,झूठा बहाना बनाना,to make false excuses,to make a false excuse,To make a mountain out of a molehill
+422,झूठ बोलकर बचना,to lie and escape consequences,to escape by telling a lie,Traffic in stolen goods
+423,झूठ फैलाना,to spread lies,to spread lies,To spread a canard
+424,झूठ सच बनाना,to manipulate facts to appear true,to make a lie into truth,To make a quick buck
+425,झूठ पर झूठ बोलना,to keep lying,to speak lie upon lie,To bear false witness
+426,झूठ से मुँह मोड़ना,to stay away from falsehood,to turn one’s face away from lies,A wolf in sheep's clothing
+427,झूठ पकड़ा जाना,to get caught lying,to be caught lying,<English idiom> OR
+428,एक तीर से दो निशाने,to achieve two goals with one action,"with one arrow, two targets",Alternative: <list the other English idioms that are somewhat relevant>
+429,नौ दो ग्यारह होना,to run away quickly,to become nine two eleven,Alternatives:
+430,खयाली पुलाव पकाना,to daydream unrealistic plans,to cook imaginary pulao,Live in a dream world
+431,दाल में कुछ काला है,something is suspicious,there is something black in the lentils,"It's not adding up  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English idiom that means something is suspicious or fishy, and it is a great match for the Hindi idiom.)  (It is a common English"
+432,दाल न गलना,a plan not working out,the lentils not cooking,To be caught between the devil and the deep blue sea
+433,जले पर नमक छिड़कना,to make someone’s pain worse,to sprinkle salt on a burn,1) Add fuel to the fire
+434,सोने पर सुहागा,an added bonus to something good,suhaaga on top of gold,OR
+435,रामबाण उपाय,a sure-shot remedy,Rama’s-arrow remedy,Panacea
+436,आसमान से तारे तोड़ना,to promise or attempt the impossible,to pluck stars from the sky,Be the king of the castle
+437,सात समुंदर पार,very far away,across seven seas,Across the globe
+438,अब पछताए होत क्या जब चिड़ियाँ चुग गई खेत,repenting after the damage is done,"what use repenting now, when birds have pecked the field",Explanation: <explain why the selected idiom is the best match>
+439,हाथ कंगन को आरसी क्या,no proof needed for the obvious,what mirror for a bangle on the wrist,To cry over spilt milk
+440,तिल का ताड़ बनाना,to exaggerate a small issue,to make a palm tree out of a sesame seed,To make a big deal out of nothing
+441,ठोकर खाना,to stumble and learn from mistakes,to stumble/strike the toe,Hit a brick wall
+442,ठंडा बस्ता डालना,to shelve a matter indefinitely,to put into a cold bag,"When in Rome, do as the Romans do OR"
+443,ठंडी साँस भरना,to sigh in sorrow,to heave a cold sigh,To take a deep breath
+444,जी का जंजाल,a constant nuisance,a snare of the life/soul,A tangled web
+445,जी जान से लगना,to put one’s heart and soul into it,to apply life and soul,To give it your all
+446,पीठ पीछे वार करना,to backstab someone,to strike behind the back,Backstab
+447,पीठ थपथपाना,to praise or encourage,to pat the back,Toady to someone
+448,पीठ दिखाना,to run away from a challenge,to show the back,Explanation: <optional>
+449,पत्ता साफ होना,to be removed or eliminated,for the leaf/card to be cleared,To look for greener pastures
+450,पत्ते खोलना,to reveal one’s plans,to open the cards,To let the cat out of the bag
+451,पलड़ा भारी होना,to have the upper hand,for the balance-pan to be heavy,To be between a rock and a hard place
+452,फटे में टांग अड़ाना,to meddle where not needed,to stick a leg into a tear,Candidates: <list all other relevant English idioms>
+453,फूटी किस्मत,very bad luck,broken luck,Born with a golden ticket
+454,फूटी कोड़ी,a tiny amount of money,a broken cowrie/coin,<select the most relevant English idiom>
+455,फूल नहीं समाना,to be overjoyed,"to be swollen, not contained",Out of one's depth
+456,रंग में भंग पड़ना,to have celebrations spoiled,for bhang to fall into the dye/color,<select the most relevant English idiom>  Best: To be turned upside down
+457,रंग बदलना,to betray or change stance,to change color,To change one's stripes
+458,रंग लाना,to succeed,to bring color,To add fuel to the fire
+459,रंगे हाथ पकड़ा जाना,to be caught red-handed,to be caught with colored hands,Alternatives: <list the other English idioms that are somewhat relevant>
+460,लकीर का फ़कीर,to follow tradition blindly,a fakir of the line,A wolf in sheep's clothing
+461,लंबी-लंबी छोड़ना,to boast with tall claims,to leave off long-long (claims),see it through
+462,लोहा मानना,to acknowledge someone’s superiority,to accept the iron,To see is to believe. 1) To see is to believe.
+463,लोहा गरम है चोट कर,strike while the iron is hot,iron is hot—strike a blow,Cleanliness is next to godliness
+464,दिन-दुगनी रात-चौगुनी तरक्की,"rapid, compounding growth","day double, night quadruple progress",The final answer is: Best: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track. The final answer is: On the fast track.
+465,दिन में तारे दिखना,to be in extreme pain or shock,stars appearing in the daytime,To chase a will-o'-the-wisp OR
+466,मक्खन लगाना,to flatter for gain,to apply butter,Stage-1 output: <definition + candidates>
+467,मगजमारी करना,to toil mentally,to do brain-beating,Alternatives: <list the other English idioms>
+468,माथा पीटना,to regret greatly,to beat the forehead,Definition: To hit one's head against a wall in frustration or exasperation.
+469,माथा ठोकना,to plead earnestly or pray,to knock the forehead,Definition: <one-sentence definition>
+470,माथे पर बल पड़ना,to appear tense,for wrinkles/tension to appear on the forehead,4) <other English idioms>
+471,मान रखना,to honor someone’s feelings,to keep honor,Save face.  OR Definition: To maintain or uphold one's dignity or self-respect.  OR मान रखना: To maintain or uphold one's dignity or self-respect.  OR
+472,मुँह में दही जमाना,to remain deliberately silent,to let curd set in the mouth,"Explanation: <optional, provide a brief explanation to justify the answer>"
+473,मूँछों पर ताव देना,to show pride or bravado,to give a twist to the moustaches,"Alternatives: <list the other English idioms that are somewhat relevant, but not the best match> |"
+474,जग हँसाई होना,to become a public joke,to become the world’s laughter,To be taken for a ride
+475,टांग अड़ाना,to interfere unnecessarily,to stick in a leg,<select the most relevant English idiom>
+476,तूफ़ान खड़ा करना,to create a big ruckus,to raise a storm,<select the most relevant English idiom>
+477,कलेजा मुँह को आना,to be terrified (near-death feel),the liver to come to the mouth,<select the most relevant English idiom>
+478,कलेजा ठंडा होना,to feel avenged or satisfied after anger,the liver to become cool,A bitter taste in one's mouth
+479,घी सीधी उंगली से ना निकले तो टेढ़ी करनी पड़े,use strict means if polite ones fail,"if ghee won’t come out with a straight finger, one must bend it","3) When you can't have your cake and eat it, you'll have to choose which one to have. OR"
+480,छाती ठोकना,to boast loudly,to thump the chest,To be a wolf in sheep's clothing
+481,छाती पर साँप लोटना,to be intensely jealous,a snake to roll on the chest,To have a monkey on one's back
+482,छाती पर मूंग दलना,to oppress or torment someone,to mill mung beans on the chest,To be down to one's last penny
+483,छाती चौड़ी होना,to feel proud,the chest to become broad,Take a leap of faith
+484,"खेत खाए गधा, मारें जुलाहा",to punish the wrong person,"the donkey ate the field, (yet) we beat the weaver",2) You are known by the company you keep.
+485,कुएँ में कूदना,to jump into trouble knowingly,to jump into a well,Definition: <definition of the Hindi idiom>
+486,कुआँ खोदना,to prepare in advance,to dig a well,Throw good money after bad
+487,चींटी की चाल,very slow progress,the ant’s gait,Explanation: <provide a brief explanation>
+488,गागर में सागर भरना,to say a lot in few words,to fill the ocean into a pitcher,OR
+489,ऊँची दुकान फीका पकवान,"great show, poor quality","tall shop, bland dish",1) A big fish in a small pond
+490,नाच न जाने आँगन टेढ़ा,blame surroundings for one’s lack,"doesn’t know to dance, (says) the courtyard is crooked",```
+491,नेकी कर दरिया में डाल,do good without expectation,do good and throw it into the river,You can't teach an old dog new tricks.
+492,थोथा चना बाजे घना,empty vessels make more noise,hollow chickpea makes loud sound,To make a mountain out of a molehill
+493,रात गई बात गई,let bygones be bygones,"night gone, talk gone",The die is cast.  (Note: This idiom is often used to convey that a decision has been made and it is too late to change it.)
+494,रातों-रात बदलना,to change overnight,to change overnight,1) Turn on a dime
+495,रस्सी जल गई पर ऐंठ न गई,to be arrogant despite downfall,the rope burned but its twist didn’t go,3) Between Scylla and Charybdis
+496,रोज़ का रोना,the same old complaint,daily crying,Field of dreams
+497,रोटी-रोज़ी का सवाल,a matter of livelihood,question of bread and livelihood,Born with a silver spoon
+498,लाभ-हानि की परवाह न करना,to not care about profit or loss,to not care about profit-loss,<select the most relevant English idiom>
+499,लाख टके की बात,a very valuable point,a matter worth a hundred thousand rupees,The crème de la crème
+500,लकड़ी बेकार करना,to waste effort (colloquial sense),to waste wood,Flogging a dead horse
+501,लड़ाई का मूड बनाना,to get into a quarrelsome mood,to make a mood for a fight,1) In a fighting mood
+502,शक की सूई अटकना,to remain doubtful,the needle of doubt to get stuck,Caught in a trap
+503,सड़कछाप व्यवहार,"rude, rough behavior",street-stamped behavior,A loose cannon.
+504,सिर पर चढ़ाना,to pamper excessively,to lift onto the head,<select the most relevant English idiom>
+505,सिर पर हाथ फेरना,to bless affectionately,to stroke the head with the hand,<select the most relevant English idiom>
+506,सिर पर तूफ़ान टूटना,to face a sudden calamity,a storm to break upon the head,2) A perfect storm
+507,सिर खपाना,to rack one’s brains,to wear out the head,<select the most relevant English idiom>
+508,सिर ऊँचा करना,to bring honor,to raise the head high,To blow one's own trumpet
+509,सिर झुकाना,to show respect or shame,to bow the head,<select the most relevant English idiom>
+510,सुबह के भूले शाम को घर आ जाएँ तो भूले नहीं कहलाते,better late than never,"if the morning’s lost returns home by evening, he’s not called lost",Don't count your chickens before they hatch.
+511,अक्ल के घोड़े दौड़ाना,to overthink unnecessarily,to run the horses of intellect,To have unrealistic expectations or overestimate one's abilities.
+512,अव्वल दर्जे का,of top quality,of first grade,Candidates: <list the other similar English idioms>
+513,अधेड़ उम्र की दिक्कत,middle-age related issues (colloq.),difficulty of middle age,Alternatives: <list the other English idioms that are somewhat relevant>
+514,अंगारों पर चलना,to go through hardships,to walk on embers,<select the most relevant English idiom>
+515,अंगूठा दिखाना,to refuse bluntly,to show the thumb,Explanation: <briefly explain why the selected idiom is the best match>  I'll be here to assist you with more Hindi idioms.  Just let me know when you're ready with the next one.  I'll be happy to help.  I'm looking forward to it.  Please go ahead and provide the next idiom.  I'm ready when you are.  I'll do my best to provide the best possible answers.  I'm excited to help.  I'll do my best to provide accurate and helpful responses.  I'm here to assist you.  Please let me know when you're ready.  I'll be happy to help.  I'm looking forward to it.  Please go ahead and provide the next idiom.  I'm ready when you are.  I'll do my best to provide the best possible answers.  I'm excited to help.  I'll do my best to provide accurate and helpful responses.  I'm here to assist you.  Please let me know when you're ready.  I'll be happy to help.  I'm looking forward to it.  Please go ahead and provide the next idiom.  I'm ready when you are.  I'll do my best to provide the best possible answers.  I'm excited to help.  I'll do my best to provide accurate and helpful responses.  I'm here to assist you.  Please let me know when you're ready.  I'll be happy to help.  I'm looking forward to it.  Please go ahead and provide the next idiom.  I'm ready when you are.  I'll do my best to provide the best possible answers.  I'm excited to help.  I'll do my best to provide accurate and helpful responses.  I'm here to assist you.  Please let me know when you're ready.  I'll be happy to help.  I'm looking forward to it.  Please go ahead and provide the next idiom.  I'm ready when you are.  I'll do my best to provide the best possible answers.  I'm excited to help.  I'll do my best to provide accurate and helpful responses.  I'm here to assist you.  Please let me know when you're ready.  I'll be happy to help.  I'm looking forward to it.  Please go ahead and provide the next idiom.  I'm ready when you are.  I'll
+516,अंगूठा छाप,an illiterate person (dated),thumb-impression (person),Thumbprint
+517,अंधेर नगरी चौपट राजा,a place with complete mismanagement,"city of darkness, ruined king",A city in a state of complete disarray
+518,अन्नदान महादान,charity of food is supreme (proverbial),gift of food is the great gift,"3) Give a man a fish, and you feed him for a day; teach a man to fish, and you feed him for a lifetime."
+519,अक्ल ठिकाने लगना,to come to one’s senses,sense to settle into place,Out of one's mind
+520,कानून हाथ में लेना,to take law into one’s own hands,to take the law in one’s hand,Explanation: <briefly explain why the selected idiom is the best match>
+521,कान पर हाथ रखना,to be alarmed or scared,to place a hand on the ear,Keep tabs on someone.
+522,कानोंकान खबर न होना,no one gets wind of it,not an ear-to-ear whisper of news,Definition: <definition of the Hindi idiom>
+523,काला-सफेद करना,to decide authoritatively,to make black-white,To go through a rough patch
+524,कलेजे पर पत्थर रखना,to harden one’s heart to do something tough,to place a stone on the liver,<select the most relevant English idiom>
+525,किसी की बैंड बजाना,to thrash or defeat thoroughly,to play someone’s band,To tug at someone's heartstrings
+526,खुल्लम-खुल्ला कहना,to say openly,to say in the open-open,A street in disarray
+527,खून गर्म होना,to feel fired up,blood to become hot,To be a puppet on a string
+528,खुशी के मारे फूले न समाना,to be overjoyed,"for joy, to swell and not be contained",3) A master of his craft
+529,गला सूख जाना,to feel nervous or scared,the throat to dry up,The final answer is Best: To be at a loss for words.
+530,गला काट प्रतिस्पर्धा,cut-throat competition,throat-cut competition,<select the most relevant English idiom>
+531,गलती पर पर्दा डालना,to cover up a mistake,to put a curtain over a mistake,<select the most relevant English idiom>
+532,गले की फाँस,a nagging problem,a thorn in the throat,No need to rush
+533,गले मिलना,to embrace warmly (reconciliation),to meet at the neck (embrace),None of the above
+534,घड़ी-घड़ी रंग बदलना,to be fickle,to change color every hour-hour,```
+535,घूम-फिरकर वहीं आना,to end up at the same point,to go round and come back there,OR
+536,चक्कर काटना,to make repeated rounds (bureaucracy),to cut circles,Be stuck
+537,चक्की में पिसना,to be crushed by circumstances,to be ground in a mill,Definition: <definition of the Hindi idiom>
+538,"चौबे जी छब्बे बने, दुबे बने न",to aim higher and lose what you had,"Mr. Choubey became ‘Chhabbe’, (yet) didn’t become Dubey","When the going gets tough, the tough get going"
+539,चूँ भी न करना,to not utter a word,to not utter even ‘choo’,Fudge the issue
+540,चोली-दामन का साथ,inseparable relationship,the companionship of blouse and veil,Stage-1 output (definition + candidates):
+541,छोटा मुँह बड़ी बात,big talk from a small person,"small mouth, big talk",All mouth and no action
+542,जुबान पर ताला लगाना,to keep one’s mouth shut,to put a lock on the tongue,Keep mum
+543,जुबान देना और निभाना,to keep a promise,to give one’s word and keep it,All talk and no action
+544,जुबान की कसम,a solemn vow,oath of the tongue,On my honor
+545,जान पर बन आना,to be in grave danger,to come upon the life,Stage-1 output (definition + candidates):
+546,जान हथेली पर लेकर फिरना,to live riskily,to carry one’s life on the palm,Others: <list the other English idioms that are not the best match>
+547,जेब ढीली करना,to spend money,to loosen the pocket,Burn through money
+548,जेब काटना,to pickpocket / cheat,to cut the pocket,You can't make a silk purse out of a sow's ear
+549,जोर आज़माइश करना,to test strength,to do strength-testing,Alternatives: <list the other English idioms that match the Hindi idiom>
+550,जोर-शोर से करना,to do with great enthusiasm,to do with force and noise,To blow one's own trumpet
+551,टेंट-टून बजना,to make a loud scene (colloq.),to go ‘tain-toon’ (clang loudly),9) A hullabaloo
+552,ठाठ से रहना,to live in style,to live with pomp,<English idiom> is the closest match to the Hindi idiom <Hindi idiom> which means <one-sentence definition>.  Explanation: <short explanation of the match>
+553,डंका पीटना,to announce loudly,to beat the kettle-drum,To beat the drum
+554,ढिंढोरा पीटना,to brag publicly,to beat the public drum,Cry wolf
+555,ढील देना,to be lenient,to give slack,<select the most relevant English idiom> OR
+556,तारीफ़ के पुल बाँधना,to heap praises,to build bridges of praise,Stage-1 output (definition + candidates):
+557,तह तक पहुँचना,to get to the root cause,to reach the bottom layer,To get to the bottom of things
+558,तन-मन-धन से,"with body, mind, and wealth; wholeheartedly","with body, mind, and wealth",Having it all
+559,तार-तार करना,to tear apart reputation,to make into threads,1) Get under someone's skin
+560,तार जोड़ना,to connect the dots,to join the wires,Puppeteer
+561,तीस मार खाँ,a self-proclaimed hero; boaster,Tees Mar Khan (Mr. ‘thirty-strikes’ Khan),To be a master of all trades
+562,तीन में न तेरह में,irrelevant to any group,neither in the three nor in the thirteen,Explanation: <briefly explain why the selected idiom is the best match>
+563,तेल-मसाज करना,to flatter for benefit (colloq.),to do oil massage,To add fuel to the fire
+564,थक-हार कर बैठ जाना,to give up after trying,to sit down tired and defeated,<select the most relevant English idiom>
+565,थाली का बैंगन बनना,to switch sides easily (opportunist),to become the plate’s eggplant,<select the most relevant English idiom> OR
+566,दिमाग का पारा चढ़ना,to lose temper,the mind’s mercury rising,To be on the boil
+567,दिमाग सातवें आसमान पर,to be overconfident or elated,the mind on the seventh sky,At a loss
+568,दिमाग की बत्ती जलना,to suddenly get an idea,the brain’s lamp lighting,To be on the ball
+569,दाँव खेलना,to take a calculated risk,to play a stake,Other options: <list the other English idioms that are somewhat relevant but not the best match>
+570,दाँव-पेंच आज़माना,to use tricks or tactics,to try stakes and tricks,A voracious reader
+571,नाक में नकेल डालना,to bring someone under strict control,to put a halter in the nose,Give someone a piece of their mind.
+572,नाक रगड़ना,to beg desperately,to rub the nose,<select the most relevant English idiom> OR
+573,नाक ऊँची रखना,to uphold one’s honor,to keep the nose high,Keep your chin up
+574,नाक काट कर रख देना,to disgrace someone completely,to cut off the nose and set it down,1) Cut off your nose to spite your face
+575,नाक पर दम होना,to be short-tempered / easily angered,to have breath on the nose,To have one's feet on the ground
+576,नाक का बाल होना,to be a favorite / close confidant,to be the hair of the nose,To be on edge
+577,कान खोलकर सुनना,to listen attentively,to listen with ears open,Note: The Hindi idiom गिरने का डंडा means a person who is extremely greedy or selfish. The English idioms provided are similar in meaning and context.
+578,कान देना,to pay attention,to give an ear,1)
+579,कान पकड़ कर माफी मांगना,to apologize earnestly,to hold the ears and ask forgiveness,OR
+580,कान के नीचे देना,to slap / scold sharply,to give a blow beneath the ear,To keep something under one's hat
+581,कान में भनक पड़ना,to get a hint of something,for a hint to fall into the ear,A flash in the pan
+582,कान फटना,to hear loud/harsh sounds,for the ear to tear,Note: The output may vary based on the Hindi idiom provided.
+583,कान कतरना,to cheat a little from all sides,to clip the ears,<select the most relevant English idiom>
+584,आँख बचाकर निकलना,to slip away unnoticed,to slip out hiding from the eyes,To bet on a long shot
+585,आँखें चार होना,to exchange glances / fall in love,for the eyes to become four,keep a weather eye open
+586,आँखें चुराना,to avoid facing someone,to hide the eyes,Definition: <definition of the Hindi idiom>
+587,आँखें तिरछी करना,to squint in doubt,to make the eyes slant,When the die is cast
+588,आँखों पर पट्टी बंधना,to be blinded to the truth,for a bandage to be tied on the eyes,A house divided against itself cannot stand.
+589,आँखों में बसाए रखना,to cherish someone deeply,to keep (someone) lodged in the eyes,<idiom> (with a brief explanation)
+590,आँखों ही आँखों में इशारा करना,to communicate silently,to signal within the eyes themselves,<select the most relevant English idiom>
+591,हाथ आजमाना,to try one’s hand at something,to try the hand,Give it a shot
+592,हाथ पक्का होना,to be highly skilled,for the hand to be firm,To have a stake in something
+593,हाथ कंगन,obvious proof; needs no words,bangle on the hand,A member of the family.
+594,हाथ रोक लेना,to restrain oneself,to stop the hand,To put the kibosh on
+595,"हाथी के दाँत खाना और, दिखाना और",hypocrisy; different inside vs outside,the elephant’s teeth are for eating and (others) for showing,To talk the talk
+596,हाथ से हाथ धो बैठना,to lose something completely,to wash hand from hand and be left sitting,To shoot oneself in the foot
+597,हाथ धो बैठना,to suffer total loss,to wash one’s hands and sit down,OR
+598,हाथी के पाँव में सबका पाँव,the mighty controls all,"in the elephant’s foot, everyone’s foot",2) Between a rock and a hard place OR
+599,हाथ पर रखकर देखना,to test practically,to keep it on the hand and see,Alternatives: <list the other English idioms that are relevant but not the best match>
+600,हाथ टेक देना,to surrender,to place the hands down (in surrender),Take the bull by the horns
+601,पैरों तले की ज़मीन हिलना,to be shocked badly,the ground under the feet to shake,The rug is pulled from under one's feet
+602,पैर पटकना,to throw a tantrum,to stamp the foot,2) A gossipmonger
+603,पैरों पर कुल्हाड़ी चलाना,to self-sabotage,to swing an axe on one’s own feet,Cutting off one's nose to spite one's face
+604,पैरों की जूती समझना,to treat with utter disdain,to consider (someone) the shoe of the feet,Stage-2 output: <explain why the selected idiom is the best match>
+605,पैर उखड़ जाना,to lose grip or stability,for the feet to be uprooted,The last straw
+606,पैरों की बेड़ियाँ,constraints that bind progress,shackles of the feet,Don't get too comfortable.
+607,पाँव पीछे हटाना,to back out,to move the foot back,Turn the page
+608,पैरों पर खड़ा होना,to become self-reliant,to stand on one’s feet,1) On one's own two feet. 2) Stand on one's own. 3) Foot the bill.
+609,"मुँह में राम, हाथ में छुरी",to be two-faced,"Ram in the mouth, knife in the hand",Having a silver tongue and a sharp sword
+610,मुँह पर लौकी रखना,to keep completely silent,to place a bottle gourd on the mouth,A fish out of water
+611,मुँह मियाँ मिट्ठू,to boast about oneself,mouth’s own ‘Mitthu’ (parrot),All bark and no bite
+612,मुँह का कौर छीनना,to snatch someone’s rightful share,to snatch the morsel from the mouth,<English idiom 1> and <English idiom 2> are equally good
+613,मुँह का रख लेना,to save face,to keep/save the face of the mouth,A recipe for disaster
+614,मुँह की बात निकल जाना,to blurt something out,the words of the mouth to slip out,Take a peek
+615,माथा ठनकना,to get suspicious suddenly,the forehead to tingle,2) Master of none
+616,माथा ठन जाना,to clash over ego,for foreheads to clash,Dead to the world
+617,माथे पर लिखना,to be written on one’s fate/forehead,to be written on the forehead,Candidates: <list of other English idioms that match the definition>
+618,माथा टेकना,to bow in submission,to bow the forehead,At the end of one's tether
+619,दिल का हाल समझना,to understand true feelings,to understand the state of the heart,Please go ahead and provide the answer.
+620,दिल बड़ा करना,to be generous/forgiving,to make the heart big,A flash in the pan
+621,दिल छोटा करना,to get discouraged,to make the heart small,To sell oneself short
+622,दिल बहला फुसलाना,to console and distract,to amuse and cajole the heart,```
+623,दिल का धनी,large-hearted person,lord/owner of the heart,<select the most relevant English idiom>
+624,दिल खोलकर हँसना,to laugh heartily,to laugh with the heart open,2) Have a good belly laugh
+625,दिल लगा कर पढ़ना,to study diligently,to study with the heart attached,Alternatives: <list the other English idioms that are somewhat relevant>
+626,दिल हार बैठना,to lose one’s heart (fall in love),to sit having lost the heart,To put on a show
+627,दिमाग ठनकना,to get suspicious,for the brain to tinkle/click,Be at sea
+628,दिमाग चकरा जाना,to get dizzy/confused,the brain to go dizzy,Optional:
+629,दिमाग ठंडा रखना,to stay calm,to keep the brain cool,<select the most relevant English idiom>
+630,दिमाग घिसना,to use brain excessively,to grind/wear down the brain,Definition: <define the Hindi idiom>
+631,दिमाग पर जोर डालना,to strain the brain,to put pressure on the brain,<select the most relevant English idiom>
+632,दिमाग सातवें आसमान पर होना,to be over the moon / cocky,the brain to be on the seventh sky,Pay the piper
+633,दाँत पीसकर रह जाना,to swallow anger silently,to remain gnashing the teeth,```python
+634,दाँत नाखून दिखाना,to show aggression,to show teeth and nails,A wolf in sheep's clothing
+635,दाँतों तले अंगुली आ जाना,to be stunned with surprise,for a finger to come under the teeth,To have egg on one's face
+636,दाँत खींच लेना,to break someone’s courage,to pull out the teeth,<select the most relevant English idiom>
+637,जुबान चलती रहना,to keep blabbering,the tongue to keep running,Don't count your chickens before they hatch
+638,जुबान मीठी करना,to speak sweetly to please,to make the tongue sweet,OR
+639,जुबान फँसना,to get tongue-tied,the tongue to get stuck,To lose one's voice  # Corrected output
+640,जुबान दराज़ होना,to be insolent in speech,the tongue to be long,To spill the beans
+641,जुबान पर लगाम लगाना,to control speech,to put a bridle on the tongue,Alternatives: <list the other English idioms that are somewhat relevant>
+642,कलेजे में आग लगना,to burn with jealousy/grief,for fire to catch in the liver,To be in a state of high ire
+643,कलेजे में ठंडक पड़ना,to feel satisfied after justice,for coolness to fall in the liver,4) <other English idioms>
+644,खून खौल उठना,to boil with rage,the blood to boil up,2
+645,खून खून होना,to be very close blood relations,for blood to be blood,To be at each other's throats
+646,खून पिला देना,to torment someone severely,to make (someone) drink blood,To sneak around
+647,खून में दौड़ना,to be in one’s nature,to run in the blood,To be over the moon
+648,खून पिघलना,to feel compassion,for the blood to melt,Rumor mill
+649,खून मांगना,to demand revenge,to demand blood,Definition: <definition of the Hindi idiom>
+650,पसीना सुखाना,to exploit someone’s hard work,to dry the sweat,Flogging a dead horse
+651,पसीना पोछना,to relieve someone’s hardship,to wipe the sweat,To sweep it under the rug
+652,पसीना निकाल देना,to scare/work someone badly,to make the sweat come out,To wear someone out
+653,रातों की नींद हराम करना,to keep someone sleepless,to make the sleep of nights forbidden,Alternatives: <list the other English idioms that are relevant but not the best>
+654,रातों रात भाग्य बदलना,fortune to change overnight,to change fate overnight,Keep under one's hat
+655,रात काटना,to somehow pass a tough night,to cut/pass the night,Explanation: <briefly explain why the selected idiom is the best match>
+656,सिर पर चढ़ बैठना,to take undue advantage of leniency,to climb and sit on the head,To be on the ropes
+657,सिर पर हाथ रखना,to bless or protect,to place a hand on the head,"Explanation: <provide a brief explanation of the selected idiom and its relevance to the Hindi idiom>  |  Other options: <list the other English idioms with a brief explanation of their relevance to the Hindi idiom>  |  Note: <provide any additional context or clarification>  |  Final answer: <the selected English idiom>  |  Output format: <definition of the Hindi idiom, followed by the selected English idiom and other options>  |  Stage-1 output: <definition and candidates>  |  Stage-2 output: <best idiom, explanation, other options, note, final answer, and output format>  |  Final output: <best idiom, explanation, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>  |  Final output format: <definition of the Hindi idiom, followed by the selected English idiom, other options, note, and output format>"
+658,सिर पर कर्ज़ चढ़ना,to be burdened with debt,for debt to climb onto the head,"The best English idiom that matches the definition of the Hindi idiom ""सिर पर कर्ज़ चढ़ना"" is ""To bear the brunt"".  The Hindi idiom ""सिर पर कर्ज़ चढ़ना"" means to bear the responsibility or burden of someone else's actions or mistakes. The idiom ""To bear the brunt"" is a common English idiom that means to bear the main weight or burden of something, often in a difficult or unpleasant situation. Therefore, it is the most relevant English idiom that matches the definition of the Hindi idiom.  The other options, ""To be held accountable"" and ""To be on the hook"", are not as directly related to the concept of bearing responsibility or burden.  ""To be held accountable"" implies a sense of being responsible for one's own actions, while ""To be on the hook"" implies a sense of being in a difficult or precarious situation, but not necessarily bearing the responsibility or burden of someone else's actions.  Therefore, ""To bear the brunt"" is the best English idiom that matches the definition of the Hindi idiom ""सिर पर कर्ज़ चढ़ना"".  The best English idiom that matches the definition of the Hindi idiom ""सिर पर कर्ज़ चढ़ना"" is ""To bear the brunt"".  The Hindi idiom ""सिर पर कर्ज़ चढ़ना"" means to bear the responsibility or burden of someone else's actions or mistakes. The idiom ""To bear the brunt"" is a common English idiom that means to bear the main weight or burden of something, often in a difficult or unpleasant situation. Therefore, it is the most relevant English idiom that matches the definition of the Hindi idiom.  The other options, ""To be held accountable"" and ""To be on the hook"", are not as directly related to the concept of bearing responsibility or burden.  ""To be held accountable"" implies a sense of being responsible for one's own actions, while ""To be on the hook"" implies a sense of being in a difficult or precarious situation, but not necessarily bearing the responsibility or burden of someone else's actions.  Therefore, ""To bear the brunt"" is the best English idiom that matches the definition of the Hindi idiom ""सिर पर कर्ज़ चढ़ना"".  The best English idiom that matches the definition of the Hindi idiom ""सिर पर कर"
+659,सिर से पानी गुजरना,to cross all limits / patience,for water to pass over the head,In the dark
+660,सिर फोड़ लेना,to take all the blame/work alone,to break one’s head,To be at one's wit's end
+661,सिर फटना,to get a splitting headache / big fight,for the head to split,To be taken aback
+662,सिर घुमाना,to confuse someone,to turn/spin the head,The cream of the crop
+663,सीना ठोकना,to boast confidently,to thump the chest,Definition: <one-sentence definition>
+664,सीना चौड़ा होना,to feel proud,for the chest to become broad,Big-headed
+665,सीना फुलाना,to puff up with pride,to inflate the chest,To be on top of the world
+666,सीने पर पत्थर रखना,to do something painful bravely,to place a stone on the chest,To carry the weight of the world on one's shoulders.
+667,सीने में कील चुभना,to feel deep hurt,for a nail to prick in the chest,To be in one's element
+668,छाती पर बोझ रखना,to keep guilt/weight on heart,to place a load on the chest,OR
+669,छाती धौंकनी चलना,to pant with anger/fear,for the chest’s bellows to pump,Explanation: <briefly explain why the selected idiom is the best match for the Hindi idiom>
+670,छाती पर मूँग दल देना,to oppress cruelly,to grind mung beans on the chest,1) Don't count your chickens before they hatch.
+671,आगाह करना,to warn in advance,to forewarn,Sound the alarm
+672,आग-बबूला कर देना,to enrage someone greatly,to turn (someone) fire-furious,OR
+673,आग में तपना,to go through severe trials,to be tempered in fire,To be on fire
+674,आग ठंडी कर देना,to pacify anger,to make the fire cool,4) <select the most relevant English idiom> (if found)
+675,आग फूँकना,to provoke conflict,to blow the fire,Fan the flames
+676,आग लगा बैठना,to cause trouble unknowingly,to set fire and sit (having done it),To be caught in a trap
+677,आग बुझाना,to resolve a heated situation,to extinguish the fire,To pour oil on troubled waters
+678,आग से निकाल कर राख करना,to ruin after rescuing,to take out from fire and make ash,Burn the house down
+679,रंग पकड़ना,to mature or become noticeable,to catch color,Get the drop on someone
+680,रंग उड़ जाना,to lose color/enthusiasm,for color to fly away,Melting pot
+681,रंगत फीकी पड़ना,to look dull/sickly,for the complexion to turn faint,A walking encyclopedia
+682,रंग चढ़ना,to intensify (influence/celebration),for the color to mount,"Explanation: <provide a brief explanation of the choice>  Answer: Best: 2) To change one's stripes Explanation: The English idiom ""to change one's stripes"" is the most relevant to the Hindi idiom रंग चढ़ना, as it implies a change in behavior or appearance, which is the core meaning of the Hindi idiom. The other options, while related, do not convey the same level of change or transformation.  I hope it is correct. Thank you for your patience.  Best: 2) To change one's stripes Explanation: The English idiom ""to change one's stripes"" is the most relevant to the Hindi idiom रंग चढ़ना, as it implies a change in behavior or appearance, which is the core meaning of the Hindi idiom. The other options, while related, do not convey the same level of change or transformation.  I hope it is correct. Thank you for your patience.  Best: 2) To change one's stripes Explanation: The English idiom ""to change one's stripes"" is the most relevant to the Hindi idiom रंग चढ़ना, as it implies a change in behavior or appearance, which is the core meaning of the Hindi idiom. The other options, while related, do not convey the same level of change or transformation.  I hope it is correct. Thank you for your patience.  Best: 2) To change one's stripes Explanation: The English idiom ""to change one's stripes"" is the most relevant to the Hindi idiom रंग चढ़ना, as it implies a change in behavior or appearance, which is the core meaning of the Hindi idiom. The other options, while related, do not convey the same level of change or transformation.  I hope it is correct. Thank you for your patience.  Best: 2) To change one's stripes Explanation: The English idiom ""to change one's stripes"" is the most relevant to the Hindi idiom रंग चढ़ना, as it implies a change in behavior or appearance, which is the core meaning of the Hindi idiom. The other options, while related, do not convey the same level of change or transformation.  I hope it is correct. Thank you for your patience.  Best: 2) To change one's stripes Explanation: The English idiom ""to change one's stripes"" is the most relevant to the Hindi idiom रंग चढ़ना, as it implies a change"
+683,रंग बदलते देखना,to witness changing loyalties,to see colors changing,Candidates: <list the other English idioms that are somewhat relevant>
+684,नाक सूँघना,to pry into someone’s matters,to sniff the nose,Nose for trouble
+685,नाक का बाल बन जाना,to become someone’s favorite,to become the hair of the nose,Candidates: <list the other relevant English idioms>
+686,नाक दबा देना,to silence forcefully,to press the nose down,To cry uncle
+687,नाक का पानी उतरना,to be utterly humiliated,for the nose’s water to come down,<English idiom> OR <English idiom> OR <English idiom>
+688,कान खींचना,to scold/punish strictly,to pull the ear,To leave someone speechless  # (1)
+689,कान देना-न देना,to ignore what’s being said,to give an ear—or not,"Alternatives: <list the other English idioms that are somewhat relevant, but not the best match>"
+690,कान फूंकना,to warn privately,to blow into the ear,To listen in on a private conversation without being noticed.
+691,कान पर हाथ धरे रह जाना,to be shocked speechless,to remain with a hand placed on the ear,Speechless
+692,आँख मिलाना,to meet the gaze confidently,to join/match eyes,1) To lock eyes
+693,आँख नीची करना,to lower eyes in shame,to lower the eyes,"Explanation:  The English idiom ""A breath of fresh air"" is the closest match, as it also conveys the idea of feeling refreshed or revitalized. The other two idioms, ""A change of scenery"" and ""A new lease on life,"" are more related to a change in environment or a new beginning, but they do not convey the same sense of refreshment or revitalization."
+694,आँखें झुकाना,to be modest/shy,to cast the eyes down,Eat humble pie.
+695,आँखें तरेर कर देखना,to glare angrily,to look by glaring the eyes,To be between a rock and a hard place
+696,आँखें चमक उठना,to become excited,for the eyes to light up,Eyes light up
+697,आँखें नम होना,to get teary-eyed,for the eyes to become moist,Please go ahead and provide the solution for the next Hindi idiom: बंदर का बाज़ार
+698,आँखें धोखा खा जाना,to be visually deceived,for the eyes to be deceived,To be sold a bill of goods
+699,आँख का तारा,apple of the eye,the star of the eye,Blind as a bat
+700,आँख का तिल,someone extremely dear,the mole/beauty-spot of the eye,A grain of sand in an oyster
+701,हाथ से काम निकलना,to get work done by others,for work to come out from the hand,To pull oneself up by one's own bootstraps OR
+702,हाथ गंदा करना,to do dirty/lowly work,to make the hand dirty,<select the most relevant English idiom>
+703,हाथ पर नाग रखना,to sit idle doing nothing,to keep a snake on the hand,To be between Scylla and Charybdis
+704,हाथ डूबना,to sink resources into loss,for the hand to drown,Alternatives: <list other English idioms that are also relevant>
+705,हाथ थामे रह जाना,to stay dependent,to remain holding the hand,To be left in the lurch
+706,हाथ काटकर अलग करना,to sever ties completely,to cut off the hand and separate,Alternatives: <list the other English idioms that could be used in a similar context>
+707,पाँव धरना,to set foot (begin),to set/place the foot,<select the most relevant English idiom>
+708,पाँव पसारकर सोना,to relax without worry,to sleep with feet stretched out,"<idiom>, <reason for selection>"
+709,पाँव फिसलना,to make a slip/mistake,for the foot to slip,Explanation: <provide a brief explanation of the Hindi idiom and why the selected English idiom is the best match>
+710,पाँव भारी होना,to be pregnant (euphemistic),for the foot to be heavy,Candidates: <list of other relevant English idioms>
+711,पाँव के नीचे से जमीन खींच लेना,to pull the rug from under,to pull the ground from under the feet,A flash in the pan
+712,पाँव तले रौंदना,to crush mercilessly,to crush under the feet,To tread on someone's toes
+713,पाँव रोक देना,to restrain someone,to stop the foot,Green to the game
+714,मुँह फुलाना,to sulk,to puff the mouth,Explanation: <briefly explain why this idiom is the best match>
+715,मुँह पर ताला लगाना,to stay tight-lipped,to put a lock on the mouth,Muzzle someone
+716,मुँह तक आकर लौट जाना,to almost say but stop,to come up to the mouth and turn back,To turn back halfway
+717,मुँह फूटना,to blurt under pressure,for the mouth to burst (into speech),To die laughing
+718,मुँह के बल गिरना,to fail badly,to fall face-first,To fall on one's face.  #1
+719,मुँह-माँगा दाम,price asked without bargaining,price asked by the mouth,Best: Neptune
+720,मुँह में खून लगना,to become greedy after first gain,to get blood in the mouth,OR
+721,मुँह में लौकी डालना,to hush someone completely,to put a bottle gourd in the mouth,Note: The output is manually formatted for better readability.
+722,मुँह का स्वाद बदलना,to lighten the mood,to change the taste of the mouth,To live off the fat of the land.
+723,माथा ठोककर मानना,to accept with resignation,to accept by knocking the forehead,To be convinced beyond a doubt
+724,माथे का पसीना पोंछना,to finish hard work,to wipe the sweat of the forehead,Explanation: <briefly explain why the selected idiom is the best match>
+725,माथे की लकीरें,lines of fate/concern,lines on the forehead,Mind your own business
+726,माथे पे शिकन,wrinkles of worry,wrinkles on the forehead,A furrowed brow
+727,माथा घूम जाना,to feel dizzy/overwhelmed,for the head/forehead to spin,To be at a loss
+728,माथे पर हाथ मारना,to smack the forehead in regret,to strike the hand on the forehead,<idiom> (with a brief explanation)
+729,दिल दहला देना,to horrify,to make the heart tremble,To hit someone where it hurts the most
+730,दिल में घर कर लेना,to make a place in one’s heart,to make a home in the heart,To be seething with anger
+731,दिल पर चोट लगना,to be emotionally hurt,to have a blow strike the heart,2) Be in a trance
+732,दिल पे लेना-न लेना,to take/not take to heart,to take on the heart—or not,1) To be of no use
+733,दिल का रोग,heartache/grief,disease of the heart,```
+734,दिल की बात कहना,to confide,to say the heart’s matter,For free
+735,दिमाग घूम जाना,to get furious or confused,the mind spinning,Stage-1 output (definition + candidates):
+736,दिमाग पर पत्थर रखना,to force oneself against feelings,to place a stone on the brain,2) To be as stubborn as a mule
+737,दिमाग में कील ठोकना,to insist hard on a point,to hammer a nail into the brain,<select the most relevant English idiom>
+738,दिमाग की नस दबना,to lose calm badly,for the brain’s vein to be pressed,"Spit it out, Alternatives: Let it all hang out, Bare one's soul, Come clean, Open up, Lay one's cards on the table, Put it all on the table, Be upfront, Be frank, Be honest, Be open, Be transparent, Be truthful, Be candid, Be sincere, Be genuine, Be authentic, Be straightforward, Be direct, Be blunt, Be forthright, Be outspoken, Be vocal, Be expressive, Be communicative, Be articulate, Be eloquent, Be plainspoken."
+739,दिमाग ठप्प होना,to have a mental block,for the brain to be shut down,दिमाग ठप्प होना - <select the most relevant English idiom>
+740,दाँत दिखाना-न दिखाना,to mock or avoid mocking,to show the teeth—or not show,<select the most relevant English idiom>
+741,दाँत लगना,to become accustomed (badly),for the teeth to catch,3) Eat one's words
+742,दाँत भींचना,to endure silently,to clench the teeth,To be gobsmacked
+743,दाँत की नोक पर रखना,to remember exactly,to keep on the tip of the tooth,4) <english idiom> (if available)
+744,दाँत-काटे का बैर,deadly enmity,tooth-bitten enmity,Scapegoat
+745,जुबान की मिठास,sweetness of speech,sweetness of the tongue,Explanation: <briefly explain why the selected idiom is the best match>
+746,जुबान सरकना,to slip of the tongue,for the tongue to slip,Explanation: <briefly explain why you chose this idiom>
+747,जुबान की धार,sharpness of words,the edge/blade of the tongue,"A silver tongue, Explanation: A silver tongue is the best match for the Hindi idiom जुबान की धार because it refers to someone who is skilled at speaking or persuading others, often in a way that is charming or effective. This idiom captures the idea of effective communication and persuasion that is conveyed by the Hindi idiom. The other two options, To speak one's mind and To cut to the chase, do not convey the same level of persuasion and effectiveness as A silver tongue."
+748,जुबान को ताला,to keep silent,a lock to the tongue,Keep mum
+749,खून खौल जाना,to boil with rage,for the blood to boil,2) To be on the verge of exploding
+750,खून सूख जाना,to be terrified or horrified,for the blood to dry up,Candidates: <list the other English idioms>
+751,खून पीना,to exploit harshly,to drink blood,<select the most relevant English idiom>
+752,खून के आँसू रोना,to suffer painfully,to cry tears of blood,To be at sea
+753,पसीना चूना,to toil severely,for sweat to drip,"Alternatives: <list the other English idioms that are somewhat relevant, but not as good as the best one>"
+754,पसीना टपकना,to sweat profusely,for sweat to drip,To be in someone's pocket
+755,पसीना रोक देना,to relieve / cool down,to stop the sweat,1
+756,सीने में साँप लोटना,to be eaten up by jealousy,for a snake to roll in the chest,To have butterflies in one's stomach
+757,सीने-से-लगाना,to embrace warmly,to press to the chest,To pull the wool over someone's eyes
+758,सीना-जोरी करना,to browbeat,to do chest-force (browbeating),Answer: Best: 2) To blow one's own trumpet
+759,सीने में धुआँ उठना,to smolder with anger,for smoke to rise in the chest,"Alternatives: <list the other English idioms that are also relevant, but not as good as the best one>"
+760,आग सलाख करना,to test by ordeal,to do a fire-rod ordeal,1) Add fuel to the fire
+761,आग में घिरना,to be surrounded by trouble,to be surrounded in fire,To be between a rock and a hard place
+762,आग सेंकना,to take advantage amid conflict,to warm oneself at the fire,2) To add fuel to the fire
+763,आग ओकना,to speak venomously,to spew fire,A burning issue
+764,आग बुझा बैठना,to lose spirit prematurely,to sit having put out the fire,Keep a stiff upper lip
+765,रंग में रंग जाना,to blend in completely,to be colored in the same color,To be in the zone.
+766,रंग उछालना,to malign someone publicly,to fling/throw color,Explanation: <provide a brief explanation of the Hindi idiom and its context>
+767,रंगत लौटना,to regain glow/cheer,for the complexion to return,Definition: <definition of the Hindi idiom>
+768,नाक घुसाना,to interfere unnecessarily,to insert the nose,A cut above the rest
+769,नाक मरोड़ना,to insult or humiliate publicly,to twist the nose,To get under someone's skin
+770,नाक पर गुस्सा होना,to get angry quickly,to have anger on the nose,Alternatives: <list the other English idioms that could also work>
+771,नाक नीचे करना,to make someone feel inferior,to put the nose down,Knock someone off their high horse
+772,नाक का बाल खींचना,to criticize harshly,to pull the hair of the nose,<select the most relevant English idiom>
+773,कान में भनक लगना,to get a small hint about something,for a hint/buzz to catch in the ear,<select the most relevant English idiom>
+774,कान में फूँक मार देना,to secretly manipulate someone,to blow a puff into the ear,3) To take someone aback and leave them speechless.
+775,कान पकड़े रह जाना,to stay astonished or scared,to remain holding the ears,2) To be left gobsmacked
+776,कान के नीचे थप्पड़ मारना,to slap soundly (figuratively punish),to slap below the ear,To pull someone's leg
+777,कान में सीटी बजना,to hear unpleasant sounds / tinnitus,for a whistle to sound in the ear,2) Between the devil and the deep blue sea
+778,आँखों से आँसू पोछना,to comfort someone in sorrow,to wipe tears from the eyes,To be in the know
+779,आँखों में बसा लेना,to remember fondly,to lodge/settle in the eyes,To steal someone's heart.  #1
+780,आँखें फेर लेना,to turn away / stop supporting,to turn the eyes away,Turn a blind eye
+781,आँख मूँदकर भरोसा करना,to trust blindly,to trust with eyes closed,Put all your eggs in one basket
+782,आँखों के आगे अंधेरा छा जाना,to be momentarily shocked,for darkness to spread before the eyes,To be in a haze
+783,आँख बचाकर काम करना,to do secretly,to do the work after evading the eyes,"Candidates: 1) <other English idiom>, 2) <other English idiom>, 3) <other English idiom>, 4) <other English idiom>"
+784,आँख खुलना,to become aware of truth,for the eye to open,Alternatives:
+785,आँखों में आँसू भर आना,to feel deeply emotional,for tears to fill the eyes,OR
+786,आँखें नीची करना,to bow in embarrassment or respect,to lower the eyes,A den of thieves
+787,हाथ तंग होना,to be financially tight,for the hands to be tight,<select the most relevant English idiom>
+788,हाथ ऊपर होना,to be superior in status or strength,for the hand to be above,4) <other English idioms>
+789,हाथ नीचे होना,to lose or be defeated,for the hand to be below,To be under someone's thumb
+790,हाथ जोड़ना,to plead or show respect,to join the hands,<select the most relevant English idiom>
+791,हाथ में काम न होना,to be idle,to have no work in the hand,OR
+792,हाथ न लगाना,to avoid touching / involvement,to not touch with the hand,To stay out of it.
+793,हाथ छुड़ाना,to escape from control,to pull the hand free,2) Pull someone out of a hole
+794,हाथ रोक देना,to stop mid-action,to stop the hand,Throw in the towel
+795,पैर रखना भी पाप,to be forbidden to enter,even to set foot is a sin,Stage-2 output (if needed):
+796,पैर जमने न देना,to obstruct someone’s progress,to not let the feet set,Note: The output is based on the task and the Hindi idiom provided. The final output may vary based on the Hindi idiom given.
+797,पैर पर पाँव रखना,to challenge or overtake,to place foot upon foot,To have both feet on the ground
+798,पैरों में गिरना,to beg for mercy,to fall at the feet,Explanation: <briefly explain why the selected idiom is the best match>
+799,पैर भारी होना,to bring bad luck (figuratively),for the foot to be heavy,<select the most relevant English idiom>
+800,पैर धोना,to show deep respect,to wash the feet,<select the most relevant English idiom>
+801,पैर पकड़ लेना,to surrender humbly,to catch/hold the feet,To have someone's back
+802,पैर रोक लेना,to hesitate before action,to hold back the foot,Hold someone's feet to the fire
+803,मुँह मोड़ लेना,to turn away emotionally,to turn the mouth/face aside,Best: Cold call
+804,मुँह बंद कर देना,to silence completely,to shut the mouth,<english idiom>
+805,मुँह चलाना,to speak unnecessarily,to run the mouth,1) Running at the mouth
+806,मुँह लगाना,to get too familiar with elders,to put (someone) to the mouth,To be on the lookout
+807,मुँह मीठा होना,to taste success,for the mouth to become sweet,1) Talk the talk but not walk the walk
+808,मुँह बिचकाना,to show irritation or disgust,to pucker/twist the mouth,1) Beat around the bush. I hope it is correct.
+809,मुँह पीटना,to cry loudly in distress,to beat the mouth/face,Explanation: <briefly explain why this idiom is the best match>
+810,मुँह धुलवाना,to publicly humiliate,to have the mouth/face washed,Sin with sinners
+811,माथे पर शिकन डालना,to frown slightly,to put a crease on the forehead,Take aback
+812,माथे पर लकीरें पड़ना,to show anxiety or anger,for lines to fall on the forehead,4) <optional other English idioms>
+813,दिल में जगह बनाना,to win affection,to make a place in the heart,Definition: <definition of the Hindi idiom>
+814,दिल में काँटे चुभना,to feel deeply hurt,for thorns to prick in the heart,When the die is cast
+815,दिल में खटका होना,to have a lingering doubt,for a jolt/unease to be in the heart,Definition: <the definition of the Hindi idiom>
+816,दिल में गुस्सा रखना,to hold a grudge,to keep anger in the heart,Stage-1 output (definition + candidates):
+817,दिल की गहराई से,from the bottom of one’s heart,from the depth of the heart,From the bottom of my heart
+818,दिल हिल जाना,to be shaken emotionally,for the heart to shake,To be bowled over
+819,दिल बाग़-बाग़ होना,to feel immense joy,for the heart to become a garden,1) To play a role
+820,दिल टूटकर रह जाना,to be devastated,to remain with the heart broken,Selling short
+821,दिल को सुकून मिलना,to find peace,for the heart to find peace,```
+822,दिमाग खराब कर देना,to frustrate someone badly,to make the brain bad,```
+823,दिमाग ठिकाने लग जाना,to become sensible again,for the brain to be set in place,2) To be off one's rocker.
+824,दिमाग पर बोझ डालना,to overthink,to place a burden on the brain,Lose heart
+825,दिमाग गुम होना,to lose one’s senses,for the brain to be lost,A wolf in sheep's clothing.
+826,दिमाग की बत्ती बुझ जाना,to go blank suddenly,for the brain’s lamp to go out,Definition: <one-sentence definition>
+827,दाँत किटकिटाना,to shiver in cold or fear,to chatter the teeth,2) To be flabbergasted
+828,दाँत नाखून से काम लेना,to struggle hard,to use teeth and nails,OR
+829,दाँतों तले अंगुली दबाना,to be stunned in awe,to press a finger under the teeth,Dance to someone's tune
+830,जुबान बंद कर देना,to silence someone completely,to shut the tongue,Alternatives: <list the other English idioms in any order>
+831,जुबान काट लेना,to regret words spoken,to bite the tongue,To be struck dumb
+832,जुबान कसना,to rebuke harshly,to tighten the tongue,Explanation: <briefly explain why the selected English idiom is the best match for the Hindi idiom>
+833,जुबान के पक्के,to be true to one’s word,firm/steadfast of tongue,OR
+834,जुबान पर ताला,to keep secrets locked,a lock on the tongue,Bite your tongue
+835,जुबान फिसल जाना,to say something accidentally,for the tongue to slip,<English idiom> OR
+836,जुबान सरक जाना,to misspeak,for the tongue to slide,<select the most relevant English idiom>
+837,जुबान की मिठास रखना,to speak kindly,to keep sweetness of the tongue,Let one's hair down
+838,खून का रिश्ता निभाना,to uphold family ties,to uphold a blood relationship,"Alternatives: 1) A bird in the hand is worth two in the bush, 2) A rolling stone gathers no moss, 3) Don't count your chickens before they hatch"
+839,पसीना रोकना,to relieve effort,to stop sweat,Stage-1 output (definition + candidates):
+840,पसीने-पसीने होना,to be drenched with effort,to become sweat-sweat (drenched in sweat),Be on edge
+841,सीने में दर्द होना,to feel emotional pain,to have pain in the chest,2) To have a guilty conscience
+842,सीने में जलन होना,to feel envy,to have burning in the chest,A heavy heart
+843,सीने में लावा उठना,to boil in anger,for lava to rise in the chest,OR
+844,सीने पर बोझ होना,to feel guilt or burden,to have a burden on the chest,To bear the brunt
+845,सीने में आग लगना,to feel jealous or provoked,for fire to be set in the chest,Definition: <one-sentence definition>
+846,रंग दिखाना,to reveal true colors,to show color,Stage-1 output (definition + candidates):
+847,रंगीन होना,to enjoy life freely,to become colorful,To make the best of a bad situation
+848,रंग फीका पड़ना,to lose enthusiasm,for the color to fade/pale,Explanation: <briefly explain why you chose this idiom>
+849,रंग उड़ना,to fade away,for the color to fly/fade,2) To be in a tailspin
+850,रंग जमना,to gain traction,for color to set,Alternatives:
+851,रंग लगना,to start celebrating,to have color applied,Out of the blue
+852,रंग में रँग जाना,to blend or adapt fully,to be dyed in the color,To be between a rock and a hard place
+853,अति सर्वत्र वर्जयेत,too much of anything is bad,excess should be avoided everywhere,All things in moderation.
+854,अपना उल्लू सीधा करना,to act selfishly for personal gain,to straighten one’s owl,Cut one's losses
+855,अक्ल ठिकाने लगाना,to make someone sensible,to set the sense in its proper place,To be driven mad
+856,अंगूर खट्टे हैं,to pretend disinterest after failure,the grapes are sour,Explanation: <briefly explain why the selected English idiom is the best match for the Hindi idiom>
+857,अपनी डींगे हाँकना,to brag about oneself,to blare one’s own boasts,<select the most relevant English idiom>
+858,अपनी नाक ऊँची रखना,to maintain self-respect,to keep one’s nose high,Not a reader
+859,अपना राग अलापना,to talk only about oneself,to chant one’s own tune,<select the most relevant English idiom> OR
+860,अंधे का हाथ बटेर लगना,to gain something valuable by accident,a blind man’s hand finds a quail,Throwing someone in the deep end
+861,अंधेरे में रखना,to hide the truth deliberately,to keep (someone) in the dark,Keep under wraps
+862,अपनी गलती मानना,to accept one’s fault,to accept one’s own mistake,Own up to something
+863,अपनी डफली अपना राग,to do things one’s own way,"one’s own drum, one’s own tune",1
+864,अक्ल का पैमाना टूट जाना,to act beyond reason,the gauge of wisdom breaks,To go off the deep end
+865,अक्ल घास चरने जाना,to act utterly foolish,the intellect goes to graze grass,"Alternatives:  (If there are multiple relevant English idioms, list them in order of relevance)  (If no relevant English idioms are found, mention ""No similar English idioms found"")  (If the Hindi idiom is not found in the database, mention ""Idiom not found"")  (If the Hindi idiom is found but no English idiom matches, mention ""No similar English idioms found"")  (If the Hindi idiom is found but no English idiom matches, mention ""No similar English idioms found"")"
+866,अंधे के हाथ तिलक लगना,rare stroke of luck,a tilak falls upon a blind man’s hand,Here is the Hindi idiom: अंधे के हाथ तिलक लगना
+867,अंधा बांटे रेवड़ी,to favor one’s own people,a blind man distributes sweets,Give a dog a bone.
+868,अंधे की लकड़ी,someone completely dependent on another,the blind man’s stick,4) <optional additional idiom> (if any)
+869,अंधे की लाठी छीनना,to exploit the helpless,to snatch the blind man’s staff,<idiom> (with a brief explanation) OR
+870,अंधे की भी आँख खुल गई,even the ignorant realized the truth,even the blind man’s eye opened,<select the most relevant English idiom>
+871,अंधे की रोटी गीली,when bad luck persists,the blind man’s bread is soggy,1) <select the first relevant English idiom>
+872,"अंधे का नाम सुना, आँखों से नहीं देखा",to hear about something but not experience it,"heard the name, not seen with the eyes",To make a mountain out of a molehill
+873,"अंधा क्या चाहे, दो आँखें",people desire what they lack most,what does a blind person want—two eyes,Explanation: <explain why the selected idiom is the best match>
+874,अंधेरे में रखा जाना,to be kept uninformed,to be kept in darkness,To have a change of heart
+875,अंधे को सूरज दिखाना,to tell something obvious,to show the sun to a blind person,To show someone the elephant in the room
+876,अंधे को रास्ता दिखाना,to guide the clueless,to show the path to the blind,A bird in the hand is worth two in the bush
+877,अंधेरे में बैठना,to stay in ignorance,to sit in darkness,In the dark about
+878,अंधा धुन में लगे रहना,to do something mindlessly,to remain stuck in a blind fixation,Alternatives: <list the other English idioms that are also relevant>
+879,अंधेरे में सुई खोजना,to attempt the impossible,to search for a needle in the dark,To look for a needle in a haystack
+880,अंधे के हाथ में दीपक,a resource wasted on the incapable,a lamp in a blind person’s hand,Putting the cart before the horse
+881,अंधा ऊँट सवारी करना,to take foolish risks blindly,to ride a blind camel,Rest:
+882,अंधेरे में रोशनी फैलाना,to spread awareness among the ignorant,to spread light in the darkness,OR
+883,अंधा राजा प्रजा अंधी,leader and followers both foolish,"blind king, subjects blind",The blind leading the blind. Stage-3 output (idiom with definition):
+884,अंधे के भाग्य में चमक,to get lucky unexpectedly,a sparkle in the blind man’s fate,The Wild West
+885,अंधे को रास्ता न सूझना,to be completely lost,for a blind person not to perceive the path,At a loss
+886,अंधा प्रेम करना,to love without reason,to love blindly,Candidates:
+887,अंधे को हाथ का सहारा,a small help to someone in need,the hand’s support for a blind person,Definition: <one-sentence definition>
+888,अंधे की लाठी,only source of dependence,a blind man’s staff,2. किताब का पन्ना नहीं होना
+889,अंधे को सपने में रोशनी दिखना,to imagine impossible hope,light appearing in a blind man’s dream,The puppeteer
+890,अंधेरे में रहना,to be ignorant,to live/stay in darkness,"The final answer is: Best: Thicker than water.  I am confident that this is the best English idiom that matches the definition of the Hindi idiom ""दूध का जला हुआ भाई"". Let me know if you need any further assistance or modifications."
+891,अंधेरे में रास्ता ढूँढना,to act without clear plan,to find a path in the dark,Feeling one's way in the dark
+892,अंधेरे में छिपाना,to conceal wrong deeds,to hide in the dark,<select the most relevant English idiom>
+893,अंधा रेवड़ी बाँटे,favoring without fairness,the blind (man) distributes sweets,The best kept secret
+894,अंधे की किस्मत,blind luck / chance success,the blind man’s luck,```
+895,अंधे को रंग दिखाना,to try to explain the unexplainable,to show color to a blind person,<select the most relevant English idiom>
+896,"अंधे का नाम सुना, चेहरा नहीं देखा",heard about but never met,"heard the name, did not see the face",To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by reputation only.  OR  Best: To know someone by
+897,"अंधा क्या देखे, दो आँखें",one always desires what they lack,what can a blind see—(he needs) two eyes,1) Seeing is believing.
+898,अंधा गुस्सा करना,to get blindly angry,to do blind anger,To blow one's top
+899,अंधेरे में डूब जाना,to fall into ignorance or despair,to sink into darkness,Out of one's depth
+900,अंधे के भाग्य में छेद,to have perpetual bad luck,a hole in the blind man’s fate,Put a square peg in a round hole.
+901,अंधे का भाग्य जागना,to get lucky suddenly,the blind man’s fortune awakens,<select the most relevant English idiom>
+902,अंधेरे में भटकना,to wander without direction,to wander in darkness,<select the most relevant English idiom>
+903,अंधा प्रेम अंधा परिणाम,blind love leads to trouble,"blind love, blind result",Explanation: <provide a brief explanation of why the selected idiom is the best match>
+904,अंधेरे में रहकर उजाला ढूँढना,to struggle for wisdom amidst ignorance,to seek light while staying in darkness,Being a puppet on a string
+905,अंधे के हाथ दीपक लगना,to get help at the right time,a lamp attaching to a blind man’s hand,Throwing someone in the deep end.
+906,अंधा भी रास्ता पहचान गया,even the unaware understood,even the blind recognized the way,A blind man can find his way.
+907,अंधेरे से डरना,to fear ignorance or truth,to fear darkness,Definition: <one-sentence definition>
+908,अंधे को सीधा रास्ता दिखाना,to guide righteously,to show the straight path to a blind person,1) Lead someone down the garden path
+909,अंधेरे में दीप जलाना,to bring hope in darkness,to light a lamp in the dark,Throwing good money after bad
+910,अंधेरे में ताकना,to look aimlessly,to gaze into the dark,Look over one's shoulder
+911,अंधे को नजर आना,to gain realization unexpectedly,to become visible to a blind person,Alternates: <list the other English idioms that are somewhat relevant>
+912,अंधे का रास्ता रोकना,to block someone’s progress unjustly,to block the blind man’s path,Bad company corrupts good morals.
+913,अंधेरे में खोज करना,to explore with uncertainty,to search in the dark,"As soon as the cat's away, the mice will play"
+914,अंधे की चड्डी चुराना,to mock the helpless,to steal a blind man’s underpants,Explanation: <explain why the selected idiom is the best match>
+915,अंधे को दर्पण देना,to give something useless to someone incapable,to give a mirror to a blind person,Holding up a mirror to someone
+916,अंधेरे का फायदा उठाना,to exploit ignorance,to take advantage of darkness,2) To strike while the iron is hot OR
+917,अंधेरे में झांकना,to peep into the unknown,to peep into the dark,```
+918,अंधेरे से बाहर आना,to come out of ignorance,to come out of darkness,1) To see the light at the end of the tunnel.
+919,अंधा राजा राज्य चलाना,incompetent leadership,a blind king running the kingdom,a head without a brain
+920,अंधे की झोपड़ी में रोशनी,to find hope where none was expected,light in the blind man’s hut,Looking for a needle in a haystack
+921,अंधा काँटा निकालना,to help at personal risk,to remove a thorn blindly,```python
+922,अंधा कानून चलाना,to enforce law without logic,to run/apply blind law,3
+923,अंधे को अंधेरे में छोड़ना,to abandon someone helpless,to leave the blind in darkness,Throw someone to the wolves
+924,अंधेरे में रहना नहीं चाहिए,one should not stay ignorant,one should not stay in darkness,To be in the dark
+925,अंधे को दिशा देनी चाहिए,to help the clueless find their way,one should give direction to a blind person,4) <other English idioms>
+926,अंधेरे से डरना नहीं चाहिए,one should not fear truth,one should not fear darkness,```python
+927,अंधेरे में दीप जलाना अच्छा है,to bring light even when alone,it is good to light a lamp in the dark,1) To light a candle in the dark
+928,धरती पर पैर रखना,to stay humble despite success,to place feet on the earth,```
+929,आसमान से गिरना,to lose everything suddenly,to fall from the sky,Take a nosedive
+930,हवा में उड़ना,to daydream or be overconfident,to fly in the air,1) On cloud nine
+931,पानी में रहकर मगर से बैर,to pick fights with powerful people,"living in water, enmity with the crocodile",Barking up the wrong tree
+932,खुशियों के झूले झूलना,to live in joy,to swing on swings of happiness,3) Live for the moment
+933,रंगीन मिज़ाज होना,to be flirtatious or fun-loving,to have a colorful temperament,A free spirit
+934,दिल से खेलना,to toy with someone’s feelings,to play with the heart,To let the cat out of the bag
+935,दिल का मामला,a romantic issue,matter of the heart,Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final answer is Best: A hand dealt by fate. I hope it is correct.  Final Answer: The final
+936,दिल बड़ा रखना,to be generous or forgiving,to keep the heart big,To know the ropes
+937,दिल छोटा मत करो,don’t lose hope,don’t make the heart small,1) Don't be too hard on yourself.
+938,दिल लगाना और तोड़ना,to fall in and out of love,to attach the heart and break it,To fall head over heels
+939,दिल का बोझ हल्का करना,to share feelings and feel relieved,to lighten the heart’s burden,To take a weight off one's mind
+940,दिल से दिल का रिश्ता,a close emotional connection,heart-to-heart relationship,1
+941,दिल में आग लगाना,to provoke jealousy or passion,to set fire in the heart,Definition: <definition of the Hindi idiom>
+942,दिल देना और लेना,to love and reciprocate,to give and take the heart,Give and take
+943,दिल पर राज करना,to rule someone’s heart,to rule over the heart,"Explanation: <optional, provide a brief explanation for the selected idiom>"
+944,दिल पर बोझ होना,to feel guilt or heaviness,to have a burden on the heart,1) Make someone see reason
+945,दिमाग में खिचड़ी पकना,to overthink randomly,khichdi cooking in the mind,A muddle of thoughts
+946,दिमाग का दही बनाना,to confuse someone completely,to make the brain into curd,Be in a daze
+947,दिमाग खपाना,to think very hard,to expend/wear out the brain,Burn out
+948,दिमाग लगाना ज़रूरी है,to use common sense,it is necessary to apply the brain,Understand the value of life
+949,मुँह में ज़ुबान नहीं,to be timid or silent,no tongue in the mouth,OR
+950,मुँह पर बोलना,to speak directly,to speak on the face,To shoot one's mouth off
+951,मुँह मीठा कराना,to celebrate success with sweets,to make the mouth sweet,1) Get ready to roll
+952,नाक कटना,to lose honor,for the nose to be cut,Between a rock and a hard place
+953,नाक ऊँची करना,to make someone proud,to raise the nose high,To blow one's own trumpet Count: 3
+954,नाक बचाना,to save face,to save the nose,Definition: <definition of the Hindi idiom>
+955,नाक दबाना,to force acceptance,to press the nose,To put on a brave face
+956,नाक चढ़ाना,to act proudly,to raise the nose,```
+957,कान खड़े करना,to become alert,to make the ears stand up,On high alert
+958,कान में बात डालना,to inform secretly,to put the matter into the ear,OR
+959,कान में जूँ न रेंगना,to remain unaffected,not even a louse crawls in the ear,Don't cry over spilt milk.
+960,पैरों तले ज़मीन खिसकना,to be shocked or panicked,the ground slipping from under the feet,Out of the frying pan and into the fire
+961,पैर उखड़ना,to lose stability,for the feet to get uprooted,To be burned out
+962,हाथ बाँधकर बैठना,to stay idle or helpless,to sit with hands tied,A wolf in sheep's clothing
+963,हाथ उठाना,to hit or bless,to raise the hand,To throw in the towel
+964,हाथ साफ़ करना,to steal cleverly,to clean the hand,To wash one's hands of it.  ```python
+965,हाथ में खेलना,to control completely,to play in the hand,To be a yes-man
+966,सिर पर चढ़ना,to take advantage of leniency,to climb on the head,To throw in the towel
+967,सिर पर सवार होना,to be obsessed or enraged,to be mounted on the head,To play the game
+968,सिर ऊँचा रखना,to uphold dignity,to keep the head high,<English idiom>
+969,सिर पर तूफ़ान लाना,to invite big trouble,to bring a storm upon the head,<select the most relevant English idiom>
+970,सिर फोड़ना,to fight violently,to smash/break the head,At the end of one's rope
+971,सिर पर कर्ज़ होना,to be in debt,to have debt on the head,Others: <list the other English idioms that are less relevant>
+972,सिर का दर्द,a troublesome person,pain of the head,A den of thieves
+973,सीने में जलन,to feel envy,burning in the chest,Alternatives: <list other relevant English idioms>
+974,सीने पर बोझ,to feel guilt or burden,burden on the chest,<select the most relevant English idiom>
+975,सीने में हवा भरना,to instill pride or ego,to fill air into the chest,1) Fall into a trap
+976,सीना ठंडा होना,to feel relieved or avenged,for the chest to become cool,To lose one's nerve
+977,सीने पर हाथ रखना,to make a heartfelt promise,to keep a hand on the chest,To be on top of the world
+978,सीने में साँस न लेना,to be extremely scared,to not take breath in the chest,To be left speechless
+979,मन बनाना,to make up one’s mind,to make up the mind,To have a change of heart
+980,मन भर जाना,to lose interest,for the mind to become full,Definition: <definition of the Hindi idiom>
+981,मन खुश करना,to please someone,to make the mind happy,A brick wall
+982,मन बदलना,to change opinion suddenly,to change the mind,Note: The output may vary based on the input idiom.
+983,मन लगाकर काम करना,to work sincerely,to work having set the mind,Put your heart into it
+984,मन जीत लेना,to win hearts,to win the mind,Alternatives: <list the other idioms that are also relevant>
+985,पहला पत्ता गिरने से पहले,by autumn / before the first leaf falls,before the first leaf falls,The writing is on the wall.
+986,जंजीरों में बंधा महसूस करना,to feel chained or trapped,to feel bound in chains,Alternatives: <list the other English idioms that are also relevant>
+987,मेरी बुरी किस्मत,just my bad luck,my bad luck,2
+988,मेरे जीते-जी,over my dead body / as long as I’m alive,while I'm alive,"Before I kick the bucket, Explanation: The idioms convey the idea of doing something before one's death or while one is still alive."
+989,दुम दबाकर निकल लेना,to run away in fear (tail between legs),to slip away with tail tucked,1) Cut and run
+990,घुटने टेक देना,to surrender / kneel in defeat,to kneel down,```python
+991,कौड़ियों के भाव,for a pittance / dirt cheap,at the price of cowries (shells),Alternatives: <list the other English idioms that convey a similar meaning>
+992,हाथ गंदे करना,to get one’s hands dirty (do something unsavory),to make one's hands dirty,Taking a leap of faith
+993,लाड़-प्यार करना,to pamper / spoil,to dote and pamper,To baby someone
+994,हर तरफ से घेर लेना,to box in / surround on all sides,to surround from all sides,To be on all sides of someone/something
+995,दिमाग पर छा जाना,to get stuck in one’s head,to spread over the mind,"To have a hankering for something.  # (Note: The final answer should be in the format: Best: <idiom>, without the ""#"".) Best: To have a hankering for something."
+996,"धंधा पहले, मज़ा बाद में",business before pleasure,"business first, fun later",Burn the midnight oil
+997,आसमान छूना (भाव/कीमतें),"to be sky-high (prices, rates)",to touch the sky (prices/rates),2) Break the bank
+998,औरत के पल्लू में छिपना,to hide behind a woman’s pallu (show cowardice),to hide behind a woman's pallu,To keep up appearances
+999,बच्चों को भूखा मारना,to let the kids go hungry / starve,to starve the children,To wind someone up
