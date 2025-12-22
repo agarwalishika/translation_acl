@@ -1,0 +1,1001 @@
+src,true_meaning,literal_translation,predicted
+आंखें चुराना,to avoid being seen,to hide one’s eyes,To steal someone's eyesight
+आंखों का तारा,beloved person,the star of the eyes,To see the stars in your eyes
+चेहरा उतरना,to be sad or disappointed,the face to fall,To be revealed or made known
+दाँतों तले उंगली दबाना,to be very surprised,to press a finger under the teeth,To be careful with one's words
+साँस लेना,to feel relieved after hard work,to take a breath,To take a deep breath and relax
+बात पक्की होना,to agree on something or finalize a deal,for the matter to become firm,"To tell the truth"" or ""To speak the truth"
+बाल-बाल बचना,to narrowly escape from trouble,to be saved by a hair,To be on one's guard
+अक्ल का दुश्मन,a fool who avoids wisdom,enemy of wisdom,To have a rival in one's own mind
+जान पर खेलना,to act fearlessly or take great risks,to play with one’s life,To play a game with one's knowledge or experience.
+पेट में चूहे कूदना,to be extremely hungry,mice jumping in the stomach,To feel butterflies in your stomach.
+आसमान पर चढ़ना,to be proud or overconfident,to climb onto the sky,to fly high
+आकाश पाताल का अंतर,to be vastly different,difference between sky and netherworld,The gap between heaven and hell
+हवा से बातें करना,to move very fast,to talk with the wind,Talk about the weather
+पत्थर की लकीर,to be firm on one’s word or decision,a line of stone,As solid as a rock
+पहाड़ टूट पड़ना,to face a huge problem or calamity,a mountain breaking and falling (upon),Fall apart
+ईद का चाँद होना,to appear after a long time (a rare person),to be the moon of Eid,The moon is full during Eid.
+चकमा देना,to deceive or trick someone,to give a dodge/trick,To be in a pickle
+उल्टी गंगा बहना,something unusual or against norms happening,the Ganga to flow in reverse,Go back on your words
+छक्के छुड़ाना,to defeat completely,to make someone’s sixes come out,To shake off a problem
+फूँक-फूँक कर कदम रखना,to act very cautiously,to place steps after blowing (carefully),Stage-2 output (justification for the output):
+दम में दम आना,to regain courage or relief after fear,breath to come into one’s breath,<English idiom>
+दाँत से दाँत बजाना,to shiver from cold,to make tooth strike tooth (chatter),To make a sound like a toothache
+मुँह में पानी आना,to be tempted by delicious food,water to come into the mouth,Have a mouthful of water
+नाक काटना,to disgrace or embarrass someone,to cut the nose,To cut off someone's nose to spite their face
+कमर टूटना,to feel exhausted or discouraged,the waist to break,Stage-2 output (justification):
+कमर कसना,to prepare oneself for a challenge,to tighten the waist (belt),To be in a bind
+कलेजा पत्थर का होना,to be mentally or emotionally very strong,the liver/heart to be of stone,Reason: <select the most relevant English idiom>
+दाँत खट्टे करना,to defeat someone badly,to make the teeth sour,to have a bad toothache
+ईंट से ईंट बजाना,to completely destroy or demolish someone,to make brick strike brick,To make a loud noise like a bird.
+नाक में दम करना,to annoy someone constantly,to put breath in the nose,To hold back one's tears
+नाक पर मक्खी न बैठने देना,to be strict or disciplined,to not let a fly sit on the nose,Stage-2 output:
+नाक कट जाना,to lose one's honor or respect,the nose to get cut,To have a bad reputation
+नाक में तेल डालकर सोना,to sleep carefreely without worries,to sleep after putting oil in the nose,To pretend to be asleep or unconscious in order to avoid something unpleasant.
+नाक का सवाल होना,to be a matter of pride or ego,to be a question of the nose (honor),To have a bone to pick
+नाक भौं सिकोड़ना,to show disapproval,to wrinkle the nose and brows,To be very happy and content.
+नाक नीची करना,to humiliate publicly,to make the nose low,To have a bad reputation
+कान खड़े होना,to become alert or suspicious,for the ears to stand up,To be on guard
+कान पर जूँ न रेंगना,to remain unaffected or unmoved,for not even a louse to crawl on the ear,Keep your mouth shut
+कान में तेल डालना,to ignore someone's words,to pour oil into the ear,Other: <select the most relevant English idiom>
+कान में फूंक मारना,to influence or manipulate someone secretly,to blow a puff into the ear,to make someone feel uncomfortable or embarrassed
+कान पकड़ना,to vow never to repeat a mistake,to hold the ears,In a mess
+कान भरना,to manipulate someone against another,to fill the ears,Stage-2 output (justification):
+कान काटना,to outsmart completely,to cut the ear,"To cut off one's ears, often metaphorically used to describe cutting off one's own desires or emotions."
+आसमान सिर पर उठाना,to create a big commotion or panic,to lift the sky onto one’s head,Aim high
+आसमान से बातें करना,to reach great heights or success,to talk with the sky,Output: <english idiom>
+आसमान से गिरे खजूर में अटके,to fall from one trouble into another,"having fallen from the sky, stuck in a date-palm",To fall into a trap
+आग बबूला होना,to become extremely angry,to become fire-foaming (blazing angry),To be on fire
+आग में घी डालना,to worsen an already bad situation,to pour ghee into the fire,fire up
+आग में कूदना,to take a dangerous risk,to jump into the fire,To jump into a situation without thinking it through.
+आग लगना,to become furious or jealous,for fire to catch,To get into trouble or cause a problem.
+आग ठंडी होना,to calm down after anger,for the fire to cool,The fire has gone out.
+आग उगलना,to speak harshly or aggressively,to spit/emit fire,To set something on fire
+आग से खेलना,to invite danger knowingly,to play with fire,"The English idiom is ""playing with fire."
+आग लगाना,to instigate or provoke trouble,to set on fire,Stage-2 output (justification for the output):
+आग दिखाना,to show anger or power,to show fire,To blow the whistle
+आग लग जाना,to feel jealous or restless,for fire to get lit,The cat is out of the bag
+आग बन जाना,to become furious,to become fire,Stage-2 output:
+आग पर तेल डालना,to intensify an argument or situation,to pour oil on the fire,Throwing gasoline on a fire
+धूल चाटना,to face defeat or humiliation,to lick dust,Get to the bottom of things
+धूल फाँकना,to struggle in poverty or hardship,to gulp/eat dust,Stir up trouble
+धूल झाड़ना,to scold or reprimand strongly,to shake off dust,Stir up trouble
+धूल में मिलाना,to destroy completely,to mix into dust,Stage-2 output (justification):
+धूल उड़ाना,to make a scene unnecessarily,to raise/fly dust,Spread your wings and fly
+धूल झोंकना,to deceive or mislead someone,to throw dust (in the eyes),To make something appear more impressive or impressive than it actually is.
+हवा निकल जाना,to lose courage suddenly,for the air to go out,To be carried away by the wind.
+हवा खा जाना,to run away secretly,to eat wind,<select the most relevant English idiom>
+हवा में उड़ाना,to waste money carelessly,to throw/waft in the air,To fly under the radar
+हवा बन जाना,to disappear quickly,to become air,To be carried away
+हवा में बात करना,to speak without proof or sense,to speak into the air,"To speak in a way that is not clear or direct, often to avoid saying something directly."
+हवा लगना,to be influenced by others,to catch/get the wind,To have a hankering for something
+हवा देना,to encourage or instigate something,to give air,blow one's own horn
+हवा बदलना,to change situation or environment,to change the air,To change the game
+हवा चखना,to get a taste of something new (usually trouble),to taste the air,Stage-2 output:
+हवा बंद होना,to lose confidence completely,for the air to stop,In a state of uncertainty or confusion.
+आँख में धूल झोंकना,to deceive or fool someone,to throw dust into the eye,Stage-2 output:
+आँखें फटी की फटी रह जाना,to be shocked or amazed,for the eyes to remain torn-open,to be at a loss
+आँखों में धूल झोंकना,to cheat someone cleverly,to throw dust into the eyes,Stage-2 output:
+आँखों में बस जाना,to win someone’s heart,to come to reside in the eyes,Be obsessed with
+आँखों से ओझल होना,to disappear from sight,to be hidden from the eyes,Go blind with excitement
+आँख दिखाना,to threaten or scold harshly,to show the eye,To reveal the truth
+आँख तरेरना,to glare angrily,to glare with the eyes,A person is not very intelligent and they try to make fun of their friends by making them feel bad.
+आँखें फाड़ना,to stare in surprise,to rip/tear the eyes open (goggle),To open one's eyes and see something for the first time.
+आँखें मूँदना,to ignore intentionally,to shut/close the eyes,**Blinking one's eyes**
+आँखों में आँसू आना,to become emotional or sad,for tears to come into the eyes,To get a lump in one's throat
+दिल लगाना,to fall in love,to attach the heart,To be all in
+दिल तोड़ना,to break someone's heart,to break the heart,Stage-2 output (justification):
+दिल जीतना,to win someone's affection,to win the heart,To win someone's heart
+दिल पर लेना,to take something personally,to take to the heart,Be captivated
+दिल लगाकर काम करना,to work wholeheartedly,to work with the heart attached,<select the most relevant English idiom>
+दिल में बात रखना,to hide one’s feelings,to keep the matter in the heart,Stage-2 output (justification):
+दिल पर पत्थर रखना,to act bravely despite pain,to place a stone on the heart,To nurse a grievance
+दिल जलना,to feel jealous or envious,for the heart to burn,<select the most relevant English idiom>
+दिल बहलाना,to distract from sadness,to amuse/console the heart,Stage-2 output: <select the most relevant English idiom>
+दिल धड़कना,to feel nervous or excited,for the heart to beat,To feel a strong emotion or to be very excited
+दिल खोलकर देना,to be generous,to give with the heart open,<select the most relevant English idiom>
+दिल में चोर होना,to have guilt or bad intentions,for there to be a thief in the heart,To feel like a thief in the night
+दिल में बसना,to be deeply loved or remembered,to dwell in the heart,"To be deeply affected by something, often to the point of being overwhelmed."
+दिल का हाल बताना,to express inner feelings,to tell the condition of the heart,Stage-2 output:
+दिल टूट जाना,to feel heartbroken,for the heart to break,Aha moment
+दिल खुश हो जाना,to become happy,for the heart to become happy,To be happy and content
+दिल में बात आना,to get an idea or feeling,for a thought to come into the heart,To have a thought or idea that is not based on reality or fact.
+दिल से उतर जाना,to lose affection or trust,to descend/fall from the heart,To feel deeply moved or affected by something
+दिल से लगाना,to love or treat affectionately,to press/hold to the heart,To feel a strong emotional connection.
+दिल लगा रहना,to stay interested or focused,to remain heart-attached,To have a yearning for something.
+दिमाग चलना,to think cleverly,for the mind/brain to run,Think clearly
+दिमाग खराब होना,to lose temper or sanity,for the mind to go bad,A mental breakdown
+दिमाग लगाना,to use intelligence or creativity,to apply the mind,To put one's thoughts into action
+दिमाग ठिकाने लगाना,to discipline or bring to senses,to put the mind in its place,Stage-2 output (justification):
+दिमाग का दही होना,to get mentally exhausted,the brain to become curd,<select the most relevant English idiom>
+दिमाग घुमाना,to confuse or manipulate someone,to spin/turn someone’s mind,<select the most relevant English idiom>
+दिमाग का ताला खोलना,to start thinking or understanding,to open the lock of the mind,<select the most relevant English idiom>
+दिमाग खाना,to irritate by constant nagging,to eat the brain,To become obsessed with something.
+दिमाग लग जाना,to focus attention on something,for the mind to get engaged,Aha moment
+दिमाग में बात आना,to get a sudden idea,for an idea to come into the mind,To have an idea in your head
+पानी-पानी होना,to feel embarrassed or ashamed,to become water-water,A mess
+पानी फिर जाना,to have plans fail suddenly,for water to go over (it),"Other: <if you think other idiom is also a good fit, select it>"
+पानी मांगना,to beg for mercy,to ask for water,<select the most relevant English idiom>
+पानी उतारना,to humiliate someone publicly,to bring down/drain the water,<select the most relevant English idiom>
+पानी सिर से गुजरना,to reach the limit of patience,for water to pass over the head,Water flowing out of the mouth
+पानी में आग लगाना,to attempt the impossible,to set fire in water,Stage-2 output (justification):
+पानी पर लिखा,to be temporary or futile,written on water,To write on water
+पानी बराबर होना,to be equal in strength or skill,to be equal like water,The water level is steady.
+पानी पीना,to feel comfortable after fear,to drink water,To put up with something difficult
+पानी मांगना पड़ना,to be defeated badly,to have to ask for water,"To ask for water, to drink water."
+पानी लाना,to bring respect or reputation,to bring/fetch water,Stage-2 output (justification):
+हाथ बँटाना,to help or assist someone,to share/divide the hand,Other: <select the other relevant English idiom>
+हाथ धोकर पीछे पड़ना,to chase or target relentlessly,to wash one’s hands and go after,To act in a way that is considered impolite or rude.
+हाथ खड़े कर देना,to give up completely,to make (one) raise hands,To throw in the towel
+हाथ पाँव फूल जाना,to panic or get nervous,for hands and feet to bloom,<select the most relevant English idiom>
+हाथ मलना,to regret something deeply,to rub the hands,To put one's hand to the fire
+हाथ साफ़ होना,to be skilled or experienced,for the hand to be clean,To have a clear conscience
+हाथ पर हाथ धरे रहना,to do nothing,to keep one hand resting on the other,Hold one's tongue
+हाथ की सफाई दिखाना,to show cleverness or skill,to show the hand’s cleanliness (sleight),To show one's true colors
+हाथ में लेना,to take responsibility for something,to take in hand,Take by force
+हाथ से निकल जाना,to miss an opportunity,to go out of the hand,Lose it
+हाथ लगना,to get caught or succeed,to come to the hand,Stage-1 output (definition + candidates): 11) To be overwhelmed with emotions or feelings.
+हाथ धोना,to lose something completely,to wash hands,Wash one's hands of a responsibility
+हाथ मिलाना,to collaborate or agree,to join hands,A united front
+हाथ बाँधना,to restrict or tie someone’s ability,to tie/bind the hands,Stage-2 output (justification):
+हाथ ऊँचा होना,to be more powerful or dominant,for the hand to be higher,Take charge
+हाथ जलना,to learn by mistake,for the hand to be burned,To have a burning desire or passion for something.
+हाथ थामना,to support someone,to hold the hand,Call a halt
+हाथ पसारना,to beg or plead,to spread the hand (for alms),"Other: <any other English idioms that are not most relevant, but still relevant to the Hindi idiom>"
+हाथ काटना,to separate or break relation,to cut the hand,To cut one's hand
+हाथ मोड़ना,to refuse or reject something,to twist the hand,She is a knockout.
+पैर पसारना,to spend or expand beyond means,to spread the feet,<select the most relevant English idiom>
+पैर जमाना,to settle firmly,to set the feet firm,Get stuck in traffic
+पैर पकड़ना,to beg for forgiveness,to hold the feet,Stage-1 output: <definition + candidates>
+पैर तले ज़मीन खिसकना,to be shocked or lose ground,for the ground to slip from under the feet,To be lost in thought or confused.
+पैर पर कुल्हाड़ी मारना,to harm oneself by one’s own actions,to strike an axe on one’s foot,To be in a tight spot
+पैर पीछे खींचना,to withdraw from commitment,to pull the feet back,Put your foot down
+पैर फैलाना,to extend scope gradually,to spread the feet,Reason: <select the most relevant English idiom> and explain why it matches the Hindi idiom.
+पैर रोकना,to restrain or hesitate,to stop the feet,To hold one's tongue
+पैर रखना,to begin something new,to place a foot,Stage-2 output:
+पैर उठाना,to show disrespect or overconfidence,to lift the foot,To lift one's spirits
+मुँह बनाना,to show annoyance or sadness,to make a face,Make a noise
+मुँह खोलना,to start speaking up,to open the mouth,To open one's mouth
+मुँह लटकाना,to look disappointed,to hang the face,Stage-2 output (justification):
+मुँह की खाना,to suffer humiliation,to eat of the mouth,Stage-2 output:
+मुँह मोड़ना,to turn away or refuse help,to turn the face away,<select the most relevant English idiom>
+मुँह दिखाना,to appear shamelessly after wrongdoing,to show the face,To spill the beans
+मुँह में राम बगल में छुरी,to be deceitful in nature,"Ram in the mouth, knife in the armpit",Stage-2 output:
+मुँह माँगी मुराद मिलना,to get exactly what one wanted,to get the wish asked by mouth,You get what you wish for
+मुँह बंद रखना,to stay silent,to keep the mouth closed,Keep one's mouth shut
+मुँह खुलवाना,to make someone speak,to make (someone) open the mouth,To speak up
+मुँह चुराना,to avoid facing someone,to hide/steal the face (avoid),steal someone's thunder
+मुँह तोड़ जवाब देना,to give a fitting reply,to give a mouth-breaking reply,<select the most relevant English idiom>
+मुँह में घी शक्कर,used to bless or hope for good news,ghee and sugar in the mouth,A spoonful of sugar makes the medicine go down.
+मुँह लगना,to act too familiar with elders,to get attached to the mouth,Keep your mouth shut
+मुँह में जुबान न होना,to be timid or unable to speak up,to not have a tongue in the mouth,Speak with conviction
+मुँह से बात निकलना,to accidentally reveal something,for the words to come out of the mouth,Speak one's mind
+हिम्मत हारना,to lose courage,to lose courage,to lose heart
+हिम्मत रखना,to stay strong and confident,to keep courage,Keep your spirits up
+हिम्मत बाँधना,to encourage oneself,to tie/bind courage,Hold one's breath
+हिम्मत जुटाना,to gather courage,to gather courage,<select the most relevant English idiom>
+हिम्मत टूटना,to become hopeless,for courage to break,To lose heart
+हिम्मत दिखाना,to show bravery,to show courage,To show enthusiasm or eagerness.
+हिम्मत बढ़ाना,to motivate or encourage someone,to increase courage,Stage-1 output: <definition + candidates>
+जुबान चलाना,to talk disrespectfully,to run the tongue,To be in a state of constant motion or activity.
+जुबान फिसलना,to say something by mistake,for the tongue to slip,Blow your top
+जुबान देना,to make a promise,to give one’s tongue (word),"To give something as a gift or present, often with a special meaning or intention."
+जुबान रखना,to keep one’s word,to keep one’s tongue (word),To hold on to something dearly
+जुबान काटना,to regret saying something,to cut/bite the tongue,To cut off one's nose to spite one's face
+जुबान पकड़ना,to hold someone to their words,to catch/hold the tongue,To get the hang of something
+जुबान पर काबू रखना,to control speech,to keep control on the tongue,Stage-2 output (justification):
+जुबान लगना,to get into an argument,to get on the tongue,Stage-2 output (justification):
+जुबान बंद रखना,to stay silent intentionally,to keep the tongue shut,Keep your mouth shut
+दाँत पीसना,to show silent anger,to grind the teeth,Bite the bullet
+दाँत दिखाना,to laugh unnecessarily,to show the teeth,To show one's true colors
+दाँत गिनाना,to mock or insult someone,to count the teeth,To count one's teeth: To complain about something.
+दाँत काटी रोटी,to have a close friendship,tooth-bitten bread,Chewing the cud
+दाँत टूट जाना,to be defeated or embarrassed,for the teeth to break,To lose one's faculties
+पसीना बहाना,to work hard,to make sweat flow,to feign illness
+पसीना छुड़ाना,to frighten or exhaust,to make someone break into sweat,To throw away something without regret or remorse.
+पसीना निकलना,to feel nervous or hot,for sweat to come out,Aha moment
+पसीना-पसीना होना,to be drenched in sweat (from work or fear),to become sweat-sweat (drenched),to be on pins and needles
+खून पसीना एक करना,to work tirelessly,to make blood and sweat one,Stage-1 output: <english idiom>
+खून खौलना,to feel extreme anger,for the blood to boil,Break down in tears
+खून जलाना,to waste emotional energy,to burn blood,To spill one's blood
+खून चूसना,to exploit someone harshly,to suck blood,To have a nervous breakdown
+खून में उबाल आना,to be fired up with passion,for the blood to come to a boil,To be in hot water
+खून पसीने की कमाई,hard-earned money,earnings of blood and sweat,To play a trick on someone
+खून सफेद होना,to become heartless or selfish,for the blood to become white,To have a clear conscience
+खून चढ़ना,to feel energetic or brave,for the blood to rise,<select the most relevant English idiom>
+खून उतरना,to lose courage suddenly,for the blood to descend,To feel a sudden surge of emotion or energy.
+पसीने छूटना,to panic under pressure,for sweats to break out,To be in a pickle
+खून जम जाना,to be terrified,for the blood to freeze/clot,To be overwhelmed
+खून देना,to sacrifice selflessly,to give blood,Stage-2 output (justification):
+खून का रिश्ता,blood relation,a relation of blood,Stage-2 output (justification):
+खून बहाना,to fight fiercely,to make blood flow,<select the most relevant English idiom>
+खून खराबा होना,to result in violence or bloodshed,for bloodshed/ruin to happen,<select the most relevant English idiom>
+दिल थाम लेना,to feel suspense or fear,to hold the heart,overwhelmed with emotion or feelings.
+दिल लगा लेना,to fall in love deeply,to set/attach the heart,To feel a strong emotional connection or attachment to someone or something.
+दिल में आग लगना,to feel jealousy or anger,for fire to ignite in the heart,To have a passion for something
+दिल दहल जाना,to be terrified,for the heart to shudder,To be in love with someone
+दिल धकधक करना,to feel nervous or anxious,for the heart to throb ‘dhak-dhak’,Stage-2 output:
+दिल में उतरना,to become likable or close to heart,to descend into the heart,<select the most relevant English idiom>
+दिल में ठंडक पड़ना,to feel relief or satisfaction,for coolness to fall in the heart,<select the most relevant English idiom>
+दिल को छू जाना,to touch emotionally,to go and touch the heart,To swallow one's pride
+दिल जीत लेना,to win affection,to win the heart,to win someone's heart
+दिल में कसक रह जाना,to feel unfulfilled desire or regret,for a pang to remain in the heart,To be obsessed with
+दिल का चैन खोना,to lose peace due to love or worry,to lose the heart’s peace,To lose one's heart
+दिल बहल जाना,to feel consoled,for the heart to be consoled/amused,overwhelmed
+दिल कड़ा करना,to act firmly despite emotions,to make the heart hard,Stage-2 output (justification):
+दिल बैठ जाना,to lose hope or courage,for the heart to sit/sink,To feel weighed down by emotions
+दिल बदलना,to change one’s opinion or feelings,to change the heart,<select the most relevant English idiom>
+"साँप निकल गया, लकीर पीटते रह गए",to act after the damage is already done,the snake went out; (they) kept beating the line,<select the most relevant English idiom>
+साँप सूँघ जाना,to become completely silent out of fear,for a snake to sniff (one),To be in a tight spot
+साँप और नेवले की लड़ाई,a fight between sworn enemies,a snake-and-mongoose fight,Stage-1 output (definition + candidates):
+साँप के मुँह में छछूंदर,to be stuck in an impossible situation,a shrew in the snake’s mouth,Stage-2 output (justification):
+साँप को दूध पिलाना,to favor someone who will harm you later,to feed milk to a snake,It's a piece of cake
+साँप की केंचुली बदलना,to change completely in nature or appearance,for a snake to change its slough/skin,<select the most relevant English idiom>
+साँप भी मर जाए और लाठी भी न टूटे,to solve a problem smartly without harm to anyone,the snake die too and the stick not break,A person who is very stubborn and refuses to change their mind.
+साँप का बच्चा,a dangerous or deceitful person,a snake’s offspring,A snake's offspring
+साँप के बिल में हाथ डालना,to invite trouble knowingly,to put a hand into a snake’s burrow,To put one's hand in the mouth of a snake.
+साँप निकलते ही लकीर पीटना,to regret after losing the opportunity,to beat the line once the snake has left,Be taken by surprise
+शेर की सवारी करना,to take a dangerous or risky decision,to ride a lion,To take on a dangerous task without proper preparation or support.
+शेर बनना,to act bravely or arrogantly,to become a lion,To step up and take charge
+शेर का दिल रखना,to be very courageous,to keep/have a lion’s heart,A friend in need is a friend indeed.
+शेर के मुँह में हाथ डालना,to challenge danger directly,to put a hand in a lion’s mouth,To put one's foot in one's mouth
+शेर की तरह गरजना,to speak fearlessly or loudly,to roar like a lion,Stage-1 output (definition + candidates):
+शेर का शिकार करना,to achieve a big or risky goal,to hunt a lion,Catching a rabbit
+लोमड़ी की तरह चालाक,to be extremely cunning,cunning like a fox,as smart as a fox
+कुत्ते की तरह भौंकना,to shout without reason,to bark like a dog,To feel the cold like a dog
+कुत्ते की मौत मरना,to die miserably or without dignity,to die a dog’s death,Other: <select the other relevant English idiom>
+कुत्ते की पूँछ टेढ़ी की टेढ़ी,bad habits never change,a dog’s tail—crooked remains crooked,A lion in a henhouse
+कुत्ते के भौंकने से हाथी नहीं रुकता,great people ignore petty criticism,by a dog’s barking the elephant doesn’t stop,unaffected
+कुत्ते की दुम टेढ़ी की टेढ़ी,incorrigible by nature,a dog’s tail—crooked-crooked,Stage-2 output (justification):
+कुत्ते की तरह पीछे पड़ना,to chase someone relentlessly,to get after (someone) like a dog,Run like a rabbit
+बंदर क्या जाने अदरक का स्वाद,the unworthy cannot appreciate value,what would a monkey know of ginger’s taste,The monkey knows the taste of ginger
+बंदर के हाथ में उस्तरा,a dangerous thing in foolish hands,a razor in a monkey’s hand,In a pickle
+बंदर नाच देखना,to enjoy entertainment or drama,to watch a monkey dance,monkey business
+बंदर घुड़की देना,to make empty threats,to give a monkey-like browbeating,To be a fool in the eyes of others.
+बंदर के हाथ नारियल,valuable thing with an undeserving person,a coconut in a monkey’s hand,A monkey's paw
+बिल्ली के गले में घंटी बाँधना,to take initiative in a dangerous task,to tie a bell on the cat’s neck,"To put a stop to something, to make it impossible to continue."
+बिल्ली की तरह मुँह बनाना,to act innocent after wrongdoing,to make a face like a cat,talk in riddles
+बिल्ली की तरह चुप रहना,to remain silent out of guilt or fear,to stay quiet like a cat,"To remain silent like a bill, which does not make any noise."
+बिल्ली के भाग्य से छींका टूटा,to get something valuable by pure luck,by the cat’s fortune the hanging rack broke,A stroke of luck
+चूहे बिल्ली का खेल,a game of chase and evasion,a cat-and-mouse game,Playing with a toy
+चूहे दौड़ना,to feel hungry,mice to run (about),A penny for your thoughts
+गधे के सिर से सींग गायब,something missing without a trace,horns gone from the donkey’s head,The cat's whiskers are gone
+गधे पर बैठकर शेर की बात करना,to act proud without reason,to sit on a donkey and talk of a lion,To talk about a subject in a way that is not true or not accurate.
+गधे को घोड़ा बनाना,to exaggerate someone’s abilities,to make a donkey into a horse,to make a horse out of a cow
+गधे को फूलों की माला पहनाना,to honor an undeserving person,to put a garland of flowers on a donkey,To be swamped
+गधे के कान में बांसुरी,to waste effort on someone ignorant,a flute in a donkey’s ear,<select the most relevant English idiom>
+गाय का दूध पीना,to live peacefully and simply,to drink the cow’s milk,A sucker for a pretty face
+गाय बनना,to act innocent or submissive,to become a cow,To become a cow: To become weak or unproductive.
+गाय के आगे बीन बजाना,to explain something to someone who won’t understand,to play a reed-pipe before a cow,To be in a pickle
+ऊँट के मुँह में जीरा,too little for a large need,cumin in a camel’s mouth,Stage-1 output (definition + candidates): <select the stage-1 output>
+ऊँट पहाड़ के नीचे,to meet one’s superior or defeat,camel beneath the mountain,the egg on the mountain's bottom
+ऊँट के मुँह में खजूर,tiny reward for great effort,a date in a camel’s mouth,<select the most relevant English idiom>
+ऊँट की चाल चलना,to act steadily but slowly,to walk with the camel’s gait,to waddle like a duck
+ऊँट रेत में सिर छिपाना,to ignore reality or hide from truth,for the camel to hide its head in sand,To bury one's head in the sand
+घोड़े बेचकर सोना,to sleep peacefully without worry,to sleep having sold the horses,<select the most relevant English idiom>
+घोड़े पर सवार होना,to be in a hurry or overexcited,to be mounted on a horse,To be in charge of oneself
+घोड़े का नाल पहनना,to try something superstitious for luck,to wear a horse’s horseshoe,To be in a pickle
+घोड़े की लगाम कसना,to tighten control,to tighten the horse’s reins,To be in a pickle
+घोड़े दौड़ाना,to act hastily without thinking,to run the horses,Stage-2 output (justification):
+मछली पानी से बाहर,to feel uncomfortable in a strange place,fish out of water,To be out of one's depth
+मछली हाथ से निकलना,to miss an opportunity,for the fish to slip from the hand,caught off guard
+मछली पकड़ना,to manipulate a situation for gain,to catch fish,Catching a fish
+मछली मरना,to face downfall silently,for a fish to die,<select the most relevant English idiom>
+मगरमच्छ के आँसू,false show of sympathy,crocodile’s tears,A cloud of smoke
+मगरमच्छ बनना,to act powerful or arrogant falsely,to become a crocodile,To be a complete failure
+मगरमच्छ का शिकार करना,to take on a huge challenge,to hunt a crocodile,To catch a rabbit by its tail
+सांड बनना,to act angrily or uncontrollably,to become a bull,To cause trouble
+सांड को लाल कपड़ा दिखाना,to provoke someone deliberately,to show a red cloth to a bull,Stage-2 output (justification):
+सांड की तरह दौड़ना,to rush without thinking,to run like a bull,To run like sand through the fingers
+सांड की तरह जिद्दी,to be very stubborn,stubborn like a bull,Stage-2 output (justification):
+सांड की तरह ताकतवर,to be physically strong,strong like a bull,Like a rock
+तेल देखो तेल की धार,to wait and watch patiently,look at the oil—the stream of the oil,Stage-1 output: <definition + candidates>
+तेल लगाना,to flatter or please for benefit,to apply oil,To add fuel to the fire
+तेल निकलना,to get exhausted completely,for oil to come out,Pouring one's heart out
+तेल पानी एक होना,to be completely incompatible,for oil and water to be one,In a state of confusion
+तेल जलाना,to work hard late into the night,to burn oil,To stir up trouble
+धन पानी की तरह बहाना,to waste money lavishly,to let wealth flow like water,To have a lot of money like water.
+धन दौलत इकट्ठी करना,to accumulate wealth,to gather wealth and riches,Pool resources
+धन का घमंड होना,to be arrogant about wealth,to have pride of wealth,To lose one's fortune
+धन के पीछे भागना,to be greedy for money,to run after wealth,To run away from responsibility
+धन का नशा चढ़ना,to be blinded by riches,for the intoxication of wealth to rise,To lose one's fortune or wealth.
+धन कमाना,to earn wealth,to earn wealth,To make money
+धन की बरसात होना,to receive great fortune,for a rain of wealth to occur,A windfall
+धन को पानी समझना,to spend carelessly,to consider wealth as water,To consider money as equivalent to water.
+धन का दुरुपयोग करना,to misuse wealth,to misuse wealth,Waste money
+धन देना,to offer charity or contribution,to give wealth,To give someone a handout
+नजर लगना,to be jinxed or affected by envy,for the (evil) eye to be cast,Stage-2 output (justification):
+नजर उतारना,to remove the evil eye,to take off/ward off the eye,to examine something carefully
+नजर बचाना,to avoid eye contact,to save oneself from the eye,Stage-2 output:
+नजर डालना,to glance or check,to cast a glance,Scrutinize something closely
+नजर चुराना,to avoid someone intentionally,to steal/avoid the eye,To play a trick on someone.
+नजर रखना,to keep watch on something,to keep an eye,Stage-2 output (justification):
+नजर मिलाना,to look straight and confidently,to meet the eyes,Aha moment
+नजर में आना,to get attention or recognition,to come into sight,To be seen
+नजर से गिरना,to lose respect in someone’s eyes,to fall from (someone’s) eyes,Take a fall
+नजरों में बसना,to be deeply admired or loved,to dwell in (someone’s) eyes,To be seen by others
+मुँह की बात छीनना,to say what someone was about to say,to snatch the words from (someone’s) mouth,Stage-2 output (justification):
+रूठा मन मनाना,to reconcile after disagreement,to coax the sulking mind/heart,to worry oneself half to death
+मन बनना,to decide willingly,for the mind to be made,Believe in your heart
+मन भरना,to lose interest or get satisfied,for the mind to fill/satiate,To be overwhelmed with emotion or thoughts.
+मन लगाना,to stay focused,to set the mind (on),To put one's mind in a state of confusion or turmoil.
+मन मारना,to suppress one’s desires,to kill/suppress the mind,To make someone go crazy.
+मन में बैठना,to be convinced deeply,to sit in the mind,To have a strong desire or craving.
+मन में बात रखना,to keep things inside,to keep the matter in the mind,Keep something in mind
+मन बहलाना,to divert oneself pleasantly,to amuse/entertain the mind,To put off one's duties or responsibilities.
+मन से उतरना,to lose affection for someone,to come down from the heart/mind (lose favor),"To feel a strong emotion, such as happiness or sadness, without any external cause."
+मनमानी करना,to act selfishly or on one’s own terms,to do according to one’s own mind,Think twice before you do.
+दो नावों पर सवार होना,to try doing two opposite things at once,to ride on two boats,Stage-2 output:
+दूध का जला छाछ भी फूंककर पीता है,"once bitten, twice shy",one burned by milk even blows on buttermilk before drinking,A person who is so desperate for something that they will do anything to get it.
+"दूध का दूध, पानी का पानी करना",to reveal the truth or clarify everything,to make milk (be) milk and water (be) water,Stage-2 output (justification):
+दूध में मक्खी की तरह,an unwanted person in a good place,like a fly in milk,<select the most relevant English idiom>
+दूध का कर्ज चुकाना,to repay parents' love and care,to repay the debt of milk,"To take someone's milk away from them, often as a form of punishment or to make them feel guilty."
+दूध में नीम का पत्ता,something that ruins a good thing,a neem leaf in milk,A needle in a haystack
+दूध का दूध अलग करना,to identify right and wrong clearly,to separate milk as milk,To take something out of context
+दूध की धार बनना,to prosper or flourish,to become a stream/jet of milk,To become a milkman
+दूध पीता बच्चा नहीं हूँ,I’m not naive anymore,I am not a milk-drinking child,Stage-2 output (justification):
+दूध की नदियाँ बहाना,to dream of prosperity,to make rivers of milk flow,To pour milk on the head
+घर की मुर्गी दाल बराबर,to undervalue what one has,the chicken of the house equals lentils,A man of his word
+घर फूँक तमाशा देखना,to risk everything for curiosity,to burn the house and watch the show,To watch a show or performance
+घर का भेदी लंका ढाए,an insider can cause great harm,the insider of the house topples Lanka,<select the most relevant English idiom>
+घर की बात बाहर निकलना,to leak private matters,the house’s talk to go outside,spill the beans
+घर बसाना,to settle down or start a family,to set up/build a home,To settle down
+घर उजड़ना,to lose everything,the home to be ruined,To be in a state of confusion or chaos.
+घर में घुसकर मारना,to attack boldly,to enter the house and beat,"To enter someone's home uninvited and harm them - To enter someone's home uninvited and harm them - 1) To enter someone's home uninvited and harm them, 2) To enter someone's home uninvited and harm them, 3) To enter someone's home uninvited and harm them"
+घर का रास्ता भूल जाना,to wander aimlessly or forget priorities,to forget the way home,get lost
+घर आँगन में झगड़ा,domestic disputes,a quarrel in the house courtyard,Reasoning: <select the most relevant English idiom> is the best match because <reasoning about the Hindi idiom and the English idiom>.
+घर की लक्ष्मी,a woman considered the prosperity of a home,the house’s Lakshmi,Stage-2 output (justification):
+आम के आम गुठलियों के दाम,double benefit from one effort,"mangoes as mangoes, pits for a price too",The cost of the common people's food.
+आम रास्ता पकड़ना,to take the easy or common way,to take the common road,Go the easy way
+आम आदमी,a common man,common man,A common man's opinion or behavior
+आमदनी अठन्नी खर्चा रुपैया,expenses exceeding income,"income half a rupee, expense a rupee",to spend like a drunken sailor
+"आम खाने वाले बनो, पेड़ मत गिनो",enjoy benefits without overanalyzing,"be mango-eaters, don’t count the trees",Reason: <select the most relevant English idiom> and explain why it matches the Hindi idiom. Best: Don't count your chickens before they're hatched.
+आमदनी बढ़ाना,to increase income,to increase income,To gain popularity
+अंधे के हाथ बटेर लगना,to get lucky unexpectedly,a quail falling into a blind person’s hand,to have a bad influence on someone
+अंधा कानून,law that doesn’t see right and wrong,blind law,Closed-minded
+अंधेरे में तीर चलाना,to try without knowledge,to shoot an arrow in the dark,Act without thinking
+अंधे को अंधेरे में बहुत दूर की सूझी,to overestimate one’s own understanding,"to a blind person, in darkness, perceiving the far-off",In the dark about something
+अंधे के हाथ में आइना,a useless thing in wrong hands,a mirror in a blind person’s hand,Stage-2 output: <select the most relevant English idiom>
+अंधों में काना राजा,to shine among the incompetent,"among the blind, the one-eyed is king",Stage-1 output: <Stage-1 output>
+काला अक्षर भैंस बराबर,to be illiterate or uneducated,black letters equal a buffalo,Stage-2 output (justification):
+काला धन,black or illegal money,black money,Black money
+काला मन,evil thoughts or intentions,black heart/mind,A black-hearted person
+काले मन का इंसान,a person with bad heart,a person of a black heart,a blackmailer
+काली करतूत,bad or shameful deeds,black deeds,In a state of confusion
+काली रात में दिया जलाना,to hope amidst despair,to light a lamp on a black night,Stage-2 output: <select the most relevant English idiom>
+काली कमाई,illegal earnings,black earnings,To play a dirty trick
+काली मिर्च लगाना,to exaggerate a story,to apply black pepper,To act like a fool
+काली नीयत,to have bad intentions,black intention,to be stubbornly determined
+काला सच,an unpleasant hidden truth,black truth / dark truth,Black sheep
+बीज बोना,to initiate an idea or event,to sow seed,sow the seeds of doubt
+बीज बोकर फल काटना,to reap what one sows,to sow seed and reap fruit,<select the most relevant English idiom>
+बीज से पेड़ बनना,to see progress from small beginnings,"from seed, a tree to become",To grow from a seed into a tree
+बीज बोकर काँटे काटना,to face consequences of one’s actions,to sow seeds and cut thorns,Dig up the roots
+बीज बदलना,to change the foundation or cause,to change the seed,Change one's mind
+बीज नष्ट करना,to end something at its root,to destroy the seed,Reason: <select the most relevant English idiom> and explain why it matches the Hindi idiom.
+बीज जमना,to start taking effect,for the seed to set/germinate,To have a strong foundation or base.
+बीज बोने वाला,one who starts a trend or cause,one who sows seed,Reason: <select the most relevant English idiom>
+बीज रोपना,to initiate growth or influence,to plant seed,To sow the seeds of success
+बीज काटना,to destroy the base of something,to cut the seed,To cut off the source of support or resources.
+थाली का बैंगन,someone who changes sides easily,eggplant of the plate,A dish in a pot
+थाली में नमक खाना,to benefit from someone’s kindness,to eat salt in (someone’s) plate,To eat something that is not edible or not suitable for consumption.
+थाली में छींद लगाना,to betray the one who helped,to make a slit/hole in the plate,To make a small adjustment to stop something
+थाली बजाना,to protest or express excitement,to bang the plate,Make a mountain out of a molehill
+थाली का खाना,a share of resources or wealth,food of the plate,To share a meal
+थाली में रखना,to serve something easily,to place in the plate,To put something in the back of your mind
+थाली पलटना,to go against one’s own,to flip the plate,To turn over a new leaf
+थाली की रोटी बनना,to be part of a group or system,to become the plate’s roti,A piece of cake
+थाली चाटना,to exploit something completely,to lick the plate,To eat like a pig
+थाली में परोसना,to give ready-made success,to serve on a plate,Reasoning: <select the most relevant English idiom> is the best match because <reasoning>.
+चिराग तले अंधेरा,to overlook what’s right before you,darkness beneath the lamp,The darkness that follows the light
+चिराग जलना,to bring light or hope,the lamp to light,to throw in the towel
+चिराग बुझना,to lose hope or family support,the lamp to go out,Blind Spot
+चिराग दिखाना,to guide or help someone,to show a lamp,<select the most relevant English idiom>
+चिराग लेकर ढूँढना,to search very carefully,to search carrying a lamp,To seek a solution to a problem or challenge after having tried many unsuccessful attempts.
+चिराग तले छिपना,to hide in the most obvious place,to hide under the lamp,"To hide something in plain sight, making it seem obvious or unnoticeable."
+चिराग की तरह जलना,to sacrifice oneself for others,to burn like a lamp,To burn brightly like a candle
+चिराग घर का बुझना,to lose a loved one,the household’s lamp to go out,Stage-2 output:
+चिराग को हवा लगना,to face danger or crisis,for the lamp to catch wind,"To have a constant source of light, such as a candle or lamp, but to have it extinguished by the wind, symbolizing the fleeting nature of life."
+चिराग हाथ में होना,to have control or guidance,to have a lamp in hand,"To have a constant source of light in one's hand, often symbolizing hope or guidance."
+भेड़ चाल चलना,to follow others blindly,to walk the sheep’s gait,Stage-2 output:
+भेड़ बनना,to lack independent thought,to become a sheep,<select the most relevant English idiom>
+भेड़ की तरह भागना,to run after the crowd,to run like sheep,To part ways
+भेड़िया बनना,to be cruel or selfish,to become a wolf,To make a nuisance of oneself
+भेड़ का रूप धारण करना,to appear innocent while being deceitful,to assume the form of a sheep,भेड़ का रूप धारण करना
+भेड़ की खाल में भेड़िया,a dangerous person pretending to be gentle,a wolf in sheep’s skin,A man who is so busy with his own affairs that he is unaware of what is happening around him.
+भेड़ के पीछे भेड़,to imitate without thinking,sheep behind sheep,A rat in a maze
+भेड़ की तरह झुंड में रहना,to depend on others’ lead,to live in a flock like sheep,"To be a target of constant ridicule or teasing, as if a cricket ball is being hit around a field."
+भेड़ की तरह बोलना,to agree without question,to speak like sheep (bleat),To speak like a cricket player (in a competitive or aggressive manner)
+भेड़िया आया कहकर झूठ बोलना,to lie so often that no one believes you later,to say ‘the wolf has come’ and lie,spin a yarn
+ईमान बेचना,to sacrifice integrity for gain,to sell honesty/conscience,To believe in something without evidence or reason
+ईमान पर आँच आना,to face moral challenge,for heat/flame to come upon honesty,A leap of faith
+ईमानदार बनना,to act honestly,to become honest,To be brave and confident
+ईमान का सौदा करना,to compromise ethics for money,to trade one’s honesty,To make a solemn commitment or pledge.
+ईमान की कमाई,honest earnings,earnings of honesty,Overconfidence
+ईमान दिखाना,to prove one’s honesty,to show honesty,To have confidence in someone or something
+ईमानदारी निभाना,to act truthfully and faithfully,to uphold honesty,To stay afloat
+ईमान का साथी,a trustworthy companion,companion/partner of honesty,A man of his word
+ईमान से उतरना,to become dishonest,to step down from honesty,Believe in your dreams
+ईमान की परीक्षा देना,to face a test of character,to give a test of honesty,To put your faith to the test
+झूठ बोलना,to tell a lie,to speak a lie,To tell a fib
+झूठ पकड़ना,to catch a lie or liar,to catch a lie,Pull the wool over someone's eyes
+झूठ की पोल खोलना,to expose deceit,to open the seams of a lie,Stage-1 output: <english idiom>
+झूठा बहाना बनाना,to make false excuses,to make a false excuse,To spin a yarn
+झूठ बोलकर बचना,to lie and escape consequences,to escape by telling a lie,Stage-2 output (justification):
+झूठ फैलाना,to spread lies,to spread lies,Reason: <select the most relevant English idiom> and explain why it matches the Hindi idiom.
+झूठ सच बनाना,to manipulate facts to appear true,to make a lie into truth,pull the wool over someone's eyes
+झूठ पर झूठ बोलना,to keep lying,to speak lie upon lie,To deceive someone
+झूठ से मुँह मोड़ना,to stay away from falsehood,to turn one’s face away from lies,To lie
+झूठ पकड़ा जाना,to get caught lying,to be caught lying,catch a lie
+एक तीर से दो निशाने,to achieve two goals with one action,"with one arrow, two targets",Trying to do too much at once
+नौ दो ग्यारह होना,to run away quickly,to become nine two eleven,Stage-2 output (justification):
+खयाली पुलाव पकाना,to daydream unrealistic plans,to cook imaginary pulao,picky
+दाल में कुछ काला है,something is suspicious,there is something black in the lentils,A black sheep in the family
+दाल न गलना,a plan not working out,the lentils not cooking,Stage-2 output (definition + candidates):
+जले पर नमक छिड़कना,to make someone’s pain worse,to sprinkle salt on a burn,Stage-2 output:
+सोने पर सुहागा,an added bonus to something good,suhaaga on top of gold,To be in a state of constant worry
+रामबाण उपाय,a sure-shot remedy,Rama’s-arrow remedy,Reason: <select the most relevant English idiom> is the best match because <reason for selecting this idiom>.
+आसमान से तारे तोड़ना,to promise or attempt the impossible,to pluck stars from the sky,Stage-2 output:
+सात समुंदर पार,very far away,across seven seas,It is a tough nut to crack
+अब पछताए होत क्या जब चिड़ियाँ चुग गई खेत,repenting after the damage is done,"what use repenting now, when birds have pecked the field","When the birds have flown away, the farmer is left with nothing to do."
+हाथ कंगन को आरसी क्या,no proof needed for the obvious,what mirror for a bangle on the wrist,Don't play with fire
+तिल का ताड़ बनाना,to exaggerate a small issue,to make a palm tree out of a sesame seed,To stir up trouble
+ठोकर खाना,to stumble and learn from mistakes,to stumble/strike the toe,To try something new
+ठंडा बस्ता डालना,to shelve a matter indefinitely,to put into a cold bag,<select the most relevant English idiom>
+ठंडी साँस भरना,to sigh in sorrow,to heave a cold sigh,Take a deep breath
+जी का जंजाल,a constant nuisance,a snare of the life/soul,Reason: <explain why it's the best match>
+जी जान से लगना,to put one’s heart and soul into it,to apply life and soul,"To be deeply affected by something, as if it were a personal experience"
+पीठ पीछे वार करना,to backstab someone,to strike behind the back,In a pickle
+पीठ थपथपाना,to praise or encourage,to pat the back,In a state of confusion
+पीठ दिखाना,to run away from a challenge,to show the back,To reveal one's true colors
+पत्ता साफ होना,to be removed or eliminated,for the leaf/card to be cleared,To be crystal clear
+पत्ते खोलना,to reveal one’s plans,to open the cards,Bite the bullet
+पलड़ा भारी होना,to have the upper hand,for the balance-pan to be heavy,Stage-2 output (justification for the best idiom):
+फटे में टांग अड़ाना,to meddle where not needed,to stick a leg into a tear,Blow one's own horn
+फूटी किस्मत,very bad luck,broken luck,A lucky break
+फूटी कोड़ी,a tiny amount of money,a broken cowrie/coin,A piece of wood
+फूल नहीं समाना,to be overjoyed,"to be swollen, not contained",Not to be as beautiful as flowers.
+रंग में भंग पड़ना,to have celebrations spoiled,for bhang to fall into the dye/color,To lose one's color
+रंग बदलना,to betray or change stance,to change color,To change one's appearance or behavior.
+रंग लाना,to succeed,to bring color,To change one's appearance or demeanor.
+रंगे हाथ पकड़ा जाना,to be caught red-handed,to be caught with colored hands,Stage-2 output (justification):
+लकीर का फ़कीर,to follow tradition blindly,a fakir of the line,A person who is poor in terms of knowledge or experience.
+लंबी-लंबी छोड़ना,to boast with tall claims,to leave off long-long (claims),Let it be
+लोहा मानना,to acknowledge someone’s superiority,to accept the iron,Take it seriously
+लोहा गरम है चोट कर,strike while the iron is hot,iron is hot—strike a blow,The cat's out of the bag
+दिन-दुगनी रात-चौगुनी तरक्की,"rapid, compounding growth","day double, night quadruple progress",<select the most relevant English idiom>
+दिन में तारे दिखना,to be in extreme pain or shock,stars appearing in the daytime,Stage-1 output: <english idiom>
+मक्खन लगाना,to flatter for gain,to apply butter,To add a sprinkle of sugar to a cup of coffee to make it more sweet.
+मगजमारी करना,to toil mentally,to do brain-beating,To be in a state of confusion or disarray
+माथा पीटना,to regret greatly,to beat the forehead,scratch one's head
+माथा ठोकना,to plead earnestly or pray,to knock the forehead,<select the most relevant English idiom>
+माथे पर बल पड़ना,to appear tense,for wrinkles/tension to appear on the forehead,"To be overwhelmed with emotion, especially joy or excitement."
+मान रखना,to honor someone’s feelings,to keep honor,Stage-2 output (justification):
+मुँह में दही जमाना,to remain deliberately silent,to let curd set in the mouth,Stage-2 output (justification):
+मूँछों पर ताव देना,to show pride or bravado,to give a twist to the moustaches,To put one's foot down
+जग हँसाई होना,to become a public joke,to become the world’s laughter,Laughing at the world
+टांग अड़ाना,to interfere unnecessarily,to stick in a leg,Stage-1 output: <english idiom> - <definition>
+तूफ़ान खड़ा करना,to create a big ruckus,to raise a storm,To be in a pickle
+कलेजा मुँह को आना,to be terrified (near-death feel),the liver to come to the mouth,Be careful what you say
+कलेजा ठंडा होना,to feel avenged or satisfied after anger,the liver to become cool,The class is boring.
+घी सीधी उंगली से ना निकले तो टेढ़ी करनी पड़े,use strict means if polite ones fail,"if ghee won’t come out with a straight finger, one must bend it",It takes more than one try to get it right.
+छाती ठोकना,to boast loudly,to thump the chest,To make amends
+छाती पर साँप लोटना,to be intensely jealous,a snake to roll on the chest,To have a hard time
+छाती पर मूंग दलना,to oppress or torment someone,to mill mung beans on the chest,To be in a pickle
+छाती चौड़ी होना,to feel proud,the chest to become broad,To have a big mouth
+"खेत खाए गधा, मारें जुलाहा",to punish the wrong person,"the donkey ate the field, (yet) we beat the weaver",Between a rock and a hard place
+कुएँ में कूदना,to jump into trouble knowingly,to jump into a well,To be in a pickle
+कुआँ खोदना,to prepare in advance,to dig a well,Stage-2 output (justification):
+चींटी की चाल,very slow progress,the ant’s gait,Being overly cautious
+गागर में सागर भरना,to say a lot in few words,to fill the ocean into a pitcher,To be in over one's head
+ऊँची दुकान फीका पकवान,"great show, poor quality","tall shop, bland dish",Stage-2 output:
+नाच न जाने आँगन टेढ़ा,blame surroundings for one’s lack,"doesn’t know to dance, (says) the courtyard is crooked",<select the most relevant English idiom>
+नेकी कर दरिया में डाल,do good without expectation,do good and throw it into the river,Stage-2 output (justification):
+थोथा चना बाजे घना,empty vessels make more noise,hollow chickpea makes loud sound,Be very careful
+रात गई बात गई,let bygones be bygones,"night gone, talk gone",A missed opportunity
+रातों-रात बदलना,to change overnight,to change overnight,change like the seasons
+रस्सी जल गई पर ऐंठ न गई,to be arrogant despite downfall,the rope burned but its twist didn’t go,A person who is not affected by a situation or event.
+रोज़ का रोना,the same old complaint,daily crying,To cry over spilled milk
+रोटी-रोज़ी का सवाल,a matter of livelihood,question of bread and livelihood,A dime a dozen
+लाभ-हानि की परवाह न करना,to not care about profit or loss,to not care about profit-loss,To bite the hand that feeds you
+लाख टके की बात,a very valuable point,a matter worth a hundred thousand rupees,A drop in the bucket
+लकड़ी बेकार करना,to waste effort (colloquial sense),to waste wood,Stage-2 output:
+लड़ाई का मूड बनाना,to get into a quarrelsome mood,to make a mood for a fight,Stay ahead of the game
+शक की सूई अटकना,to remain doubtful,the needle of doubt to get stuck,To be vague
+सड़कछाप व्यवहार,"rude, rough behavior",street-stamped behavior,"To act in a manner that is uncharacteristic of oneself, often due to external circumstances or influence."
+सिर पर चढ़ाना,to pamper excessively,to lift onto the head,Stage-2 output (justification):
+सिर पर हाथ फेरना,to bless affectionately,to stroke the head with the hand,To put one's head in the sand
+सिर पर तूफ़ान टूटना,to face a sudden calamity,a storm to break upon the head,A sudden change in the direction of a journey or travel.
+सिर खपाना,to rack one’s brains,to wear out the head,Stage-2 output (reasoning):
+सिर ऊँचा करना,to bring honor,to raise the head high,stand out
+सिर झुकाना,to show respect or shame,to bow the head,To bow one's head in submission or humility.
+सुबह के भूले शाम को घर आ जाएँ तो भूले नहीं कहलाते,better late than never,"if the morning’s lost returns home by evening, he’s not called lost",Stage-2 output:
+अक्ल के घोड़े दौड़ाना,to overthink unnecessarily,to run the horses of intellect,<select the most relevant English idiom>
+अव्वल दर्जे का,of top quality,of first grade,Last in line
+अधेड़ उम्र की दिक्कत,middle-age related issues (colloq.),difficulty of middle age,Other: <if there are any other suitable English idioms>
+अंगारों पर चलना,to go through hardships,to walk on embers,To be in a pickle
+अंगूठा दिखाना,to refuse bluntly,to show the thumb,To show a small detail or aspect of something.
+अंगूठा छाप,an illiterate person (dated),thumb-impression (person),<select the most relevant English idiom>
+अंधेर नगरी चौपट राजा,a place with complete mismanagement,"city of darkness, ruined king",A dark city with a crooked king
+अन्नदान महादान,charity of food is supreme (proverbial),gift of food is the great gift,Reason: <select the most relevant English idiom> and explain why it is the best match for the Hindi idiom.
+अक्ल ठिकाने लगना,to come to one’s senses,sense to settle into place,"To be preoccupied with one's own thoughts and feelings, often to the point of neglecting others."
+कानून हाथ में लेना,to take law into one’s own hands,to take the law in one’s hand,Take control
+कान पर हाथ रखना,to be alarmed or scared,to place a hand on the ear,To ignore a problem
+कानोंकान खबर न होना,no one gets wind of it,not an ear-to-ear whisper of news,Reasoning: <select the most relevant English idiom> best matches the definition of the Hindi idiom because <reasoning>.
+काला-सफेद करना,to decide authoritatively,to make black-white,change one's mind
+कलेजे पर पत्थर रखना,to harden one’s heart to do something tough,to place a stone on the liver,Stand your ground
+किसी की बैंड बजाना,to thrash or defeat thoroughly,to play someone’s band,Reason: <select the most relevant English idiom> and explain why it matches the Hindi idiom.
+खुल्लम-खुल्ला कहना,to say openly,to say in the open-open,Stage-2 output:
+खून गर्म होना,to feel fired up,blood to become hot,To get hot under the collar
+खुशी के मारे फूले न समाना,to be overjoyed,"for joy, to swell and not be contained",To be in a good mood
+गला सूख जाना,to feel nervous or scared,the throat to dry up,To be exhausted
+गला काट प्रतिस्पर्धा,cut-throat competition,throat-cut competition,give it your best
+गलती पर पर्दा डालना,to cover up a mistake,to put a curtain over a mistake,Cover up one's mistakes
+गले की फाँस,a nagging problem,a thorn in the throat,To have a burning desire
+गले मिलना,to embrace warmly (reconciliation),to meet at the neck (embrace),<select the most relevant English idiom>
+घड़ी-घड़ी रंग बदलना,to be fickle,to change color every hour-hour,Change your tune
+घूम-फिरकर वहीं आना,to end up at the same point,to go round and come back there,go round in circles
+चक्कर काटना,to make repeated rounds (bureaucracy),to cut circles,Break the cycle
+चक्की में पिसना,to be crushed by circumstances,to be ground in a mill,To be in a tight spot
+"चौबे जी छब्बे बने, दुबे बने न",to aim higher and lose what you had,"Mr. Choubey became ‘Chhabbe’, (yet) didn’t become Dubey",A person who is always complaining will eventually fall asleep.
+चूँ भी न करना,to not utter a word,to not utter even ‘choo’,Keep your thoughts to yourself.
+चोली-दामन का साथ,inseparable relationship,the companionship of blouse and veil,Other: <select the other English idioms that match the definition>
+छोटा मुँह बड़ी बात,big talk from a small person,"small mouth, big talk",<select the most relevant English idiom>
+जुबान पर ताला लगाना,to keep one’s mouth shut,to put a lock on the tongue,<select the most relevant English idiom>
+जुबान देना और निभाना,to keep a promise,to give one’s word and keep it,<select the most relevant English idiom>
+जुबान की कसम,a solemn vow,oath of the tongue,Other: <select the other relevant English idiom>
+जान पर बन आना,to be in grave danger,to come upon the life,"Take it on the chin"" or ""Take it like a man"
+जान हथेली पर लेकर फिरना,to live riskily,to carry one’s life on the palm,Other: <select the other relevant English idioms>
+जेब ढीली करना,to spend money,to loosen the pocket,To withdraw money from a bank account.
+जेब काटना,to pickpocket / cheat,to cut the pocket,To cut off one's financial resources or savings.
+जोर आज़माइश करना,to test strength,to do strength-testing,<select the most relevant English idiom>
+जोर-शोर से करना,to do with great enthusiasm,to do with force and noise,To do something with great effort and determination.
+टेंट-टून बजना,to make a loud scene (colloq.),to go ‘tain-toon’ (clang loudly),Reason: <select the most relevant English idiom>
+ठाठ से रहना,to live in style,to live with pomp,Stage-1 output:
+डंका पीटना,to announce loudly,to beat the kettle-drum,<select the most relevant English idiom>
+ढिंढोरा पीटना,to brag publicly,to beat the public drum,<select the most relevant English idiom>
+ढील देना,to be lenient,to give slack,To be open and honest about one's feelings and thoughts.
+तारीफ़ के पुल बाँधना,to heap praises,to build bridges of praise,Stage-2 output (justification):
+तह तक पहुँचना,to get to the root cause,to reach the bottom layer,To reach the end of the line
+तन-मन-धन से,"with body, mind, and wealth; wholeheartedly","with body, mind, and wealth",To have a heart of gold
+तार-तार करना,to tear apart reputation,to make into threads,To talk non-stop
+तार जोड़ना,to connect the dots,to join the wires,Stage-1 output: <definition + candidates>
+तीस मार खाँ,a self-proclaimed hero; boaster,Tees Mar Khan (Mr. ‘thirty-strikes’ Khan),Stage-2 output:
+तीन में न तेरह में,irrelevant to any group,neither in the three nor in the thirteen,Stage-2 output (justification):
+तेल-मसाज करना,to flatter for benefit (colloq.),to do oil massage,Stage-2 output:
+थक-हार कर बैठ जाना,to give up after trying,to sit down tired and defeated,<select the most relevant English idiom>
+थाली का बैंगन बनना,to switch sides easily (opportunist),to become the plate’s eggplant,<select the most relevant English idiom>
+दिमाग का पारा चढ़ना,to lose temper,the mind’s mercury rising,Aha! moment
+दिमाग सातवें आसमान पर,to be overconfident or elated,the mind on the seventh sky,The seventh heaven
+दिमाग की बत्ती जलना,to suddenly get an idea,the brain’s lamp lighting,Aha moment
+दाँव खेलना,to take a calculated risk,to play a stake,walk on eggshells
+दाँव-पेंच आज़माना,to use tricks or tactics,to try stakes and tricks,To be confident and self-assured
+नाक में नकेल डालना,to bring someone under strict control,to put a halter in the nose,<select the most relevant English idiom>
+नाक रगड़ना,to beg desperately,to rub the nose,To feel butterflies in one's stomach.
+नाक ऊँची रखना,to uphold one’s honor,to keep the nose high,Think highly of oneself
+नाक काट कर रख देना,to disgrace someone completely,to cut off the nose and set it down,Cut to the chase
+नाक पर दम होना,to be short-tempered / easily angered,to have breath on the nose,To have a headache on the nose
+नाक का बाल होना,to be a favorite / close confidant,to be the hair of the nose,A headache
+कान खोलकर सुनना,to listen attentively,to listen with ears open,Stage-2 output:
+कान देना,to pay attention,to give an ear,Stage-2 output:
+कान पकड़ कर माफी मांगना,to apologize earnestly,to hold the ears and ask forgiveness,To ask for forgiveness by covering one's ears.
+कान के नीचे देना,to slap / scold sharply,to give a blow beneath the ear,To be in a state of confusion or disarray
+कान में भनक पड़ना,to get a hint of something,for a hint to fall into the ear,Aha!
+कान फटना,to hear loud/harsh sounds,for the ear to tear,Stage-2 output (justification):
+कान कतरना,to cheat a little from all sides,to clip the ears,To hear something that is not true or not important.
+आँख बचाकर निकलना,to slip away unnoticed,to slip out hiding from the eyes,To take a step back and not get involved in a difficult situation.
+आँखें चार होना,to exchange glances / fall in love,for the eyes to become four,To have a wide range of interests or to be curious about many things
+आँखें चुराना,to avoid facing someone,to hide the eyes,Steal eyes
+आँखें तिरछी करना,to squint in doubt,to make the eyes slant,Disregard
+आँखों पर पट्टी बंधना,to be blinded to the truth,for a bandage to be tied on the eyes,To put a band-aid on a problem
+आँखों में बसाए रखना,to cherish someone deeply,to keep (someone) lodged in the eyes,<select the most relevant English idiom>
+आँखों ही आँखों में इशारा करना,to communicate silently,to signal within the eyes themselves,"To convey a message through non-verbal cues, such as gestures or facial expressions."
+हाथ आजमाना,to try one’s hand at something,to try the hand,To have a firm grip on something.
+हाथ पक्का होना,to be highly skilled,for the hand to be firm,Other: <select the other relevant English idiom>
+हाथ कंगन,obvious proof; needs no words,bangle on the hand,To be in a pinch
+हाथ रोक लेना,to restrain oneself,to stop the hand,To hold one's tongue
+"हाथी के दाँत खाना और, दिखाना और",hypocrisy; different inside vs outside,the elephant’s teeth are for eating and (others) for showing,Take a look
+हाथ से हाथ धो बैठना,to lose something completely,to wash hand from hand and be left sitting,work like a machine
+हाथ धो बैठना,to suffer total loss,to wash one’s hands and sit down,Stage-1 output: <english idiom> - <definition>
+हाथी के पाँव में सबका पाँव,the mighty controls all,"in the elephant’s foot, everyone’s foot",A bird in the hand is worth two in the bush.
+हाथ पर रखकर देखना,to test practically,to keep it on the hand and see,Keep an eye on
+हाथ टेक देना,to surrender,to place the hands down (in surrender),to take someone's hand
+पैरों तले की ज़मीन हिलना,to be shocked badly,the ground under the feet to shake,To be on shaky ground
+पैर पटकना,to throw a tantrum,to stamp the foot,Aha moment
+पैरों पर कुल्हाड़ी चलाना,to self-sabotage,to swing an axe on one’s own feet,<select the most relevant English idiom>
+पैरों की जूती समझना,to treat with utter disdain,to consider (someone) the shoe of the feet,To see is to believe
+पैर उखड़ जाना,to lose grip or stability,for the feet to be uprooted,Fall flat on one's face
+पैरों की बेड़ियाँ,constraints that bind progress,shackles of the feet,To be in a pickle
+पाँव पीछे हटाना,to back out,to move the foot back,Turn a blind eye
+पैरों पर खड़ा होना,to become self-reliant,to stand on one’s feet,To be in a precarious position
+"मुँह में राम, हाथ में छुरी",to be two-faced,"Ram in the mouth, knife in the hand",Believe in yourself
+मुँह पर लौकी रखना,to keep completely silent,to place a bottle gourd on the mouth,"Others: <list the remaining relevant English idioms, separated by comma>"
+मुँह मियाँ मिट्ठू,to boast about oneself,mouth’s own ‘Mitthu’ (parrot),The cat's out of the bag.
+मुँह का कौर छीनना,to snatch someone’s rightful share,to snatch the morsel from the mouth,Keep your mouth shut
+मुँह का रख लेना,to save face,to keep/save the face of the mouth,Keep one's mouth shut
+मुँह की बात निकल जाना,to blurt something out,the words of the mouth to slip out,To fib
+माथा ठनकना,to get suspicious suddenly,the forehead to tingle,to be at a loss for words
+माथा ठन जाना,to clash over ego,for foreheads to clash,To have a headache
+माथे पर लिखना,to be written on one’s fate/forehead,to be written on the forehead,To write on one's forehead
+माथा टेकना,to bow in submission,to bow the forehead,Take it literally
+दिल का हाल समझना,to understand true feelings,to understand the state of the heart,To know someone's heart
+दिल बड़ा करना,to be generous/forgiving,to make the heart big,To have a deep emotional bond
+दिल छोटा करना,to get discouraged,to make the heart small,Stage-2 output:
+दिल बहला फुसलाना,to console and distract,to amuse and cajole the heart,To burst with emotion
+दिल का धनी,large-hearted person,lord/owner of the heart,A heart of gold
+दिल खोलकर हँसना,to laugh heartily,to laugh with the heart open,"To laugh uncontrollably, often due to a sudden realization or realization."
+दिल लगा कर पढ़ना,to study diligently,to study with the heart attached,To have a deep emotional attachment to something.
+दिल हार बैठना,to lose one’s heart (fall in love),to sit having lost the heart,To be heartbroken
+दिमाग ठनकना,to get suspicious,for the brain to tinkle/click,<select the most relevant English idiom>
+दिमाग चकरा जाना,to get dizzy/confused,the brain to go dizzy,Have a flash of inspiration
+दिमाग ठंडा रखना,to stay calm,to keep the brain cool,To stay level-headed
+दिमाग घिसना,to use brain excessively,to grind/wear down the brain,<select the most relevant English idiom>
+दिमाग पर जोर डालना,to strain the brain,to put pressure on the brain,Get your head in the game
+दिमाग सातवें आसमान पर होना,to be over the moon / cocky,the brain to be on the seventh sky,To be on cloud nine
+दाँत पीसकर रह जाना,to swallow anger silently,to remain gnashing the teeth,To be so focused on one's own interests that they neglect others
+दाँत नाखून दिखाना,to show aggression,to show teeth and nails,To reveal one's true colors
+दाँतों तले अंगुली आ जाना,to be stunned with surprise,for a finger to come under the teeth,Stage-2 output (justification for the output):
+दाँत खींच लेना,to break someone’s courage,to pull out the teeth,Bite the bullet
+जुबान चलती रहना,to keep blabbering,the tongue to keep running,Stage-2 output (justification):
+जुबान मीठी करना,to speak sweetly to please,to make the tongue sweet,To sugarcoat something
+जुबान फँसना,to get tongue-tied,the tongue to get stuck,To lose one's temper
+जुबान दराज़ होना,to be insolent in speech,the tongue to be long,To be in a pickle
+जुबान पर लगाम लगाना,to control speech,to put a bridle on the tongue,To put a bandage on a wound
+कलेजे में आग लगना,to burn with jealousy/grief,for fire to catch in the liver,To have a burning desire
+कलेजे में ठंडक पड़ना,to feel satisfied after justice,for coolness to fall in the liver,To feel a chill
+खून खौल उठना,to boil with rage,the blood to boil up,Stage-2 output:
+खून खून होना,to be very close blood relations,for blood to be blood,Stage-2 output (justification):
+खून पिला देना,to torment someone severely,to make (someone) drink blood,Stage-2 output (justification):
+खून में दौड़ना,to be in one’s nature,to run in the blood,To act rashly
+खून पिघलना,to feel compassion,for the blood to melt,<select the most relevant English idiom>
+खून मांगना,to demand revenge,to demand blood,Take revenge
+पसीना सुखाना,to exploit someone’s hard work,to dry the sweat,To ease the pain or discomfort.
+पसीना पोछना,to relieve someone’s hardship,to wipe the sweat,Stage-2 output (justification):
+पसीना निकाल देना,to scare/work someone badly,to make the sweat come out,Learn from experience
+रातों की नींद हराम करना,to keep someone sleepless,to make the sleep of nights forbidden,Other options: <list the other options>
+रातों रात भाग्य बदलना,fortune to change overnight,to change fate overnight,Stage-1 output (definition + candidates): <english idiom>
+रात काटना,to somehow pass a tough night,to cut/pass the night,to cut off time or delay something
+सिर पर चढ़ बैठना,to take undue advantage of leniency,to climb and sit on the head,To stand on one's head
+सिर पर हाथ रखना,to bless or protect,to place a hand on the head,Hold your head high
+सिर पर कर्ज़ चढ़ना,to be burdened with debt,for debt to climb onto the head,To have a headache
+सिर से पानी गुजरना,to cross all limits / patience,for water to pass over the head,Stage-2 output:
+सिर फोड़ लेना,to take all the blame/work alone,to break one’s head,Shake off the blues
+सिर फटना,to get a splitting headache / big fight,for the head to split,Stage-2 output (justification):
+सिर घुमाना,to confuse someone,to turn/spin the head,Stage-2 output:
+सीना ठोकना,to boast confidently,to thump the chest,<select the most relevant English idiom>
+सीना चौड़ा होना,to feel proud,for the chest to become broad,Have a lot of choices
+सीना फुलाना,to puff up with pride,to inflate the chest,Stage-2 output (justification):
+सीने पर पत्थर रखना,to do something painful bravely,to place a stone on the chest,Stage-2 output (justification):
+सीने में कील चुभना,to feel deep hurt,for a nail to prick in the chest,Reason: <select the most relevant English idiom> and explain why it is the best match.
+छाती पर बोझ रखना,to keep guilt/weight on heart,to place a load on the chest,To hold something back or suppress it.
+छाती धौंकनी चलना,to pant with anger/fear,for the chest’s bellows to pump,To be in a pickle
+छाती पर मूँग दल देना,to oppress cruelly,to grind mung beans on the chest,To be burdened with a heavy responsibility or task.
+आगाह करना,to warn in advance,to forewarn,To tell someone about yourself
+आग-बबूला कर देना,to enrage someone greatly,to turn (someone) fire-furious,Stage-1 output: <english idiom>
+आग में तपना,to go through severe trials,to be tempered in fire,Burn the candle at both ends
+आग ठंडी कर देना,to pacify anger,to make the fire cool,To make someone feel uncomfortable.
+आग फूँकना,to provoke conflict,to blow the fire,The cat is out of the bag
+आग लगा बैठना,to cause trouble unknowingly,to set fire and sit (having done it),To feel overwhelmed
+आग बुझाना,to resolve a heated situation,to extinguish the fire,Douse the flames
+आग से निकाल कर राख करना,to ruin after rescuing,to take out from fire and make ash,put out a fire
+रंग पकड़ना,to mature or become noticeable,to catch color,Stage-2 output:
+रंग उड़ जाना,to lose color/enthusiasm,for color to fly away,Color out of control
+रंगत फीकी पड़ना,to look dull/sickly,for the complexion to turn faint,In a state of chaos
+रंग चढ़ना,to intensify (influence/celebration),for the color to mount,To change one's appearance or behavior to fit in with a group or situation.
+रंग बदलते देखना,to witness changing loyalties,to see colors changing,<select the most relevant English idiom>
+नाक सूँघना,to pry into someone’s matters,to sniff the nose,To hold one's tongue
+नाक का बाल बन जाना,to become someone’s favorite,to become the hair of the nose,To be a part of something or someone.
+नाक दबा देना,to silence forcefully,to press the nose down,Suppress one's emotions
+नाक का पानी उतरना,to be utterly humiliated,for the nose’s water to come down,Other: <list the other similar English idioms>
+कान खींचना,to scold/punish strictly,to pull the ear,Pull one's ears
+कान देना-न देना,to ignore what’s being said,to give an ear—or not,Be open-minded
+कान फूंकना,to warn privately,to blow into the ear,To hear something that is not true or to hear something that is not relevant.
+कान पर हाथ धरे रह जाना,to be shocked speechless,to remain with a hand placed on the ear,To be on guard
+आँख मिलाना,to meet the gaze confidently,to join/match eyes,To come to an agreement or compromise.
+आँख नीची करना,to lower eyes in shame,to lower the eyes,Look down upon
+आँखें झुकाना,to be modest/shy,to cast the eyes down,To close one's eyes
+आँखें तरेर कर देखना,to glare angrily,to look by glaring the eyes,<select the most relevant English idiom>
+आँखें चमक उठना,to become excited,for the eyes to light up,आँखें चमक उठना - एक व्यक्ति अपने विचारों को बदल देता है और अपने आत्मविश्वास को बढ़ाता है।
+आँखें नम होना,to get teary-eyed,for the eyes to become moist,To bow one's head in submission or humility.
+आँखें धोखा खा जाना,to be visually deceived,for the eyes to be deceived,Reason: <select the most relevant English idiom>
+आँख का तारा,apple of the eye,the star of the eye,See the wood for the trees
+आँख का तिल,someone extremely dear,the mole/beauty-spot of the eye,A bird in the hand is worth two in the bush
+हाथ से काम निकलना,to get work done by others,for work to come out from the hand,<select the most relevant English idiom>
+हाथ गंदा करना,to do dirty/lowly work,to make the hand dirty,To spread one's wings
+हाथ पर नाग रखना,to sit idle doing nothing,to keep a snake on the hand,Hold onto your convictions
+हाथ डूबना,to sink resources into loss,for the hand to drown,frozen in fear
+हाथ थामे रह जाना,to stay dependent,to remain holding the hand,"To stop or halt an action, often used in a figurative sense"
+हाथ काटकर अलग करना,to sever ties completely,to cut off the hand and separate,To cut off one's hand to distance oneself from something
+पाँव धरना,to set foot (begin),to set/place the foot,in a pickle
+पाँव पसारकर सोना,to relax without worry,to sleep with feet stretched out,To fall asleep while clutching onto something tightly.
+पाँव फिसलना,to make a slip/mistake,for the foot to slip,lose one's grip
+पाँव भारी होना,to be pregnant (euphemistic),for the foot to be heavy,<select the most relevant English idiom>
+पाँव के नीचे से जमीन खींच लेना,to pull the rug from under,to pull the ground from under the feet,<select the most relevant English idiom>
+पाँव तले रौंदना,to crush mercilessly,to crush under the feet,Other: <list other possible English idioms>
+पाँव रोक देना,to restrain someone,to stop the foot,<select the most relevant English idiom>
+मुँह फुलाना,to sulk,to puff the mouth,to be too busy to do anything
+मुँह पर ताला लगाना,to stay tight-lipped,to put a lock on the mouth,To put a stop to something
+मुँह तक आकर लौट जाना,to almost say but stop,to come up to the mouth and turn back,To revert to one's former state
+मुँह फूटना,to blurt under pressure,for the mouth to burst (into speech),To tell a lie
+मुँह के बल गिरना,to fail badly,to fall face-first,To be affected by a sudden change in mood or behavior
+मुँह-माँगा दाम,price asked without bargaining,price asked by the mouth,To ask for something without making a fuss or being too demanding.
+मुँह में खून लगना,to become greedy after first gain,to get blood in the mouth,To bite off more than one can chew
+मुँह में लौकी डालना,to hush someone completely,to put a bottle gourd in the mouth,Speak your mind
+मुँह का स्वाद बदलना,to lighten the mood,to change the taste of the mouth,Change one's tune
+माथा ठोककर मानना,to accept with resignation,to accept by knocking the forehead,To take someone's word for it.
+माथे का पसीना पोंछना,to finish hard work,to wipe the sweat of the forehead,Have a headache
+माथे की लकीरें,lines of fate/concern,lines on the forehead,speak in riddles
+माथे पे शिकन,wrinkles of worry,wrinkles on the forehead,Reason: <explain why it's the best fit>
+माथा घूम जाना,to feel dizzy/overwhelmed,for the head/forehead to spin,to be in a state of confusion
+माथे पर हाथ मारना,to smack the forehead in regret,to strike the hand on the forehead,To be in a pickle
+दिल दहला देना,to horrify,to make the heart tremble,have a heart attack
+दिल में घर कर लेना,to make a place in one’s heart,to make a home in the heart,Stage-2 output:
+दिल पर चोट लगना,to be emotionally hurt,to have a blow strike the heart,Other: <select the other English idioms that are relevant>
+दिल पे लेना-न लेना,to take/not take to heart,to take on the heart—or not,To have a strong feeling or emotion.
+दिल का रोग,heartache/grief,disease of the heart,Heartache
+दिल की बात कहना,to confide,to say the heart’s matter,To speak from the heart
+दिमाग घूम जाना,to get furious or confused,the mind spinning,To have a hare-brained scheme.
+दिमाग पर पत्थर रखना,to force oneself against feelings,to place a stone on the brain,"To put a stone in one's head, meaning to make someone think about something or to make them realize something."
+दिमाग में कील ठोकना,to insist hard on a point,to hammer a nail into the brain,To put one's mind at ease or to calm one's thoughts
+दिमाग की नस दबना,to lose calm badly,for the brain’s vein to be pressed,Reason: <select the best reason>
+दिमाग ठप्प होना,to have a mental block,for the brain to be shut down,Aha!
+दाँत दिखाना-न दिखाना,to mock or avoid mocking,to show the teeth—or not show,Put your foot in your mouth
+दाँत लगना,to become accustomed (badly),for the teeth to catch,To have a toothache
+दाँत भींचना,to endure silently,to clench the teeth,Keep your mouth shut
+दाँत की नोक पर रखना,to remember exactly,to keep on the tip of the tooth,To put something in the spotlight
+दाँत-काटे का बैर,deadly enmity,tooth-bitten enmity,Stage-1 output:
+जुबान की मिठास,sweetness of speech,sweetness of the tongue,to be a stick in the mud
+जुबान सरकना,to slip of the tongue,for the tongue to slip,to be in a mess
+जुबान की धार,sharpness of words,the edge/blade of the tongue,<select the most relevant English idiom>
+जुबान को ताला,to keep silent,a lock to the tongue,In a pickle
+खून खौल जाना,to boil with rage,for the blood to boil,To be in a state of extreme fear or anxiety.
+खून सूख जाना,to be terrified or horrified,for the blood to dry up,To lose one's spark
+खून पीना,to exploit harshly,to drink blood,To take a chance
+खून के आँसू रोना,to suffer painfully,to cry tears of blood,Stage-2 output (justification):
+पसीना चूना,to toil severely,for sweat to drip,In a pickle
+पसीना टपकना,to sweat profusely,for sweat to drip,To be bogged down by something.
+पसीना रोक देना,to relieve / cool down,to stop the sweat,Put off
+सीने में साँप लोटना,to be eaten up by jealousy,for a snake to roll in the chest,Stage-2 output:
+सीने-से-लगाना,to embrace warmly,to press to the chest,To be in a state of confusion or bewilderment.
+सीना-जोरी करना,to browbeat,to do chest-force (browbeating),Stage-2 output:
+सीने में धुआँ उठना,to smolder with anger,for smoke to rise in the chest,To feel a sudden surge of excitement
+आग सलाख करना,to test by ordeal,to do a fire-rod ordeal,To set something ablaze
+आग में घिरना,to be surrounded by trouble,to be surrounded in fire,To be in a pickle
+आग सेंकना,to take advantage amid conflict,to warm oneself at the fire,in a pickle
+आग ओकना,to speak venomously,to spew fire,Stage-2 output:
+आग बुझा बैठना,to lose spirit prematurely,to sit having put out the fire,To be at loggerheads
+रंग में रंग जाना,to blend in completely,to be colored in the same color,To add more color to something
+रंग उछालना,to malign someone publicly,to fling/throw color,Stir up trouble
+रंगत लौटना,to regain glow/cheer,for the complexion to return,turning around
+नाक घुसाना,to interfere unnecessarily,to insert the nose,To be in a state of chaos or disorder.
+नाक मरोड़ना,to insult or humiliate publicly,to twist the nose,To have a headache
+नाक पर गुस्सा होना,to get angry quickly,to have anger on the nose,To be ticked off
+नाक नीचे करना,to make someone feel inferior,to put the nose down,In a pickle
+नाक का बाल खींचना,to criticize harshly,to pull the hair of the nose,Take a chance
+कान में भनक लगना,to get a small hint about something,for a hint/buzz to catch in the ear,Aha! moment
+कान में फूँक मार देना,to secretly manipulate someone,to blow a puff into the ear,To give someone the cold shoulder
+कान पकड़े रह जाना,to stay astonished or scared,to remain holding the ears,To be completely engrossed in something
+कान के नीचे थप्पड़ मारना,to slap soundly (figuratively punish),to slap below the ear,to hit someone on the head with a stick
+कान में सीटी बजना,to hear unpleasant sounds / tinnitus,for a whistle to sound in the ear,to go on and on
+आँखों से आँसू पोछना,to comfort someone in sorrow,to wipe tears from the eyes,<select the most relevant English idiom>
+आँखों में बसा लेना,to remember fondly,to lodge/settle in the eyes,Can't get it out of one's head
+आँखें फेर लेना,to turn away / stop supporting,to turn the eyes away,Put your foot in your mouth
+आँख मूँदकर भरोसा करना,to trust blindly,to trust with eyes closed,hold onto a belief despite evidence to the contrary
+आँखों के आगे अंधेरा छा जाना,to be momentarily shocked,for darkness to spread before the eyes,Aha moment
+आँख बचाकर काम करना,to do secretly,to do the work after evading the eyes,Stage-1 output: <english idiom> <definition> <candidates>
+आँख खुलना,to become aware of truth,for the eye to open,To open one's eyes and see the truth
+आँखों में आँसू भर आना,to feel deeply emotional,for tears to fill the eyes,<select the most relevant English idiom>
+आँखें नीची करना,to bow in embarrassment or respect,to lower the eyes,To look downcast
+हाथ तंग होना,to be financially tight,for the hands to be tight,To be hesitant about something
+हाथ ऊपर होना,to be superior in status or strength,for the hand to be above,Stage-2 output:
+हाथ नीचे होना,to lose or be defeated,for the hand to be below,To be down and out
+हाथ जोड़ना,to plead or show respect,to join the hands,Stage-2 output:
+हाथ में काम न होना,to be idle,to have no work in the hand,Stage-2 output:
+हाथ न लगाना,to avoid touching / involvement,to not touch with the hand,Stage-2 output:
+हाथ छुड़ाना,to escape from control,to pull the hand free,"To give up on something or someone, typically when it is no longer possible or desirable to continue."
+हाथ रोक देना,to stop mid-action,to stop the hand,Keep your cards close to your chest
+पैर रखना भी पाप,to be forbidden to enter,even to set foot is a sin,Stage-2 output (just the best idiom):
+पैर जमने न देना,to obstruct someone’s progress,to not let the feet set,Don't let the cat out of the bag.
+पैर पर पाँव रखना,to challenge or overtake,to place foot upon foot,To place one's feet on the shoulders of another person.
+पैरों में गिरना,to beg for mercy,to fall at the feet,To be in a pickle
+पैर भारी होना,to bring bad luck (figuratively),for the foot to be heavy,To be burdened
+पैर धोना,to show deep respect,to wash the feet,Second: <select the second most relevant English idiom>
+पैर पकड़ लेना,to surrender humbly,to catch/hold the feet,To hold onto something tightly or firmly.
+पैर रोक लेना,to hesitate before action,to hold back the foot,keep one's mouth shut
+मुँह मोड़ लेना,to turn away emotionally,to turn the mouth/face aside,Stage-2 output:
+मुँह बंद कर देना,to silence completely,to shut the mouth,Keep your mouth shut
+मुँह चलाना,to speak unnecessarily,to run the mouth,to talk one's head off
+मुँह लगाना,to get too familiar with elders,to put (someone) to the mouth,Stage-2 output (justification):
+मुँह मीठा होना,to taste success,for the mouth to become sweet,To be persuasive and charming
+मुँह बिचकाना,to show irritation or disgust,to pucker/twist the mouth,Keep your mouth shut
+मुँह पीटना,to cry loudly in distress,to beat the mouth/face,Keep your mouth shut
+मुँह धुलवाना,to publicly humiliate,to have the mouth/face washed,Stage-2 output (justification):
+माथे पर शिकन डालना,to frown slightly,to put a crease on the forehead,Stage-1 output: <english idiom>
+माथे पर लकीरें पड़ना,to show anxiety or anger,for lines to fall on the forehead,To have a bad headache
+दिल में जगह बनाना,to win affection,to make a place in the heart,<select the most relevant English idiom>
+दिल में काँटे चुभना,to feel deeply hurt,for thorns to prick in the heart,To have a strong craving or longing for something
+दिल में खटका होना,to have a lingering doubt,for a jolt/unease to be in the heart,To have a heart attack
+दिल में गुस्सा रखना,to hold a grudge,to keep anger in the heart,Hold back tears
+दिल की गहराई से,from the bottom of one’s heart,from the depth of the heart,to have a heart of gold
+दिल हिल जाना,to be shaken emotionally,for the heart to shake,The heart leaps with joy.
+दिल बाग़-बाग़ होना,to feel immense joy,for the heart to become a garden,"To be in a state of confusion or bewilderment, often due to conflicting emotions or thoughts."
+दिल टूटकर रह जाना,to be devastated,to remain with the heart broken,to break down
+दिल को सुकून मिलना,to find peace,for the heart to find peace,To have peace of mind
+दिमाग खराब कर देना,to frustrate someone badly,to make the brain bad,To make someone think something that is not true.
+दिमाग ठिकाने लग जाना,to become sensible again,for the brain to be set in place,Aha moment
+दिमाग पर बोझ डालना,to overthink,to place a burden on the brain,Stage-2 output (justification):
+दिमाग गुम होना,to lose one’s senses,for the brain to be lost,"To be in a state of confusion or disorientation, often due to excessive thinking or overthinking."
+दिमाग की बत्ती बुझ जाना,to go blank suddenly,for the brain’s lamp to go out,Aha moment
+दाँत किटकिटाना,to shiver in cold or fear,to chatter the teeth,To be on pins and needles
+दाँत नाखून से काम लेना,to struggle hard,to use teeth and nails,To work like a dog
+दाँतों तले अंगुली दबाना,to be stunned in awe,to press a finger under the teeth,Hold one's tongue
+जुबान बंद कर देना,to silence someone completely,to shut the tongue,To put a stop to something or someone
+जुबान काट लेना,to regret words spoken,to bite the tongue,To cut off one's nose to spite one's face
+जुबान कसना,to rebuke harshly,to tighten the tongue,To cut off the source of water supply
+जुबान के पक्के,to be true to one’s word,firm/steadfast of tongue,To be in a pickle
+जुबान पर ताला,to keep secrets locked,a lock on the tongue,To be at a loss for words
+जुबान फिसल जाना,to say something accidentally,for the tongue to slip,To lose one's temper
+जुबान सरक जाना,to misspeak,for the tongue to slide,To be in a state of confusion or bewilderment.
+जुबान की मिठास रखना,to speak kindly,to keep sweetness of the tongue,To cling to something
+खून का रिश्ता निभाना,to uphold family ties,to uphold a blood relationship,To have a deep emotional connection with someone or something.
+पसीना रोकना,to relieve effort,to stop sweat,Hold one's tongue
+पसीने-पसीने होना,to be drenched with effort,to become sweat-sweat (drenched in sweat),To be on pins and needles
+सीने में दर्द होना,to feel emotional pain,to have pain in the chest,To have a chest pain
+सीने में जलन होना,to feel envy,to have burning in the chest,To be on edge or agitated.
+सीने में लावा उठना,to boil in anger,for lava to rise in the chest,Stage-2 output (justification):
+सीने पर बोझ होना,to feel guilt or burden,to have a burden on the chest,Have a headache
+सीने में आग लगना,to feel jealous or provoked,for fire to be set in the chest,To have a meltdown
+रंग दिखाना,to reveal true colors,to show color,Stage-2 output (justification):
+रंगीन होना,to enjoy life freely,to become colorful,In the pink
+रंग फीका पड़ना,to lose enthusiasm,for the color to fade/pale,To be in over one's head
+रंग उड़ना,to fade away,for the color to fly/fade,To change one's appearance or personality dramatically.
+रंग जमना,to gain traction,for color to set,The cat's out of the bag
+रंग लगना,to start celebrating,to have color applied,Stage-2 output:
+रंग में रँग जाना,to blend or adapt fully,to be dyed in the color,To add insult to injury
+अति सर्वत्र वर्जयेत,too much of anything is bad,excess should be avoided everywhere,Stage-2 output:
+अपना उल्लू सीधा करना,to act selfishly for personal gain,to straighten one’s owl,Tell the truth
+अक्ल ठिकाने लगाना,to make someone sensible,to set the sense in its proper place,To put one's mind at ease
+अंगूर खट्टे हैं,to pretend disinterest after failure,the grapes are sour,sour grapes
+अपनी डींगे हाँकना,to brag about oneself,to blare one’s own boasts,To be obstinate and refuse to change one's mind or behavior.
+अपनी नाक ऊँची रखना,to maintain self-respect,to keep one’s nose high,Stand up for oneself
+अपना राग अलापना,to talk only about oneself,to chant one’s own tune,Open up about your feelings
+अंधे का हाथ बटेर लगना,to gain something valuable by accident,a blind man’s hand finds a quail,blind as a bat
+अंधेरे में रखना,to hide the truth deliberately,to keep (someone) in the dark,<select the most relevant English idiom>
+अपनी गलती मानना,to accept one’s fault,to accept one’s own mistake,To be your own worst enemy
+अपनी डफली अपना राग,to do things one’s own way,"one’s own drum, one’s own tune",Stage-2 output:
+अक्ल का पैमाना टूट जाना,to act beyond reason,the gauge of wisdom breaks,to lose one's sense of reality
+अक्ल घास चरने जाना,to act utterly foolish,the intellect goes to graze grass,<select the most relevant English idiom>
+अंधे के हाथ तिलक लगना,rare stroke of luck,a tilak falls upon a blind man’s hand,A dog's breakfast
+अंधा बांटे रेवड़ी,to favor one’s own people,a blind man distributes sweets,Stage-2 output:
+अंधे की लकड़ी,someone completely dependent on another,the blind man’s stick,A person who is blind cannot see.
+अंधे की लाठी छीनना,to exploit the helpless,to snatch the blind man’s staff,Reason: <select the most relevant English idiom>
+अंधे की भी आँख खुल गई,even the ignorant realized the truth,even the blind man’s eye opened,A blind man can see.
+अंधे की रोटी गीली,when bad luck persists,the blind man’s bread is soggy,A dark doughnut
+"अंधे का नाम सुना, आँखों से नहीं देखा",to hear about something but not experience it,"heard the name, not seen with the eyes",<select the most relevant English idiom>
+"अंधा क्या चाहे, दो आँखें",people desire what they lack most,what does a blind person want—two eyes,<select the most relevant English idiom>
+अंधेरे में रखा जाना,to be kept uninformed,to be kept in darkness,Stage-1 output: <select the most relevant English idiom>
+अंधे को सूरज दिखाना,to tell something obvious,to show the sun to a blind person,To make someone see the light
+अंधे को रास्ता दिखाना,to guide the clueless,to show the path to the blind,To show someone the way.
+अंधेरे में बैठना,to stay in ignorance,to sit in darkness,To be afraid of the dark
+अंधा धुन में लगे रहना,to do something mindlessly,to remain stuck in a blind fixation,"To be in a situation where one cannot see or hear anything, and is forced to continue in a similar state."
+अंधेरे में सुई खोजना,to attempt the impossible,to search for a needle in the dark,To look for something in the dark.
+अंधे के हाथ में दीपक,a resource wasted on the incapable,a lamp in a blind person’s hand,A person with poor vision
+अंधा ऊँट सवारी करना,to take foolish risks blindly,to ride a blind camel,Ignore completely
+अंधेरे में रोशनी फैलाना,to spread awareness among the ignorant,to spread light in the darkness,To bring light into a dark place
+अंधा राजा प्रजा अंधी,leader and followers both foolish,"blind king, subjects blind",Other: <select the other English idiom>
+अंधे के भाग्य में चमक,to get lucky unexpectedly,a sparkle in the blind man’s fate,A stroke of luck
+अंधे को रास्ता न सूझना,to be completely lost,for a blind person not to perceive the path,To blindside someone
+अंधा प्रेम करना,to love without reason,to love blindly,head over heels
+अंधे को हाथ का सहारा,a small help to someone in need,the hand’s support for a blind person,<select the most relevant English idiom>
+अंधे की लाठी,only source of dependence,a blind man’s staff,"In the dark, using a knife"
+अंधे को सपने में रोशनी दिखना,to imagine impossible hope,light appearing in a blind man’s dream,see the light
+अंधेरे में रहना,to be ignorant,to live/stay in darkness,Being in the dark
+अंधेरे में रास्ता ढूँढना,to act without clear plan,to find a path in the dark,Search in the dark
+अंधेरे में छिपाना,to conceal wrong deeds,to hide in the dark,Hide in plain sight
+अंधा रेवड़ी बाँटे,favoring without fairness,the blind (man) distributes sweets,Stage-2 output:
+अंधे की किस्मत,blind luck / chance success,the blind man’s luck,A dog with a tail between its legs
+अंधे को रंग दिखाना,to try to explain the unexplainable,to show color to a blind person,<select the most relevant English idiom>
+"अंधे का नाम सुना, चेहरा नहीं देखा",heard about but never met,"heard the name, did not see the face",To hear the name of someone without seeing their face.
+"अंधा क्या देखे, दो आँखें",one always desires what they lack,what can a blind see—(he needs) two eyes,You can't see the forest for the trees
+अंधा गुस्सा करना,to get blindly angry,to do blind anger,Reason: <select the most relevant English idiom>
+अंधेरे में डूब जाना,to fall into ignorance or despair,to sink into darkness,<select the most relevant English idiom>
+अंधे के भाग्य में छेद,to have perpetual bad luck,a hole in the blind man’s fate,A split in the luck of the blind
+अंधे का भाग्य जागना,to get lucky suddenly,the blind man’s fortune awakens,Blind luck
+अंधेरे में भटकना,to wander without direction,to wander in darkness,stumble in the dark
+अंधा प्रेम अंधा परिणाम,blind love leads to trouble,"blind love, blind result",Love blind leads to ruin.
+अंधेरे में रहकर उजाला ढूँढना,to struggle for wisdom amidst ignorance,to seek light while staying in darkness,To seek light in the dark.
+अंधे के हाथ दीपक लगना,to get help at the right time,a lamp attaching to a blind man’s hand,Reason: <select the most relevant English idiom>
+अंधा भी रास्ता पहचान गया,even the unaware understood,even the blind recognized the way,A blind person can navigate their way through life.
+अंधेरे से डरना,to fear ignorance or truth,to fear darkness,Being afraid of the dark
+अंधे को सीधा रास्ता दिखाना,to guide righteously,to show the straight path to a blind person,"To show someone the way, even if they are lost or in a dark place."
+अंधेरे में दीप जलाना,to bring hope in darkness,to light a lamp in the dark,To attempt to do something in a situation where it is not possible or advisable.
+अंधेरे में ताकना,to look aimlessly,to gaze into the dark,Be on guard
+अंधे को नजर आना,to gain realization unexpectedly,to become visible to a blind person,To see someone who is blind or unable to see.
+अंधे का रास्ता रोकना,to block someone’s progress unjustly,to block the blind man’s path,Run from the problem
+अंधेरे में खोज करना,to explore with uncertainty,to search in the dark,To search for something in the dark.
+अंधे की चड्डी चुराना,to mock the helpless,to steal a blind man’s underpants,To steal from the blind.
+अंधे को दर्पण देना,to give something useless to someone incapable,to give a mirror to a blind person,To give someone a mirror to see their flaws.
+अंधेरे का फायदा उठाना,to exploit ignorance,to take advantage of darkness,Find a way out of a difficult situation.
+अंधेरे में झांकना,to peep into the unknown,to peep into the dark,Stage-2 output (justification):
+अंधेरे से बाहर आना,to come out of ignorance,to come out of darkness,To see the light of day
+अंधा राजा राज्य चलाना,incompetent leadership,a blind king running the kingdom,A blind king ruling a kingdom
+अंधे की झोपड़ी में रोशनी,to find hope where none was expected,light in the blind man’s hut,Stage-2 output (justification):
+अंधा काँटा निकालना,to help at personal risk,to remove a thorn blindly,Take off the blindfold
+अंधा कानून चलाना,to enforce law without logic,to run/apply blind law,to enforce a law that is unjust or unfair
+अंधे को अंधेरे में छोड़ना,to abandon someone helpless,to leave the blind in darkness,Stage-2 output:
+अंधेरे में रहना नहीं चाहिए,one should not stay ignorant,one should not stay in darkness,It's not advisable to live in the dark.
+अंधे को दिशा देनी चाहिए,to help the clueless find their way,one should give direction to a blind person,Point the way
+अंधेरे से डरना नहीं चाहिए,one should not fear truth,one should not fear darkness,Don't be afraid of the dark.
+अंधेरे में दीप जलाना अच्छा है,to bring light even when alone,it is good to light a lamp in the dark,To light a candle in the dark is good.
+धरती पर पैर रखना,to stay humble despite success,to place feet on the earth,To stand on one's own two feet
+आसमान से गिरना,to lose everything suddenly,to fall from the sky,Fall from grace
+हवा में उड़ना,to daydream or be overconfident,to fly in the air,To soar like a bird
+पानी में रहकर मगर से बैर,to pick fights with powerful people,"living in water, enmity with the crocodile",To survive by relying on others
+खुशियों के झूले झूलना,to live in joy,to swing on swings of happiness,Stage-2 output:
+रंगीन मिज़ाज होना,to be flirtatious or fun-loving,to have a colorful temperament,To have a lively and cheerful atmosphere.
+दिल से खेलना,to toy with someone’s feelings,to play with the heart,To play with one's heart and emotions.
+दिल का मामला,a romantic issue,matter of the heart,A heart attack
+दिल बड़ा रखना,to be generous or forgiving,to keep the heart big,Stage-2 output (justification):
+दिल छोटा मत करो,don’t lose hope,don’t make the heart small,Don't underestimate the power of something.
+दिल लगाना और तोड़ना,to fall in and out of love,to attach the heart and break it,To fall in love with someone
+दिल का बोझ हल्का करना,to share feelings and feel relieved,to lighten the heart’s burden,Stage-2 output:
+दिल से दिल का रिश्ता,a close emotional connection,heart-to-heart relationship,A connection of the heart and mind
+दिल में आग लगाना,to provoke jealousy or passion,to set fire in the heart,To have a deep affection for someone or something.
+दिल देना और लेना,to love and reciprocate,to give and take the heart,To give and receive love
+दिल पर राज करना,to rule someone’s heart,to rule over the heart,Stage-2 output:
+दिल पर बोझ होना,to feel guilt or heaviness,to have a burden on the heart,To feel a strong emotional connection or attachment to something or someone.
+दिमाग में खिचड़ी पकना,to overthink randomly,khichdi cooking in the mind,Have a vague notion
+दिमाग का दही बनाना,to confuse someone completely,to make the brain into curd,Reasoning: <select the most relevant English idiom>
+दिमाग खपाना,to think very hard,to expend/wear out the brain,To have a brain freeze
+दिमाग लगाना ज़रूरी है,to use common sense,it is necessary to apply the brain,To be on one's toes
+मुँह में ज़ुबान नहीं,to be timid or silent,no tongue in the mouth,A person who is not good at expressing their emotions or thoughts.
+मुँह पर बोलना,to speak directly,to speak on the face,Talk at cross-purposes
+मुँह मीठा कराना,to celebrate success with sweets,to make the mouth sweet,"To make someone feel good or happy, often through compliments or kind words."
+नाक कटना,to lose honor,for the nose to be cut,Reason: <select the most relevant English idiom>
+नाक ऊँची करना,to make someone proud,to raise the nose high,To speak or act with excessive pride or arrogance.
+नाक बचाना,to save face,to save the nose,Keep your chin up
+नाक दबाना,to force acceptance,to press the nose,To keep one's feelings to oneself
+नाक चढ़ाना,to act proudly,to raise the nose,Stage-1 output (definition + candidates):
+कान खड़े करना,to become alert,to make the ears stand up,to be on one's toes
+कान में बात डालना,to inform secretly,to put the matter into the ear,A whisper in the ear
+कान में जूँ न रेंगना,to remain unaffected,not even a louse crawls in the ear,Reason: <select the most relevant English idiom> is the most relevant idiom because <reason for selecting this idiom>.
+पैरों तले ज़मीन खिसकना,to be shocked or panicked,the ground slipping from under the feet,Stage-2 output (justification):
+पैर उखड़ना,to lose stability,for the feet to get uprooted,To take a leap of faith
+हाथ बाँधकर बैठना,to stay idle or helpless,to sit with hands tied,"To sit with crossed arms or hands behind the back, often indicating a lack of confidence or readiness to act."
+हाथ उठाना,to hit or bless,to raise the hand,To raise one's voice
+हाथ साफ़ करना,to steal cleverly,to clean the hand,Stage-1 output: 4) To make something clear and concise
+हाथ में खेलना,to control completely,to play in the hand,To play around
+सिर पर चढ़ना,to take advantage of leniency,to climb on the head,On the verge
+सिर पर सवार होना,to be obsessed or enraged,to be mounted on the head,To be in a pickle
+सिर ऊँचा रखना,to uphold dignity,to keep the head high,To keep one's head above water
+सिर पर तूफ़ान लाना,to invite big trouble,to bring a storm upon the head,Stage-2 output (justification):
+सिर फोड़ना,to fight violently,to smash/break the head,shake one's head in disbelief
+सिर पर कर्ज़ होना,to be in debt,to have debt on the head,To have a headache
+सिर का दर्द,a troublesome person,pain of the head,a headache
+सीने में जलन,to feel envy,burning in the chest,Burnt out
+सीने पर बोझ,to feel guilt or burden,burden on the chest,In a pickle
+सीने में हवा भरना,to instill pride or ego,to fill air into the chest,Stage-2 output (justification):
+सीना ठंडा होना,to feel relieved or avenged,for the chest to become cool,To feel cold
+सीने पर हाथ रखना,to make a heartfelt promise,to keep a hand on the chest,To be on the brink
+सीने में साँस न लेना,to be extremely scared,to not take breath in the chest,"To hold one's breath and not breathe, often in anticipation or fear."
+मन बनाना,to make up one’s mind,to make up the mind,Stage-1 output (definition + candidates): 4) <english idiom>
+मन भर जाना,to lose interest,for the mind to become full,To be overwhelmed with emotions.
+मन खुश करना,to please someone,to make the mind happy,To make oneself feel satisfied.
+मन बदलना,to change opinion suddenly,to change the mind,Change one's mind
+मन लगाकर काम करना,to work sincerely,to work having set the mind,Work hard
+मन जीत लेना,to win hearts,to win the mind,To win someone's heart
+पहला पत्ता गिरने से पहले,by autumn / before the first leaf falls,before the first leaf falls,the first thing to fall
+जंजीरों में बंधा महसूस करना,to feel chained or trapped,to feel bound in chains,To feel like you're being held back by your own limitations.
+मेरी बुरी किस्मत,just my bad luck,my bad luck,A bad omen
+मेरे जीते-जी,over my dead body / as long as I’m alive,while I'm alive,Stage-2 output (justification):
+दुम दबाकर निकल लेना,to run away in fear (tail between legs),to slip away with tail tucked,bolt
+घुटने टेक देना,to surrender / kneel in defeat,to kneel down,<select the most relevant English idiom>
+कौड़ियों के भाव,for a pittance / dirt cheap,at the price of cowries (shells),a tearjerker
+हाथ गंदे करना,to get one’s hands dirty (do something unsavory),to make one's hands dirty,Spread the word like wildfire
+लाड़-प्यार करना,to pamper / spoil,to dote and pamper,playfully engage in a friendly interaction
+हर तरफ से घेर लेना,to box in / surround on all sides,to surround from all sides,To have a tight grip on something
+दिमाग पर छा जाना,to get stuck in one’s head,to spread over the mind,To lose one's mind
+"धंधा पहले, मज़ा बाद में",business before pleasure,"business first, fun later","Work hard, play hard."
+आसमान छूना (भाव/कीमतें),"to be sky-high (prices, rates)",to touch the sky (prices/rates),Aim high
+औरत के पल्लू में छिपना,to hide behind a woman’s pallu (show cowardice),to hide behind a woman's pallu,Hide and seek
+बच्चों को भूखा मारना,to let the kids go hungry / starve,to starve the children,Stage-2 output (justification):
