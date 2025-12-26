@@ -11,7 +11,7 @@ python3 -m verl.trainer.main_ppo \
     algorithm.adv_estimator=grpo \
     data.train_files=../Dataset/grpo-${LANGUAGE}-idioms_train.parquet \
     data.val_files=../Dataset/grpo-${LANGUAGE}-idioms_test.parquet \
-    data.train_batch_size=256 \
+    data.train_batch_size=512 \
     data.max_prompt_length=256 \
     data.max_response_length=256 \
     data.filter_overlong_prompts=True \
@@ -40,8 +40,8 @@ python3 -m verl.trainer.main_ppo \
     trainer.experiment_name=$RUN_NAME \
     trainer.n_gpus_per_node=$NUM_GPU \
     trainer.nnodes=1 \
-    trainer.save_freq=15 \
-    trainer.test_freq=2 \
+    trainer.save_freq=5 \
+    trainer.test_freq=15 \
     trainer.total_epochs=5 \
     trainer.default_local_dir=/shared/storage-01/users/ishikaa2/grpo_translation_models/${RUN_NAME} \
     custom_reward_function.path=$REWARD_FILE \

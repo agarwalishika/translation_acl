@@ -1,4 +1,5 @@
 *.parquet
-grpo/outputs/
-grpo/wandb/
+*/outputs/*
+*/wandb/*
 *pycache*
+*.csv

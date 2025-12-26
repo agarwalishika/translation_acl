@@ -3,9 +3,11 @@ from trl import SFTTrainer
 import pandas as pd
 from datasets import Dataset
 
-def parse_df(idiom_df: pd.DataFrame, language):
+def parse_df(idiom_df: pd.DataFrame, language, length):
     dataset = []
     for i, row in idiom_df.iterrows():
+        if len(dataset) >= length:
+            break
         dataset.append({
             "source": "GPT4LLM",
             "messages": [{
@@ -20,8 +22,8 @@ def parse_df(idiom_df: pd.DataFrame, language):
         })
     return Dataset.from_list(dataset)
 
-hindi_idioms = parse_df(pd.read_csv('../Dataset/hindi-english_idioms.csv'), "Hindi")
-chinese_idioms = parse_df(pd.read_csv('../Dataset/petci_chinese_english_improved.csv'), "Chinese")
+hindi_idioms = parse_df(pd.read_csv('../Dataset/hindi-english_idioms.csv'), "Hindi", 800)
+chinese_idioms = parse_df(pd.read_csv('../Dataset/petci_chinese_english_improved.csv'), "Chinese", 1000)
 
 
 ##################################################### TRAINING #####################################################
@@ -45,10 +47,10 @@ chinese_idioms = parse_df(pd.read_csv('../Dataset/petci_chinese_english_improved
 # )
 # trainer.train()
 
-#---------------------------------------------------- LLAMA ----------------------------------------------------#
+# #---------------------------------------------------- LLAMA ----------------------------------------------------#
 from transformers import AutoTokenizer
 
-model_name = "meta-llama/Llama-3.2-1B"
+model_name = "meta-llama/Llama-3.1-8B"
 
 tokenizer = AutoTokenizer.from_pretrained(
     model_name,

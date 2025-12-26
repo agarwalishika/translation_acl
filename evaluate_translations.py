@@ -1,3 +1,5 @@
+import os
+# os.environ['CUDA_VISIBLE_DEVICES'] = '2,3'
 from comet import download_model, load_from_checkpoint
 import evaluate
 import torch
@@ -11,6 +13,7 @@ from prometheus_eval.prompts import ABSOLUTE_PROMPT, SCORE_RUBRIC_TEMPLATE
 
 def process(file):
     df = pd.read_csv(file, sep="|")
+    df['predicted'] = df['predicted'].fillna("")
     source = list(df['src'])
     predicted = list(df['predicted'])
     ground_truth = list(df['true_meaning'])
@@ -83,7 +86,7 @@ def calculate_embed_distance(source, predicted, ground_truth):
 
 def calculate_laj(source, predicted, ground_truth):
     # Absolute Grading: Outputs score of 1 to 5
-    model = VLLM(model="prometheus-eval/prometheus-7b-v2.0", max_num_seqs=16, gpu_memory_utilization=0.4)
+    model = VLLM(model="prometheus-eval/prometheus-7b-v2.0", max_num_seqs=16, gpu_memory_utilization=0.6)
     judge = PrometheusEval(model=model, absolute_grade_template=ABSOLUTE_PROMPT)
 
     rubric_data = {
@@ -111,11 +114,11 @@ def calculate_laj(source, predicted, ground_truth):
 
 def compute_results(input_file, output_file):
     source, predicted, ground_truth = process(input_file)
-    laj = calculate_laj(source, predicted, ground_truth)
     da = calculate_da(source, predicted, ground_truth)
     qe = calculate_qe(source, predicted, ground_truth)
     rouge = calculate_rouge(source, predicted, ground_truth)
     embed_distance = calculate_embed_distance(source, predicted, ground_truth)
+    laj = calculate_laj(source, predicted, ground_truth)
 
     df = pd.DataFrame({
         "source": source,
@@ -133,7 +136,7 @@ def compute_results(input_file, output_file):
 from argparse import ArgumentParser
 if __name__ == "__main__":
     parser = ArgumentParser()
-    parser.add_argument('--file', type=str)
+    parser.add_argument('--file', type=str, default="outputs/grpo_Chinese_llama1b-da-Chinese-outputs_0.csv")
     args = parser.parse_args()
 
     file = args.file

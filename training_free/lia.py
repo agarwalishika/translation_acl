@@ -83,28 +83,32 @@ if __name__ == "__main__":
         llm = LLM(model['model'], tensor_parallel_size=torch.cuda.device_count(), gpu_memory_utilization=0.7, trust_remote_code=True)
 
         for dataset in datasets:
-            lang = dataset['language']
-            df = pd.read_csv(dataset['df'])
+            for i in range(32):
+                lang = dataset['language']
+                df = pd.read_csv(dataset['df'])
+                if "hindi" in dataset['df']: df = df[800:]
+                elif "chinese" in dataset['df']: df = df[1000:]
+                else: 0/0
 
-            # TODO: finish the methodology
-            stage1_inputs = df["src"].astype(str).apply(lambda x: build_lia_stage1_prompt(lang, x)).tolist()
-            stage1_raw = llm.generate(stage1_inputs, sampling_params=sampling_params)
-            stage1_outputs = [o.outputs[0].text.strip() for o in stage1_raw]
+                # TODO: finish the methodology
+                stage1_inputs = df["src"].astype(str).apply(lambda x: build_lia_stage1_prompt(lang, x)).tolist()
+                stage1_raw = llm.generate(stage1_inputs, sampling_params=sampling_params)
+                stage1_outputs = [o.outputs[0].text.strip() for o in stage1_raw]
 
-            # Stage 2: candidate selection
-            stage2_inputs = [
-                build_lia_stage2_prompt(lang, idiom, out)
-                for idiom, out in zip(df["src"].astype(str).tolist(), stage1_outputs)
-            ]
-            stage2_raw = llm.generate(stage2_inputs, sampling_params=sampling_params)
-            stage2_outputs = [o.outputs[0].text.strip() for o in stage2_raw]
+                # Stage 2: candidate selection
+                stage2_inputs = [
+                    build_lia_stage2_prompt(lang, idiom, out)
+                    for idiom, out in zip(df["src"].astype(str).tolist(), stage1_outputs)
+                ]
+                stage2_raw = llm.generate(stage2_inputs, sampling_params=sampling_params)
+                stage2_outputs = [o.outputs[0].text.strip() for o in stage2_raw]
 
-            # TODO: parse the final output and store the final model predictions in a list of strings
-            predicted_outputs = [parse_best_line(t) for t in stage2_outputs]
+                # TODO: parse the final output and store the final model predictions in a list of strings
+                predicted_outputs = [parse_best_line(t) for t in stage2_outputs]
 
-            # save the predicted output to a csv
-            df['predicted'] = predicted_outputs
-            df.to_csv(f"outputs/{model['shorthand']}-LIA-{lang}-outputs.csv")
+                # save the predicted output to a csv
+                df['predicted'] = predicted_outputs
+                df.to_csv(f"outputs/{model['shorthand']}-LIA-{lang}-outputs_{i}.csv")
         
         del llm
 

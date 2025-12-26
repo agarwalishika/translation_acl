@@ -22,10 +22,11 @@ import datasets
 import pandas as pd
 from verl.utils.hdfs_io import copy, makedirs
 
-def process(file, language):
+def process(file, language, train_set):
     data_source = f"grpo-{language}-idioms"
-    train_dataset = datasets.Dataset.from_pandas(pd.read_csv(file))
-    test_dataset = train_dataset
+    df = pd.read_csv(file)
+    train_dataset = datasets.Dataset.from_pandas(df[:train_set])
+    test_dataset = datasets.Dataset.from_pandas(df[train_set:])
 
     instruction_following = lambda language, idiom: f"""Given the following idiom in {language}, translate it semantically into English.\nIdiom: " + {idiom} + "\n### Semantic Translation:"""
 
@@ -85,5 +86,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
     local_dataset_path = args.local_dataset_path
 
-    process("/home/ishikaa2/translating_idioms/Dataset/hindi-english_idioms.csv", "Hindi")
-    process("/home/ishikaa2/translating_idioms/Dataset/petci_chinese_english_improved.csv", "Chinese")
+    process("/home/ishikaa2/translating_idioms/Dataset/hindi-english_idioms.csv", "Hindi", 800)
+    process("/home/ishikaa2/translating_idioms/Dataset/petci_chinese_english_improved.csv", "Chinese", 1000)

@@ -1,5 +1,5 @@
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+os.environ['CUDA_VISIBLE_DEVICES'] = '2'
 from typing import List, Dict
 from contextlib import asynccontextmanager
 from comet import download_model, load_from_checkpoint
@@ -57,4 +57,5 @@ def da_rewards(req: RewardsRequest, x_api_key: str | None = Header(default=None)
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("service_da:app", host="172.22.224.17", port=5143)
+    uvicorn.run("service_da:app", host="172.22.224.40", port=5143)
+# 17 is srv01
