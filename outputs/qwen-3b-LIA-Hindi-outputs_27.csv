@@ -1,0 +1,201 @@
+,src,true_meaning,literal_translation,predicted
+800,पैर धोना,to show deep respect,to wash the feet,Stage-2 output (justification):
+801,पैर पकड़ लेना,to surrender humbly,to catch/hold the feet,To hang on to something tightly.
+802,पैर रोक लेना,to hesitate before action,to hold back the foot,Others: <select the other relevant English idioms>
+803,मुँह मोड़ लेना,to turn away emotionally,to turn the mouth/face aside,keep one's mouth shut
+804,मुँह बंद कर देना,to silence completely,to shut the mouth,Keep your mouth shut
+805,मुँह चलाना,to speak unnecessarily,to run the mouth,Speak one's mind
+806,मुँह लगाना,to get too familiar with elders,to put (someone) to the mouth,Speak out of turn
+807,मुँह मीठा होना,to taste success,for the mouth to become sweet,keep your mouth shut
+808,मुँह बिचकाना,to show irritation or disgust,to pucker/twist the mouth,Other: <select the other English idioms that are relevant>
+809,मुँह पीटना,to cry loudly in distress,to beat the mouth/face,<select the most relevant English idiom>
+810,मुँह धुलवाना,to publicly humiliate,to have the mouth/face washed,To be full of life and vigor.
+811,माथे पर शिकन डालना,to frown slightly,to put a crease on the forehead,Reason: <select the most relevant English idiom and explain why it is the best match>
+812,माथे पर लकीरें पड़ना,to show anxiety or anger,for lines to fall on the forehead,To have a lot of ideas or opinions that are not based on facts.
+813,दिल में जगह बनाना,to win affection,to make a place in the heart,Stage-2 output (just the idiom):
+814,दिल में काँटे चुभना,to feel deeply hurt,for thorns to prick in the heart,To feel a thorn in the side
+815,दिल में खटका होना,to have a lingering doubt,for a jolt/unease to be in the heart,heartache
+816,दिल में गुस्सा रखना,to hold a grudge,to keep anger in the heart,"To hold onto one's emotions or feelings tightly, often in a negative way."
+817,दिल की गहराई से,from the bottom of one’s heart,from the depth of the heart,From the depths of the soul
+818,दिल हिल जाना,to be shaken emotionally,for the heart to shake,A smile spreads across my face.
+819,दिल बाग़-बाग़ होना,to feel immense joy,for the heart to become a garden,He's got a heart of gold
+820,दिल टूटकर रह जाना,to be devastated,to remain with the heart broken,Stage-1 output: <english idiom>
+821,दिल को सुकून मिलना,to find peace,for the heart to find peace,To feel at ease
+822,दिमाग खराब कर देना,to frustrate someone badly,to make the brain bad,To make someone's mind think negatively.
+823,दिमाग ठिकाने लग जाना,to become sensible again,for the brain to be set in place,To be in a state of bewilderment or bewilderment.
+824,दिमाग पर बोझ डालना,to overthink,to place a burden on the brain,To calm someone down
+825,दिमाग गुम होना,to lose one’s senses,for the brain to be lost,To be in a state of confusion or disorientation.
+826,दिमाग की बत्ती बुझ जाना,to go blank suddenly,for the brain’s lamp to go out,Ah-ha!
+827,दाँत किटकिटाना,to shiver in cold or fear,to chatter the teeth,To be on pins and needles
+828,दाँत नाखून से काम लेना,to struggle hard,to use teeth and nails,To work hard and with great effort.
+829,दाँतों तले अंगुली दबाना,to be stunned in awe,to press a finger under the teeth,To put one's foot down
+830,जुबान बंद कर देना,to silence someone completely,to shut the tongue,Go to bat for
+831,जुबान काट लेना,to regret words spoken,to bite the tongue,To cut off one's nose to spite one's face
+832,जुबान कसना,to rebuke harshly,to tighten the tongue,To initiate a conversation or break the ice
+833,जुबान के पक्के,to be true to one’s word,firm/steadfast of tongue,A person who is completely honest and straightforward.
+834,जुबान पर ताला,to keep secrets locked,a lock on the tongue,To hit someone on the head
+835,जुबान फिसल जाना,to say something accidentally,for the tongue to slip,To be speechless with surprise
+836,जुबान सरक जाना,to misspeak,for the tongue to slide,To be in a tight spot
+837,जुबान की मिठास रखना,to speak kindly,to keep sweetness of the tongue,<select the most relevant English idiom>
+838,खून का रिश्ता निभाना,to uphold family ties,to uphold a blood relationship,To forge a bond or connection with someone or something
+839,पसीना रोकना,to relieve effort,to stop sweat,To hold back one's enthusiasm
+840,पसीने-पसीने होना,to be drenched with effort,to become sweat-sweat (drenched in sweat),To be constantly bothered or annoyed
+841,सीने में दर्द होना,to feel emotional pain,to have pain in the chest,To have a headache
+842,सीने में जलन होना,to feel envy,to have burning in the chest,to have a fever
+843,सीने में लावा उठना,to boil in anger,for lava to rise in the chest,Aha moment
+844,सीने पर बोझ होना,to feel guilt or burden,to have a burden on the chest,To be in a pickle
+845,सीने में आग लगना,to feel jealous or provoked,for fire to be set in the chest,To start a fire in one's own home
+846,रंग दिखाना,to reveal true colors,to show color,To show one's true colors
+847,रंगीन होना,to enjoy life freely,to become colorful,To get fired up about something.
+848,रंग फीका पड़ना,to lose enthusiasm,for the color to fade/pale,Stage-2 output (justification):
+849,रंग उड़ना,to fade away,for the color to fly/fade,To change one's appearance or behavior in a dramatic and unexpected way.
+850,रंग जमना,to gain traction,for color to set,To be in a pickle
+851,रंग लगना,to start celebrating,to have color applied,To feel a sense of accomplishment after achieving something.
+852,रंग में रँग जाना,to blend or adapt fully,to be dyed in the color,Stage-2 output (justification):
+853,अति सर्वत्र वर्जयेत,too much of anything is bad,excess should be avoided everywhere,Stage-2 output (just the idiom):
+854,अपना उल्लू सीधा करना,to act selfishly for personal gain,to straighten one’s owl,Go with the flow
+855,अक्ल ठिकाने लगाना,to make someone sensible,to set the sense in its proper place,"To focus on a particular aspect or idea, often to the exclusion of others."
+856,अंगूर खट्टे हैं,to pretend disinterest after failure,the grapes are sour,The seriousness of an apple
+857,अपनी डींगे हाँकना,to brag about oneself,to blare one’s own boasts,"To be stubborn and unyielding, refusing to change one's mind or opinion."
+858,अपनी नाक ऊँची रखना,to maintain self-respect,to keep one’s nose high,To keep one's head above water
+859,अपना राग अलापना,to talk only about oneself,to chant one’s own tune,To speak one's mind
+860,अंधे का हाथ बटेर लगना,to gain something valuable by accident,a blind man’s hand finds a quail,<select the most relevant English idiom>
+861,अंधेरे में रखना,to hide the truth deliberately,to keep (someone) in the dark,hide in the dark
+862,अपनी गलती मानना,to accept one’s fault,to accept one’s own mistake,To take the blame for one's own mistake
+863,अपनी डफली अपना राग,to do things one’s own way,"one’s own drum, one’s own tune",To speak one's mind
+864,अक्ल का पैमाना टूट जाना,to act beyond reason,the gauge of wisdom breaks,Losing face
+865,अक्ल घास चरने जाना,to act utterly foolish,the intellect goes to graze grass,To have a strong desire or urge to do something.
+866,अंधे के हाथ तिलक लगना,rare stroke of luck,a tilak falls upon a blind man’s hand,To put a blindfold on oneself
+867,अंधा बांटे रेवड़ी,to favor one’s own people,a blind man distributes sweets,to be in the dark
+868,अंधे की लकड़ी,someone completely dependent on another,the blind man’s stick,Blind as a bat
+869,अंधे की लाठी छीनना,to exploit the helpless,to snatch the blind man’s staff,To bite off more than you can chew.
+870,अंधे की भी आँख खुल गई,even the ignorant realized the truth,even the blind man’s eye opened,The blind can see.
+871,अंधे की रोटी गीली,when bad luck persists,the blind man’s bread is soggy,A dead horse
+872,"अंधे का नाम सुना, आँखों से नहीं देखा",to hear about something but not experience it,"heard the name, not seen with the eyes",To hear the name of someone but not see them.
+873,"अंधा क्या चाहे, दो आँखें",people desire what they lack most,what does a blind person want—two eyes,<select the most relevant English idiom>
+874,अंधेरे में रखा जाना,to be kept uninformed,to be kept in darkness,To hide something in a place where it is not easily found.
+875,अंधे को सूरज दिखाना,to tell something obvious,to show the sun to a blind person,<select the most relevant English idiom>
+876,अंधे को रास्ता दिखाना,to guide the clueless,to show the path to the blind,To show the way forward
+877,अंधेरे में बैठना,to stay in ignorance,to sit in darkness,Stage-2 output (justification):
+878,अंधा धुन में लगे रहना,to do something mindlessly,to remain stuck in a blind fixation,To be in the dark
+879,अंधेरे में सुई खोजना,to attempt the impossible,to search for a needle in the dark,"To look for something in the dark, often implying that the search is difficult or futile."
+880,अंधे के हाथ में दीपक,a resource wasted on the incapable,a lamp in a blind person’s hand,To have a light in the hands of the blind
+881,अंधा ऊँट सवारी करना,to take foolish risks blindly,to ride a blind camel,Stage-2 output (justification):
+882,अंधेरे में रोशनी फैलाना,to spread awareness among the ignorant,to spread light in the darkness,To bring light into a dark place
+883,अंधा राजा प्रजा अंधी,leader and followers both foolish,"blind king, subjects blind",Reason: <select the most relevant English idiom>
+884,अंधे के भाग्य में चमक,to get lucky unexpectedly,a sparkle in the blind man’s fate,A flash of light in the dark.
+885,अंधे को रास्ता न सूझना,to be completely lost,for a blind person not to perceive the path,Stage-2 output:
+886,अंधा प्रेम करना,to love without reason,to love blindly,A love that sees the good in others
+887,अंधे को हाथ का सहारा,a small help to someone in need,the hand’s support for a blind person,<select the most relevant English idiom>
+888,अंधे की लाठी,only source of dependence,a blind man’s staff,In the dark
+889,अंधे को सपने में रोशनी दिखना,to imagine impossible hope,light appearing in a blind man’s dream,Stage-2 output:
+890,अंधेरे में रहना,to be ignorant,to live/stay in darkness,<select the most relevant English idiom>
+891,अंधेरे में रास्ता ढूँढना,to act without clear plan,to find a path in the dark,Stage-2 output (justification):
+892,अंधेरे में छिपाना,to conceal wrong deeds,to hide in the dark,To hide in the shadows.
+893,अंधा रेवड़ी बाँटे,favoring without fairness,the blind (man) distributes sweets,Blind as a bat
+894,अंधे की किस्मत,blind luck / chance success,the blind man’s luck,A lucky person
+895,अंधे को रंग दिखाना,to try to explain the unexplainable,to show color to a blind person,To lift someone's spirits.
+896,"अंधे का नाम सुना, चेहरा नहीं देखा",heard about but never met,"heard the name, did not see the face","To hear the name of someone but not see their face, implying that they are unknown or unfamiliar."
+897,"अंधा क्या देखे, दो आँखें",one always desires what they lack,what can a blind see—(he needs) two eyes,blind to
+898,अंधा गुस्सा करना,to get blindly angry,to do blind anger,To cry like a baby
+899,अंधेरे में डूब जाना,to fall into ignorance or despair,to sink into darkness,To be lost in thought.
+900,अंधे के भाग्य में छेद,to have perpetual bad luck,a hole in the blind man’s fate,A dog that has been kicked by a man.
+901,अंधे का भाग्य जागना,to get lucky suddenly,the blind man’s fortune awakens,Luck is a blindfolded man
+902,अंधेरे में भटकना,to wander without direction,to wander in darkness,Stumble in the dark
+903,अंधा प्रेम अंधा परिणाम,blind love leads to trouble,"blind love, blind result",Blind love leads to bad consequences.
+904,अंधेरे में रहकर उजाला ढूँढना,to struggle for wisdom amidst ignorance,to seek light while staying in darkness,Toil and Trouble
+905,अंधे के हाथ दीपक लगना,to get help at the right time,a lamp attaching to a blind man’s hand,Other: <select the other relevant English idiom>
+906,अंधा भी रास्ता पहचान गया,even the unaware understood,even the blind recognized the way,Even the blind can find the path.
+907,अंधेरे से डरना,to fear ignorance or truth,to fear darkness,To be afraid in the dark.
+908,अंधे को सीधा रास्ता दिखाना,to guide righteously,to show the straight path to a blind person,To give someone a clear path to success
+909,अंधेरे में दीप जलाना,to bring hope in darkness,to light a lamp in the dark,To shine a light in the dark
+910,अंधेरे में ताकना,to look aimlessly,to gaze into the dark,Be careful as a mouse in the dark.
+911,अंधे को नजर आना,to gain realization unexpectedly,to become visible to a blind person,See the light
+912,अंधे का रास्ता रोकना,to block someone’s progress unjustly,to block the blind man’s path,Turn a blind eye
+913,अंधेरे में खोज करना,to explore with uncertainty,to search in the dark,Search in the dark
+914,अंधे की चड्डी चुराना,to mock the helpless,to steal a blind man’s underpants,To take advantage of someone who is unaware or blind.
+915,अंधे को दर्पण देना,to give something useless to someone incapable,to give a mirror to a blind person,Try to see in the dark.
+916,अंधेरे का फायदा उठाना,to exploit ignorance,to take advantage of darkness,To turn a disadvantage into an advantage.
+917,अंधेरे में झांकना,to peep into the unknown,to peep into the dark,"Look for something in the dark, expecting to find it."
+918,अंधेरे से बाहर आना,to come out of ignorance,to come out of darkness,To come out of the dark
+919,अंधा राजा राज्य चलाना,incompetent leadership,a blind king running the kingdom,A blind man leading the blind.
+920,अंधे की झोपड़ी में रोशनी,to find hope where none was expected,light in the blind man’s hut,in the dark
+921,अंधा काँटा निकालना,to help at personal risk,to remove a thorn blindly,To wake up
+922,अंधा कानून चलाना,to enforce law without logic,to run/apply blind law,Enforce a law without regard for consequences
+923,अंधे को अंधेरे में छोड़ना,to abandon someone helpless,to leave the blind in darkness,leave someone high and dry
+924,अंधेरे में रहना नहीं चाहिए,one should not stay ignorant,one should not stay in darkness,To live in the dark
+925,अंधे को दिशा देनी चाहिए,to help the clueless find their way,one should give direction to a blind person,Blind leading the blind
+926,अंधेरे से डरना नहीं चाहिए,one should not fear truth,one should not fear darkness,Don't be afraid of the dark.
+927,अंधेरे में दीप जलाना अच्छा है,to bring light even when alone,it is good to light a lamp in the dark,<select the most relevant English idiom>
+928,धरती पर पैर रखना,to stay humble despite success,to place feet on the earth,Stand on one's own two feet
+929,आसमान से गिरना,to lose everything suddenly,to fall from the sky,Fall from grace
+930,हवा में उड़ना,to daydream or be overconfident,to fly in the air,To soar like an eagle
+931,पानी में रहकर मगर से बैर,to pick fights with powerful people,"living in water, enmity with the crocodile",to be in a pickle
+932,खुशियों के झूले झूलना,to live in joy,to swing on swings of happiness,To be happy like a butterfly
+933,रंगीन मिज़ाज होना,to be flirtatious or fun-loving,to have a colorful temperament,Stage-1 output:
+934,दिल से खेलना,to toy with someone’s feelings,to play with the heart,To play with someone's emotions
+935,दिल का मामला,a romantic issue,matter of the heart,A matter of the heart
+936,दिल बड़ा रखना,to be generous or forgiving,to keep the heart big,Keep a level head
+937,दिल छोटा मत करो,don’t lose hope,don’t make the heart small,Don't be too hard on yourself.
+938,दिल लगाना और तोड़ना,to fall in and out of love,to attach the heart and break it,To be emotionally invested in something and then let go of it.
+939,दिल का बोझ हल्का करना,to share feelings and feel relieved,to lighten the heart’s burden,To make someone feel better or more comfortable
+940,दिल से दिल का रिश्ता,a close emotional connection,heart-to-heart relationship,A deep emotional bond
+941,दिल में आग लगाना,to provoke jealousy or passion,to set fire in the heart,ignite someone's passion
+942,दिल देना और लेना,to love and reciprocate,to give and take the heart,To feel the pain of another person.
+943,दिल पर राज करना,to rule someone’s heart,to rule over the heart,To have a strong influence or control over someone or something.
+944,दिल पर बोझ होना,to feel guilt or heaviness,to have a burden on the heart,To feel a strong emotional connection or attachment.
+945,दिमाग में खिचड़ी पकना,to overthink randomly,khichdi cooking in the mind,Stage-2 output (justification):
+946,दिमाग का दही बनाना,to confuse someone completely,to make the brain into curd,Be a deep thinker
+947,दिमाग खपाना,to think very hard,to expend/wear out the brain,Stage-1 output: <english idiom> <definition> <candidates>
+948,दिमाग लगाना ज़रूरी है,to use common sense,it is necessary to apply the brain,To be in one's thoughts
+949,मुँह में ज़ुबान नहीं,to be timid or silent,no tongue in the mouth,To have nothing to say
+950,मुँह पर बोलना,to speak directly,to speak on the face,Speak the language of the people.
+951,मुँह मीठा कराना,to celebrate success with sweets,to make the mouth sweet,Stage-2 output (justification):
+952,नाक कटना,to lose honor,for the nose to be cut,To cut off one's nose to spite one's face
+953,नाक ऊँची करना,to make someone proud,to raise the nose high,Think highly of oneself
+954,नाक बचाना,to save face,to save the nose,To keep one's head above water
+955,नाक दबाना,to force acceptance,to press the nose,Stage-2 output (justification):
+956,नाक चढ़ाना,to act proudly,to raise the nose,To raise one's eyebrows
+957,कान खड़े करना,to become alert,to make the ears stand up,Stage-2 output (explanation):
+958,कान में बात डालना,to inform secretly,to put the matter into the ear,Stage-2 output:
+959,कान में जूँ न रेंगना,to remain unaffected,not even a louse crawls in the ear,Don't get caught up in the details.
+960,पैरों तले ज़मीन खिसकना,to be shocked or panicked,the ground slipping from under the feet,"To be overwhelmed by something, causing one's feet to sink into the ground."
+961,पैर उखड़ना,to lose stability,for the feet to get uprooted,shake off one's troubles
+962,हाथ बाँधकर बैठना,to stay idle or helpless,to sit with hands tied,"To sit with one's hands folded, often as a sign of respect or politeness."
+963,हाथ उठाना,to hit or bless,to raise the hand,To be aware of something or someone
+964,हाथ साफ़ करना,to steal cleverly,to clean the hand,To make something clear and transparent.
+965,हाथ में खेलना,to control completely,to play in the hand,To have a hard time
+966,सिर पर चढ़ना,to take advantage of leniency,to climb on the head,To be in a pickle
+967,सिर पर सवार होना,to be obsessed or enraged,to be mounted on the head,Stage-2 output:
+968,सिर ऊँचा रखना,to uphold dignity,to keep the head high,To be in the spotlight
+969,सिर पर तूफ़ान लाना,to invite big trouble,to bring a storm upon the head,"A sudden change in weather, often accompanied by strong winds."
+970,सिर फोड़ना,to fight violently,to smash/break the head,Shake one's head
+971,सिर पर कर्ज़ होना,to be in debt,to have debt on the head,Have a problem
+972,सिर का दर्द,a troublesome person,pain of the head,A headache
+973,सीने में जलन,to feel envy,burning in the chest,a bad situation is like a fire in the eye
+974,सीने पर बोझ,to feel guilt or burden,burden on the chest,In a pickle
+975,सीने में हवा भरना,to instill pride or ego,to fill air into the chest,To be in a state of agitation or excitement.
+976,सीना ठंडा होना,to feel relieved or avenged,for the chest to become cool,indifferent
+977,सीने पर हाथ रखना,to make a heartfelt promise,to keep a hand on the chest,To hold one's breath
+978,सीने में साँस न लेना,to be extremely scared,to not take breath in the chest,Hold your breath
+979,मन बनाना,to make up one’s mind,to make up the mind,To be a sponge
+980,मन भर जाना,to lose interest,for the mind to become full,To have a heavy heart
+981,मन खुश करना,to please someone,to make the mind happy,Be in the mood
+982,मन बदलना,to change opinion suddenly,to change the mind,To change one's mind
+983,मन लगाकर काम करना,to work sincerely,to work having set the mind,work with a heavy load
+984,मन जीत लेना,to win hearts,to win the mind,To remain composed
+985,पहला पत्ता गिरने से पहले,by autumn / before the first leaf falls,before the first leaf falls,"Once bitten, twice shy"
+986,जंजीरों में बंधा महसूस करना,to feel chained or trapped,to feel bound in chains,To feel like a prisoner
+987,मेरी बुरी किस्मत,just my bad luck,my bad luck,<select the most relevant English idiom>
+988,मेरे जीते-जी,over my dead body / as long as I’m alive,while I'm alive,To make it big
+989,दुम दबाकर निकल लेना,to run away in fear (tail between legs),to slip away with tail tucked,leave without saying goodbye or apologizing
+990,घुटने टेक देना,to surrender / kneel in defeat,to kneel down,Take a breather
+991,कौड़ियों के भाव,for a pittance / dirt cheap,at the price of cowries (shells),a person who is very emotional and expressive
+992,हाथ गंदे करना,to get one’s hands dirty (do something unsavory),to make one's hands dirty,Cover up
+993,लाड़-प्यार करना,to pamper / spoil,to dote and pamper,Stage-2 output (justification):
+994,हर तरफ से घेर लेना,to box in / surround on all sides,to surround from all sides,<select the most relevant English idiom>
+995,दिमाग पर छा जाना,to get stuck in one’s head,to spread over the mind,Aha moment
+996,"धंधा पहले, मज़ा बाद में",business before pleasure,"business first, fun later",Stage-2 output (justification):
+997,आसमान छूना (भाव/कीमतें),"to be sky-high (prices, rates)",to touch the sky (prices/rates),<select the most relevant English idiom>
+998,औरत के पल्लू में छिपना,to hide behind a woman’s pallu (show cowardice),to hide behind a woman's pallu,Stage-2 output (justification):
+999,बच्चों को भूखा मारना,to let the kids go hungry / starve,to starve the children,Stage-1 output:

@@ -1,0 +1,624 @@
+,src,true_meaning,literal_translation,predicted
+1000,深山老林,"Remote, thickly forested mountains",Deep mountain forest,To be in the middle of nowhere
+1001,深入浅出,Explain the profound in simple terms,Explain in simple language,Plain language
+1002,深入人心,Capture the hearts of the people,Deeply rooted in the hearts of the people,Leave a lasting impression
+1003,深文周纳,Frame and punish severely,Shen Wen Zhou Na,Reasoning: <explain the choice>
+1004,混世魔王,Devil incarnate,Demon King of Chaos,A pain in the neck
+1005,混淆黑白,Confuse (or juggle) black and white,Confuse black and white,<select the most relevant English idiom>
+1006,混淆是非,Confuse (or confound) right and wrong,Confusing right and wrong,To muddy the waters
+1007,混为一谈,Confuse something with something else,Mix it up,Mix up
+1008,浅尝辄止,Be satisfied with a smattering of a subject,Just taste it,Take it easy
+1009,添枝加叶,Embellish a story,Add branches and leaves,embellish
+1010,添砖加瓦,Do one's little bit,Add bricks and mortar,Add your own bricks to the wall.
+1011,添油加醋,Add color and emphasis to (a narration),Add oil and vinegar,to add insult to injury
+1012,涣然冰释,Melt (or cleared) away,Huan Ran Freeze,A clear understanding
+1013,游刃有余,Be move than equal to a task,Do it with ease,Handle with ease
+1014,浑水摸鱼,Fish in troubled waters,Fishing in troubled waters,Take advantage of a situation
+1015,浑然一体,An integral whole,All in one,To be completely integrated into something
+1016,温故而知新,Reviewing the past helps one to understand the present,Learn from the past,Learning from past mistakes
+1017,沧海横流,The changes and disorders of the times,Across the sea,A time of great turmoil or crisis
+1018,沧海一粟,A drop in the ocean (or bucket),Drop in the ocean,a grain of sand in the ocean
+1019,灭此朝食,Be anxious to finish off the enemy immediately,Annihilate this dynasty,Cut off their food supply
+1020,滴水成冰,Freezing cold,Dripping into ice,an inch of ice
+1021,满招损，谦受益,One loses by pride and gains by modesty,"Full of losses, modest benefits",Pride goes before a fall.
+1022,满城风雨,Become the talk of the town,Wind and rain all over the city,a wave of public opinion
+1023,泼妇骂街,Like a shrew shouting abuse in the street,Vixen scolding the street,A woman who is loud and obnoxious.
+1024,滥竽充数,Just to fill up a vacancy,Excessive use of data,Pass the buck
+1025,火上加油,Add fuel to the flames (or fire),Pour oil on the flame,Stir up trouble
+1026,火树银花,A display of fireworks and a sea of lanterns (on a festival night),Fire tree silver flower,A dazzling display of fireworks or lights
+1027,乌有先生,Mr. Nobody - a fictitious character created by Su-Ma Hsiang Ju,Mr. Wu You,A figment of the imagination
+1028,烈火见真金,True blue will never stain,Fire sees real gold,A true friend is revealed in times of hardship.
+1029,烘云托月,Art of using contrasting effects,Baking Clouds to the Moon,paint a picture
+1030,无米之炊,Make bricks without straw,Cooking without rice,To make something from nothing.
+1031,无风不起浪,Theres no smoke without fire,"No wind, no wave",A storm is brewing.
+1032,无风起浪,Make trouble out of nothing,No wind and waves,A storm without a storm
+1033,无敌于天下,Unmatched anywhere in the world,Invincible in the world,Unbeatable in the world
+1034,无功受禄,Get a reward without deserving it,Reward without merit,To get something for nothing
+1035,无计可施,Utterly without resources,Nothing can be done,at a loss
+1036,无济于事,Useless,To no avail,It doesn't make a difference.
+1037,无事不登三宝殿,"Would not go to somebody's place except on business, for help, etc",Bother you for something,for no reason
+1038,无事生非,Create problems where none exists,Much Ado About Nothing,To stir up trouble for no reason.
+1039,无所适从,With no definite plan to follow,At a loss,Caught between a rock and a hard place
+1040,无恶不作,Commit all manner of crimes,Do no evil,A person who is not guilty of any crimes.
+1041,无以复加,In the extreme,Can't be added,to the limit
+1042,无源之水，无本之木,Watery without a source and a tree without roots,"Water without source, wood without root",An idiom with no source or foundation.
+1043,无缘无故,For no reason at all,For no reason,Without cause
+1044,无庸赘述,It's unnecessary to go into details,Needless to say,It's a no-brainer
+1045,烟消云散,Disappear in a flash,Disappear into smoke,Fading away like smoke
+1046,煮鹤焚琴,Inappreciative of art or beauty,Boil the Crane and Burn the Qin,To waste time and effort on trivial pursuits.
+1047,照猫画虎,Imitate,Draw cats and tigers,Copycat
+1048,茕茕孑立，形影相吊,"Standing all alone, body and shadow comforting each other","Standing alone, hanging from each other",Lonely as a crow
+1049,煽风点火,Instigate,Fan the flames,To fan the flames
+1050,熟视无睹,Ignore,Turn a blind eye,ignore
+1051,燕巢幕上,Precarious,Swallow's Nest on the Curtain,To hide something in plain sight.
+1052,争权夺利,Scramble for power and profit,Scramble for power,To fight for control and resources.
+1053,争长论短,Squabble,Debating long and short,To nitpick
+1054,为民请命,Plead in the name of the people,Pray for the people,To speak out for the common good.
+1055,为非作歹,Break the law,To do evil,To do something bad or wrong.
+1056,为富不仁,Be rich and cruel,For the rich,To be heartless and cruel.
+1057,为虎傅翼,Assist an evil-doer,Fu Yi for the tiger,To give someone a tiger by the tail
+1058,为虎作伥,Help a villain do evil,Play for the tiger,To act as a partner or accomplice to a criminal.
+1059,为丛驱雀,Drive one's friends to the side of the enemy,Drive the sparrows,To drive away birds from a group of people.
+1060,为所欲为,Have (or get) one's own way,Do whatever you want,Do as one pleases
+1061,为渊驱鱼,Drive one's friends to the side of the enemy,Drive fish for the abyss,To drive a wedge between two people
+1062,墙倒众人推,Everybody bits a man who is down,The wall is pushed down,A house of cards
+1063,片甲不留,The army is completely wiped out,No armor left,leave no trace
+1064,片瓦无存,Be razed to the ground,No tiles left,A bird in the hand is worth two in the bush
+1065,牛头不对马嘴,Incongruous,The bull's head is not the horse's mouth,A talking book
+1066,牛鬼蛇神,Monsters and demons of all descriptions,Bull ghosts and snakes,A wild beast
+1067,牵一发而动全身,A slight move in one part may affect the situation as a whole,Pull one hair and move the whole body,A stitch in time saves nine.
+1068,狗急跳墙,(of evils) will take desperate measures if pushed to the wall,Dog jumping off the wall,A dog that is cornered will jump out of its hole.
+1069,狗血喷头,Let loose a stream of abuse (against somebody),Dog blood sprinkler,A shock to the senses
+1070,狐假虎威,Take advantage of the influence of others,Fox fake tiger power,A fox takes advantage of a tiger's reputation.
+1071,狐群狗党,A gang of scoundrels,Fox and Dog Party,A pack of wolves led by a wolf.
+1072,狡兔三窟,A crafty person has more than one hideout,Three Caves of Crafty Rabbit,A cat has nine lives.
+1073,狭路相逢,(of adversaries) meet face to face on a narrow path,Meet by narrow road,"To meet in a narrow space or situation, often with a sense of conflict or confrontation."
+1074,独霸一方,Be a local despot,Dominate one side,To have a monopoly on something.
+1075,独木不成林,Unable to do (or it cannot be done) single-handed,A single tree does not make a forest,A tree is not a forest.
+1076,独夫民贼,Autocrat and traitor to the people,Single husband and thief,A tyrant who oppresses the people.
+1077,独占鳌头,Head the list of successful candidates,Come out on top,First place
+1078,率由旧章,Follow the beaten track,Rate by old chapter,Follow the old rules
+1079,玉不琢，不成器,Jade requires chiseling - as man needs training and discipline,"Jade is not cut, not a device",A diamond that is not cut cannot be a gem.
+1080,玩火自焚,Whoever plays with fire gets burnt,Play with fire,Burn one's fingers
+1081,珠圆玉润,Excellent singing or polished writing,Pearl Round Yurun,A smooth and polished surface
+1082,班门弄斧,Show off in the presence of an old hand,Ban door axe,Show off one's skills in a way that is not appreciated.
+1083,瑕不掩瑜,The defects cannot obscure the virtues,Flaws do not hide beauty,A man's best friend is his weakness.
+1084,瑕瑜互见,Have both strong and weak points,Xia Yu meet each other,A double-edged sword
+1085,瑞雪兆丰年,Winter snow signifies a year of good crops,Ruixue Mega Year,A white Christmas
+1086,璞玉浑金,Unadorned beauty,Raw jade and gold,A diamond in the rough
+1087,瓜田李下,Be found in a suspicious position,Melon Field Lixia,A dog in a cabbage patch
+1088,瓦釜雷鸣,An unworthy man in a high position,Wah Kettle Thunder,A sore loser.
+1089,瓮中之鳖,(like) a rat in a hole,Turtle in a urn,A man in a pickle
+1090,瓮中捉鳖,A sure catch,Catching turtle in urn,<select the most relevant English idiom>
+1091,甘拜下风,Willingly acknowledge defeat,Gan Bai downwind,Stage-2 output (justification):
+1092,甘之如饴,Gladly endure hardships,Sweet as candy,"To enjoy something that is sweet or pleasant, even if it is bitter or unpleasant in the end."
+1093,甚嚣尘上,Making a lot of noise,All over the place,A hot topic
+1094,生米煮成熟饭,What's done can't be undone,Uncooked rice cooked rice,A situation that has become unalterable and cannot be reversed.
+1095,生于忧患，死于安乐,"Life springs from sorrow and calamity, death comes from ease and pleasure","Born in trouble, die in peace","Born in adversity, die in comfort"
+1096,用兵如神,Be a superb military commander,Use soldiers like gods,A military genius
+1097,男盗女娼,Behave like thieves and whores,Male thief female prostitute,A male thief and a female prostitute.
+1098,留得青山在，不怕没柴烧,While there is life there is hope,"Where there is life, there is hope",A bird in the hand is worth two in the bush
+1099,毕其功于一役,Accomplish the whole task at one stroke,Completed in one battle,Do it all at once
+1100,画饼充饥,Feed on illusions,Painting cake to satisfy hunger,Dreaming of a juicy steak
+1101,画虎类狗,Attempting more than one has ability for,Drawing tiger dog,To ape someone else's style or behavior
+1102,当机立断,Decide on the moment (or on the spot),Make a prompt decision,Cut to the chase
+1103,当局者迷，旁观者清,Those closely involved cannot see as clearly as those outside,"Father, like son","Out of sight, out of mind"
+1104,当场出丑,Make a spectacle of oneself,Embarrassed on the spot,make a fool of oneself
+1105,当仁不让,Not decline to shoulder a responsibility,Do your part,Lead by example
+1106,当耳边风,Turn a deaf ear to,When the wind blows,ignore
+1107,叠床架屋,Pile one bed upon another or build one house on top of another,Stacked bed frame house,Overbuild
+1108,疾风知劲草,Adversity is the best testing ground for moral stamina,The wind knows the strong grass,A strong wind reveals the strength of grass.
+1109,疾恶如仇,Abhor (or hate) evils or evildoers as if they were personal enemies,Evil like hatred,Take offense at something
+1110,病急乱投医,Try anything when in a desperate situation,Emergency medical treatment,"When in trouble, seek help from anyone, regardless of their expertise or credibility."
+1111,病从口入,Illness finds its way in by the mouth,Disease from the mouth,Catching a cold from eating bad food
+1112,癞蛤蟆想吃天鹅肉,Aspiring after something one is not worthy of,Toad wants to eat,A person who desires something that is beyond their reach or capability.
+1113,登峰造极,Reach the summit,Reach the pinnacle,Take it to the next level
+1114,登堂入室,Pass through the hall into the inner chamber,Entering the room,Move up the ladder
+1115,发愤忘食,Immersed in hard work (or study) one forgets to eat,Get angry and forget to eat,Burn the midnight oil
+1116,白璧微瑕,A slight blemish (in man's good character),Slightly flawed white jade,A small flaw in a perfect thing.
+1117,白头偕老,Remain a devoted couple to the end of their lives,Grow old together,To be married for life
+1118,白日见鬼,"See demons in broad daylight - of a strange, absurd, impossible thing",Hell by day,To see ghosts during the day
+1119,百步穿杨,Shoot with great precision (or with pin-point accuracy),Shoot with great precision,Hit a target 100 steps away with a bow and arrow.
+1120,百废俱兴,Full-scale reconstruction is under way,Everything is booming,bring back to life
+1121,百读不厌,Be worth reading a hundred times,Never tire of reading,A book that is so good that you can read it over and over again without getting bored.
+1122,百端待举,A thousand things wait to be done,Waiting for everything,To be in a state of preparation for multiple tasks or events.
+1123,百年好合,A harmonious union lasting a hundred years,Hundred Years of Harmony,A lifelong partnership
+1124,百炼成钢,Be toughened and hardened into steel,Tempered into a steel,To become hardened through repeated trials and hardships.
+1125,百孔千疮,In a disastrous state,Riddled with gaping wounds,A patchwork quilt
+1126,百花齐放，百家争鸣,Let a hundred flowers blossom and a hundred schools of thought contend,"A hundred flowers bloom, a hundred schools of thought contend",A free-for-all
+1127,百战百胜,Invincible,Win every battle,Unbeatable
+1128,百川归海,All things tend in one direction,A hundred rivers return to the sea,The sea is the ultimate destination for all rivers.
+1129,百足之虫，死而不僵,Old institutions die hard,"A hundred-footed worm, dead but not stiff",A dead horse.
+1130,百闻不如一见,Seeing is believing,Seeing is better than hearing,Seeing is believing
+1131,皆大欢喜,Everybody is happy,Everyone is happy,A win-win situation
+1132,皮笑肉不笑,Put on a false smile,Skin laughing meat not laughing,A smile that doesn't reach the eyes
+1133,皮之不存，毛将焉附,A thing cannot exist without its basis,"If the skin does not exist, the hair will be attached","When the tree is gone, the branches will fall"
+1134,盛名难副,It is hard to live up to a great reputation,Famous is hard to match,A big deal
+1135,盛情难却,Be ungracious not to accept somebody's invitation,Kindness but hardship,A feast is hard to decline.
+1136,尽力而为,Do one's best,Do your best,Give one's all
+1137,尽心竭力,(do something) with all one's heart,Do my best,Give it your all
+1138,尽人事，听天命,Do one's level best and leave the rest to God's will,"Do your best, listen to destiny",Do your best and hope for the best.
+1139,目不转睛,Look with fixed eyes,Keep an eye on,riveted
+1140,目光如炬,Farsighted,Eyes like torches,perceptive
+1141,盲人摸象,One-sided view,Blind man touching elephant,A blind person trying to understand a situation by touching and feeling it.
+1142,盲人瞎马,Rushing headlong to an immediate danger,Blind man blind horse,Reason: <select the most relevant English idiom>
+1143,直抒己见,Talk (or speak out) directly and simply,Express one's opinion,Speak one's mind
+1144,相辅相成,Supplement each other,Complement each other,A team that works well together
+1145,相得益彰,Bring out the best in each other,Complement each other,Two heads are better than one
+1146,相提并论,Put something (or somebody) on a par with,On a par,compare apples to oranges
+1147,相敬如宾,"(of couple) treat each other with respect (""like guests"")",Treat each other with respect,Treat someone like a guest
+1148,相知有素,Have known each other long,Know each other well,A long-standing friendship
+1149,相安无事,Live in peace with each other,Everything is fine,Along for the ride
+1150,相依为命,Shore one's life together,Depend on each other,Count on each other for survival
+1151,相沿成习,Become a custom through long usage,Learn from each other,get into the habit of
+1152,相映成趣,Set each other off,Comparing with each other,a picture is worth a thousand words
+1153,眉头一皱，计上心来,Knit the brows and a stratagem comes to mind,"Brows furrowed, thinking about it",A flash of inspiration
+1154,看菜吃饭，量体裁衣,Adapt oneself to circumstances,"See the dishes and eat, tailor the clothes",Adapt to the situation
+1155,真金不怕火,An honest person does not fear the light,Real gold is not afraid of fire,"A true friend is like gold, no matter how many times it is tested."
+1156,真相大白,The whole truth has come out,The truth is revealed,The truth is out.
+1157,眼高手低,Have high ambition but no real ability,Eyes are high and hands are low,Overly ambitious
+1158,睚眦必报,Seek revenge for the smallest grievance,Jairus must be reported,Take it personally
+1159,睹物思人,The thing reminds one of its owner,See things and think people,Think of the good old days
+1160,瞎子摸鱼,Act blindly,Blind man fishing,Blind as a bat
+1161,瞎子点灯白费蜡,Absolutely useless,The blind man lights the lamp in vain,Wasting time
+1162,瞎子见钱眼睛开,"On seeing money, even a blind man would have his eyes wide open",The blind man sees money and his eyes open,A person who is blind can still see money and open their eyes.
+1163,瞒天过海,Practice deception,Cross the sea,Pull a fast one
+1164,知己知彼，百战百胜,To know one's own strength and the enemy's is the sure way to victory,"Know thyself, ever-victorious","Know your enemy and know yourself, a hundred battles will be as easy as one."
+1165,知法犯法,Knowingly violate the low,Know the law and break the law,Know the rules but break them anyway.
+1166,知难而进,Press forward in the face of difficulties,Advancing in spite of difficulties,To keep going despite challenges.
+1167,知过必改,Know one's faults and correct them,Knowing must change,To admit one's faults and make amends.
+1168,知其一，不知其二,Have only a one-sided view,"I know one, don't know the other",Know one side but not the other
+1169,知无不言，言无不尽,Speak unreservedly,"Know everything, speak everything",Say what you mean
+1170,短兵相接,Engage in hand-to-hand fight (or in close combat),Hand in hand,Dueling
+1171,石沉大海,It disappears forever (or it has produced no reaction),Sinking into the sea,a stone sinking into the sea
+1172,破釜沉舟,Cut off all means of retreat,Burn one's boats,Go for broke
+1173,破涕为笑,(one's) tears melt into smiles (of face),Burst into laughter,To smile through tears
+1174,破旧立新,Destroy the old and establish the new,Break the old and build the new,To discard the old and establish the new.
+1175,硕果仅存,One of the few still lest,Only fruit remains,The last of its kind
+1176,磨杵成针,Perseverance will prevail,Grind the pestle into a needle,grind a stick into a needle
+1177,碍手碍脚,Be a hindrance,Get in the way,A stumbling block
+1178,神不知，鬼不觉,In great secrecy,"God does not know, ghost does not know","Out of sight, out of mind"
+1179,神采奕奕,Glowing with health and radiating vigor,In high spirits,Full of life
+1180,神色自若,Be perfectly calm and collected,Look at ease,Cool as a cucumber
+1181,祸不单行,It never rains but it pours,Misfortunes never come singly,Bad luck never comes alone.
+1182,祸国殃民,Bring disaster (or calamity) to the country and the people,Harm the country and the people,bring harm to
+1183,福无双至,Blessings never come in pairs,Fu Wushuang arrives,Good fortune never comes twice.
+1184,秀而不实,Flowering but producing no fruit,Show but not truth,Beauty without substance
+1185,私相授受,Make an illicit transfer,Give and receive privately,clandestine exchange
+1186,秋风扫落叶,Wipe out the corrupt and the evil easily,Autumn wind sweeps leaves,With the wind comes change.
+1187,秋毫无犯,(of highly disciplined troops) not commit the slightest offence against the civilians,Autumn is innocent,Take no liberties
+1188,种瓜得瓜，种豆得豆,"As you sow, so will you reap",You get what you sow,You reap what you sow
+1189,称孤道寡,Act like an absolute ruler,Act like an absolute monarch,"To claim to be the only one in the world, being the only one in the world."
+1190,称兄道弟,Be on intimate terms,Call each other brothers,A brotherly or sisterly relationship
+1191,称王称霸,Act like an overlord,Lord it over,To be the top dog.
+1192,积年累月,For months and years,Over the years,A long time is like a river flowing over a long period of time.
+1193,积谷防饥,Accumulate grains against famine,Accumulate grain to prevent hunger,Plan ahead to avoid hunger.
+1194,积重难返,Old habits are difficult to get rid of,Hard to return,It's hard to break a bad habit.
+1195,积羽沉舟,The awesome power of sheer numbers,Accumulate feathers sink the boat,A drop of water can sink a ship.
+1196,稳操胜券,Have full assurance of success,Be sure to win,Have the upper hand
+1197,空中楼阁,Daydream,Castle in the sky,A castle in the air
+1198,穿针引线,Act as a go-between,Thread the needle,To act as a bridge between two parties
+1199,突飞猛进,Make a spurt of progress,Advance by leaps and bounds,Make a big splash
+1200,穷兵黩武,Adopt a warlike policy,Go to war,Waging war without end
+1201,穷途末路,Dead end,No way no money,Be at the end of one's tether
+1202,穷山恶水,Barren mountains and unruly rivers,Poor mountains and bad waters,a barren wasteland
+1203,穷则思变,Poverty gives rise to a desire for change,Being poor is changing,"When times are tough, you have to change your ways."
+1204,窥测方向，以求一逞,Spy out the land in order to accomplish one's schemes,"Peep the direction, in order to succeed",Guess the meaning of
+1205,立锥之地,A tiny bit of land,The land of the cone,A corner of the room
+1206,立身处世,How to get along with people,Live in the world,To act with propriety in society.
+1207,立足之地,Standing-room,Gain a foothold,To have a solid foundation
+1208,竭尽全力,To the best of one's ability,Make every effort,Give it your all
+1209,端倪可察,Have found a due to something,Clues can be seen,A penny for your thoughts
+1210,笑里藏刀,An iron hand in a velvet glove,Hidden knife in laughter,A fox in sheep's clothing
+1211,笨鸟先飞,The need to start early (used as a modest expression of one's need for caution),Stupid bird fly first,<select the most relevant English idiom>
+1212,管中窥豹，可见一斑,Conjure the whole thing through seeing a part of it,"Peeping the leopard in the tube, it can be seen",A bird in the hand is worth two in the bush.
+1213,箭在弦上,A point of no return,Arrow on the string,A decision must be made.
+1214,筚路蓝缕,The pioneering spirit,Bilu blue thread,Toil and trouble
+1215,箪食壶浆,Welcome (an army) with food and drink,Tanshi pot pulp,A hearty reception
+1216,米珠薪桂,Exorbitantly high cost of living,Mi Zhu Xin Gui,A penny for your thoughts
+1217,粗枝大叶,In a slipshod manner,Thick branches and large leaves,A cursory and superficial approach.
+1218,粥少僧多,Not enough to go around,"Less porridge, more monks",A dog's breakfast
+1219,精兵简政,Streamlined administration,Efficient and streamlined administration,Cut back on staff
+1220,约法三章,Make a few simple rules to be observed by all concerned,Three chapters of the covenant,"Keep it simple, stupid"
+1221,纷至沓来,Come in a continuous stream,One after another,A steady stream of people
+1222,绝处逢生,Escape by the skin of one's teeth,Life in desperation,A penny saved is a penny earned.
+1223,绞尽脑汁,Rack one's brains,Racking my brains,Think outside the box
+1224,络绎不绝,Unending,An endless stream,a steady stream of people
+1225,经年累月,For years,Over the years,Stage-2 output (just the idiom):
+1226,绿林好汉,A band of bandits entrenched in a mountain stronghold,Green forest hero,Outlaw
+1227,绰绰有余,More than sufficient,More than enough,more than enough
+1228,绵里藏针,A ruthless character behind a gentle appearance,Tibetan needles in cotton,A soft-spoken person with a sharp tongue.
+1229,紧锣密鼓,Wildly beating gongs and drums,In full swing,Get the ball rolling
+1230,缘木求鱼,A useless search,Edge wood for fish,look for a fish on a tree
+1231,缓不济急,Slow action cannot save a critical situation,In no hurry,A stitch in time saves nine.
+1232,缩头缩脑,Shrink from responsibility,Shrink your head,to be timid
+1233,总而言之,To make a long story short,All in all,In a nutshell
+1234,总角之交,Childhood friend,Turn of the total angle,Childhood friends
+1235,绘声绘影,Vivid description,Picture sound and picture,paint a vivid picture
+1236,罄竹难书,(of a man's sins) too numerous to record,Too many books to read,a mountain of sins
+1237,罪该万死,Hideous crime deserving the harshest punishment,Sin deserves death,Deserve the death penalty
+1238,罪责难逃,Cannot get away with it,Guilt is inevitable,You can't have your cake and eat it too.
+1239,置之脑后,Put out of mind,Leave it behind,put out of mind
+1240,置身事外,Stay (keep or remain) aloof from the affair,Stay out of the way,Keep your nose out of it
+1241,美中不足,A blemish in an otherwise perfect thing,A fly in the ointment,A little bit of something is better than nothing
+1242,群龙无首,A group without a leader,Dragons without a leader,A group without a leader
+1243,群起而攻之,Rally together to attack,Group to attack,A stitch in time saves nine.
+1244,习惯成自然,Habit (or custom) is a second nature,Habit is second nature,"The more you do it, the easier it gets"
+1245,翻山越岭,Travel (or tramp) over hill and dale,Over the mountains,Scale a mountain
+1246,老马识途,(of experienced people) know the ropes,The old horse knows the way,A wise old sage who has seen it all.
+1247,老骥伏枥，志在千里,Old people may still cherish high aspirations,"Old Ji Fuzheng, aspiring to a thousand miles",A veteran horse with its back arched is ready to run a thousand li.
+1248,耳食之谈,Accept readily without comprehending what is heard,Talking about ear food,idle chatter
+1249,耳闻不如目见,Seeing for oneself is better than hearing from others,Hearing is worse than seeing,Seeing is believing
+1250,聊胜于无,Half a loaf is better than no bread,Better than nothing,to have a word with sb
+1251,聊以自慰,Just to console oneself,Chat to masturbate,To console oneself with trivial things.
+1252,聊以卒岁,Just to tide over the year,Talk about death,To get by
+1253,聚沙成塔,Many a little makes a mickle,Gather sand into a tower,Build a tower from sand
+1254,闻风而起,Go into action without delay,Up in the wind,A fire that starts from a small spark.
+1255,闻名不如见面,Know a man by repute is not as good as meeting him face to face,Better to be famous than to meet,Being famous is not as good as meeting someone in person.
+1256,闻过则喜,Be glad to have one's errors pointed out,Happy to hear it,To be happy about criticism
+1257,闻一知十,Infer the whole matter after hearing but one point,Hear one know ten,A small thing can cause a big problem
+1258,聪明反被聪明误,Cleverness may overreach itself,Smart is mistaken by smart,Too clever by half
+1259,聪明一世，糊涂一时,"Smart as a rule, but this time a fool","Smart for a lifetime, confused for a while","A wise person for a long time, but then foolish for a moment."
+1260,声东击西,Make a feint,Sound east and west,feigning a diversion
+1261,耸入云霄,Rise above the clouds,Soaring into the sky,Sky-high
+1262,听其自然,Leave (things) to chance,Let it be,Let things be
+1263,听其言而观其行,Judge people by their deeds not just by their words,Listen to what he says and watch what he does,walk the talk
+1264,听之任之,Let one have one's own way,Leave it alone,Let sleeping dogs lie
+1265,肺腑之言,Words from the bottom of one's heart,Words from the Heart,A heart-rending confession
+1266,背道而驰,Run counter to,Run in the opposite direction,Going in a completely opposite direction
+1267,背城借一,Put up a desperate struggle,Borrow one from behind the city,Fight to the last man
+1268,胡思乱想,Let one's imagination run away with him,Have a bee in one's bonnet,Think on one's feet
+1269,胸中有数,Have a good idea of how things stand,Number in chest,Know what you're talking about
+1270,胸中无数,Have no idea of how things stand,Countless in the chest,In the dark
+1271,能上能下,Be ready to work both at the top or at the grass roots,Can go up and down,A man of many parts
+1272,能文能武,Capable of handling both military and civilian affairs,Capable of writing and martial arts,A jack-of-all-trades
+1273,脚踏两只船,Have a foot in either camp,Pedal two boats,To have two feet in two boats (idiomatic)
+1274,脚踏实地,Earnest and down-to-earth,Down to earth,Work hard and be practical.
+1275,脑满肠肥,Heavy-jowled and potbellied - the idle rich,Brain full of fat,Overfed and bloated
+1276,腹背受敌,Be attacked from all sides,Enemy on the back,caught between a rock and a hard place
+1277,膏粱子弟,Good-for-nothing sons of the idle rich,Gao Liang's disciples,A spoiled brat
+1278,胆战心惊,Strike terror into the heart of,Tremble with fear,To be on pins and needles
+1279,临渴掘井,Do a thing at the 11th hour,Digging a well when thirsty,"When the well runs dry, you dig it."
+1280,临阵磨枪,Start to prepare only at the last moment,Sharpening the gun,Last-minute cramming
+1281,临危不惧,Remain calm in the face of a crisis,Don't be afraid of danger,stand up to danger
+1282,临渊羡鱼，不如归而结网,One should take practical steps to achieve one's aims,"Linyuan is envious of fish, it is better to go home and make a net",Envy the rich and famous
+1283,自讨苦吃,Do something which will only cause trouble to oneself,Asking for trouble,Reasoning: <select the most relevant English idiom> matches the definition of the Chinese idiom. The other options are not as relevant.
+1284,自掘坟墓,Bring ruin upon oneself,Digging one's own grave,To dig one's own grave
+1285,自取其咎,Have only oneself to blame,Blame it on yourself,Bite off more than you can chew
+1286,自行其是,Go one's own way,On its own,Do as you please
+1287,自寻烦恼,Bring vexation on oneself,Asking for trouble,Barking up the wrong tree
+1288,自食其果,Face the consequences of one's action,Eat your own fruit,Take the fall
+1289,自食其言,Break one's own promise,Eat your own words,Keep your word
+1290,自作聪明,Think oneself clever,Make yourself smart,A fool's errand
+1291,自言自语,Keep on chattering though to one is listening,Talking to oneself,talk to oneself
+1292,自我吹嘘,Boast smugly,Brag about oneself,Blow one's own horn
+1293,至死不变,Constant till death,Unchanging till death,"To stand by one's convictions, even in the face of opposition or danger."
+1294,与虎谋皮,Ask a tiger for its hide,Scheming with tigers,To play a trick on someone
+1295,与日俱增,Be steadily on the increase,Increasing day by day,Gradually increasing over time
+1296,与人为善,Do good for people,Be kind to people,Do good for others
+1297,兴师问罪,Send a punitive expedition against,Xingshi to ask guilt,To act in a way that is considered to be a violation of the law or a moral code.
+1298,举不胜举,Too numerous to mention,Too many to mention,too many to count
+1299,举国上下,The whole nation,The whole country,A nation united
+1300,举一反三,Infer other things from one fact,Learn by analogy,apply the same principle to a different situation.
+1301,旧地重游,Revisit a once familiar place,Revisiting old places,To revisit a place that has been visited before.
+1302,旧恨新仇,New hatred piled on old,Old hatred new hatred,old grudges and new resentments
+1303,舌敝唇焦,"Wear oneself out in pleading, expostulating, etc",Tongue and lip burn,Talking one's mouth off
+1304,舞文弄墨,Indulge in fancy writing,Dance with ink,Write on paper
+1305,良药苦口,Good medicine tastes bitter,Good medicine is bitter,A bitter pill to swallow
+1306,良药苦口利于病，忠言逆耳利于行,"Just as bitter medicine cures sickness, so unpalatable advice benefits conduct","Good medicine tastes bitter, unpalatable advice help line",A bitter pill to swallow
+1307,艰难曲折,Arduous and tortuous,Difficult twists and turns,A bumpy ride
+1308,色厉内荏,Be tough-looking outside but really timid within,Color Li Nei,A big fish in a small pond
+1309,芒刺在背,Feel nervous and uneasy,Thorn on the back,To have a thorn in one's back.
+1310,花天酒地,Indulge in gay life and debauchery,Spend the day,Living it up
+1311,若要人不知，除非己莫为,The only way to keep people from knowing something is not to do it,"If you don't know, you have to do it yourself","If you don't want others to know, you mustn't do it yourself."
+1312,若有所失,Feel lost,If something is lost,at a loss
+1313,若无其事,Calmly,If nothing happened,If you don't care about something
+1314,苦海无边，回头是岸,Escape from the human world of woes and find salvation,"The sea of suffering is boundless, turning back is the shore",A long road to hell is paved with good intentions.
+1315,英雄所见略同,Great minds think alike,Heroes see the same,Two heads are better than one
+1316,英雄无用武之地,No scope for one's energies,Heroes are useless,A hero has no place to use his skills.
+1317,茁壮成长,Grow up healthy and strong,Growing up healthily,Flourish and grow
+1318,苟延残喘,Eke out a meagre life,On one's last legs,To hang on to life by a thread.
+1319,茹毛饮血,Live the life of a primitive man,Ru Mao drinks blood,To eat raw meat and drink blood.
+1320,草木皆兵,Be afraid of one's own shadow,All grass and trees,A stitch in time saves nine.
+1321,萍水相逢,"Casual, temporary meeting",Meet by chance,A chance meeting
+1322,荆棘载途,A path beset with difficulties,Thorns on the road,A stumbling block
+1323,万般皆下品，惟有读书高,"All occupations are ranked low, only book-learning is exalted","Everything is inferior, only reading is high",A bird in the hand is worth two in the bush.
+1324,万籁俱寂,All sounds are hushed (or still),Everything is silent,Dead silence
+1325,万里长征,A long march of ten thousand li,The Long March,A long and difficult journey
+1326,万事大吉,Everything goes off without a hitch,All is well,A piece of cake
+1327,万事亨通,Everything goes well,Everything is prosperous,Everything is going swimmingly.
+1328,万事俱备，只欠东风,All is ready except what is crucial,All is ready except for the opportunity,A bird in hand is worth two in the bush
+1329,万寿无疆,(wish somebody) a long life,Longevity without borders,Live forever
+1330,万水千山,Ten thousand crags and torrents,Thousands of Waters and Thousands of Mountains,A long way to go
+1331,落花有意，流水无情,Unrequited love,"Falling flowers are intentional, flowing water is ruthless",A cat has nine lives.
+1332,落井下石,Strike (or hit) a person when he is down,Fall into the hole,To take advantage of someone's misfortune by doing something harmful or unfriendly.
+1333,叶落归根,Falling leaves settle on their roots,Leaves fall back to their roots,The grass grows back where it was cut.
+1334,叶公好龙,Professed love of what one really fears,Ye Gong Hao Long,A person who pretends to be fond of something but is actually indifferent to it.
+1335,萧规曹随,Follow established rules,Xiao Gui Cao Sui,follow the lead of someone
+1336,藏头露尾,Speak evasively (or equivocally),Hide one's head and show one's tail,To hide one's true intentions
+1337,藏龙卧虎,Hidden dragons and crouching tigers,Hidden Dragon Crouching Tiger,A place where dragons and tigers are hidden.
+1338,药石之言,Unpleasant but needed advice,Words of medicine stone,A piece of advice that is valuable and can be beneficial.
+1339,虎背熊腰,Stalwart men,Tiger's back and bear's waist,A strong and muscular person.
+1340,虎口余生,A narrow escape from death,The rest of the life,A stitch in time saves nine
+1341,虚己以听,Listen patiently,Humility to listen,Be open-minded
+1342,蚍蜉撼树,Ridiculously overrating one's own strength,Mayfly shake the tree,A fly buzzing around a giant oak tree.
+1343,蛟龙得水,A hero gets an opportunity for showing his prowess,Jiaolong gets water,A fish in a barrel
+1344,蜀犬吠日,An ignorant person makes a fuss about something which he alone finds strange,Shu dog bark day,a sore thumb
+1345,虾兵蟹将,Ineffective troops,Shrimp soldier and crab general,A ragtag army
+1346,蚂蚁啃骨头,Plod away at a big job bit by bit,Ant chews on bone,"It's like trying to chew through a bone, which is impossible."
+1347,螳螂捕蝉，黄雀在后,"The mantis stalks the cicada, unaware of the oriole behind","The mantis catches the cicada, the orioleis behind",Reasoning: <select the most relevant English idiom> is the best match because <reasoning>.
+1348,蝇营狗苟,Shamelessly seek personal gain,Fly camp dog gou,To be a rat in the nest
+1349,蠢蠢欲动,Ready (about) to make trouble,Just around the corner,To be on the verge of action.
+1350,蚕食鲸吞,Seize another country's territory by piecemeal encroachment or wholesale annexation,Swallow like a whale,Gradual encroachment
+1351,血气方刚,In the prime of youth,Bloody Fang Gang,"A person who is still young and inexperienced, often characterized by impulsive behavior."
+1352,众目睽睽,In the public eye,In full view,Everyone's eyes are on it.
+1353,众口难调,It is difficult to please everyone,Difficult to reach,It's impossible to please all the people all the time.
+1354,众口铄金,Public opinion will fuse metals,All mouths of gold,A bad reputation can be spread by many people.
+1355,众擎易举,Many hands make light work,Easy to do,A team can easily accomplish a task together.
+1356,众说纷纭，莫衷一是,"As opinions vary, no unanimous conclusion can be drawn","Different opinions, no consensus",A hotly debated topic
+1357,众人拾柴火焰高,Great things may be done by mass effort,The more the merrier,Many hands make light work.
+1358,行百里者半九十,One must sustain one's effort when a task is nearing completion,Barry is only half of 90,Halfway to success is halfway to failure.
+1359,行同狗彘,Make a beast of oneself,Go with the dog,act like a dog
+1360,行成于思,Success depends on forethought,Act by thinking,Think before you leap.
+1361,行若无事,Behave as if nothing had happened,Act like nothing,go about one's business as usual
+1362,行远自迩,Step by step,Travel far away,Start small and build up
+1363,冲锋陷阵,Charge forward,Charge into battle,To lead the charge.
+1364,衣架饭囊,Useless lazy persons,Hanger rice bag,<select the most relevant English idiom>
+1365,表里如一,Sincere,Same on the outside,Speak your mind and act accordingly.
+1366,袖手旁观,Stand by and do nothing,Stand idly by,Stand on the sidelines
+1367,被褐怀玉,Not show off one's talent,By brown jade,To have a diamond in the rough
+1368,装疯卖傻,Pretend ignorance,Pretending to be crazy,To act like a fool
+1369,装聋作哑,Pretend to be ignorant of something,Pretend to be deaf,To pretend to be dumbfounded.
+1370,覆巢之下无完卵,All involved,No eggs under the nest,Other: <select the other most relevant English idiom>
+1371,见风转舵,See how the wind blows,See the wind,To go with the flow and adapt to changing circumstances.
+1372,见缝插针,Make use of every bit of time or space,See the seam,Take advantage of every opportunity
+1373,见利忘义,Forget all moral principles at the sight of profits,Forget about profit,To prioritize personal gain over moral principles.
+1374,见猎心喜,Thrill to see one's favorite sport and itch to have a go,See the heart of the hunter,Catching the fever
+1375,见机行事,Do as one sees fit,Act by chance,Go with the flow
+1376,见异思迁,Desire to change one's work the moment one sees something different,See different thoughts,Stage-2 output (just the idiom):
+1377,视同路人,Regard as a stranger,Treat as a passerby,"Reason: <select the most relevant English idiom> is the most relevant English idiom because it matches the definition of the Chinese idiom ""视同路人"" which means to treat someone as if they were an acquaintance or a stranger."
+1378,视同儿戏,Treat (a serious matter) as a trifle,Treat it like a child's play,make light of it
+1379,视如寇仇,Regard (or look upon) somebody as one's enemy,Regarded as a hatred,Treat someone as an enemy or an adversary.
+1380,视死如归,Look death calmly in the face,Look at death,Face death like a warrior
+1381,视而不见，听而不闻,"Look at but not pay attention to, listen to but hear nothing","Turn a blind eye, hear without hearing",Ignore completely
+1382,视为知己,Regard as a good friend,Regarded as a confidant,A friend in need is a friend indeed.
+1383,视为畏途,Keep away from something,Regarded as a dreadful way,To view something as a daunting or challenging task.
+1384,解放思想,Free oneself from old ideas,Emancipate the mind,To think outside the box
+1385,解囊相助,Help somebody generously with money,Unpacking to help,To give a helping hand
+1386,解铃系铃,Whoever started the trouble should end it,Unwind the bell,Catching a thief by his own net
+1387,解甲归田,Retire from service,Disarming and returning to the field,to retire from military service and return to farming
+1388,触类旁通,Reason (or comprehend) by analogy,Comprehend by analogy,Learn by example
+1389,言必信，行必果,Always be true in word and resolute in deed,Promises must be kept and action must be resolute,Keep your word
+1390,言必有中,Whenever one says something one hits the nail on the head,Words must be right,A bullseye
+1391,言归正传,Get (or come) to business,Closer to home,To the point
+1392,言行不一,One's actions are not in keeping with one's promises,Inconsistent words and deeds,A person who talks the talk but doesn't walk the walk.
+1393,言行一致,Practise what one preaches,Consistent with words and deeds,Say what you mean and mean what you say.
+1394,言之无物,(of speech or writing) be devoid of substance,Nothing to say,A phrase with no substance.
+1395,言出法随,Enforce the regulations to the letter,Follow the law,A word is worth a thousand pictures.
+1396,言传身教,Teach by personal example as well as verbal instruction,Teaching by precept and example,Lead by example
+1397,言犹在耳,The words are still ringing (or reverberating) in one's ears,The words are still in my ears,The words are still fresh in my mind.
+1398,言为心声,One's words reflect one's thinking,Speak for the heart,A picture is worth a thousand words
+1399,记忆犹新,Remain fresh in one's memory (or mind),Fresh in memory,A picture is worth a thousand words.
+1400,设身处地,Put oneself in somebody else's position,Put yourself in,To walk a mile in someone else's shoes
+1401,评头品足,Find fault with,Comment on the head and the foot,Look at a person or thing from a particular angle
+1402,话不投机半句多,"When the conversation gets disagreeable, to say one word more is a waste of breath",Don't talk more than half a sentence,"A conversation is not enjoyable or interesting, so only a few words are exchanged."
+1403,认贼作父,Treat a thief as one's father,Recognize a thief as a father,"To treat someone as one's own child, even if they are not."
+1404,誓不甘休,Swear not to stop (or rest),Unwilling to rest,Hold out
+1405,誓死不二,Swear to be loyal forever,Swear to death,"To be true to one's beliefs, even if it means dying for them."
+1406,诱敌深入,Lure the enemy troops in deep,Lure the enemy deep,lead the enemy astray
+1407,说到做到,Live up to one's word,Do as promised,keep one's word
+1408,说曹操，曹操就到,Talk of the devil and he will appear,"Say Cao Cao, Cao Cao will come","2) When you say Caesar, he shows up."
+1409,谈虎色变,Turn pate at the mere mention of something terrible,Talk about a tiger's discoloration,as pale as a ghost
+1410,请君入瓮,Kindly step into the vat - try what you have devised against others,Please enter the urn,To trap someone in a situation or problem
+1411,论功行赏,Award people according to their contributions,On meritorious deeds,To reward someone for their accomplishments
+1412,讳莫如深,Not utter a single word about something,Keep a secret,Stage-2 output (justification):
+1413,诸如此类,Things like that (or this),And so on,Same as
+1414,谑而不虐,Tease without embarrassing,Sarcastic but not cruel,A light-hearted and playful manner without causing harm.
+1415,识时务者为俊杰,A brave man knows how to bow to circumstances,The person who knows the times is Junjie,The early bird catches the worm.
+1416,豁然贯通,Suddenly see the whole thing in a clear sight,All of a sudden,get it
+1417,豁然开朗,Suddenly cleared up,Suddenly see the light,Aha moment
+1418,豹死留皮,A leopard's skin survives its body,Leopard dead skin,A cat has nine lives.
+1419,豺狼当道,Evil person in power,Jackal in power,A dog-eat-dog world
+1420,猫哭耗子,Shed crocodile tears,Cat crying mouse,A cat crying over a mouse.
+1421,负重致远,(of a person) be able to shoulder important tasks,Carrying weight goes far,To carry a big stick
+1422,贫无立锥之地,Utterly destitute,A land of poverty,No room to stand
+1423,贪小失大,Covet a little and lose a lot,Greedy for the small,Don't sweat the small stuff.
+1424,贪生怕死,Clinging to life instead of braving death,Greedy for life,To be a coward
+1425,费尽心机,Painstakingly,Go to great lengths,Make a great effort
+1426,贼喊捉贼,The devil rebuking a sin,Thief shouting catch thief,Frame someone
+1427,贼去关门,Lock the door after the thief has gone,Thief to close the door,leave the door open for sb
+1428,宾至如归,A home from home,Feel at home,A guest is at ease.
+1429,赏罚分明,Be strict and fair in meting out rewards and punishments,Clear rewards and punishments,Clear as day
+1430,赏心悦目,Find the scenery pleasing both to the eye and the mind,Pleasing to the eye,A sight to behold
+1431,赔了夫人又折兵,Throw the helve after the hatchet,Lost my wife and lost my army,Lost the woman and the battle
+1432,卖剑买牛,Beat swords into ploughshares,Sell swords and buy cattle,To sell one's birthright for a mess of pottage.
+1433,质疑问难,Raise doubts and difficult questions for discussion,Difficult to question,Question or challenge something with skepticism
+1434,走马观花,Take a brief look at,Watching flowers on a horseback,Take a cursory glance
+1435,赴汤蹈火,Go through hell,Go through fire and water,Go to great lengths
+1436,起死回生,Snatch a patient from the jaws of death,Come back to life,bring back from the dead
+1437,越俎代庖,Take another's job into one's own hands,Over and over again,Step in where one is not wanted
+1438,跳梁小丑,Contemptible rebel,Jumping beam clown,fly in the ointment
+1439,蹈常袭故,Follow mere routine,Repeat the same,Stick to the status quo
+1440,跃跃欲试,Itch to have a go,Eager to try,Can't wait to try something
+1441,身价百倍,Skyrocket to fame,Worth a hundred times,A penny for your thoughts.
+1442,身教胜于言教,Practice (or example) is better than precept,Teaching by example is better than teaching,Actions speak louder than words
+1443,身先士卒,Lead one's men in a charge,Lead the way,Lead by example
+1444,身在福中不知福,Not appreciate the happy life one enjoys,"In the midst of happiness, don't know happiness",To be in a state of happiness or contentment without realizing the true value or significance of it.
+1445,车到山前必有路,Things will eventually sort themselves out,There must be a road before the car reaches the mountain,"When the going gets tough, the tough get going."
+1446,软硬皆施,Use both persuasion and force (or coercion),Both soft and hard,Soft sell
+1447,轻歌曼舞,Sing merrily and dance grace fully,Light songman dance,A lively and graceful song and dance.
+1448,轻重倒置,Put the trivial above the important,Inversion of light and heavy,The priorities are reversed.
+1449,轻于鸿毛,Lighter than a (goose) feather - a death which is of no significance at all,Lighter than a feather,A grain of sand in the ocean
+1450,转祸为福,Turn a calamity into a blessing,Turn a misfortune into a blessing,Turn misfortune into blessing
+1451,转危为安,Pull through,Turn the corner,Turn danger into safety
+1452,转弯抹角,Beat about the bush,Beating around the bush,to make a detour
+1453,近水楼台先得月,Enjoy the benefits of a favorable position,"Near the water floor, first-served month","First come, first served."
+1454,迫不得已,Be forced (driven or compelled) to,As a last resort,There's no other way out.
+1455,送旧迎新,Ring out the Old Year and ring in the New,Send the old and welcome the new,Let bygones be bygones
+1456,送往迎来,See off those who depart and welcome those who arrive,Send to welcome,To welcome and send off guests with great ceremony and respect.
+1457,逆水行舟,Row against the flood,Sailing against the current,To persevere through adversity
+1458,逍遥法外,Go scot-free,Get away with it,"To be at large and unpunished, to escape justice."
+1459,通权达变,Adaptable to changing circumstances,Pass the right to change,To adapt to changing circumstances
+1460,逢凶化吉,Turn calamities into blessings,Turning bad luck into good luck,Turn a bad situation into a good one
+1461,连篇累牍,Long-winded,A series of articles,A lengthy and detailed speech or writing.
+1462,过屠门而大嚼,Feed oneself on illusions,Chewing through the butchery,To pass by a butcher's shop and eat meat without buying it.
+1463,过河拆桥,Ingratitude for past help,Cross the river and demolish the bridge,cut off at the pass
+1464,遥相呼应,Coordinate with each other from afar,Echo each other,A long way to go
+1465,远水不救近火,Water far away is not of much use in putting out a fire,Far water does not save near fire,A drop in the bucket
+1466,适逢其会,Happen to be present at the right moment,Coincides with the meeting,Stage-2 output (justification):
+1467,避坑落井,Escape one difficulty only to fall into another,Avoid pits and fall into wells,Avoiding a pitfall and getting stuck in a well.
+1468,邪魔歪道,Crooked ways (or means),Demon crooked way,Outside the box
+1469,酒囊饭袋,A good-for-nothing person,Wine bag rice bag,A person who is a dead weight.
+1470,酒肉朋友,Fair-weather friends,Wine and meat friends,A man or woman who is only friends with you because you can provide them with food and drink.
+1471,醉生梦死,Live a life of dreams,Drunk life and dream death,Live in a state of blissful ignorance
+1472,醉翁之意不在酒,"Though one professes to be a drinker, he is really not interested in wine",The drunkard's intention is not the wine,The real reason behind something.
+1473,丑态百出,Utterly ridiculous,Act like a buffoon,A fool's errand
+1474,重蹈覆辙,Recommit the same error,Repeat the same mistakes,repeat past mistakes
+1475,重见天日,Once more see the light of day -  be delivered from oppression or persecution,See the sun again,To be released from confinement or oppression.
+1476,重温旧梦,Revive an old dream,Relive old dreams,Live in the past
+1477,量力而行,Act according to one's ability,Do what you can,Bite off more than you can chew
+1478,量入为出,Make both ends meet,Live within your means,Live within one's means
+1479,量材录用,Assign jobs to people according to their talents,Quantity material acceptance,Put the right person in the right position
+1480,金科玉律,Laws and regulations,The golden rule,A hard and fast rule
+1481,金蝉脱壳,Escape unnoticed,Golden cicada shells,To fly under the radar
+1482,金石为开,The utmost sincerity can influence even the metal and stone,Gold stone is open,"The harder you work, the luckier you get"
+1483,金瓯无缺,Unimpaired territorial integrity,Ca Mau is flawless,Unblemished
+1484,金玉其外，败絮其中,Shining on the outside but rotten on the inside,"The gold and jade are outside, andthe corruption is in it","A pretty shell, a rotten heart"
+1485,釜底抽薪,Take a drastic measure to deal with a situation,Salary from the bottom of the pot,To cut off the fuel to put out a fire.
+1486,针锋相对,Blow for blow,Tit for tat,Go head-to-head
+1487,银样蜡枪头,A pewter spearhead that shines like silver - an impressive looking but useless person,Silver wax tip,A fake or worthless imitation
+1488,钢筋铁骨,A brass and iron constitution - a strong man,Reinforced iron bones,Unbreakable
+1489,铭感终身,Remain deeply grateful for the rest of one's life,Impressive for life,to hold onto something dearly
+1490,铤而走险,Rush headlong into danger,Take the risk,Take a chance
+1491,锋芒所向,Target of attack,The direction of the edge,A lion in a china shop
+1492,锱铢必较,Dispute over every detail,Baht must be compared,to be a stickler for detail
+1493,钱可通神,Money makes the mare go,Money can be transcendental,Money talks.
+1494,锦绣河山,Beautiful land,Splendid rivers and mountains,A country of great beauty and prosperity.
+1495,锦上添花,Win honor (or successes) one after another in quick succession,Icing on the cake,Add fuel to fire
+1496,镜花水月,Flowers in a mirror and the moon in water - an illusion,Through the mirror,A mirage
+1497,铁树开花,The iron tree in blossom - something seldom seen or hardly possible,Iron tree blossom,A rare event that occurs.
+1498,铁案如山,Borne out by ironclad evidence,The iron case is like a mountain,rock-solid
+1499,铸成大错,Make a gross error,Make a big mistake,Blow it
+1500,鉴往知来,See visions of things by (or from) experiences,Learn from the past,Look back to see forward
+1501,长年累月,Year in year out,Over the years,A long time
+1502,长此以往,If things continue this way,For along time,a drop in the bucket
+1503,门庭若市,A much visited house,Ting Ruo city,a house full of people
+1504,闭门造车,Draw up plans behind closed doors,Behind closed doors,Closed-Minded
+1505,闭门思过,Ponder over one's mistakes in solitude,Thought behind closed doors,Take a moment to think about what you can do better.
+1506,闭目塞听,Shut one's eyes and stop up one's ears - be out of touch with reality,Close your eyes and listen,Turn a deaf ear
+1507,闭塞眼睛捉麻雀,Act blindly,Close your eyes to catch sparrows,Miss the boat
+1508,开门见山,Put it bluntly,Straight to the point,cut to the chase
+1509,开门揖盗,Ask for trouble,Open the door,Let the cat out of the bag
+1510,开天辟地,Epoch-making,Open up the world,to create the heavens and the earth (idiomatic expression)
+1511,开花结果,Blossom bear fruit - yield positive results,Bloom and bear fruit,see the fruits of one's labor
+1512,开卷有益,Reading enriches the mind,Unwinding is beneficial,Reading is beneficial.
+1513,开山祖师,A founder,The founder of the mountain,the founder of a new religious movement
+1514,开源节流,Earn more income and cut down expenses,Open source and reduce expenditure,Live within your means
+1515,防不胜防,Impossible to defend effectively,Hard to guard against,It's hard to keep up with everything.
+1516,防意如城,Guard the thoughts of the heart as you would defend a city,Defense is like a city,<select the most relevant English idiom>
+1517,降龙伏虎,Subdue the dragon and tame the tiger - overcome powerful adversaries,Subduing the dragon and subduing the tiger,To conquer or subdue a powerful enemy or opponent.
+1518,除旧布新,"Ring out the old, ring in the new",Remove old cloth and new,to discard the old and adopt the new
+1519,除恶务尽,Uproot (all) evils,Do away with evil,Eliminate all evil
+1520,阴错阳差,(a mistake or error due to) a strange combination of circumstances,Yin and yang difference,A bad thing that happens despite one's best efforts.
+1521,陈陈相因,Follow a set routine,Chen Chen Xiangyin,follow the old ways
+1522,阳奉阴违,Comply in public but oppose in private,Yang follows yin,feign compliance
+1523,隔墙有耳,Beware of eavesdroppers,Wall has ears,Overhearing
+1524,隔岸观火,Look on at somebody's trouble with indifference,Watching the fire from the other side,Stand on the sidelines
+1525,随波逐流,Follow the current (or crowd),Go with the flow,Go with the flow
+1526,随风转舵,Take one's cue from changing conditions,Turn the rudder with the wind,To go with the flow
+1527,随心所欲,Have (or get) one's own way,Do whatever you want,Do as one pleases
+1528,隐晦曲折,Veiled and round-about,Obscure twists and turns,Indirect
+1529,隐恶扬善,Hide somebody's wrongdoing and praise his good deeds,Hide evil and promote good,keep one's mouth shut
+1530,雅俗共赏,Give pleasure both to the refined and the vulgar,Both refined and popular,It's a hit with both the highbrow and the lowbrow.
+1531,集腋成裘,Many drops of water make an ocean,Combine armpits into fur,Accumulate
+1532,雕虫小技,Insignificant skill (especially in writing),Bug carving tricks,A drop in the bucket
+1533,离乡背井,Leave one's native district,Away from home,"To leave one's home and family behind, especially for a long time."
+1534,雨后春笋,Spring up like mushrooms,Spring bamboo shoots,A sudden increase in something.
+1535,雪中送炭,Provide timely help,Charcoal in the snow,To lend a hand when someone is in trouble
+1536,雪上加霜,One disaster after another,Make matters worse,To add insult to injury
+1537,云消云散,Vanish into thin air,The clouds dissipate,The clouds have parted.
+1538,雷声大，雨点小,Much said but little done,"Thunder, little rain",A great talker and a poor doer.
+1539,震古铄今,Earthshaking,Shocking the past and the present,be remembered for all time
+1540,青出于蓝，而胜于蓝,The pupil learns from and outdoes his teacher,The student surpasses the master,Stage-2 output (justification):
+1541,青云直上,Rapid advancement in one's career,Clouds go straight up,Rise to the top
+1542,非驴非马,Neither ass nor horse,Not a donkey not a horse,A mixed-up mess
+1543,靠山吃山，靠水吃水,Make use of local resources,"Relying on the mountains to eat the mountains, relying on the water to drink water",To live off the land
+1544,靡靡之音,Decadent music,The Voice of Extravagance,"Soft, seductive music"
+1545,面面相觑,Look at each other at a loss about what to do,Face to face,Stage-2 output (justification):
+1546,面目可憎，语言无味,Repulsive in appearance and flavorless in verbal expression,"Disgusting face, tasteless language",A face that repels and speech that bores
+1547,革故鼎新,Discard the old ways of life in favor of the new,Revolutionizing the old,discard the old and establish the new.
+1548,鞠躬尽瘁，死而后已,Give one's all till one's heart stops beating,Bow down and die,Work tirelessly until the end of one's days.
+1549,韬光养晦,Hide one's capacities and bide one's time,Keep a low profile,To keep one's talents hidden and avoid showing off.
+1550,响彻云霄,Resound (or reverberate) through the skies,Resounding through the sky,Echoes through the clouds
+1551,响遏行云,(of singing) reverberate through the skies,Sound stop cloud,Ringing bells can stop the clouds from moving.
+1552,项背相望,(walk) one after another in close succession,Facing each other,look over one's shoulder
+1553,项庄舞剑，意在沛公,Act with a hidden motive,"Xiang Zhuang dances the sword, aiming at Pei Gong","A man dances with a sword, intending to kill the leader of the army."
+1554,顺藤摸瓜,Track down somebody or something by following clues,Follow the vine,Other: <select the other relevant English idiom>
+1555,顺理成章,Speak (or write) logically,It's a matter of course,A piece of cake
+1556,顺手牵羊,Take something that doesn't belong to oneself,Take the sheep by the hand,Take advantage of the opportunity
+1557,顺水推舟,Do something without extra effort,Push the boat,Go with the flow
+1558,顺水人情,A favor done at little cost to oneself,Shun Shui Favor,To do something for someone else without expecting anything in return.
+1559,颂古非今,Eulogize the past at the expense of the present,Praise the past,To speak highly of the past and disparage the present.
+1560,顽石点头,(be so persuasive as to make) the insensate stones nod in agreement,Stubborn stone nod,A person who is stubborn and finally agrees to something.
+1561,头痛医头，脚痛医脚,Treat symptoms but not the disease,"Headache doctor head, foot pain doctor foot","Treat the symptom, not the cause"
+1562,颠倒黑白,Prove that black is white and white black,Upside down black and white,Mislead
+1563,顾名思义,As the term suggests,As the name suggests,"By the name, I know what it is."
+1564,顾前不顾后,Act rashly,Regardless of the future,Look before you leap
+1565,顾全大局,Take the interests of the whole into account,Take the overall situation into consideration,To keep the big picture in mind
+1566,顾此失彼,Be put in a double squeeze,Take care of one thing and lose another,lose sight of the big picture
+1567,顾影自怜,Look at one's reflection and admire oneself,Gu Ying feels sorry for herself,wallow in self-pity
+1568,风靡一时,Be popular for a time,All the rage,A craze
+1569,风烛残年,Old and ailing like a candle guttering in the candlestick,Wind candle waning years,On the verge of death
+1570,风声鹤唳,In a state of fear and turmoil,The sound of the wind,A person's paranoia is heightened when they hear a false alarm.
+1571,风餐露宿,Brave wind and dew,Wind meal camping,To sleep rough
+1572,风雨同舟,Stand together through thick and thin,Through thick and thin,Share the same boat
+1573,风云人物,A celebrity,Man of the Year,A big fish in a small pond
+1574,飞针走线,Do needlework very skilfully,Flying needle routing,fly by the seat of one's pants
+1575,飞沙走石,A sandstorm,Flying sand and stone,A storm that is so fierce that it can blow away even the strongest of trees.
+1576,飞蛾投火,A seeking one's own doom,Moth to fire,Run towards the fire
+1577,食而不化,Eat without digesting - read without understanding,Eat without melting,Eating but not digesting
+1578,饥寒交迫,Live in hunger and cold,Suffer hunger and cold,starving and freezing
+1579,饮恨而终,Die with a grievance in one's heart,End with hatred,To die with regret or bitterness.
+1580,饮鸩止渴,A remedy worse than what it is supposed to cure,Drink poison to quench thirst,To take a short-term solution that will ultimately lead to more problems.
+1581,饭来张口，衣来伸手,Be waited on hand and foot,"Open your mouth with food, stretch out your hand with clothes",A man or woman who is completely dependent on others for their needs.
+1582,饱汉不知饿汉饥,The well-fed don't know how the starving suffer,A full man does not know a hungry man is hungry,Stage-2 output (justification):
+1583,饱食终日，无所用心,Eat one's fill and idle about all day long,Eating all day long,Eating and drinking all day
+1584,饱以老拳,Hit one full in the face,Full of old fists,Be prepared for anything
+1585,养虎遗患,Appeasement brings disaster,The legacy of raising tigers,Let sleeping dogs lie
+1586,余勇可贾,Still having plenty of fight left in one,Yu Yongke Jia,The remaining strength can be bought.
+1587,首鼠两端,Shilly-shally,Both ends of the first mouse,flip-flopper
+1588,马到成功,Gain an immediate victory,Horse to success,Arrive and succeed immediately.
+1589,马革裹尸,Die on the battle field,Die on the battlefield,To be buried in a horse's hide.
+1590,骑虎难下,Have no way to back down,It's hard to ride a tiger,It's hard to quit something once you've started.
+1591,腾蛟起凤,A mounting dragon and a soaring phoenix - a rising man,Teng Jiao Qi Feng,Rise to Fame
+1592,骄兵必败,Pride goes before a fall (destruction),Pride will be defeated,A cocky army is sure to lose.
+1593,驴头不对马嘴,Irrelevant,Donkey's head is wrong,A bad fit
+1594,骨鲠在喉,Have an opinion one cannot suppress,Bone stuck in throat,A thorn in one's side
+1595,高不成，低不就,Can't have one's heart's desire but won't stoop for less,High or low,Not up to par
+1596,魂飞魄散,Frightened out of one's senses (or wits),Soul flies away,"To be in a state of extreme fear or terror, causing one's soul to leave their body."
+1597,鱼龙混杂,Good and bad people mixed together,A mixed bag,A mixed bag
+1598,鱼游釜中,In imminent peril (danger),Fish in the cauldron,The fish is trapped.
+1599,鳞次栉比,"In orderly rows, like scales on a fish or the teeth of a comb",Row upon row,"like fish scales and roof tiles, arranged closely together"
+1600,鸟尽弓藏,Cast aside the bow once the birds are gone,All the birds are hidden,The arrow is no longer needed.
+1601,鸣锣开道,Pave (clear or smooth) the way for,Ring the gong to clear the way,To make a grand entrance with a flourish.
+1602,鸣鼓而攻,Sound the call for attack,Beat the drum,<select the most relevant English idiom>
+1603,鹊巢鸠占,"One person seizes another's place, land, etc",Magpie nest dove account,A crow taking over a sparrow's nest.
+1604,鹑衣百结,In rags,Quail coat knot,Other: <select the other relevant English idiom>
+1605,鹤发童颜,Healthy in old age,He Fa Tong Yan,Aging gracefully
+1606,鹤立鸡群,Stand head and shoulders above others,Stand out from the crowd,stand out like a sore thumb
+1607,鸡鸣狗盗,Small tricks,Crowing and dog thieves,A pack of thieves
+1608,鸡零狗碎,In bits and pieces,Chicken bits and pieces,A drop in the bucket
+1609,鸡犬不宁,Greatly upset like a poultry yard visited by a fox,The dog is restless,A state of chaos or confusion.
+1610,鸡犬不惊,Complete peace and quiet,Chickens and dogs are not surprised,Peaceful as a mouse
+1611,鹬蚌相争，渔翁得利,It's the third party that benefits from the tussle,"Two dogs fight, play off","A cat and a mouse play a game, and the mouse gets the cat."
+1612,鹿死谁手,Who will win the prize,Who will kill the deer,The winner takes all
+1613,黄粱一梦,Pipe dream,A dream of Huangliang,A pipe dream
+1614,黑云压城城欲摧,The city might crumble under the mass of dark clouds,Dark clouds overwhelm the city,"The clouds are gathering, and the sky is darkening."
+1615,黔驴技穷,At one's wits' end,Guizhou donkey is poor,A clever trick has been exhausted.
+1616,点金成铁,Turn gold into iron,Touch gold into iron,Turn gold into iron
+1617,点石成金,Touch a stone and turn it into gold,Turn stone into gold,To turn a simple thing into something valuable.
+1618,鼎足之势,A situation dominated by three powerful rivals,The momentum of the tripod,Three heads are better than one
+1619,鼠窃狗盗,Play petty tricks on the sly,Rat and dog thief,A dog's life
+1620,齐头并进,Advance side by side,Go hand in hand,Move forward together
+1621,龙潭虎穴,Dangerous places,Longtan Tiger Cave,To face a dangerous or difficult situation.
+1622,龙腾虎跃,A scene of bustling activity,Dragon and Tiger Leap,"To be full of energy and enthusiasm, like a dragon and tiger jumping."
